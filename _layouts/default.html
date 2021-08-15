@@ -48,7 +48,7 @@
                 {% for p in items %}
                     {% if p.url == "/" or p.url == "/support.html" %}
                     {% else %}
-                        <li class="tag-h1"><a href="{{ p.url | remove: '.html' }}">{{ p.title | capitalize }}</a></li>
+                        <li class="tag-h1"><a href="{{ p.url | remove: '.html' }}">{{ p.title }}</a></li>
                     {% endif %}
                 {% endfor %}
             {% endif %}
@@ -60,7 +60,7 @@
                 <li class="tag-h1"><a href="/{{ name }}">{{ name | capitalize }}</a></li>
                 {% assign items = cat.items | sort: 'url' %}
                 {% for p in items %}
-                    <li class="tag-h2"><a href="{{ p.url | remove: '.html' }}">{{ p.title | capitalize }}</a></li>
+                    <li class="tag-h2"><a href="{{ p.url | remove: '.html' }}">{{ p.title }}</a></li>
                 {% endfor %}
             {% endif %}
         {% endfor %}
