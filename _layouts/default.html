@@ -19,7 +19,7 @@
 
       <header>
         <!--<h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>-->
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <a href="/"><h1>{{ site.title | default: site.github.repository_name }}</h1></a>
         <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
       </header>
 
@@ -37,10 +37,35 @@
           </div>
         {% endif %}
       </div>--><!-- end banner -->
-
+ 
     <div class="wrapper">
       <nav>
-        <ul></ul>
+        <ul>
+        {% assign categories = site.pages | group_by: 'category' | sort: 'name' %}
+        {% for cat in categories %}
+            {% if cat.name == "" %}
+                {% assign items = cat.items | sort: 'title' %}
+                {% for p in items %}
+                    {% if p.exclude_from_sidebar %}
+                    {% else %}
+                        <li class="tag-h1"><a href="{{ p.path }}">{{ p.title | capitalize }}</a></li>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+        {% for cat in categories %}
+            {% if cat.name != "" %}
+                <li class="tag-h1"><strong>{{ cat.name | capitalize }}<strong></li>
+                {% assign items = cat.items | sort: 'title' %}
+                {% for p in items %}
+                    {% if p.exclude_from_sidebar %}
+                    {% else %}
+                        <li class="tag-h2"><a href="{{ p.path }}">{{ p.title | capitalize }}</a></li>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+        </ul>
       </nav>
       <section>
         {{ content }}
