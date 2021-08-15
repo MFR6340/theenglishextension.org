@@ -44,24 +44,22 @@
         {% assign categories = site.pages | group_by: 'category' | sort: 'name' %}
         {% for cat in categories %}
             {% if cat.name == "" %}
-                {% assign items = cat.items | sort: 'title' %}
+                {% assign items = cat.items | sort: 'url' %}
                 {% for p in items %}
-                    {% if p.exclude_from_sidebar %}
+                    {% if p.url == "/" %}
                     {% else %}
-                        <li class="tag-h1"><a href="{{ p.id }}">{{ p.title | capitalize }}</a></li>
+                        <li class="tag-h1"><a href="{{ p.url | remove: ".html" }}">{{ p.title | capitalize }}</a></li>
                     {% endif %}
                 {% endfor %}
+                <br>
             {% endif %}
         {% endfor %}
         {% for cat in categories %}
             {% if cat.name != "" %}
-                <li class="tag-h1"><strong>{{ cat.name | capitalize }}<strong></li>
-                {% assign items = cat.items | sort: 'title' %}
+                <li class="tag-h1"><a href="{{ cat.name }}">{{ cat.name | capitalize }}</a></li>
+                {% assign items = cat.items | sort: 'url' %}
                 {% for p in items %}
-                    {% if p.exclude_from_sidebar %}
-                    {% else %}
-                        <li class="tag-h2"><a href="{{ p.path }}">{{ p.title | capitalize }}</a></li>
-                    {% endif %}
+                    <li class="tag-h2"><a href="{{ p.url | remove: ".html" }}">{{ p.title | capitalize }}</a></li>
                 {% endfor %}
             {% endif %}
         {% endfor %}
