@@ -1,3 +1,7 @@
+---
+exclude_from_sidebar: true
+---
+
 # home
 
 ##Welcome to The English Extension Organization! 
