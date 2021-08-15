@@ -16,7 +16,7 @@ Theresa lives in Rotkreuz, ZG with her husband and 2 children.  She holds a BEd,
 Paula holds a BA as a QTS British Primary teacher. She currently teaches English to native speakers in the Birmensdorf(ZH) schools. She has been a private English tutor and has taught both in the UK and International school, Wallisellen. She lives in Birmensdorf (ZH) with her husband and 3 children.
 
 **Sylvia Nadig**
-
+Sylvia is a lecturer at the Pedagogische Hochschule in Kanton Zug.  
 
 
 **Megan Farnsworth Rabil**
@@ -34,5 +34,5 @@ Megan lives in Baar (ZG) with her husband and 5 children.  She has a M.Ed. Langu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTE4MjcxMF19
+eyJoaXN0b3J5IjpbMzU3MjY1NDgyXX0=
 -->
