@@ -1,22 +1,24 @@
 # Grade level Support
-We provide supplemental booklets to be used in the classroom in conjunction with the Klett English Program.  
-We also have a 
+We provide supplemental booklets to be used in the classroom in conjunction with the Klett English Program currently used in 12 Kantons throughout Switzerland.
 
-Primary School
+
+## Primary School
 [Third Grade, Primary School](/support/primary-3rd)  
-[Fourth Grade, Primary School](/support/primary-4th)
+[Fourth Grade, Primary School](/support/primary-4th)  
+[Fifth Grade, Primary School](/support/primary-5th)  
+[Sixth Grade, Primary School](/support/primary-6th)
 
-## Fifth Grade, Primary School
+## Oberstufe
 
-## Sixth Grade, Primary School
+[1st Year Oberstufe](/support/oberstufe-1)
+[2nd Year Oberstufe](/support/oberstufe-2)
+[3rd Year Oberstufe](/support/oberstufe-3)
 
-## 1. Oberstufe
-## 2. Oberstufe
-## 3. Oberstufe
 
 ## English First Exams 
+[English First](/support/english-first-exam)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1OTgwMjM3XX0=
+eyJoaXN0b3J5IjpbMTcwMDk3Nzk2NV19
 -->
