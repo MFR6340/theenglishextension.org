@@ -1,8 +1,3 @@
----
-category: support
-role: parent
----
-
 # Grade level Support
 We provide supplemental booklets to be used in the classroom in conjunction with the Klett English Program.  
 We also have a 
@@ -22,5 +17,5 @@ We also have a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM2NzI1NF19
+eyJoaXN0b3J5IjpbMjA5NzkzNzUxM119
 -->
