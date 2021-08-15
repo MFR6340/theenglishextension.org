@@ -41,25 +41,26 @@
     <div class="wrapper">
       <nav>
         <ul>
-        {% assign categories = site.pages | group_by: 'category' | sort: 'name' %}
+        {% assign categories = site.pages | group_by: 'dir' | sort: 'name' %}
         {% for cat in categories %}
-            {% if cat.name == "" %}
+            {% if cat.name == "/" and cat.name != "/assets/css/" %}
                 {% assign items = cat.items | sort: 'url' %}
                 {% for p in items %}
-                    {% if p.url == "/" %}
+                    {% if p.url == "/" or p.url == "/support.html" %}
                     {% else %}
-                        <li class="tag-h1"><a href="{{ p.url | remove: ".html" }}">{{ p.title | capitalize }}</a></li>
+                        <li class="tag-h1"><a href="{{ p.url | remove: '.html' }}">{{ p.title | capitalize }}</a></li>
                     {% endif %}
                 {% endfor %}
-                <br>
             {% endif %}
         {% endfor %}
         {% for cat in categories %}
-            {% if cat.name != "" %}
-                <li class="tag-h1"><a href="{{ cat.name }}">{{ cat.name | capitalize }}</a></li>
+            {% if cat.name != "/" and cat.name != "/assets/css/" %}
+                <br>
+                {% assign name = cat.name | remove: '/' %}
+                <li class="tag-h1"><a href="/{{ name }}">{{ name | capitalize }}</a></li>
                 {% assign items = cat.items | sort: 'url' %}
                 {% for p in items %}
-                    <li class="tag-h2"><a href="{{ p.url | remove: ".html" }}">{{ p.title | capitalize }}</a></li>
+                    <li class="tag-h2"><a href="{{ p.url | remove: '.html' }}">{{ p.title | capitalize }}</a></li>
                 {% endfor %}
             {% endif %}
         {% endfor %}
