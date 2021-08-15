@@ -48,7 +48,7 @@
                 {% for p in items %}
                     {% if p.exclude_from_sidebar %}
                     {% else %}
-                        <li class="tag-h1"><a href="{{ p.path }}">{{ p.title | capitalize }}</a></li>
+                        <li class="tag-h1"><a href="{{ p.id }}">{{ p.title | capitalize }}</a></li>
                     {% endif %}
                 {% endfor %}
             {% endif %}

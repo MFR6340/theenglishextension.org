@@ -1,7 +1,3 @@
----
-category: support
----
-
 # Third Grade, Primary School
 
 <!--stackedit_data:
