@@ -1,4 +1,4 @@
-# 1. Oberstufe
+# 1st Year Oberstufe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDM3MTA3M119
+eyJoaXN0b3J5IjpbODI2Mjg2MjU3XX0=
 -->
