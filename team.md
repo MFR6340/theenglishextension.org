@@ -1,6 +1,6 @@
 # Team Members
 
-**Stormy Berny**
+**Stormy Berney**
 
 
 
@@ -20,7 +20,7 @@ Paula holds a BA as a QTS British Primary teacher. She currently teaches English
 
 
 **Megan Farnsworth Rabil**
-Megan lives in Baar (ZG) with her husband and 5 children.  She has a M.Ed. Language and Literacy, Harvard, a M.Ed. in Elementary Education from UCLA, and a BA in Classical Studies.  She has taught primary school in California. She has also been an Education Officer for the Massachusetts Department of Education, Curriculum Coordinator, and an Education Policy Analyst in Washington DC. 
+Megan lives in Baar (ZG) with her husband and 5 children.  She has a M.Ed. Language and Literacy, Harvard, a M.Ed. in Elementary Education from UCLA, and a BA in Classical Studies.  She taught primary school and was a Curriculum Coordinator in California. She has also been an Education Officer for the Massachusetts Department of Education, and an Education Policy Analyst in Washington DC. 
 
 
 
@@ -34,5 +34,5 @@ Megan lives in Baar (ZG) with her husband and 5 children.  She has a M.Ed. Langu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc3MzEyMzJdfQ==
+eyJoaXN0b3J5IjpbLTI2MTE4MjcxMF19
 -->
