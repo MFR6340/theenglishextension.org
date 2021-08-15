@@ -3,7 +3,7 @@
 
 To receive copies of our booklets to be used in the classroom or for
  further information on tutoring or additional resources, please contact: 
-Stormy Berny at 
+Stormy Berney at 076 499 5071
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk1MTI3OTVdfQ==
+eyJoaXN0b3J5IjpbLTE2MzQ5MzI1NTRdfQ==
 -->
