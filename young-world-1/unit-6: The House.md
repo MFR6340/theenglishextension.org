@@ -1,4 +1,6 @@
-This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
+# Young World 1, Unit 6: The House
+
+This post contains affiliate links to books. If you make a purchase through these links, The English Extension Organization will earn a small commission, at no cost to you, which will be used to purchase additional English books for classrooms.
 
 ## Interesting book
 
@@ -13,5 +15,5 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ2MzkzMjBdfQ==
+eyJoaXN0b3J5IjpbNzc5MTA0OTM0XX0=
 -->
