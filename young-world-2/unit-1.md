@@ -2,7 +2,7 @@
 
 ## Interesting book
 
-<img src="https://link/to/image" widt
+<img src="https://link/to/image" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjY3MTk1OF19
+eyJoaXN0b3J5IjpbMTEyNjQ0MzUyOF19
 -->
