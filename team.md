@@ -7,7 +7,7 @@
 
 **Tina Hörning**
 
-Tina holds BA Early Childhood and Elementary Education from the University of Rhode Island.  She has worked in the local schools providing support for native English speakers.  In the United States, she taught Kindergarten 1st and 2nd Grades, and substituted in all primary school grades. She lives in Cham (ZG) with her husband and 3 children.  
+Tina holds a BA in Early Childhood and Elementary Education from the University of Rhode Island.  She has worked in the local Swiss schools providing support for native English speakers.  In the United States, she taught Kindergarten 1st and 2nd Grades, and substituted in all primary school grades. She lives in Cham (ZG) with her husband and 3 children.  
 
 
 **Theresa Jäger**
@@ -42,5 +42,5 @@ Megan lives in Baar (ZG) with her husband and 5 children.  She has a M.Ed. Langu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0NjM1ODU3XX0=
+eyJoaXN0b3J5IjpbMjcwNTI1NzU4LDg3NDYzNTg1N119
 -->
