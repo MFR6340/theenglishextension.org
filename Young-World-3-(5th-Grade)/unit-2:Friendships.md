@@ -14,7 +14,7 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 
 ## Interesting book
 
-<img src="https://i.imgur.com/9byDLFn.png" width="25%" />
+<img src="https://imgur.com/inJU72d" width="25%" />
 
 A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn.
 
@@ -47,6 +47,7 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjA5NTYyNjAsLTE0ODA3MjU1OTIsLT
-EzNjc5MDE1MzgsMTA1MjIyNDY0NiwxMjI2MTUzODE5XX0=
+eyJoaXN0b3J5IjpbMTQxODI0MTg4NywtMjA2MDk1NjI2MCwtMT
+Q4MDcyNTU5MiwtMTM2NzkwMTUzOCwxMDUyMjI0NjQ2LDEyMjYx
+NTM4MTldfQ==
 -->
