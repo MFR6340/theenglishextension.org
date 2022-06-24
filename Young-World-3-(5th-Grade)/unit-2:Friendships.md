@@ -26,7 +26,10 @@ One is never too old to read these classic tales of a hungry bear and his friend
 
 A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn.
 
-<a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel=”nofollow”> Buy on BookDepository</a>  ## Interesting book
+<a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel=”nofollow”> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001523331" rel=”nofollow”>Buy on Orell Füssli</a>
+
+## Interesting book
 
 <img src="https://i.imgur.com/9byDLFn.png" width="25%" />
 
@@ -47,7 +50,8 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODg5MDU1MCwxMTI4MDE1MzM1LDE0MT
-gyNDE4ODcsLTIwNjA5NTYyNjAsLTE0ODA3MjU1OTIsLTEzNjc5
-MDE1MzgsMTA1MjIyNDY0NiwxMjI2MTUzODE5XX0=
+eyJoaXN0b3J5IjpbLTIwNzk4ODkwODAsLTY4ODg5MDU1MCwxMT
+I4MDE1MzM1LDE0MTgyNDE4ODcsLTIwNjA5NTYyNjAsLTE0ODA3
+MjU1OTIsLTEzNjc5MDE1MzgsMTA1MjIyNDY0NiwxMjI2MTUzOD
+E5XX0=
 -->
