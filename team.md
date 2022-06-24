@@ -20,15 +20,12 @@ Paula holds a BA as a QTS British Primary teacher. She currently teaches English
 
 **Sylvia Nadig**
 
-Sylvia is a lecturer at the Pedagogische Hochschule in Kanton Zug where she focuses on multilingual didactics and foreign language learning.  She has been a visiting scholar at the Deakin University in Melbourne, Australia, and at the University of Washington in Seattle.
+Sylvia is a lecturer at the Pedagogische Hochschule in Kanton Zug where she focuses on multilingual didactics and foreign language learning.  She has been a visiting scholar at the Deakin University in Melbourne, Australia and at the University of Washington in Seattle.
 
-**Erin Marie Nordquist** 
-
-Erin is a California credentialed secondary English teacher with a Master's degree in Education. She taught in middle school where she helped develop a state-standards-based curriculum with a focus on student engagement, rigor, and learning differentiation. She also has experience leading an honors English program. 
 
 **Megan Farnsworth Rabil**
 
-Megan lives in Baar (ZG) with her husband and 5 children.  She has a M.Ed. Language and Literacy, Harvard, a M.Ed. in Elementary Education from UCLA, and a BA in Classical Studies.  She taught primary school and was a Curriculum Coordinator in California. She has also been an Education Officer for the Massachusetts Department of Education, and an Education Policy Analyst in Washington DC. 
+Megan lives in Baar (ZG) with her husband and 5 children.  She has a M.Ed. Language and Literacy, Harvard, a M.Ed. in Elementary Education from UCLA, and a BA in Classical Studies.  She taught primary school and was a Curriculum Coordinator in Burbank, California. She has also been an Education Officer for the Massachusetts Department of Education, and an Education Policy Analyst in Washington DC. 
 
 
 
@@ -42,5 +39,5 @@ Megan lives in Baar (ZG) with her husband and 5 children.  She has a M.Ed. Langu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNTI1NzU4LDg3NDYzNTg1N119
+eyJoaXN0b3J5IjpbMTIxMjAwOTQ3NCw4NzQ2MzU4NTddfQ==
 -->
