@@ -9,10 +9,6 @@ Theresa Jäger at 077 433 2153
 ## Oberstufe
 Stormy Berney at 076 499 5071
 
-| a | b |
-|--|--|
-| c | d |
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQ5MTM1NTQsMTUyMjQxNzUzOF19
+eyJoaXN0b3J5IjpbNDkyOTkxNzkyLDE1MjI0MTc1MzhdfQ==
 -->
