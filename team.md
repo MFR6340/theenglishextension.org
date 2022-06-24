@@ -1,11 +1,11 @@
 # Team Members
 
-**Stormy Berney**
+## Stormy Berney
 Stormy is currently the English Mentor for the Zug public primary schools. Her teaching career spans 25 years and includes English, early childhood development, music appreciation, golf and American accent adoption. She has taught in Paris, Geneva and Zug. She is a published writer and was Managing Editor for _The Currier_ in Geneva and _Connect_ magazine in Zug. She holds a MA in Career Counseling and a B.Sc. in Psychology, early childhood development focus.
 
 
-**Tina Hörning**
-https://imgur.com/Mob0RjR
+## Tina Hörning
+<img src="https://i.imgur.com/Mob0RjR.png" width="25%" />
 
 Tina holds a BA in Early Childhood and Elementary Education from the University of Rhode Island.  She has worked in the local Swiss schools providing support for native English speakers.  In the United States, she taught Kindergarten 1st and 2nd Grades, and substituted in all primary school grades. She lives in Cham (ZG) with her husband and 3 children.  
 
@@ -35,6 +35,6 @@ Megan lives in Baar (ZG) with her husband and 5 children.  She has a M.Ed. Langu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg2Mzc2NzcsLTE3OTkyNjc1MzAsOD
-c0NjM1ODU3XX0=
+eyJoaXN0b3J5IjpbLTM5NDQxNTIwMSwtMTc5OTI2NzUzMCw4Nz
+Q2MzU4NTddfQ==
 -->
