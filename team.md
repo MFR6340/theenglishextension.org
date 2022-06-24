@@ -5,6 +5,8 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 **Tina Hörning**
+https://imgur.com/Mob0RjR
+
 Tina holds a BA in Early Childhood and Elementary Education from the University of Rhode Island.  She has worked in the local Swiss schools providing support for native English speakers.  In the United States, she taught Kindergarten 1st and 2nd Grades, and substituted in all primary school grades. She lives in Cham (ZG) with her husband and 3 children.  
 
 
@@ -33,5 +35,6 @@ Megan lives in Baar (ZG) with her husband and 5 children.  She has a M.Ed. Langu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTkyNjc1MzAsODc0NjM1ODU3XX0=
+eyJoaXN0b3J5IjpbLTE2NTg2Mzc2NzcsLTE3OTkyNjc1MzAsOD
+c0NjM1ODU3XX0=
 -->
