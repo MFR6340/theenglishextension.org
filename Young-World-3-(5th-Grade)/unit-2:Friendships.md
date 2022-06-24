@@ -6,10 +6,10 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 <img src="https://i.imgur.com/wMmaATw.png" width="25%" />
 
-A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn.
+Mr. and Mrs. Brown find a bear from Deepest Darkest Peru at the train station. Their home becomes more lively with his adventures.
 
-<a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel=”nofollow”> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001523331" rel=”nofollow”>Buy on Orell Füssli</a>
+<a href="[https://www.bookdepository.com/Bear-Called-Paddington-Michael-Bond/9780007174164?ref=grid-view&qid=1654274489374&sr=1-1]" rel=”nofollow”> Buy on BookDepository</a>  
+<a href="[https://www.orellfuessli.ch/shop/home/artikeldetails/A1036138534](https://www.orellfuessli.ch/shop/home/artikeldetails/A1036138534)" rel=”nofollow”>Buy on Orell Füssli</a>
 
 
 ## Interesting book
@@ -47,5 +47,6 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MjIyNDY0NiwxMjI2MTUzODE5XX0=
+eyJoaXN0b3J5IjpbMTAzMjY3NjYzNywxMDUyMjI0NjQ2LDEyMj
+YxNTM4MTldfQ==
 -->
