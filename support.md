@@ -19,7 +19,6 @@ We provide supplemental booklets to be used in the classroom in conjunction with
 
 [English First](/support/english-first-exam)
 
-[Link to Cont](/contact)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzc1MDc4LC01MzUwNzQ2MjldfQ==
+eyJoaXN0b3J5IjpbMTAzNDE5NzQ1MywtNTM1MDc0NjI5XX0=
 -->
