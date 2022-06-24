@@ -12,9 +12,8 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036138534" rel=”nofollow”>Buy on Orell Füssli</a>
 
 
-## Interesting book
-
-<img src="https://imgur.com/inJU72d" width="25%" />
+## Winnie-the-Pooh
+<img src="https://i.imgur.com/inJU72d.png" width="25%" />
 
 A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn.
 
@@ -47,7 +46,7 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODI0MTg4NywtMjA2MDk1NjI2MCwtMT
-Q4MDcyNTU5MiwtMTM2NzkwMTUzOCwxMDUyMjI0NjQ2LDEyMjYx
-NTM4MTldfQ==
+eyJoaXN0b3J5IjpbLTQyMzYwMDMwMywxNDE4MjQxODg3LC0yMD
+YwOTU2MjYwLC0xNDgwNzI1NTkyLC0xMzY3OTAxNTM4LDEwNTIy
+MjQ2NDYsMTIyNjE1MzgxOV19
 -->
