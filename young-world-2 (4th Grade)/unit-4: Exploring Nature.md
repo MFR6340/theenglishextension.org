@@ -1,4 +1,4 @@
-# Young World 2, Unit 4, Exploring Nature
+# Young World 2, Unit 4: Exploring Nature
 
 This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
 
@@ -15,5 +15,5 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzU5OTYwNl19
+eyJoaXN0b3J5IjpbMTI0NDU2MDQwOF19
 -->
