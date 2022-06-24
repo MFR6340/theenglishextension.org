@@ -18,7 +18,7 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 One is never too old to read these classic tales of a hungry bear and his friends in the forest. (Lexile: 790L)
 
 <a href="https://www.bookdepository.com/Winnie-Pooh-Puffin-Modern-Classics-Milne/9780142404676?ref=grid-view&qid=1654274602318&sr=1-2" rel=”nofollow”> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039078115" rel=”nofollow”>Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039078115" rel="nofollow">Buy on Orell Füssli</a>
 
 
 ## The Yearling
@@ -51,8 +51,8 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTExNTQwLC02ODg4OTA1NTAsMTEyOD
-AxNTMzNSwxNDE4MjQxODg3LC0yMDYwOTU2MjYwLC0xNDgwNzI1
-NTkyLC0xMzY3OTAxNTM4LDEwNTIyMjQ2NDYsMTIyNjE1MzgxOV
-19
+eyJoaXN0b3J5IjpbLTE5NTczMDMwMzYsMTI4MTExNTQwLC02OD
+g4OTA1NTAsMTEyODAxNTMzNSwxNDE4MjQxODg3LC0yMDYwOTU2
+MjYwLC0xNDgwNzI1NTkyLC0xMzY3OTAxNTM4LDEwNTIyMjQ2ND
+YsMTIyNjE1MzgxOV19
 -->
