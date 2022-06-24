@@ -15,7 +15,7 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 ## Winnie-the-Pooh
 <img src="https://i.imgur.com/inJU72d.png" width="25%" />
 
-A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn.
+One is never too old to read these classic tales of a hungry bear and his friends in the forest.
 
 <a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel=”nofollow”> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001523331" rel=”nofollow”>Buy on Orell Füssli</a>
@@ -46,7 +46,7 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzYwMDMwMywxNDE4MjQxODg3LC0yMD
+eyJoaXN0b3J5IjpbLTg4Mjk5MDkyMywxNDE4MjQxODg3LC0yMD
 YwOTU2MjYwLC0xNDgwNzI1NTkyLC0xMzY3OTAxNTM4LDEwNTIy
 MjQ2NDYsMTIyNjE1MzgxOV19
 -->
