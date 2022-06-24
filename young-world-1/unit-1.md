@@ -1,6 +1,6 @@
 # Young World 1, Unit 1: You and Me
 
-This post contains bookinks. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.
+This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
 
 ## Interesting book
 
@@ -15,5 +15,5 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjgxMTE2NDVdfQ==
+eyJoaXN0b3J5IjpbMjEyNTM4NjcwNV19
 -->
