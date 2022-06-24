@@ -6,7 +6,7 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 <img src="https://i.imgur.com/wMmaATw.png" width="25%" />
 
-Mr. and Mrs. Brown find a bear from Deepest Darkest Peru at the train station. Their home becomes more lively with his adventures.
+Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station. Their home becomes more lively with his adventures.
 
 <a href="https://www.bookdepository.com/Bear-Called-Paddington-Michael-Bond/9780007174164?ref=grid-view&qid=1654274489374&sr=1-1" rel=”nofollow”> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036138534" rel=”nofollow”>Buy on Orell Füssli</a>
@@ -47,6 +47,6 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc5MDE1MzgsMTA1MjIyNDY0NiwxMj
-I2MTUzODE5XX0=
+eyJoaXN0b3J5IjpbLTE1MzIzMzg4NzgsLTEzNjc5MDE1MzgsMT
+A1MjIyNDY0NiwxMjI2MTUzODE5XX0=
 -->
