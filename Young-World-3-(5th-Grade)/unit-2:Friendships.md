@@ -4,7 +4,7 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 ## A Bear Called Paddington
 
-<img src="https://i.imgur.com/9byDLFn.png" width="25%" />
+<img src="https://i.imgur.com/wMmaATw.png" width="25%" />
 
 A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn.
 
@@ -47,5 +47,5 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MTQwMjgzNiwxMjI2MTUzODE5XX0=
+eyJoaXN0b3J5IjpbMTA1MjIyNDY0NiwxMjI2MTUzODE5XX0=
 -->
