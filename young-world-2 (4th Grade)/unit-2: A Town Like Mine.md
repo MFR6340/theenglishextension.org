@@ -8,7 +8,7 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn.
 
-<a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel=”nofollow”> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel="”nofollow”> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001523331" rel=”nofollow”>Buy on Orell Füssli</a>
 
 
@@ -17,5 +17,5 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTAyMTc5Ml19
+eyJoaXN0b3J5IjpbLTE0NDM1Mzc5NThdfQ==
 -->
