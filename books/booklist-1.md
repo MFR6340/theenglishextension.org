@@ -1,8 +1,4 @@
 
-|  |  |
-|--|--|
-|  |  |
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyMDgzNTMyXX0=
+eyJoaXN0b3J5IjpbLTIwODg3NDY2MTJdfQ==
 -->
