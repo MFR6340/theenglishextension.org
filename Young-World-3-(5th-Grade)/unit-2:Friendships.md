@@ -34,8 +34,6 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 <img src="https://i.imgur.com/9byDLFn.png" width="25%" />
 
-
-
 A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn.
 
 <a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
@@ -47,7 +45,7 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTU3Mzk1NiwtMTk1NzMwMzAzNiwxMj
+eyJoaXN0b3J5IjpbMTMwNTU1OTkxMiwtMTk1NzMwMzAzNiwxMj
 gxMTE1NDAsLTY4ODg5MDU1MCwxMTI4MDE1MzM1LDE0MTgyNDE4
 ODcsLTIwNjA5NTYyNjAsLTE0ODA3MjU1OTIsLTEzNjc5MDE1Mz
 gsMTA1MjIyNDY0NiwxMjI2MTUzODE5XX0=
