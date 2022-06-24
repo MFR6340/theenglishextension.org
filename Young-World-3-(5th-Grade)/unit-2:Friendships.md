@@ -24,7 +24,7 @@ One is never too old to read these classic tales of a hungry bear and his friend
 ## The Yearling
 <img src="https://i.imgur.com/9byDLFn.png" width="25%" />
 
-A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn.
+A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn. (Lexile 750L)
 
 <a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel=”nofollow”> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001523331" rel=”nofollow”>Buy on Orell Füssli</a>
@@ -51,8 +51,8 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjk1NjY1MDIsLTY4ODg5MDU1MCwxMT
-I4MDE1MzM1LDE0MTgyNDE4ODcsLTIwNjA5NTYyNjAsLTE0ODA3
-MjU1OTIsLTEzNjc5MDE1MzgsMTA1MjIyNDY0NiwxMjI2MTUzOD
-E5XX0=
+eyJoaXN0b3J5IjpbMTI4MTExNTQwLC02ODg4OTA1NTAsMTEyOD
+AxNTMzNSwxNDE4MjQxODg3LC0yMDYwOTU2MjYwLC0xNDgwNzI1
+NTkyLC0xMzY3OTAxNTM4LDEwNTIyMjQ2NDYsMTIyNjE1MzgxOV
+19
 -->
