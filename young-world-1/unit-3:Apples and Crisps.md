@@ -34,7 +34,7 @@ Three hungry soldiers convince an unwilling town to make them soup. Based on a E
 
 <img src="https://imgur.com/6jRsXaK.png" width="25%"  />
 
-Explores the cuisine from 14 different countries discussing the foods the eat and how they prepare and eat it.  (Lexile 1100L)
+Explores the cuisine from 14 different countries discussing the foods they eat and how they prepare and eat it.  (Lexile 1100L)
 
 
 <a href="https://www.bookdepository.com/Whats-on-Your-Plate-Whitney-Stewart/9781454926726?ref=grid-view&qid=1656000036768&sr=1-1"> Buy on BookDepository</a>  
@@ -47,7 +47,7 @@ Explores the cuisine from 14 different countries discussing the foods the eat an
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MzgzNTM5LDE4OTA1NzY2ODAsLTE5ND
-ExODk1LC0zODUwMDMyNDYsMTg4ODQ4MDA3MCwxNzIyNzI0NjMz
-LDExODQxOTM2NjUsLTczMjkzMTk1Nl19
+eyJoaXN0b3J5IjpbLTE2MTAyNDA1OTQsMjI1MzgzNTM5LDE4OT
+A1NzY2ODAsLTE5NDExODk1LC0zODUwMDMyNDYsMTg4ODQ4MDA3
+MCwxNzIyNzI0NjMzLDExODQxOTM2NjUsLTczMjkzMTk1Nl19
 -->
