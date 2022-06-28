@@ -27,7 +27,7 @@ Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dak
 
 <img src="https://imgur.com/G7PcSRf.png" width="25%" />
 
- (Lexile AD810L)
+Weather in 17 different places around the world.   (Lexile AD810L)
 
 <a href="https://www.bookdepository.com/On-Same-Day-March-Marilyn-Singer/9780064435284?ref=grid-view&qid=1656001703242&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006302447" rel="nofollow">Buy on Orell Füssli</a>
@@ -39,7 +39,7 @@ Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dak
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTcwMTk5OCwxNzg0MDczODg1LDg5OT
-M1Nzc3OSwtNzcyMzI0NDA1LDEzMTUwMTA5MjgsMTMwNDY2MjI4
-OV19
+eyJoaXN0b3J5IjpbNzg1NTQ5MjYsMTc4NDA3Mzg4NSw4OTkzNT
+c3NzksLTc3MjMyNDQwNSwxMzE1MDEwOTI4LDEzMDQ2NjIyODld
+fQ==
 -->
