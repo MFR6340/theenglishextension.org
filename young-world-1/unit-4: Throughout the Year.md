@@ -33,13 +33,24 @@ Weather in 17 different places around the world from the poles to the equator.  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006302447" rel="nofollow">Buy on Orell Füssli</a>
 
 
+## The Long Winter, by Laura Ingalls Wilder
+Newbery Honor Award
+
+<img src="https://imgur.com/aEPHQ2g.png" width="25%" />
+
+Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dakota Territory is covered is snow up to the rooftops and food supplies run dangerously low.  The sixth book in the beloved "Little House" Series.  (Lexile 790L)
+
+<a href="https://www.bookdepository.com/Long-Winter-Laura-Ingalls-Wilder/9780064400060?ref=grid-view&qid=1656000948255&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036075756" rel="nofollow">Buy on Orell Füssli</a>
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDU1MTAxOCwxNzg0MDczODg1LDg5OT
-M1Nzc3OSwtNzcyMzI0NDA1LDEzMTUwMTA5MjgsMTMwNDY2MjI4
-OV19
+eyJoaXN0b3J5IjpbNTI0NjQ3NTIzLDE4OTA1NTEwMTgsMTc4ND
+A3Mzg4NSw4OTkzNTc3NzksLTc3MjMyNDQwNSwxMzE1MDEwOTI4
+LDEzMDQ2NjIyODldfQ==
 -->
