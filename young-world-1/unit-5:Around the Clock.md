@@ -2,7 +2,7 @@
 
 This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
 
-## The Happy Hollisters and the Cuckoo Clock Mystery, by Jerry West
+## The 13 Clocks, by James Thurber
 
 <img src="https://imgur.com/7L5Xm9p.png" width="25%"  />
 
@@ -28,6 +28,6 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjkwNDQ3OSwtMTU4OTQ5MDc0NSwxOD
-g5Mzc3MjYzLDExMDM1MTAxOTNdfQ==
+eyJoaXN0b3J5IjpbLTEyOTc1Nzk4MjcsLTE1ODk0OTA3NDUsMT
+g4OTM3NzI2MywxMTAzNTEwMTkzXX0=
 -->
