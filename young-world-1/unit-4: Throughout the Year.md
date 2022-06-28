@@ -17,7 +17,7 @@ Newbery Honor Award
 
 <img src="https://imgur.com/aEPHQ2g.png" width="25%" />
 
-Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dakota Territory is covered is snow up to the rooftops and food supplies run dangerously low.  The sixth book in the beloved "Little House" Series.  
+Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dakota Territory is covered is snow up to the rooftops and food supplies run dangerously low.  The sixth book in the beloved "Little House" Series.  (Lexile: 790L)
 
 <a href="https://www.bookdepository.com/Long-Winter-Laura-Ingalls-Wilder/9780064400060?ref=grid-view&qid=1656000948255&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036075756" rel="nofollow">Buy on Orell Füssli</a>
@@ -26,6 +26,6 @@ Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dak
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjMyNDQwNSwxMzE1MDEwOTI4LDEzMD
-Q2NjIyODldfQ==
+eyJoaXN0b3J5IjpbODYxNjAwMjYxLC03NzIzMjQ0MDUsMTMxNT
+AxMDkyOCwxMzA0NjYyMjg5XX0=
 -->
