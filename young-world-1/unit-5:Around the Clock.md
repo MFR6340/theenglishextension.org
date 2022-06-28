@@ -10,7 +10,7 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 
 
 <a href="https://www.bookdepository.com/Happy-Hollisters-Cuckoo-Clock-Mystery-Jerry-West/9781949436570?ref=grid-view&qid=1656001073916&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053696364" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441194" rel="nofollow">Buy on Orell Füssli</a>
 
 ## The Happy Hollisters and the Cuckoo Clock Mystery, by Jerry West
 
@@ -28,6 +28,6 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjgxMTY0MywtMTU4OTQ5MDc0NSwxOD
-g5Mzc3MjYzLDExMDM1MTAxOTNdfQ==
+eyJoaXN0b3J5IjpbLTIwNDQ3ODI4MjYsMjExMjgxMTY0MywtMT
+U4OTQ5MDc0NSwxODg5Mzc3MjYzLDExMDM1MTAxOTNdfQ==
 -->
