@@ -15,10 +15,10 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 
 <img src="https://imgur.com/c8geq4Z.png" width="25%"  />
 
-Explores the cuisine from 14 different countries discussing the foods they eat and how they prepare and eat it.  (Lexile 800L)
+ (Lexile 1050L)
 
 <a href="https://www.bookdepository.com/Story-Clocks-Calendars-Betsy-Maestro/9780060589455?ref=grid-view&qid=1656422356224&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441194" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002848514" rel="nofollow">Buy on Orell Füssli</a>
 
 ## The Happy Hollisters and the Cuckoo Clock Mystery, by Jerry West
 
@@ -36,7 +36,7 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDY5MzkzMywtNzEyODI2MTI5LDEzMj
+eyJoaXN0b3J5IjpbLTE2MjI4MTIyMSwtNzEyODI2MTI5LDEzMj
 U5MDAxMjMsMjExMjgxMTY0MywtMTU4OTQ5MDc0NSwxODg5Mzc3
 MjYzLDExMDM1MTAxOTNdfQ==
 -->
