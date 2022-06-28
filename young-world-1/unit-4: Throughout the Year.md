@@ -2,9 +2,9 @@
 
 This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
 
-## The Flag Book, Lonely Planet Kids
+## Snowflake Bentley, by Jacqueline Briggs Martin
 
-<img src="https://imgur.com/7nRyPSf.png" width="25%" />
+<img src="https://imgur.com/CCxAtjQ.png" width="25%" />
 
 Provides information the colors, designs and shapes of the flags of countries of the world.
 
@@ -16,5 +16,5 @@ Provides information the colors, designs and shapes of the flags of countries of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzk4NTY0OTksMTMwNDY2MjI4OV19
+eyJoaXN0b3J5IjpbMTU3Njk3NTcyMCwxMzA0NjYyMjg5XX0=
 -->
