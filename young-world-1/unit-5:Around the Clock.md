@@ -11,6 +11,15 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 <a href="https://www.bookdepository.com/13-Clocks-James-Thurber/9780143110149?ref=grid-view&qid=1656416664054&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441194" rel="nofollow">Buy on Orell Füssli</a>
 
+## The 13 Clocks, by James Thurber
+
+<img src="https://imgur.com/Z6h3leZ.png" width="25%"  />
+
+Explores the cuisine from 14 different countries discussing the foods they eat and how they prepare and eat it.  (Lexile 800L)
+
+<a href="https://www.bookdepository.com/13-Clocks-James-Thurber/9780143110149?ref=grid-view&qid=1656416664054&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441194" rel="nofollow">Buy on Orell Füssli</a>
+
 ## The Happy Hollisters and the Cuckoo Clock Mystery, by Jerry West
 
 <img src="https://imgur.com/7L5Xm9p.png" width="25%"  />
@@ -27,6 +36,7 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTkwMDEyMywyMTEyODExNjQzLC0xNT
-g5NDkwNzQ1LDE4ODkzNzcyNjMsMTEwMzUxMDE5M119
+eyJoaXN0b3J5IjpbLTcxMjgyNjEyOSwxMzI1OTAwMTIzLDIxMT
+I4MTE2NDMsLTE1ODk0OTA3NDUsMTg4OTM3NzI2MywxMTAzNTEw
+MTkzXX0=
 -->
