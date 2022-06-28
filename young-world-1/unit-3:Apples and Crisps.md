@@ -27,15 +27,27 @@ In the town of Chewandswallow, the inhabitants don’t grow food, they get their
 
 Three hungry soldiers convince an unwilling town to make them soup. Based on a European folktale.  (Lexile 550L)
 
-<a href="https://www.bookdepository.com/Cloudy-with-Chance-of-Meatballs-Judith-Barrett/9780590303842" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003420295" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Stone-Soup-Marcia-Brown/9780689711039?ref=grid-view&qid=1654272719571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1028650164" rel="nofollow">Buy on Orell Füssli</a>
+
+## Apples, by Ken Robbins
+
+<img src="https://imgur.com/F78MUbL.png" width="25%"  />
+
+From seeds to harvest to eating, this book has beautiful hand-colored photos is a good foundation to talk more about how other foods are grown and what recipes they are in.  (Lexile 710L)
+
+
+<a href="https://www.bookdepository.com/Apples-Ken-Robbins/9781481401654?ref=grid-view&qid=1656344168590&sr=1-6"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1031141802">Buy on Orell Füssli</a>
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg3NzQzNDQsLTM4NTAwMzI0NiwxOD
-g4NDgwMDcwLDE3MjI3MjQ2MzMsMTE4NDE5MzY2NSwtNzMyOTMx
-OTU2XX0=
+eyJoaXN0b3J5IjpbLTE5NDExODk1LC0zODUwMDMyNDYsMTg4OD
+Q4MDA3MCwxNzIyNzI0NjMzLDExODQxOTM2NjUsLTczMjkzMTk1
+Nl19
 -->
