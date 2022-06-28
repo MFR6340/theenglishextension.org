@@ -4,7 +4,7 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 ## The Flag Book, Lonely Planet Kids
 
-<img src="https://i.imgur.com/9byDLFn.png" width="25%" />
+<img src="https://imgur.com/7nRyPSf.png" width="25%" />
 
 Provides information the colors, designs and shapes of the flags of countries of the world.
 
@@ -17,5 +17,5 @@ Provides information the colors, designs and shapes of the flags of countries of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTExNDU3NywtMTY4NjM5MDIwNV19
+eyJoaXN0b3J5IjpbOTUzODgxNDk5LC0xNjg2MzkwMjA1XX0=
 -->
