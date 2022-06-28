@@ -2,15 +2,15 @@
 This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
 
 
-## The Way We Work, David Mac
+## The Way We Work, David Macaulay
 
 <img src="https://i.imgur.com/9byDLFn.png" width="25%" />
 
 Provides information the colors, designs and shapes of the flags of countries of the world.
 
-<a href="https://www.bookdepository.com/Flag-Book-Lonely-Planet-Kids/9781788683098?ref=grid-view&qid=1656069226646&sr=1-1"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054007305">Buy on Orell Füssli</a>
+<a href="https://www.amazon.de/-/en/David-Macaulay/dp/0618233784/ref=sr_1_1?crid=3LWMZNEQ41GJC&keywords=Way+We+Work+Macaulay&qid=1656343477&sprefix=way+we+work+macaulay%2Caps%2C314&sr=8-1"> Buy on Amazon.de</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002858687">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUyMDI2OTRdfQ==
+eyJoaXN0b3J5IjpbNDUzOTg0MTMzXX0=
 -->
