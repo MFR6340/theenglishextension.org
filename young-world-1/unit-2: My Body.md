@@ -4,7 +4,8 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 ## The Way We Work, David Macaulay
 
-<img src="https://i.imgur.com/9byDLFn.png" width="25%" />
+<img src="https://imgur.com/0WE9nQ5.png
+" width="25%" />
 
 A comprehensive visual journey of the human body from cells to systems. Highly detailed with multiple double page spreads and enough humor throughout to engage any aged reader.
 
@@ -12,5 +13,5 @@ A comprehensive visual journey of the human body from cells to systems. Highly d
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002858687">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDA2NjU2MCw0NTM5ODQxMzNdfQ==
+eyJoaXN0b3J5IjpbLTYzNzQ0OTI5OCw0NTM5ODQxMzNdfQ==
 -->
