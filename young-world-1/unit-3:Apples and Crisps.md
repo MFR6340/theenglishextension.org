@@ -2,7 +2,8 @@
 
 This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
 
-## Apples, by Ken Robbins
+## Apples
+by Ken Robbins
 
 <img src="https://i.imgur.com/9byDLFn.png" width="25%" />
 
@@ -17,7 +18,7 @@ by Judith Barrett
 
 <img src="https://i.imgur.com/9byDLFn.png" width="25%" />
 
-In the town of Chewandswallow, the inhabitants don’t grow food, they get their food three times a day from the sky. Eventually, the weather takes a turn for the worse when the portions get too large and start to destroy the town.
+In the town of Chewandswallow, the inhabitants don’t grow food, they get their food three times a day from the sky. Eventually, the weather takes a turn for the worse when the portions get too large and start to destroy the town.  (Lexile AD730L)
 
 <a href="https://www.bookdepository.com/Cloudy-with-Chance-of-Meatballs-Judith-Barrett/9780590303842" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003420295" rel="nofollow">Buy on Orell Füssli</a>
@@ -27,6 +28,6 @@ In the town of Chewandswallow, the inhabitants don’t grow food, they get their
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODcwNTM1LDE4ODg0ODAwNzAsMTcyMj
-cyNDYzMywxMTg0MTkzNjY1LC03MzI5MzE5NTZdfQ==
+eyJoaXN0b3J5IjpbLTM4NTAwMzI0NiwxODg4NDgwMDcwLDE3Mj
+I3MjQ2MzMsMTE4NDE5MzY2NSwtNzMyOTMxOTU2XX0=
 -->
