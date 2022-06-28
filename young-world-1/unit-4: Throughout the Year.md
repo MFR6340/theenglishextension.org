@@ -36,7 +36,7 @@ Weather in 17 different places around the world from the poles to the equator.  
 ## Everything Weather, National Geographic
 <img src="https://imgur.com/52GDmGt.png" width="25%" />
 
-Book Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dakota Territory is covered is snow up to the rooftops and food supplies run dangerously low.  The sixth book in the beloved "Little House" Series.  (Lexile 790L)
+Lots of amazing National Geographic photos of  weather.  (Lexile 950L)
 
 <a href="https://www.bookdepository.com/Everything-Weather-Kathy-Furgang/9781426310584?ref=grid-view&qid=1656001785649&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018777945" rel="nofollow">Buy on Orell Füssli</a>
@@ -48,7 +48,7 @@ Book Historical fiction - During the winter of 1880-81, the town of DeSmet in th
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTI4MzMxNCwtODcxODEzNzAzLDE4OT
-A1NTEwMTgsMTc4NDA3Mzg4NSw4OTkzNTc3NzksLTc3MjMyNDQw
-NSwxMzE1MDEwOTI4LDEzMDQ2NjIyODldfQ==
+eyJoaXN0b3J5IjpbMjAxOTQ2NjUzOCwtMjE5MjgzMzE0LC04Nz
+E4MTM3MDMsMTg5MDU1MTAxOCwxNzg0MDczODg1LDg5OTM1Nzc3
+OSwtNzcyMzI0NDA1LDEzMTUwMTA5MjgsMTMwNDY2MjI4OV19
 -->
