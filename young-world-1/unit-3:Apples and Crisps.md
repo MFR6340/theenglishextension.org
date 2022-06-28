@@ -37,8 +37,8 @@ Three hungry soldiers convince an unwilling town to make them soup. Based on a E
 From seeds to harvest to eating, this book has beautiful hand-colored photos is a good foundation to talk more about how other foods are grown and what recipes they are in.  (Lexile 710L)
 
 
-<a href="https://www.bookdepository.com/Apples-Ken-Robbins/9781481401654?ref=grid-view&qid=1656344168590&sr=1-6"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1031141802">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Whats-on-Your-Plate-Whitney-Stewart/9781454926726?ref=grid-view&qid=1656000036768&sr=1-1"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046425427">Buy on Orell Füssli</a>
 
 
 
@@ -47,7 +47,7 @@ From seeds to harvest to eating, this book has beautiful hand-colored photos is 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ0ODAzOTUsLTE5NDExODk1LC0zOD
-UwMDMyNDYsMTg4ODQ4MDA3MCwxNzIyNzI0NjMzLDExODQxOTM2
-NjUsLTczMjkzMTk1Nl19
+eyJoaXN0b3J5IjpbMTg5MDU3NjY4MCwtMTk0MTE4OTUsLTM4NT
+AwMzI0NiwxODg4NDgwMDcwLDE3MjI3MjQ2MzMsMTE4NDE5MzY2
+NSwtNzMyOTMxOTU2XX0=
 -->
