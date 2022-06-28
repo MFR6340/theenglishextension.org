@@ -9,8 +9,8 @@ This post contains affiliate links to books. If you make a purchase through thes
 Explores the cuisine from 14 different countries discussing the foods they eat and how they prepare and eat it.  (Lexile 1100L)
 
 
-<a href="https://www.bookdepository.com/Whats-on-Your-Plate-Whitney-Stewart/9781454926726?ref=grid-view&qid=1656000036768&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046425427" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Happy-Hollisters-Cuckoo-Clock-Mystery-Jerry-West/9781949436570?ref=grid-view&qid=1656001073916&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053696364" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -18,5 +18,6 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTM3NzI2MywxMTAzNTEwMTkzXX0=
+eyJoaXN0b3J5IjpbLTE1ODk0OTA3NDUsMTg4OTM3NzI2MywxMT
+AzNTEwMTkzXX0=
 -->
