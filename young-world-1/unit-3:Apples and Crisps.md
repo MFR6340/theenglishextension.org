@@ -34,7 +34,7 @@ Three hungry soldiers convince an unwilling town to make them soup. Based on a E
 
 <img src="https://imgur.com/6jRsXaK.png" width="25%"  />
 
-From seeds to harvest to eating, this book has beautiful hand-colored photos is a good foundation to talk more about how other foods are grown and what recipes they are in.  (Lexile 710L)
+Explores the cuisine from 14 different countries discussing the foods the eat and how they prepare and eat it.  (Lexile 1100L)
 
 
 <a href="https://www.bookdepository.com/Whats-on-Your-Plate-Whitney-Stewart/9781454926726?ref=grid-view&qid=1656000036768&sr=1-1"> Buy on BookDepository</a>  
@@ -47,7 +47,7 @@ From seeds to harvest to eating, this book has beautiful hand-colored photos is 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDU3NjY4MCwtMTk0MTE4OTUsLTM4NT
-AwMzI0NiwxODg4NDgwMDcwLDE3MjI3MjQ2MzMsMTE4NDE5MzY2
-NSwtNzMyOTMxOTU2XX0=
+eyJoaXN0b3J5IjpbMjI1MzgzNTM5LDE4OTA1NzY2ODAsLTE5ND
+ExODk1LC0zODUwMDMyNDYsMTg4ODQ4MDA3MCwxNzIyNzI0NjMz
+LDExODQxOTM2NjUsLTczMjkzMTk1Nl19
 -->
