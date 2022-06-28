@@ -8,11 +8,11 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 Provides information the colors, designs and shapes of the flags of countries of the world.
 
-<a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001523331" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Flag-Book-Lonely-Planet-Kids/9781788683098?ref=grid-view&qid=1656069226646&sr=1-1"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054007305">Buy on Orell Füssli</a>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3ODAyNTE3LC0xNjg2MzkwMjA1XX0=
+eyJoaXN0b3J5IjpbLTkxNzM1MDc3NywtMTY4NjM5MDIwNV19
 -->
