@@ -27,10 +27,10 @@ Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dak
 
 <img src="https://imgur.com/G7PcSRf.png" width="25%" />
 
-Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dakota Territory is covered is snow up to the rooftops and food supplies run dangerously low.  The sixth book in the beloved "Little House" Series.  (Lexile 790L)
+ (Lexile AD810L)
 
 <a href="https://www.bookdepository.com/On-Same-Day-March-Marilyn-Singer/9780064435284?ref=grid-view&qid=1656001703242&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036075756" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006302447" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -39,7 +39,7 @@ Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dak
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzM4OTY3LDE3ODQwNzM4ODUsODk5Mz
-U3Nzc5LC03NzIzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYyMjg5
-XX0=
+eyJoaXN0b3J5IjpbLTQwOTcwMTk5OCwxNzg0MDczODg1LDg5OT
+M1Nzc3OSwtNzcyMzI0NDA1LDEzMTUwMTA5MjgsMTMwNDY2MjI4
+OV19
 -->
