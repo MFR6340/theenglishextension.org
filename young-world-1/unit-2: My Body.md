@@ -2,7 +2,7 @@
 This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
 
 
-## The Flag Book, Lonely Planet Kids
+## The Way We Work, David Mac
 
 <img src="https://i.imgur.com/9byDLFn.png" width="25%" />
 
@@ -12,5 +12,5 @@ Provides information the colors, designs and shapes of the flags of countries of
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054007305">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDczNDQ2NF19
+eyJoaXN0b3J5IjpbLTE1NjUyMDI2OTRdfQ==
 -->
