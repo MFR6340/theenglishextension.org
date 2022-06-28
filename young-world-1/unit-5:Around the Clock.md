@@ -2,7 +2,7 @@
 
 This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
 
-## What's on Your Plate: Exploring the World of Food, by Whitney Stewart
+## The Happy Hollisters and the Cuckoo Clock Mystery, by Jerry West
 
 <img src="https://imgur.com/7L5Xm9p.png" width="25%"  />
 
@@ -18,5 +18,5 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDIwODg3MywxMTAzNTEwMTkzXX0=
+eyJoaXN0b3J5IjpbMTg4OTM3NzI2MywxMTAzNTEwMTkzXX0=
 -->
