@@ -7,7 +7,7 @@ Caldecott Medal Winner
 
 <img src="https://imgur.com/CCxAtjQ.png" width="25%" />
 
-The fascinating story of .
+The fascinating story of Wilson Bentley who persevered to capture snowflakes on camera.
 
 <a href="https://www.bookdepository.com/Snowflake-Bentley-Jacqueline-Briggs-Martin/9780547248295?ref=grid-view&qid=1656000835734&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1008254739" rel="nofollow">Buy on Orell Füssli</a>
@@ -17,5 +17,5 @@ The fascinating story of .
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzI2NzAxMywxMzA0NjYyMjg5XX0=
+eyJoaXN0b3J5IjpbLTE2ODM2MDYxNzMsMTMwNDY2MjI4OV19
 -->
