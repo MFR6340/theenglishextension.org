@@ -25,7 +25,7 @@ Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dak
 ## On the Same Day in March: A Tour of the World’s Weather
 
 
-<img src="https://imgur.com/aEPHQ2g.png" width="25%" />
+<img src="https://imgur.com/G7PcSRf.png" width="25%" />
 
 Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dakota Territory is covered is snow up to the rooftops and food supplies run dangerously low.  The sixth book in the beloved "Little House" Series.  (Lexile 790L)
 
@@ -39,6 +39,6 @@ Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dak
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU3NzY3NjUsODk5MzU3Nzc5LC03Nz
-IzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYyMjg5XX0=
+eyJoaXN0b3J5IjpbMTc4NDA3Mzg4NSw4OTkzNTc3NzksLTc3Mj
+MyNDQwNSwxMzE1MDEwOTI4LDEzMDQ2NjIyODldfQ==
 -->
