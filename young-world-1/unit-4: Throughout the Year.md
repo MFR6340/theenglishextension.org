@@ -47,7 +47,7 @@ Lots of amazing National Geographic photos of fascinating weather.  (Lexile 950L
 .  (Lexile 1090L)
 
 <a href="https://www.bookdepository.com/DK-Eyewitness-Books-Hurricane-Tornado-Jack-Challoner/9781465420534?ref=grid-view&qid=1656442853663&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018777945" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1032481893" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -62,8 +62,8 @@ Lots of amazing National Geographic photos of fascinating weather.  (Lexile 950L
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NzM5NDExMywzNDYzOTg0OTEsLTIxOT
-I4MzMxNCwtODcxODEzNzAzLDE4OTA1NTEwMTgsMTc4NDA3Mzg4
-NSw4OTkzNTc3NzksLTc3MjMyNDQwNSwxMzE1MDEwOTI4LDEzMD
-Q2NjIyODldfQ==
+eyJoaXN0b3J5IjpbLTMwODM4OTgyOSwxMjY3Mzk0MTEzLDM0Nj
+M5ODQ5MSwtMjE5MjgzMzE0LC04NzE4MTM3MDMsMTg5MDU1MTAx
+OCwxNzg0MDczODg1LDg5OTM1Nzc3OSwtNzcyMzI0NDA1LDEzMT
+UwMTA5MjgsMTMwNDY2MjI4OV19
 -->
