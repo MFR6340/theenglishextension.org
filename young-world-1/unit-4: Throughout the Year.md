@@ -41,6 +41,20 @@ Lots of amazing National Geographic photos of fascinating weather.  (Lexile 950L
 <a href="https://www.bookdepository.com/Everything-Weather-Kathy-Furgang/9781426310584?ref=grid-view&qid=1656001785649&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018777945" rel="nofollow">Buy on Orell Füssli</a>
 
+## Everything Weather, National Geographic
+<img src="https://imgur.com/52GDmGt.png" width="25%" />
+
+Lots of amazing National Geographic photos of fascinating weather.  (Lexile 950L)
+
+<a href="https://www.bookdepository.com/Everything-Weather-Kathy-Furgang/9781426310584?ref=grid-view&qid=1656001785649&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018777945" rel="nofollow">Buy on Orell Füssli</a>
+
+
+
+
+
+
+
 
 
 
@@ -48,7 +62,7 @@ Lots of amazing National Geographic photos of fascinating weather.  (Lexile 950L
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3Nzg5NzgzLC0yMTkyODMzMTQsLTg3MT
+eyJoaXN0b3J5IjpbLTc2OTI0OTE2LC0yMTkyODMzMTQsLTg3MT
 gxMzcwMywxODkwNTUxMDE4LDE3ODQwNzM4ODUsODk5MzU3Nzc5
 LC03NzIzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYyMjg5XX0=
 -->
