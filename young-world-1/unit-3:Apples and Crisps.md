@@ -30,9 +30,9 @@ Three hungry soldiers convince an unwilling town to make them soup. Based on a E
 <a href="https://www.bookdepository.com/Stone-Soup-Marcia-Brown/9780689711039?ref=grid-view&qid=1654272719571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1028650164" rel="nofollow">Buy on Orell Füssli</a>
 
-## Apples, by Ken Robbins
+## What's on Your Plate: Exploring the World of Food, by Whitney Stewart
 
-<img src="https://imgur.com/F78MUbL.png" width="25%"  />
+<img src="https://imgur.com/6jRsXaK.png" width="25%"  />
 
 From seeds to harvest to eating, this book has beautiful hand-colored photos is a good foundation to talk more about how other foods are grown and what recipes they are in.  (Lexile 710L)
 
@@ -47,7 +47,7 @@ From seeds to harvest to eating, this book has beautiful hand-colored photos is 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDExODk1LC0zODUwMDMyNDYsMTg4OD
-Q4MDA3MCwxNzIyNzI0NjMzLDExODQxOTM2NjUsLTczMjkzMTk1
-Nl19
+eyJoaXN0b3J5IjpbLTExMzQ0ODAzOTUsLTE5NDExODk1LC0zOD
+UwMDMyNDYsMTg4ODQ4MDA3MCwxNzIyNzI0NjMzLDExODQxOTM2
+NjUsLTczMjkzMTk1Nl19
 -->
