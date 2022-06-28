@@ -13,11 +13,11 @@ The fascinating story of Wilson Bentley who patiently persevered to find a way t
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1008254739" rel="nofollow">Buy on Orell Füssli</a>
 
 ## The Long Winter, by Laura Ingalls Wilder
-Caldecott Medal Winner
+Newbery Honor Award
 
-<img src="https://imgur.com/CCxAtjQ.png" width="25%" />
+<img src="https://imgur.com/aEPHQ2g.png" width="25%" />
 
-The fascinating story of Wilson Bentley who patiently persevered to find a way to photograph snowflakes ultimately showing their beauty and uniqueness.  (Lexile 830L)
+During 
 
 <a href="https://www.bookdepository.com/Long-Winter-Laura-Ingalls-Wilder/9780064400060?ref=grid-view&qid=1656000948255&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1008254739" rel="nofollow">Buy on Orell Füssli</a>
@@ -26,6 +26,6 @@ The fascinating story of Wilson Bentley who patiently persevered to find a way t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg2NjUwNTMsMTMxNTAxMDkyOCwxMz
-A0NjYyMjg5XX0=
+eyJoaXN0b3J5IjpbMTUwNDUyMzk2MywxMzE1MDEwOTI4LDEzMD
+Q2NjIyODldfQ==
 -->
