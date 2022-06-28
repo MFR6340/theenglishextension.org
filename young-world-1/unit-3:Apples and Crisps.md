@@ -16,7 +16,7 @@ From seeds to harvest to eating, this book has beautiful hand-colored photos is 
 
 <img src="https://i.imgur.com/9byDLFn.png" width="25%" />
 
-A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn.
+In the town of Chewandswallow, the inhabitants don’t grow food, they get their food three times a day from the sky. Eventually, the weather takes a turn for the worse when the portions get too large and start to destroy the town.
 
 <a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001523331" rel="nofollow">Buy on Orell Füssli</a>
@@ -26,6 +26,6 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODQ4MDA3MCwxNzIyNzI0NjMzLDExOD
-QxOTM2NjUsLTczMjkzMTk1Nl19
+eyJoaXN0b3J5IjpbLTkxNzk0MzY5MywxODg4NDgwMDcwLDE3Mj
+I3MjQ2MzMsMTE4NDE5MzY2NSwtNzMyOTMxOTU2XX0=
 -->
