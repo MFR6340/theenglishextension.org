@@ -16,7 +16,7 @@ From seeds to harvest to eating, this book has beautiful hand-colored photos is 
 ## Cloudy with a Chance of Meatballs
 by Judith Barrett
 
-<img src="https://i.imgur.com/9byDLFn.png" width="25%" />
+<img src="https:/.png" width="25%" />
 
 In the town of Chewandswallow, the inhabitants don’t grow food, they get their food three times a day from the sky. Eventually, the weather takes a turn for the worse when the portions get too large and start to destroy the town.  (Lexile AD730L)
 
@@ -28,7 +28,7 @@ In the town of Chewandswallow, the inhabitants don’t grow food, they get their
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDgwNjYzNiwtMzg1MDAzMjQ2LDE4OD
-g0ODAwNzAsMTcyMjcyNDYzMywxMTg0MTkzNjY1LC03MzI5MzE5
-NTZdfQ==
+eyJoaXN0b3J5IjpbLTE1NzY0OTYzODAsLTM4NTAwMzI0NiwxOD
+g4NDgwMDcwLDE3MjI3MjQ2MzMsMTE4NDE5MzY2NSwtNzMyOTMx
+OTU2XX0=
 -->
