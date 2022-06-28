@@ -4,7 +4,7 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 ## The 13 Clocks, by James Thurber
 
-<img src="https://imgur.com/7L5Xm9p.png" width="25%"  />
+<img src="https://imgur.com/Z6h3leZ.png" width="25%"  />
 
 Explores the cuisine from 14 different countries discussing the foods they eat and how they prepare and eat it.  (Lexile 1100L)
 
@@ -28,6 +28,6 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc1Nzk4MjcsLTE1ODk0OTA3NDUsMT
-g4OTM3NzI2MywxMTAzNTEwMTkzXX0=
+eyJoaXN0b3J5IjpbMjExMjgxMTY0MywtMTU4OTQ5MDc0NSwxOD
+g5Mzc3MjYzLDExMDM1MTAxOTNdfQ==
 -->
