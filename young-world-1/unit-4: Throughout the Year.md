@@ -36,7 +36,8 @@ Weather in 17 different places around the world from the poles to the equator.  
 ## The Long Winter, by Laura Ingalls Wilder
 Newbery Honor Award
 
-<img src="https://imgur.com/aEPHQ2g.png" width="25%" />
+<img src="
+" width="25%" />
 
 Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dakota Territory is covered is snow up to the rooftops and food supplies run dangerously low.  The sixth book in the beloved "Little House" Series.  (Lexile 790L)
 
@@ -50,7 +51,7 @@ Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dak
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0NjQ3NTIzLDE4OTA1NTEwMTgsMTc4ND
-A3Mzg4NSw4OTkzNTc3NzksLTc3MjMyNDQwNSwxMzE1MDEwOTI4
-LDEzMDQ2NjIyODldfQ==
+eyJoaXN0b3J5IjpbLTE4NDM5NTU2MjksMTg5MDU1MTAxOCwxNz
+g0MDczODg1LDg5OTM1Nzc3OSwtNzcyMzI0NDA1LDEzMTUwMTA5
+MjgsMTMwNDY2MjI4OV19
 -->
