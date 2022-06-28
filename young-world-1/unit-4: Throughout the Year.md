@@ -22,8 +22,8 @@ Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dak
 <a href="https://www.bookdepository.com/Long-Winter-Laura-Ingalls-Wilder/9780064400060?ref=grid-view&qid=1656000948255&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036075756" rel="nofollow">Buy on Orell Füssli</a>
 
-## The Cloud Book, by Laura Ingalls Wilder
-Newbery Honor Award
+## On the Same Day in March: A Tour of the World’s Weather
+
 
 <img src="https://imgur.com/aEPHQ2g.png" width="25%" />
 
@@ -39,6 +39,6 @@ Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dak
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5MzU3Nzc5LC03NzIzMjQ0MDUsMTMxNT
-AxMDkyOCwxMzA0NjYyMjg5XX0=
+eyJoaXN0b3J5IjpbLTE0ODU3NzY3NjUsODk5MzU3Nzc5LC03Nz
+IzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYyMjg5XX0=
 -->
