@@ -21,11 +21,11 @@ In the town of Chewandswallow, the inhabitants don’t grow food, they get their
 <a href="https://www.bookdepository.com/Cloudy-with-Chance-of-Meatballs-Judith-Barrett/9780590303842" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003420295" rel="nofollow">Buy on Orell Füssli</a>
 
-## Cloudy with a Chance of Meatballs, by Judith Barrett
+## Stone Soup, by Marcia Brown
 
-<img src="https://imgur.com/fQL4dqI.png" width="25%" />
+<img src="https://imgur.com/coj2LrO.png" width="25%" />
 
-In the town of Chewandswallow, the inhabitants don’t grow food, they get their food three times a day from the sky. Eventually, the weather takes a turn for the worse when the portions get too large and start to destroy the town.  (Lexile AD730L)
+Three hungry soldiers convince an unwilling town to make them soup. Based on a European folktale.  (Lexile 550L)
 
 <a href="https://www.bookdepository.com/Cloudy-with-Chance-of-Meatballs-Judith-Barrett/9780590303842" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003420295" rel="nofollow">Buy on Orell Füssli</a>
@@ -35,7 +35,7 @@ In the town of Chewandswallow, the inhabitants don’t grow food, they get their
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjgyNzg5NSwtMzg1MDAzMjQ2LDE4OD
-g0ODAwNzAsMTcyMjcyNDYzMywxMTg0MTkzNjY1LC03MzI5MzE5
-NTZdfQ==
+eyJoaXN0b3J5IjpbLTE2Mjg3NzQzNDQsLTM4NTAwMzI0NiwxOD
+g4NDgwMDcwLDE3MjI3MjQ2MzMsMTE4NDE5MzY2NSwtNzMyOTMx
+OTU2XX0=
 -->
