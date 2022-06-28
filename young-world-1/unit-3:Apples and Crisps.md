@@ -5,7 +5,7 @@ This post contains affiliate links to books. If you make a purchase through thes
 ## Apples
 by Ken Robbins
 
-<img src="https://imgur.com/F78MUbL.png" />
+<img src="https://imgur.com/F78MUbL.png" width="25%"  />
 
 From seeds to harvest to eating, this book has beautiful hand-colored photos is a good foundation to talk more about how other foods are grown and what recipes they are in.  (Lexile 710L)
 
@@ -28,7 +28,7 @@ In the town of Chewandswallow, the inhabitants don’t grow food, they get their
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDA2MTc5NzksLTM4NTAwMzI0NiwxOD
-g4NDgwMDcwLDE3MjI3MjQ2MzMsMTE4NDE5MzY2NSwtNzMyOTMx
-OTU2XX0=
+eyJoaXN0b3J5IjpbLTg5NDgwNjYzNiwtMzg1MDAzMjQ2LDE4OD
+g0ODAwNzAsMTcyMjcyNDYzMywxMTg0MTkzNjY1LC03MzI5MzE5
+NTZdfQ==
 -->
