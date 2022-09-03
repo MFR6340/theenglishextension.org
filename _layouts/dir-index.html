@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+      {% include head.html %}
+  </head>
+  <body>
+
+      <header>
+        {% include header.html %}
+      </header>
+
+      {% include banner.html %}
+ 
+    <div class="wrapper">
+      <nav>
+        {% include nav.html %}
+      </nav>
+      <section>
+        {% include content.html %}
+        
+<ul>
+<!-- list all pages -->
+{% assign categories = site.pages | group_by: 'dir' | sort: 'name' %}
+
+<!-- first pass: header links (with no categories) -->
+{% for cat in categories %}
+    {% if cat.name == page.dir %}
+        {% assign items = cat.items | sort: 'url' %}
+        {% for p in items %}
+            {% if p.url == page.url %}
+            {% else %}
+                <li class="tag-h1"><a href="{{ p.url | remove: '.html' }}">{{ p.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+
+</ul>
+
+      </section>
+      
+      {% include footer.html %}
+    </div>
+  </body>
+</html>

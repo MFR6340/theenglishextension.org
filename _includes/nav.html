@@ -1,0 +1,37 @@
+<ul>
+
+<!-- list all pages -->
+{% assign categories = site.pages | sort: 'title' | group_by: 'dir' %}
+
+<!-- first pass: header links (with no categories) -->
+{% for cat in categories %}
+    {% if cat.name == "/" and cat.name != "/assets/css/" %}
+        {% assign items = cat.items | sort: 'url' %}
+        {% for p in items %}
+            {% if p.url == "/" or p.url == "/support.html" %}
+            {% else %}
+                <li class="tag-h1"><a href="{{ p.url | remove: '.html' }}">{{ p.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+
+<!-- second pass: sub-categories -->
+{% for cat in categories %}
+    {% if cat.name != "/" and cat.name != "/assets/css/" %}
+        <br>
+        {% assign name = cat.name | remove: '/' %}
+
+        {% for p in cat.items %}
+            {% if p.name == "index.md" %}
+                {% assign url = p.url %}
+                {% assign name = p.title %}
+                {% break %}
+            {% endif %}
+        {% endfor %}
+
+        <li class="tag-h1"><a href="{{ url }}">{{ name }}</a></li>
+    {% endif %}
+{% endfor %}
+
+</ul>
