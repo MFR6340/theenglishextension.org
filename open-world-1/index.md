@@ -6,8 +6,7 @@ layout: dir-index
 
 This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
 
-# Open World 1, Unit 2: Without Words
-# Open World 1, Unit 3: Healthy Living
+
 # Open World 1, Unit 4: Exploring
 # Open World 1, Unit 5: Weather Dynamics
 # Open World 1, Unit 6: The Deep Blue
@@ -17,5 +16,6 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTc2NzQxOCwtNTM5NjkwNDM3XX0=
+eyJoaXN0b3J5IjpbMTcxOTg4MDQ2NCwtNDgxNzY3NDE4LC01Mz
+k2OTA0MzddfQ==
 -->
