@@ -1,4 +1,4 @@
-# Re
+# Resources for Parents
 We provide supplemental booklets to be used in the classroom in conjunction with the Klett English Program currently used in 12 Kantons throughout Switzerland.
 
 
@@ -15,6 +15,6 @@ We provide supplemental booklets to be used in the classroom in conjunction with
 [3rd Year, Oberstufe](/support/oberstufe-3)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjU4NzIwNywxMDM0MTk3NDUzLC01Mz
+eyJoaXN0b3J5IjpbLTcwOTI3NjA1MywxMDM0MTk3NDUzLC01Mz
 UwNzQ2MjldfQ==
 -->
