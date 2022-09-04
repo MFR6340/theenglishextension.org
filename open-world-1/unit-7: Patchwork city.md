@@ -1,7 +1,5 @@
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+# OW 1, Unit 7: Patchwork City
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTQxMDMxOTU4N119
 -->
