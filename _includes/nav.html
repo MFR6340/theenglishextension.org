@@ -16,10 +16,11 @@
     {% endif %}
 {% endfor %}
 
+<br>
+
 <!-- second pass: sub-categories -->
 {% for cat in categories %}
     {% if cat.name != "/" and cat.name != "/assets/css/" %}
-        <br>
         {% assign name = cat.name | remove: '/' %}
 
         {% for p in cat.items %}
