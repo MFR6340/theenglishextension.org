@@ -6,7 +6,7 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 <img src="https://imgur.com/Z6h3leZ.png" width="25%"  />
 
-
+Description here.
 <a href="https://www.bookdepository.com/13-Clocks-James-Thurber/9780143110149?ref=grid-view&qid=1656416664054&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441194" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -14,7 +14,7 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 <img src="https://imgur.com/c8geq4Z.png" width="25%"  />
 
-Des (Lexile 1050L)
+Description here (Lexile 1050L)
 
 <a href="https://www.bookdepository.com/Story-Clocks-Calendars-Betsy-Maestro/9780060589455?ref=grid-view&qid=1656422356224&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002848514" rel="nofollow">Buy on Orell Füssli</a>
@@ -35,7 +35,7 @@ discription here (Lexile 1100L)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIzNTY0MTUsLTE2MjI4MTIyMSwtNz
-EyODI2MTI5LDEzMjU5MDAxMjMsMjExMjgxMTY0MywtMTU4OTQ5
-MDc0NSwxODg5Mzc3MjYzLDExMDM1MTAxOTNdfQ==
+eyJoaXN0b3J5IjpbNTI2MjAyMjc1LC0xNjIyODEyMjEsLTcxMj
+gyNjEyOSwxMzI1OTAwMTIzLDIxMTI4MTE2NDMsLTE1ODk0OTA3
+NDUsMTg4OTM3NzI2MywxMTAzNTEwMTkzXX0=
 -->
