@@ -7,10 +7,8 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 
 
-# Open World 3, Unit 4: It's Showtime
-# Open World 3, Unit 5: Green Ideas
 # Open World 3, Unit 6: Sell, sell, sell
 # Open World 3, Unit 7: Backpacking
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjg4NDAwMywxODM3MjU1NTY4XX0=
+eyJoaXN0b3J5IjpbNDAxMjMzNjg4LDE4MzcyNTU1NjhdfQ==
 -->
