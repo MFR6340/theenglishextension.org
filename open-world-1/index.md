@@ -10,9 +10,12 @@ This post contains affiliate links to books. If you make a purchase through thes
 # Open World 1, Unit 3: Healthy Living
 # Open World 1, Unit 4: Exploring
 # Open World 1, Unit 5: Weather Dynamics
-# The 
+# Open World 1, Unit 6: The Deep Blue
+# Open World 1, Unit 7: Patchwork City 
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3NjY4NDMxXX0=
+eyJoaXN0b3J5IjpbLTUzOTY5MDQzN119
 -->
