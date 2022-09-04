@@ -4,7 +4,7 @@ layout: dir-index
 
 # Open World 2 (2. Oberstufe)
 
-This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
+
 
 # Open World 2, Unit 1: Dreams of Flying
 # Open World 2, Unit 2: Weird and Wonderful Games
@@ -15,6 +15,6 @@ This post contains affiliate links to books. If you make a purchase through thes
 # Open World 2, Unit 7: Incredible India
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjYyNDcwMiwtNjU3OTMyOTkyLDE4NT
-A3OTUyNzldfQ==
+eyJoaXN0b3J5IjpbNjM4NjU1Njg2LC02NTc5MzI5OTIsMTg1MD
+c5NTI3OV19
 -->
