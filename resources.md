@@ -3,11 +3,11 @@ We provide supplemental booklets to be used in the classroom in conjunction with
 
 ## Swiss Education System
 
-## A Guide to the Swiss Edu
+## A Guide to the Swiss Educational System
 
 <img src="https://i.imgur.com/9byDLFn.png" width="25%" />
 
-If you are trying to wrap your head around the Swiss education system and you are familiar with the British education system, than this is a fantastic read.  It's a bit pricey for it's self-published formatting, but has a wealth of knowledge and will clarify many questions.
+If you are trying to wrap your head around the Swiss education system and you are familiar with the British education system, than this is a fantastic read.  It's a bit pricey for it's self-published formatting, but has a wealth of knowledge and will clarify many questions.  Written by Robin Hull, director of the Hull School in Zurich. 
  
 
 <a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
@@ -32,5 +32,5 @@ If you are trying to wrap your head around the Swiss education system and you ar
 [3rd Year, Oberstufe](/support/oberstufe-3)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTEyNDY4MF19
+eyJoaXN0b3J5IjpbNTI0ODkyOTAwXX0=
 -->
