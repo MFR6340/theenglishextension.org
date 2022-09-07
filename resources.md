@@ -7,7 +7,8 @@ We provide supplemental booklets to be used in the classroom in conjunction with
 
 <img src="https://i.imgur.com/i7EWgnh.jpg" />
 
-If you are trying to wrap your head around the Swiss education system and you are familiar with the British education system, than this is a fantastic read.  It may seem a bit pricey with it's self-published formatting, but has a wealth of knowledge and will clarify many questions.  Written by Robin Hull, director of the Hull School in Zurich. 
+If you are trying to wrap your head around the Swiss education system and you are familiar with the British education system, than this is a fantastic read.  It may seem a bit pricey with it's self-published formatting, but has a wealth of knowledge and will clarify many questions and makes an excellent reference throughout the years.  
+Written by Robin Hull, director of the Hull School in Zurich. 
  
 
 <a href="https://guideto.ch/" rel="nofollow"> Buy here
@@ -33,5 +34,5 @@ If you are trying to wrap your head around the Swiss education system and you ar
 [3rd Year, Oberstufe](/support/oberstufe-3)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDExNTEyMzksLTM3MjI1MDI5M119
+eyJoaXN0b3J5IjpbLTE2NDk0MzU2NDMsLTM3MjI1MDI5M119
 -->
