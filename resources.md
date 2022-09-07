@@ -21,7 +21,7 @@ Written by Robin Hull, director of the Hull School in Zurich.
 Author Margaret Oertig interviewed more than 120 parents to gain insight into the questions, concerns, issues and obstacles facing international parents as they unravel the Swiss schooling system.  
  
 
-<a href="https://www.bookdepository.com/Flag-Book-Lonely-Planet-Kids/9781788683098?ref=grid-view&qid=1656069226646&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Going-Local-Margaret-Oertig/9783905252255?ref=grid-view&qid=1662552643915&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1019220571" rel="nofollow">Buy on Orell Füssli</a>
 
 
@@ -44,6 +44,6 @@ Author Margaret Oertig interviewed more than 120 parents to gain insight into th
 [3rd Year, Oberstufe](/support/oberstufe-3)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzQ0NzY1OSwtMTMwNDExNzMzNSwtMT
+eyJoaXN0b3J5IjpbMTg4MzcwMTAyNSwtMTMwNDExNzMzNSwtMT
 Y0OTQzNTY0MywtMzcyMjUwMjkzXX0=
 -->
