@@ -21,26 +21,6 @@ Author Margaret Oertig interviewed more than 120 parents to gain insight into th
 <a href="https://www.bookdepository.com/Going-Local-Margaret-Oertig/9783905252255?ref=grid-view&qid=1662552643915&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1019220571" rel="nofollow">Buy on Orell Füssli</a>
 
-
-
-
-
-
-We provide supplemental booklets to be used in the classroom in conjunction with the Klett English Program currently used in 12 Cantons throughout Switzerland.
-
-## Primary School
-
-[Third Grade, Primary School](/support/primary-3rd)  
-[Fourth Grade, Primary School](/support/primary-4th)  
-[Fifth Grade, Primary School](/support/primary-5th)  
-[Sixth Grade, Primary School](/support/primary-6th)
-
-## Oberstufe
-
-[1st Year, Oberstufe](/support/oberstufe-1)  
-[2nd Year, Oberstufe](/support/oberstufe-2)  
-[3rd Year, Oberstufe](/support/oberstufe-3)  
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NTU2MTA5LC0xOTU2MDgyMTk4XX0=
+eyJoaXN0b3J5IjpbMTQ1NTk5MjM3NCwtMTk1NjA4MjE5OF19
 -->
