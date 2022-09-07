@@ -14,7 +14,7 @@ Written by Robin Hull, director of the Hull School in Zurich.
 <a href="https://guideto.ch/" rel="nofollow"> Buy here
 </a>  
 
-## Going Local, Your Guide to the Local Swiss Schools
+## Going Local, Your Guide to Swiss Schooling
 
 <img width="25%" src="https://i.imgur.com/l1QGlSC.png" />
 
@@ -44,6 +44,6 @@ Author Margaret Oertig interviewed more than 120 parents to gain insight into th
 [3rd Year, Oberstufe](/support/oberstufe-3)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzcwMTAyNSwtMTMwNDExNzMzNSwtMT
+eyJoaXN0b3J5IjpbMTE1MzY1MzA3NiwtMTMwNDExNzMzNSwtMT
 Y0OTQzNTY0MywtMzcyMjUwMjkzXX0=
 -->
