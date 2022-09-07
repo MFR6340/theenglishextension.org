@@ -26,6 +26,7 @@ Author Margaret Oertig interviewed more than 120 parents to gain insight into th
 
 
 
+We provide supplemental booklets to be used in the classroom in conjunction with the Klett English Program currently used in 12 Cantons throughout Switzerland.
 
 ## Primary School
 
@@ -41,5 +42,5 @@ Author Margaret Oertig interviewed more than 120 parents to gain insight into th
 [3rd Year, Oberstufe](/support/oberstufe-3)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTYwODIxOThdfQ==
+eyJoaXN0b3J5IjpbMjk4NTU2MTA5LC0xOTU2MDgyMTk4XX0=
 -->
