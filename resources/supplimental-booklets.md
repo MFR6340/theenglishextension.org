@@ -8,17 +8,17 @@ We provide supplemental booklets to be used in the classroom in conjunction with
 
 ## Primary School
 
-[Third Grade, Primary School](/support/primary-3rd)  
-[Fourth Grade, Primary School](/support/primary-4th)  
-[Fifth Grade, Primary School](/support/primary-5th)  
-[Sixth Grade, Primary School](/support/primary-6th)
+[Third Grade, Primary School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+[Fourth Grade, Primary School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+[Fifth Grade, Primary School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+[Sixth Grade, Primary School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Oberstufe
 
-[1st Year, Oberstufe](/support/oberstufe-1)  
-[2nd Year, Oberstufe](/support/oberstufe-2)  
-[3rd Year, Oberstufe](/support/oberstufe-3)  
+[1st Year, Oberstufe](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+[2nd Year, Oberstufe](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+[3rd Year, Oberstufe](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzQxNTYxXX0=
+eyJoaXN0b3J5IjpbNTM1MjY5NDRdfQ==
 -->
