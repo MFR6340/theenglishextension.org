@@ -18,7 +18,7 @@ Written by Robin Hull, director of the Hull School in Zurich.
 
 <img width="25%" src="https://i.imgur.com/i7EWgnh.jpg" />
 
-Author Margaret Oertig interviewed at 
+Author Margaret Oertig interviewed more than 120 parents to gain insight into the questions, concerns, issues and obstacles facing international parents as they unravel the Swiss schooling system.  
  
 
 <a href="https://guideto.ch/" rel="nofollow"> Buy here
@@ -44,6 +44,6 @@ Author Margaret Oertig interviewed at
 [3rd Year, Oberstufe](/support/oberstufe-3)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDA5NTk1NSwtMTY0OTQzNTY0MywtMz
-cyMjUwMjkzXX0=
+eyJoaXN0b3J5IjpbLTEzMDQxMTczMzUsLTE2NDk0MzU2NDMsLT
+M3MjI1MDI5M119
 -->
