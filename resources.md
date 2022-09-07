@@ -5,7 +5,7 @@ We provide supplemental booklets to be used in the classroom in conjunction with
 
 ## A Guide to the Swiss Educational System
 
-<img src="https://i.imgur.com/i7EWgnh.jpg" />
+<img width="25%" src="https://i.imgur.com/i7EWgnh.jpg" />
 
 If you are trying to wrap your head around the Swiss education system and you are familiar with the British education system, than this is a fantastic read.  It may seem a bit pricey with it's self-published formatting, but has a wealth of knowledge and will clarify many questions and makes an excellent reference throughout the years.  
 Written by Robin Hull, director of the Hull School in Zurich. 
@@ -34,5 +34,6 @@ Written by Robin Hull, director of the Hull School in Zurich.
 [3rd Year, Oberstufe](/support/oberstufe-3)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk0MzU2NDMsLTM3MjI1MDI5M119
+eyJoaXN0b3J5IjpbNzg2MzgxNzEyLC0xNjQ5NDM1NjQzLC0zNz
+IyNTAyOTNdfQ==
 -->
