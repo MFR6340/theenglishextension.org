@@ -25,8 +25,8 @@ Author Margaret Oertig interviewed more than 120 parents to gain insight into th
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1019220571" rel="nofollow">Buy on Orell Füssli</a>
 
 ##Consulting
-If you feel you need personalized help in finding the right 
+If you are in feel you need personalized help in finding the right 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTQwMjcyOSwxMDI1MzQ1NTY0LDE0NT
+eyJoaXN0b3J5IjpbLTkxNjQ5MzQ0MiwxMDI1MzQ1NTY0LDE0NT
 U5OTIzNzQsLTE5NTYwODIxOThdfQ==
 -->
