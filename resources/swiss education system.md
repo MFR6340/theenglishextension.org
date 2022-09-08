@@ -4,7 +4,10 @@ The Swiss educational system can seem confusing if you come from another country
 
 <object data="/assets/Swiss education system.pdf" type="application/pdf" width="100%" height="500"><a href="/assets/Swiss education system.pdf"></a></object><br>
 
+No worries!  It takes some time to understand it all. 
+
 ## Books: 
+Here are some books to that give clear explanations of how to navigate the Swiss 
 A Guide to the Swiss Educational System
 
 <img width="25%" src="https://i.imgur.com/i7EWgnh.jpg" />
@@ -29,8 +32,8 @@ Author Margaret Oertig interviewed more than 120 parents to gain insight into th
 ## Consulting
 If you are in central Switzerland and feel you need personalized help in finding the right school for your child, XXX may be able to help.  Consult her website at xxx for more information about her services and fees. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1NzYyNDMsLTIwMDAxNzcyNzksMTc3OT
-UwMzY0OSwtMTA1NTEyNjA0LC0xOTA4Nzg5NjQ5LC0xMTgxMTA3
-MTUzLDEwMjUzNDU1NjQsMTQ1NTk5MjM3NCwtMTk1NjA4MjE5OF
-19
+eyJoaXN0b3J5IjpbMTc3MTYyMDAyMiw1MTU3NjI0MywtMjAwMD
+E3NzI3OSwxNzc5NTAzNjQ5LC0xMDU1MTI2MDQsLTE5MDg3ODk2
+NDksLTExODExMDcxNTMsMTAyNTM0NTU2NCwxNDU1OTkyMzc0LC
+0xOTU2MDgyMTk4XX0=
 -->
