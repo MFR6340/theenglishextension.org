@@ -25,8 +25,8 @@ Author Margaret Oertig interviewed more than 120 parents to gain insight into th
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1019220571" rel="nofollow">Buy on Orell Füssli</a>
 
 ##Consulting
-If you are in central Switzerland and feel you need personalized help in finding the right 
+If you are in central Switzerland and feel you need personalized help in finding the right school for your child, Stefanie Busse can help. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODExMDcxNTMsMTAyNTM0NTU2NCwxND
-U1OTkyMzc0LC0xOTU2MDgyMTk4XX0=
+eyJoaXN0b3J5IjpbLTE5MDg3ODk2NDksLTExODExMDcxNTMsMT
+AyNTM0NTU2NCwxNDU1OTkyMzc0LC0xOTU2MDgyMTk4XX0=
 -->
