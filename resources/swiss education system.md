@@ -1,4 +1,5 @@
 # Swiss Education System
+The Swiss educational system can seem confusing if you come from another country.  The vocational track is incredibly strong a
 
 ## A Guide to the Swiss Educational System
 
@@ -22,5 +23,6 @@ Author Margaret Oertig interviewed more than 120 parents to gain insight into th
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1019220571" rel="nofollow">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTk5MjM3NCwtMTk1NjA4MjE5OF19
+eyJoaXN0b3J5IjpbMTEzNjQzNjY1MCwxNDU1OTkyMzc0LC0xOT
+U2MDgyMTk4XX0=
 -->
