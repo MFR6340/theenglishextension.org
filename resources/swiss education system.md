@@ -24,9 +24,10 @@ Author Margaret Oertig interviewed more than 120 parents to gain insight into th
 <a href="https://www.bookdepository.com/Going-Local-Margaret-Oertig/9783905252255?ref=grid-view&qid=1662552643915&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1019220571" rel="nofollow">Buy on Orell Füssli</a>
 
-##Consulting
-If you are in central Switzerland and feel you need personalized help in finding the right school for your child, Stefanie Busse can help. 
+## Consulting
+If you are in central Switzerland and feel you need personalized help in finding the right school for your child, XXX may be able to help.  Consult her website at xxx fcan help.   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDg3ODk2NDksLTExODExMDcxNTMsMT
-AyNTM0NTU2NCwxNDU1OTkyMzc0LC0xOTU2MDgyMTk4XX0=
+eyJoaXN0b3J5IjpbLTE2NTgxODc3MDksLTE5MDg3ODk2NDksLT
+ExODExMDcxNTMsMTAyNTM0NTU2NCwxNDU1OTkyMzc0LC0xOTU2
+MDgyMTk4XX0=
 -->
