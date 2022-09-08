@@ -2,9 +2,7 @@
 The Swiss educational system can seem confusing if you come from another country.  The vocational track is incredibly strong and the majority of students opt for that route.  The path is never closed and there is always a way to get to university down the road. 
 
 
-<object data="/assets/Swiss education system.pdf" type="application/pdf">
-	<a href="/assets/Swiss education system.pdf"></a>
-</object>
+<object data="/assets/Swiss education system.pdf" type="application/pdf" width="100%" height="500"><a href="/assets/Swiss education system.pdf"></a></object>
 
 ## Books: 
 A Guide to the Swiss Educational System
@@ -31,7 +29,7 @@ Author Margaret Oertig interviewed more than 120 parents to gain insight into th
 ## Consulting
 If you are in central Switzerland and feel you need personalized help in finding the right school for your child, XXX may be able to help.  Consult her website at xxx for more information about her services and fees. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTUwMzY0OSwtMTA1NTEyNjA0LC0xOT
-A4Nzg5NjQ5LC0xMTgxMTA3MTUzLDEwMjUzNDU1NjQsMTQ1NTk5
-MjM3NCwtMTk1NjA4MjE5OF19
+eyJoaXN0b3J5IjpbLTIwMDAxNzcyNzksMTc3OTUwMzY0OSwtMT
+A1NTEyNjA0LC0xOTA4Nzg5NjQ5LC0xMTgxMTA3MTUzLDEwMjUz
+NDU1NjQsMTQ1NTk5MjM3NCwtMTk1NjA4MjE5OF19
 -->
