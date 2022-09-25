@@ -9,7 +9,7 @@ No worries!  It takes some time to understand it all.
 ## Books: 
 Here are some books to that give clear explanations of how to navigate the Swiss System. 
 
-A Guide to the Swiss Educational System
+## A Guide to the Swiss Educational System
 
 <img width="25%" src="https://i.imgur.com/i7EWgnh.jpg" />
 
@@ -20,7 +20,7 @@ Written by Robin Hull, director of the Hull School in Zurich.
 <a href="https://guideto.ch/" rel="nofollow"> Buy here
 </a>  
 
-Going Local, Your Guide to Swiss Schooling
+## Going Local, Your Guide to Swiss Schooling
 
 <img width="25%" src="https://i.imgur.com/l1QGlSC.png" />
 
@@ -33,8 +33,8 @@ Author Margaret Oertig interviewed more than 120 parents to gain insight into th
 ## Consulting
 If you are in central Switzerland and feel you need personalized help in finding the right school for your child, XXX may be able to help.  Consult her website at xxx for more information about her services and fees. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyNzgwMzYxLDUxNTc2MjQzLC0yMDAwMT
-c3Mjc5LDE3Nzk1MDM2NDksLTEwNTUxMjYwNCwtMTkwODc4OTY0
-OSwtMTE4MTEwNzE1MywxMDI1MzQ1NTY0LDE0NTU5OTIzNzQsLT
-E5NTYwODIxOThdfQ==
+eyJoaXN0b3J5IjpbMzk5NTg0NTk1LDY1Mjc4MDM2MSw1MTU3Nj
+I0MywtMjAwMDE3NzI3OSwxNzc5NTAzNjQ5LC0xMDU1MTI2MDQs
+LTE5MDg3ODk2NDksLTExODExMDcxNTMsMTAyNTM0NTU2NCwxND
+U1OTkyMzc0LC0xOTU2MDgyMTk4XX0=
 -->
