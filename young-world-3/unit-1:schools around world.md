@@ -6,7 +6,7 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 <img src="https://imgur.com/3sxCIqX" width="25%" />
 
-A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn.
+Children across the globe go to school, but not all schools look the same.  See schools in caves, around the w
 
 <a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001523331" rel="nofollow">Buy on Orell Füssli</a>
@@ -15,6 +15,6 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODE4NjkyNCwxMTQyNTUwNTQzLDE0MD
-UxNzk1Ml19
+eyJoaXN0b3J5IjpbLTEzNTA1MjYwNzUsMTE0MjU1MDU0MywxND
+A1MTc5NTJdfQ==
 -->
