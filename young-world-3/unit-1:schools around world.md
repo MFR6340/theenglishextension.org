@@ -4,9 +4,9 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 ## Off to Class: Incredible and Unusual Schools Around the World
 
-<img src="https://imgur.com/3sxCIqX" width="25%" />
+<img src="https://imgur.com/3sxCIqX.png" width="25%" />
 
-Children across the globe go to school, but not all schools look the same.  See schools in different countries that are in caves, on a train platform and other creative locations. 
+Children across the globe go to school, but they don't all look the same.  See schools in different countries that are in caves, on a train platform and other creative locations. 
 
 <a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001523331" rel="nofollow">Buy on Orell Füssli</a>
@@ -15,6 +15,6 @@ Children across the globe go to school, but not all schools look the same.  See 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTcwMzU2MiwxMTQyNTUwNTQzLDE0MD
-UxNzk1Ml19
+eyJoaXN0b3J5IjpbLTEzNzEzNzU4MTksMTE0MjU1MDU0MywxND
+A1MTc5NTJdfQ==
 -->
