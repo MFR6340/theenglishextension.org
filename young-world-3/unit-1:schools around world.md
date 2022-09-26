@@ -4,7 +4,7 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 ## Interesting book
 
-<img src="https://i.imgur.com/9byDLFn.png" width="25%" />
+<img src="https://imgur.com/3sxCIqX" width="25%" />
 
 A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn.
 
@@ -15,5 +15,5 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTE3OTUyXX0=
+eyJoaXN0b3J5IjpbMTE0MjU1MDU0MywxNDA1MTc5NTJdfQ==
 -->
