@@ -8,7 +8,7 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 Children across the globe go to school, but they don't all look the same.  See schools that are in caves, on a train platform and other creative locations in countries around the world.  Originally published in 2011, there is also an updated edition that became available in 2022. (Lexile 950L)
 
-<a href="https://www.bookdepository.com/Off-to-Class/9781926818863" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Off-to-Class/9781926818863https://www.bookdepository.com/Off-Class-Updated-Edition-Susan-Hughes/9781771475792?ref=grid-view&qid=1664201519246&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063548862
 " rel="nofollow">Buy on Orell Füssli</a>
 
@@ -16,6 +16,6 @@ Children across the globe go to school, but they don't all look the same.  See s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM2MTE1NzgsMTE0MjU1MDU0MywxND
-A1MTc5NTJdfQ==
+eyJoaXN0b3J5IjpbOTM5NTk4NzA4LDExNDI1NTA1NDMsMTQwNT
+E3OTUyXX0=
 -->
