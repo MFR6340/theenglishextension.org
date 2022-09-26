@@ -1,6 +1,6 @@
 # Young World 3, Unit 1: Schools Around the World
 
-*This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.*
+*This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.* 
 
 ## Off to Class: Incredible and Unusual Schools Around the World, by Susan Hughes
 
@@ -26,6 +26,7 @@ This 2016 updated version of a DK classic shows children from Botswana to Turkey
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3NDk0NjgyLDEyMjY5NTE4MDgsMTE2MD
-Y1MTA3LDExNDI1NTA1NDMsMTQwNTE3OTUyXX0=
+eyJoaXN0b3J5IjpbLTE2NzAzNTQ5NzAsNjQ3NDk0NjgyLDEyMj
+Y5NTE4MDgsMTE2MDY1MTA3LDExNDI1NTA1NDMsMTQwNTE3OTUy
+XX0=
 -->
