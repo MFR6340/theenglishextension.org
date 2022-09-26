@@ -12,7 +12,7 @@ Children across the globe go to school, but they don't all look the same.  See s
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063548862
 " rel="nofollow">Buy on Orell Füssli</a>
 
-### Children Just Like Me: A School Like Mine: A Celebration of Schools Around the World
+###  A School Like Mine: A Celebration of Schools Around the World, by DK
 
 <img src="https://imgur.com/3sxCIqX.png" width="25%" />
 
@@ -27,6 +27,6 @@ Children across the globe go to school, but they don't all look the same.  See s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjk1MTgwOCwxMTYwNjUxMDcsMTE0Mj
-U1MDU0MywxNDA1MTc5NTJdfQ==
+eyJoaXN0b3J5IjpbLTE2NDE5NjI4OTYsMTIyNjk1MTgwOCwxMT
+YwNjUxMDcsMTE0MjU1MDU0MywxNDA1MTc5NTJdfQ==
 -->
