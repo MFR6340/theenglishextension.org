@@ -2,7 +2,7 @@
 
 This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
 
-## Interesting book
+## Off to Class: Incredible and Unusual Schools Around the World
 
 <img src="https://imgur.com/3sxCIqX" width="25%" />
 
@@ -15,5 +15,6 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjU1MDU0MywxNDA1MTc5NTJdfQ==
+eyJoaXN0b3J5IjpbMTg0ODE4NjkyNCwxMTQyNTUwNTQzLDE0MD
+UxNzk1Ml19
 -->
