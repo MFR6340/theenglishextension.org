@@ -8,7 +8,6 @@ Theresa lives in Rotkreuz, ZG with her husband and 2 children.  She holds a BEd,
 
 
 
-
 **Tina Hörning**
 <img src="https://i.imgur.com/Mob0RjR.png" width="25%" />
 
@@ -38,5 +37,6 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDkwNjI4MSwxNzYyMjEwMDMzXX0=
+eyJoaXN0b3J5IjpbMTEzMTQ4NDI4MywxNDI0OTA2MjgxLDE3Nj
+IyMTAwMzNdfQ==
 -->
