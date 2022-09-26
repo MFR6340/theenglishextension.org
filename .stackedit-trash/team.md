@@ -6,8 +6,7 @@ Megan lives in Baar (ZG) with her husband and 5 children.  She has a M.Ed. Langu
 **Theresa Jäger**
 Theresa lives in Rotkreuz, ZG with her husband and 2 children.  She holds a BEd, Diploma as a Primary Teacher as well as CELTA Certification.  She is a private English tutor.  She has taught all levels of primary school in New Zealand, the UK (both private & public), & Switzerland (Four Forest & International School of Zug & Luzern).  
 
-**Sylvia Nadig**
-Sylvia is a lecturer at the Pedagogische Hochschule in Kanton Zug where she focuses on multilingual didactics and foreign language learning.  She has been a visiting scholar at the Deakin University in Melbourne, Australia and at the University of Washington in Seattle.
+
 
 
 **Tina Hörning**
@@ -39,5 +38,5 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjIxMDAzM119
+eyJoaXN0b3J5IjpbMTQyNDkwNjI4MSwxNzYyMjEwMDMzXX0=
 -->
