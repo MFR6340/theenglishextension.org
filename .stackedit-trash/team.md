@@ -6,6 +6,9 @@ Megan lives in Baar (ZG) with her husband and 5 children.  She has a M.Ed. Langu
 **Theresa Jäger**
 Theresa lives in Rotkreuz, ZG with her husband and 2 children.  She holds a BEd, Diploma as a Primary Teacher as well as CELTA Certification.  She is a private English tutor.  She has taught all levels of primary school in New Zealand, the UK (both private & public), & Switzerland (Four Forest & International School of Zug & Luzern).  
 
+**Sylvia Nadig**
+Sylvia is a lecturer at the Pedagogische Hochschule in Kanton Zug where she focuses on multilingual didactics and foreign language learning.  She has been a visiting scholar at the Deakin University in Melbourne, Australia and at the University of Washington in Seattle.
+
 
 **Tina Hörning**
 <img src="https://i.imgur.com/Mob0RjR.png" width="25%" />
@@ -13,13 +16,10 @@ Theresa lives in Rotkreuz, ZG with her husband and 2 children.  She holds a BEd,
 Tina holds a BA in Early Childhood and Elementary Education from the University of Rhode Island.  She has worked in the local Swiss schools providing support for native English speakers.  In the United States, she taught Kindergarten 1st and 2nd Grades, and substituted in all primary school grades. She lives in Cham (ZG) with her husband and 3 children.  
 
 
-
-
 **Paula Lüchinger**
 Paula holds a BA as a QTS British Primary teacher. She currently teaches English to native speakers in the Birmensdorf(ZH) schools. She has been a private English tutor and has taught both in the UK and International school, Wallisellen. She lives in Birmensdorf (ZH) with her husband and 3 children.
 
-**Sylvia Nadig**
-Sylvia is a lecturer at the Pedagogische Hochschule in Kanton Zug where she focuses on multilingual didactics and foreign language learning.  She has been a visiting scholar at the Deakin University in Melbourne, Australia and at the University of Washington in Seattle.
+
 
 
 
@@ -39,5 +39,5 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYxMzAwNzldfQ==
+eyJoaXN0b3J5IjpbMTc2MjIxMDAzM119
 -->
