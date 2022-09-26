@@ -12,10 +12,21 @@ Children across the globe go to school, but they don't all look the same.  See s
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063548862
 " rel="nofollow">Buy on Orell Füssli</a>
 
+### Children Just Like Me: A School Like Mine: A Celebration of Schools Around the World
+
+<img src="https://imgur.com/3sxCIqX.png" width="25%" />
+
+Children across the globe go to school, but they don't all look the same.  See schools that are in caves, on a train platform and other creative locations in countries around the world.  Originally published in 2011, note that an updated edition was released in 2022. (Lexile 950L)
+
+<a href="https://www.bookdepository.com/Off-to-Class/9781926818863https://www.bookdepository.com/Off-Class-Updated-Edition-Susan-Hughes/9781771475792?ref=grid-view&qid=1664201519246&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063548862
+" rel="nofollow">Buy on Orell Füssli</a>
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDY1MTA3LDExNDI1NTA1NDMsMTQwNT
-E3OTUyXX0=
+eyJoaXN0b3J5IjpbMTIyNjk1MTgwOCwxMTYwNjUxMDcsMTE0Mj
+U1MDU0MywxNDA1MTc5NTJdfQ==
 -->
