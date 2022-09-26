@@ -16,7 +16,7 @@ Children across the globe go to school, but they don't all look the same.  See s
 
 <img src="https://imgur.com/3sxCIqX.png" width="25%" />
 
-This updated verison of a DK classic shows children from Botswana to Turkey and from Australia to East Timor. (Lexile IG920L)
+This 2016 updated verison of a DK classic shows children from Botswana to Turkey and from Australia to East Timor showing the subjects taught in school and the daily schedule of the children. (Lexile IG920L)
 
 <a href="https://www.bookdepository.com/Off-to-Class/9781926818863https://www.bookdepository.com/Off-Class-Updated-Edition-Susan-Hughes/9781771475792?ref=grid-view&qid=1664201519246&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063548862
@@ -27,6 +27,6 @@ This updated verison of a DK classic shows children from Botswana to Turkey and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzOTI2NjQyLDEyMjY5NTE4MDgsMTE2MD
-Y1MTA3LDExNDI1NTA1NDMsMTQwNTE3OTUyXX0=
+eyJoaXN0b3J5IjpbLTQ2MTQ1MDc1OSwxMjI2OTUxODA4LDExNj
+A2NTEwNywxMTQyNTUwNTQzLDE0MDUxNzk1Ml19
 -->
