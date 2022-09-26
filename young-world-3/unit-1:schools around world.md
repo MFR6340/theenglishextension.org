@@ -2,11 +2,11 @@
 
 This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
 
-## Off to Class: Incredible and Unusual Schools Around the World
+## Off to Class: Incredible and Unusual Schools Around the World, by Susan Hughes
 
 <img src="https://imgur.com/3sxCIqX.png" width="25%" />
 
-Children across the globe go to school, but they don't all look the same.  See schools that are in caves, on a train platform and other creative locations in countries around the world.  Originally published in 2011, there is also an updated edition that was published 2022. (Lexile 950L)
+Children across the globe go to school, but they don't all look the same.  See schools that are in caves, on a train platform and other creative locations in countries around the world.  Originally published in 2011, there is also an updated edition that became available in 2022. (Lexile 950L)
 
 <a href="https://www.bookdepository.com/Off-to-Class/9781926818863" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063548862
@@ -16,6 +16,6 @@ Children across the globe go to school, but they don't all look the same.  See s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODE1NjMwMywxMTQyNTUwNTQzLDE0MD
-UxNzk1Ml19
+eyJoaXN0b3J5IjpbLTE5ODM2MTE1NzgsMTE0MjU1MDU0MywxND
+A1MTc5NTJdfQ==
 -->
