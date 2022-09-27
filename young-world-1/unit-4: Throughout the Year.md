@@ -1,6 +1,5 @@
 # Young World 1, Unit 4: Throughout the Year
-
-This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
+*This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.*
 
 ## Snowflake Bentley, by Jacqueline Briggs Martin
 Caldecott Medal Winner
@@ -62,8 +61,8 @@ Lots of amazing National Geographic photos of fascinating weather.  (Lexile 950L
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODM4OTgyOSwxMjY3Mzk0MTEzLDM0Nj
-M5ODQ5MSwtMjE5MjgzMzE0LC04NzE4MTM3MDMsMTg5MDU1MTAx
-OCwxNzg0MDczODg1LDg5OTM1Nzc3OSwtNzcyMzI0NDA1LDEzMT
-UwMTA5MjgsMTMwNDY2MjI4OV19
+eyJoaXN0b3J5IjpbLTMyNjEzMDc0NywtMzA4Mzg5ODI5LDEyNj
+czOTQxMTMsMzQ2Mzk4NDkxLC0yMTkyODMzMTQsLTg3MTgxMzcw
+MywxODkwNTUxMDE4LDE3ODQwNzM4ODUsODk5MzU3Nzc5LC03Nz
+IzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYyMjg5XX0=
 -->
