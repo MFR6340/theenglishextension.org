@@ -21,11 +21,10 @@ A comprehensive visual journey of the human body from cells to systems. Highly d
 
 <a href="https://www.bookdepository.com/Weird-But-True-Human-Body-National-Geographic-KIds/9781426327261?ref=grid-view&qid=1664279994796&sr=1-1" rel="nofollow"> Buy on Book Depository </a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1040208620" rel="nofollow">Buy on Orell Füssli</a>
-.png
-" width="25%" />
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTg4MTc0NSwtMjA5MzE0ODE2NCwxND
+eyJoaXN0b3J5IjpbMTAzNTE3MzU0NiwtMjA5MzE0ODE2NCwxND
 cyNjg5Njk0LDQ1Mzk4NDEzM119
 -->
