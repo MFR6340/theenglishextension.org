@@ -6,6 +6,9 @@ Megan has a M.Ed. Language and Literacy from Harvard, a M.Ed. in Elementary Educ
 **Theresa Jäger**
 Theresa lives in Rotkreuz, ZG with her husband and 2 children.  She holds a BEd, Diploma as a Primary Teacher as well as CELTA Certification.  She is a private English tutor.  She has taught all levels of primary school in New Zealand, the UK (both private & public), & Switzerland (Four Forest & International School of Zug & Luzern).  
 
+**Sylvia Nadig**
+
+
 
 
 **Tina Hörning**
@@ -35,6 +38,6 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc0MDM5NTQsMTM4NDM1NDA2NSwxMT
-MxNDg0MjgzXX0=
+eyJoaXN0b3J5IjpbLTEwNzQ3NDYyMTMsLTEwMzc0MDM5NTQsMT
+M4NDM1NDA2NSwxMTMxNDg0MjgzXX0=
 -->
