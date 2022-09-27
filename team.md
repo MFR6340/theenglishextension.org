@@ -1,7 +1,6 @@
 # Team Members
 
 **Megan Farnsworth Rabil**
-<img src="https://imgur.com/VPqukjI.png" width="25%" />
 Megan has a M.Ed. Language and Literacy from Harvard, a M.Ed. in Elementary Education from UCLA, and a BA in Classical Studies.  She taught primary school and was a Curriculum Coordinator in Burbank, California. She has also been an Education Officer for the Massachusetts Department of Education and an Education Policy Analyst in Washington DC.  She lives in Baar (ZG) with her husband and 5 children.  
 
 **Theresa Jäger**
@@ -10,8 +9,6 @@ Theresa lives in Rotkreuz, ZG with her husband and 2 children.  She holds a BEd,
 
 
 **Tina Hörning**
-<img src="https://i.imgur.com/Mob0RjR.png" width="25%" />
-
 Tina holds a BA in Early Childhood and Elementary Education from the University of Rhode Island.  She has worked in the local Swiss schools providing support for native English speakers.  In the United States, she taught Kindergarten 1st and 2nd Grades, and substituted in all primary school grades. She lives in Cham (ZG) with her husband and 3 children.  
 
 
@@ -38,5 +35,6 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDM1NDA2NSwxMTMxNDg0MjgzXX0=
+eyJoaXN0b3J5IjpbLTEwMzc0MDM5NTQsMTM4NDM1NDA2NSwxMT
+MxNDg0MjgzXX0=
 -->
