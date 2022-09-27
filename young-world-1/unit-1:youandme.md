@@ -1,6 +1,5 @@
 # Young World 1, Unit 1: You and Me
-
-This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
+*This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.*
 
 ## The Flag Book, Lonely Planet Kids
 
@@ -27,6 +26,6 @@ Meet kids from 84 countries around the world from Australia to Zambezi.  See whe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTYzOTk4LDE1MDMwMTc4NzEsLTE3MD
-k1ODgxODZdfQ==
+eyJoaXN0b3J5IjpbLTEyODcwOTQyMjgsLTM1MTYzOTk4LDE1MD
+MwMTc4NzEsLTE3MDk1ODgxODZdfQ==
 -->
