@@ -7,7 +7,7 @@ Megan has a M.Ed. Language and Literacy from Harvard, a M.Ed. in Elementary Educ
 Theresa lives in Rotkreuz, ZG with her husband and 2 children.  She holds a BEd, Diploma as a Primary Teacher as well as CELTA Certification.  She is a private English tutor.  She has taught all levels of primary school in New Zealand, the UK (both private & public), & Switzerland (Four Forest & International School of Zug & Luzern).  
 
 **Sylvia Nadig**
-Sylvia is the Head of the Department of Foreign Languages and Teaching of English at the Padagogische Hochschule Zug.  She worked with Klett on the Young World English series.  Previously, she has been both a French teacher and an English teacher at the Gymasium level.  She has been a visiting scholar at Deakin University in Melbourne, Australia and the University of Washington in Seattle, USA
+Sylvia is the Head of the Department of Foreign Languages and Teaching of English at the Padagogische Hochschule Zug. where she has worked with Klett on the Young World English series.  She has years of experience as a teacher of English, French and German.  Sylvia had the opportunity to compare other education systems and has been a visiting scholar at Deakin University in Melbourne, Australia and the University of Washington in Seattle, USA.
 
 
 
@@ -38,6 +38,6 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjkwMTIzNywtMTA3NDc0NjIxMywtMT
+eyJoaXN0b3J5IjpbMTU5MTA2NzMxNiwtMTA3NDc0NjIxMywtMT
 AzNzQwMzk1NCwxMzg0MzU0MDY1LDExMzE0ODQyODNdfQ==
 -->
