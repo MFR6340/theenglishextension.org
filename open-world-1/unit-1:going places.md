@@ -1,6 +1,6 @@
 # OW 1, Unit 1: Going Places
 
-
+*This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzUxODU5MzVdfQ==
+eyJoaXN0b3J5IjpbLTgwNDI4MjY0OV19
 -->
