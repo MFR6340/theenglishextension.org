@@ -12,9 +12,7 @@ A comprehensive visual journey of the human body from cells to systems. Highly d
 <a href="https://www.amazon.de/-/en/David-Macaulay/dp/0618233784/ref=sr_1_1?crid=3LWMZNEQ41GJC&keywords=Way+We+Work+Macaulay&qid=1656343477&sprefix=way+we+work+macaulay%2Caps%2C314&sr=8-1" rel="nofollow"> Buy on Amazon.de</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002858687" rel="nofollow">Buy on Orell Füssli</a>
 
-## Weird but True! , David Macaulay
-
-<img src="## The Way We Work, David Macaulay
+## Weird but True! Human Body, by National Geographic
 
 <img src="https://imgur.com/nCmpse1.png
 " width="25%" />
@@ -32,6 +30,6 @@ A comprehensive visual journey of the human body from cells to systems. Highly d
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002858687" rel="nofollow">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTYwNjgzNiwxNDcyNjg5Njk0LDQ1Mz
-k4NDEzM119
+eyJoaXN0b3J5IjpbLTIwOTMxNDgxNjQsMTQ3MjY4OTY5NCw0NT
+M5ODQxMzNdfQ==
 -->
