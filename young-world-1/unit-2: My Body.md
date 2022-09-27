@@ -1,6 +1,5 @@
 # Young World 1, Unit 2: My Body
-This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
-
+*This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.*
 
 ## The Way We Work, David Macaulay
 
@@ -25,6 +24,6 @@ A comprehensive visual journey of the human body from cells to systems. Highly d
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTE3MzU0NiwtMjA5MzE0ODE2NCwxND
+eyJoaXN0b3J5IjpbMTMzOTI2Nzg5MiwtMjA5MzE0ODE2NCwxND
 cyNjg5Njk0LDQ1Mzk4NDEzM119
 -->
