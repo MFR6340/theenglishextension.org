@@ -1,7 +1,7 @@
 # Team Members
 
 **Megan Farnsworth Rabil**
-
+<img src="https://imgur.com/VPqukjI.png" width="25%" />
 Megan has a M.Ed. Language and Literacy from Harvard, a M.Ed. in Elementary Education from UCLA, and a BA in Classical Studies.  She taught primary school and was a Curriculum Coordinator in Burbank, California. She has also been an Education Officer for the Massachusetts Department of Education and an Education Policy Analyst in Washington DC.  She lives in Baar (ZG) with her husband and 5 children.  
 
 **Theresa Jäger**
@@ -38,5 +38,5 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTI3MjU3OSwxMTMxNDg0MjgzXX0=
+eyJoaXN0b3J5IjpbMTM4NDM1NDA2NSwxMTMxNDg0MjgzXX0=
 -->
