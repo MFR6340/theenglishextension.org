@@ -19,9 +19,6 @@ Tina holds a BA in Early Childhood and Elementary Education from the University 
 Paula holds a BA as a QTS British Primary teacher. She currently teaches English to native speakers in the Birmensdorf(ZH) schools. She has been a private English tutor and has taught both in the UK and International school, Wallisellen. She lives in Birmensdorf (ZH) with her husband and 3 children.
 
 
-
-
-
 **Stormy Berney**
 Stormy is currently the English Mentor for the Zug public primary schools. Her teaching career spans 25 years and includes English, early childhood development, music appreciation, golf and American accent adoption. She has taught in Paris, Geneva and Zug. She is a published writer and was Managing Editor for _The Currier_ in Geneva and _Connect_ magazine in Zug. She holds a MA in Career Counseling and a B.Sc. in Psychology, early childhood development focus.
 
@@ -38,6 +35,7 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjQyNjQ1MjIsLTEwNzQ3NDYyMTMsLT
-EwMzc0MDM5NTQsMTM4NDM1NDA2NSwxMTMxNDg0MjgzXX0=
+eyJoaXN0b3J5IjpbLTIwNTAxOTE4MDgsLTEwMjQyNjQ1MjIsLT
+EwNzQ3NDYyMTMsLTEwMzc0MDM5NTQsMTM4NDM1NDA2NSwxMTMx
+NDg0MjgzXX0=
 -->
