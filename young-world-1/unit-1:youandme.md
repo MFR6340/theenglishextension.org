@@ -17,7 +17,7 @@ Provides information the colors, designs and shapes of the flags of countries of
 Meet kids from 84 countries around the world from Australia to Zambezi.  See where they live and what they do.  
 
 <a href="https://www.bookdepository.com/Lonely-Planet-Kids-This-Is-My-World-Lonely-Planet-Kids/9781787012943?ref=grid-view&qid=1664279444882&sr=1-7" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054007305" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1047548315" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -26,6 +26,6 @@ Meet kids from 84 countries around the world from Australia to Zambezi.  See whe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODcwOTQyMjgsLTM1MTYzOTk4LDE1MD
+eyJoaXN0b3J5IjpbLTE0NzY1NTM0OTEsLTM1MTYzOTk4LDE1MD
 MwMTc4NzEsLTE3MDk1ODgxODZdfQ==
 -->
