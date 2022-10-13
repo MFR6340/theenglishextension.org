@@ -6,7 +6,7 @@
 
 <img src="https://imgur.com/NJxodvq.png" width="25%" />
 
-The story of the life of Louis Braille and how he developed a system for reading.  The book is written in text as well as in Braille.
+The story of the life of Louis Braille and how he lost his eye sight and how his frustration at being unable to read ultimately motivated him to develop a system for reading
 
 <a href="https://www.bookdepository.com/Six-Dots-Story-Young-Louis-Braille-Jen-Bryant/9780449813379?ref=grid-view&qid=1665672398249&sr=1-1#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="" rel="nofollow">Buy on Orell Füssli</a>
@@ -23,6 +23,6 @@ Provides information the colors, designs and shapes of the flags of countries of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODQyNDc2MSwyMTAxMDMxMDQzLDEzNz
+eyJoaXN0b3J5IjpbMTM0NDk0MTM3NywyMTAxMDMxMDQzLDEzNz
 cwNTAyMDcsNjY0MzkwNSwtMTQwMTc1NjM0XX0=
 -->
