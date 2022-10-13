@@ -4,7 +4,7 @@
 
 ## Six Dots, A Story of Young Louis Braille
 
-<img src="https://imgur.com/7nRyPSf.png" width="25%" />
+<img src="https://imgur.com/NJxodvq" width="25%" />
 
 Provides information the colors, designs and shapes of the flags of countries of the world.
 
@@ -23,6 +23,6 @@ Provides information the colors, designs and shapes of the flags of countries of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTAzMTA0MywxMzc3MDUwMjA3LDY2ND
-M5MDUsLTE0MDE3NTYzNF19
+eyJoaXN0b3J5IjpbLTEyMDYwNzgwODksMjEwMTAzMTA0MywxMz
+c3MDUwMjA3LDY2NDM5MDUsLTE0MDE3NTYzNF19
 -->
