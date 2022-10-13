@@ -2,7 +2,7 @@
 
 *This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
-## The Flag Book, Lonely Planet Kids
+## Six Dots, A Story of Young Louis Braille
 
 <img src="https://imgur.com/7nRyPSf.png" width="25%" />
 
@@ -23,6 +23,6 @@ Provides information the colors, designs and shapes of the flags of countries of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDc0OTM4NzUsMTM3NzA1MDIwNyw2Nj
-QzOTA1LC0xNDAxNzU2MzRdfQ==
+eyJoaXN0b3J5IjpbMjEwMTAzMTA0MywxMzc3MDUwMjA3LDY2ND
+M5MDUsLTE0MDE3NTYzNF19
 -->
