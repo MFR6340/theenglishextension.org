@@ -11,18 +11,18 @@ The story of the life of Louis Braille and how he lost his eye sight and how his
 <a href="https://www.bookdepository.com/Six-Dots-Story-Young-Louis-Braille-Jen-Bryant/9780449813379?ref=grid-view&qid=1665672398249&sr=1-1#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="xxx" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here
+## Title here, by author here
 
-<img src="https://imgur.com/7nRyPSf.png" width="25%" />
+<img src="imgurlinkhere.png" width="25%" />
 
-Provides information the colors, designs and shapes of the flags of countries of the world.
+summary here.
 
-<a href="https://www.bookdepository.com/Flag-Book-Lonely-Planet-Kids/9781788683098?ref=grid-view&qid=1656069226646&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054007305" rel="nofollow">Buy on Orell Füssli</a>
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzIxMjU5MiwyMTAxMDMxMDQzLDEzNz
-cwNTAyMDcsNjY0MzkwNSwtMTQwMTc1NjM0XX0=
+eyJoaXN0b3J5IjpbMjk1NTE5MzQ0LDIxMDEwMzEwNDMsMTM3Nz
+A1MDIwNyw2NjQzOTA1LC0xNDAxNzU2MzRdfQ==
 -->
