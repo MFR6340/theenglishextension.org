@@ -4,11 +4,11 @@
 
 ## Six Dots, A Story of Young Louis Braille
 
-<img src="https://imgur.com/NJxodvq" width="25%" />
+<img src="https://imgur.com/NJxodvq.png" width="25%" />
 
 Provides information the colors, designs and shapes of the flags of countries of the world.
 
-<a href="https://www.bookdepository.com/Flag-Book-Lonely-Planet-Kids/9781788683098?ref=grid-view&qid=1656069226646&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Six-Dots-Story-Young-Louis-Braille-Jen-Bryant/9780449813379?ref=grid-view&qid=1665672398249&sr=1-1#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054007305" rel="nofollow">Buy on Orell Füssli</a>
 
 ## The Flag Book, Lonely Planet Kids
@@ -23,6 +23,6 @@ Provides information the colors, designs and shapes of the flags of countries of
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYwNzgwODksMjEwMTAzMTA0MywxMz
-c3MDUwMjA3LDY2NDM5MDUsLTE0MDE3NTYzNF19
+eyJoaXN0b3J5IjpbNDI0MzM1MTgzLDIxMDEwMzEwNDMsMTM3Nz
+A1MDIwNyw2NjQzOTA1LC0xNDAxNzU2MzRdfQ==
 -->
