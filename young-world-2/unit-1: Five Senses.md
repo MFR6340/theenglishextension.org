@@ -22,11 +22,11 @@ summary here.
 
 ## Painting in the Dark, by Rachelle Burke
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/E3qFwW0.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Painting-Dark-Rachelle-Burk/9781943431151?ref=grid-view&qid=1665840447877&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
@@ -43,7 +43,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg4MjI4ODEsLTE3OTUyNTM1NDcsMj
-k1NTE5MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQzOTA1
-LC0xNDAxNzU2MzRdfQ==
+eyJoaXN0b3J5IjpbLTE5Mjk1NDE4MSwtMTc5NTI1MzU0NywyOT
+U1MTkzNDQsMjEwMTAzMTA0MywxMzc3MDUwMjA3LDY2NDM5MDUs
+LTE0MDE3NTYzNF19
 -->
