@@ -1,5 +1,5 @@
 # Young World 2, Unit 3: A World of Color
-This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
+*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
 
 ## Title here, by author here
@@ -14,5 +14,5 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzU3NjExNSwxMDQ2Mzg5OTAxXX0=
+eyJoaXN0b3J5IjpbLTIwMDYxMzg3MjYsMTA0NjM4OTkwMV19
 -->
