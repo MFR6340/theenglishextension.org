@@ -21,9 +21,15 @@ A comprehensive visual journey of the human body from cells to systems. Highly d
 <a href="https://www.bookdepository.com/Weird-But-True-Human-Body-National-Geographic-KIds/9781426327261?ref=grid-view&qid=1664279994796&sr=1-1" rel="nofollow"> Buy on Book Depository </a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1040208620" rel="nofollow">Buy on Orell Füssli</a>
 
+## , by Joanna Cole
 
+<img src="imgurlinkhere.png" width="25%" />
 
+summary here.
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTI2Nzg5MiwtMjA5MzE0ODE2NCwxND
-cyNjg5Njk0LDQ1Mzk4NDEzM119
+eyJoaXN0b3J5IjpbOTg3NjIwMDk1LDEzMzkyNjc4OTIsLTIwOT
+MxNDgxNjQsMTQ3MjY4OTY5NCw0NTM5ODQxMzNdfQ==
 -->
