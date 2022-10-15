@@ -21,15 +21,14 @@ A comprehensive visual journey of the human body from cells to systems. Highly d
 <a href="https://www.bookdepository.com/Weird-But-True-Human-Body-National-Geographic-KIds/9781426327261?ref=grid-view&qid=1664279994796&sr=1-1" rel="nofollow"> Buy on Book Depository </a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1040208620" rel="nofollow">Buy on Orell Füssli</a>
 
-## , by Joanna Cole
+## Magic School Bus (non fiction series) Human Body, by Joanna Cole
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/M96Ip5G.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/The-Magic-School-Bus-Presents-The-Human-Body-Dan-Green-Carolyn-Bracken/9780545683647" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg3NjIwMDk1LDEzMzkyNjc4OTIsLTIwOT
-MxNDgxNjQsMTQ3MjY4OTY5NCw0NTM5ODQxMzNdfQ==
+eyJoaXN0b3J5IjpbLTEyNzgyNzc1ODksMTMzOTI2Nzg5MiwtMj
+A5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1Mzk4NDEzM119
 -->
