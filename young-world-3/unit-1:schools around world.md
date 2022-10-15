@@ -21,6 +21,14 @@ This 2016 updated version of a DK classic shows children from Botswana to Turkey
 <a href="https://www.bookdepository.com/Children-Just-Like-Me-School-Like-Mine-Dk/9781465451002?ref=grid-view&qid=1664202276483&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038917790" rel="nofollow">Buy on Orell Füssli</a>
 
+## The Boy Who Harnessed the Wind, by William Kampwamba
+<img src="https://imgur.com/a4PmuJD.png" width="25%" />
+
+summary here.
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+
 ## Title here, by author here
 
 <img src="imgurlinkhere.png" width="25%" />
@@ -32,8 +40,11 @@ summary here.
 
 
 
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTIxNzE3OTEsLTQ4MjE2NTEyNSwtMT
-Y3MDM1NDk3MCw2NDc0OTQ2ODIsMTIyNjk1MTgwOCwxMTYwNjUx
-MDcsMTE0MjU1MDU0MywxNDA1MTc5NTJdfQ==
+eyJoaXN0b3J5IjpbLTYzNTY3MTEzNSwtNDgyMTY1MTI1LC0xNj
+cwMzU0OTcwLDY0NzQ5NDY4MiwxMjI2OTUxODA4LDExNjA2NTEw
+NywxMTQyNTUwNTQzLDE0MDUxNzk1Ml19
 -->
