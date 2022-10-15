@@ -22,14 +22,14 @@ This 2016 updated version of a DK classic shows children from Botswana to Turkey
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038917790" rel="nofollow">Buy on Orell Füssli</a>
 
 ## The Boy Who Harnessed the Wind, by William Kampwamba
-<img src=".png" width="25%" />
+<img src="https://imgur.com/XF93Hnq.png" width="25%" />
 
 summary here.
 
 <a href="https://www.bookdepository.com/Boy-Who-Harnessed-Wind-William-Kamkwamba/9780147510426?ref=grid-view&qid=1665854100400&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
+
+## Harry otter and the philosopher's stone
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -44,7 +44,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Mjk4Mzg2LC00ODIxNjUxMjUsLTE2Nz
-AzNTQ5NzAsNjQ3NDk0NjgyLDEyMjY5NTE4MDgsMTE2MDY1MTA3
-LDExNDI1NTA1NDMsMTQwNTE3OTUyXX0=
+eyJoaXN0b3J5IjpbLTYzMTU3MzMzNywtNDgyMTY1MTI1LC0xNj
+cwMzU0OTcwLDY0NzQ5NDY4MiwxMjI2OTUxODA4LDExNjA2NTEw
+NywxMTQyNTUwNTQzLDE0MDUxNzk1Ml19
 -->
