@@ -29,21 +29,11 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 <a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001523331" rel="nofollow">Buy on Orell Füssli</a>
 
-
-## Interesting book
-
-<img src="https://i.imgur.com/9byDLFn.png" width="25%" />
-
-A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn.
-
-<a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001523331" rel="nofollow">Buy on Orell Füssli</a>
-
-## Title here, by author here
+## Charlotte’s Web, by E.B. White
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.
+summary here. 
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
@@ -81,9 +71,9 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI4MjY4MTMsLTE0MTU3OTUyNSwxMz
-A1NTU5OTEyLC0xOTU3MzAzMDM2LDEyODExMTU0MCwtNjg4ODkw
-NTUwLDExMjgwMTUzMzUsMTQxODI0MTg4NywtMjA2MDk1NjI2MC
-wtMTQ4MDcyNTU5MiwtMTM2NzkwMTUzOCwxMDUyMjI0NjQ2LDEy
-MjYxNTM4MTldfQ==
+eyJoaXN0b3J5IjpbNzQ4NzE0NDg4LC0xNDE1Nzk1MjUsMTMwNT
+U1OTkxMiwtMTk1NzMwMzAzNiwxMjgxMTE1NDAsLTY4ODg5MDU1
+MCwxMTI4MDE1MzM1LDE0MTgyNDE4ODcsLTIwNjA5NTYyNjAsLT
+E0ODA3MjU1OTIsLTEzNjc5MDE1MzgsMTA1MjIyNDY0NiwxMjI2
+MTUzODE5XX0=
 -->
