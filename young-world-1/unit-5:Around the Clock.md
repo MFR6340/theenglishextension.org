@@ -38,19 +38,19 @@ summary here. (lexile level 720)
 
 ## Sea Clocks: The Story of Longitude, Louise Borden
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/zjyo7RY.png" width="25%" />
 
 summary here. (lexile level 910)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Sea-Clocks-Louise-Borden/9780689842160?ref=grid-view&qid=1665847233702&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003050527" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNzgxNDI5Miw0NjUzNDU3MywtMTYyMj
-gxMjIxLC03MTI4MjYxMjksMTMyNTkwMDEyMywyMTEyODExNjQz
-LC0xNTg5NDkwNzQ1LDE4ODkzNzcyNjMsMTEwMzUxMDE5M119
+eyJoaXN0b3J5IjpbMzUyMTU5NjM0LDQ2NTM0NTczLC0xNjIyOD
+EyMjEsLTcxMjgyNjEyOSwxMzI1OTAwMTIzLDIxMTI4MTE2NDMs
+LTE1ODk0OTA3NDUsMTg4OTM3NzI2MywxMTAzNTEwMTkzXX0=
 -->
