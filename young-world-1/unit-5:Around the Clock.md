@@ -1,5 +1,5 @@
 # Young World 1, Unit 5: Around the Clock
-*This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.*
+*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms..*
 
 ## The 13 Clocks, by James Thurber
 
@@ -50,7 +50,8 @@ summary here. (lexile level 910)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUyMTU5NjM0LDQ2NTM0NTczLC0xNjIyOD
-EyMjEsLTcxMjgyNjEyOSwxMzI1OTAwMTIzLDIxMTI4MTE2NDMs
-LTE1ODk0OTA3NDUsMTg4OTM3NzI2MywxMTAzNTEwMTkzXX0=
+eyJoaXN0b3J5IjpbLTUyMTU2NTc1OSwzNTIxNTk2MzQsNDY1Mz
+Q1NzMsLTE2MjI4MTIyMSwtNzEyODI2MTI5LDEzMjU5MDAxMjMs
+MjExMjgxMTY0MywtMTU4OTQ5MDc0NSwxODg5Mzc3MjYzLDExMD
+M1MTAxOTNdfQ==
 -->
