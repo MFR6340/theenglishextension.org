@@ -11,7 +11,7 @@ The story of the life of Louis Braille and how he lost his eye sight and how his
 <a href="https://www.bookdepository.com/Six-Dots-Story-Young-Louis-Braille-Jen-Bryant/9780449813379?ref=grid-view&qid=1665672398249&sr=1-1#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441269" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
+## ick The Guard Dog, by DKing Smith
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -32,7 +32,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTUyNTM1NDcsMjk1NTE5MzQ0LDIxMD
-EwMzEwNDMsMTM3NzA1MDIwNyw2NjQzOTA1LC0xNDAxNzU2MzRd
-fQ==
+eyJoaXN0b3J5IjpbMTA5MTI3MTMzNSwtMTc5NTI1MzU0NywyOT
+U1MTkzNDQsMjEwMTAzMTA0MywxMzc3MDUwMjA3LDY2NDM5MDUs
+LTE0MDE3NTYzNF19
 -->
