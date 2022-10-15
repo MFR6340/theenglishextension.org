@@ -9,11 +9,7 @@
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
-
-
-
+<a href="https://www.bookdepository.com/If-You-Lived-Here-Houses-World-Giles-Laroche/9780547238920?ref=grid-view&qid=1665846700970&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ## Title here, by author here
 
@@ -24,6 +20,6 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0NzIxMTI1LC04MTg3ODE0MDQsLTEyMT
+eyJoaXN0b3J5IjpbMzkwMjUxMTIzLC04MTg3ODE0MDQsLTEyMT
 cxNTIzNzhdfQ==
 -->
