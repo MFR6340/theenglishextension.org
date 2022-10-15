@@ -6,18 +6,17 @@
 
 <img src="https://imgur.com/eQdEzwj.png" width="25%" />
 
-summary here. (lexile 1000L)
+summary here.
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053851415" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Homer Price, by Robert McCloskey
 
-<img src="https://imgur.com/2nilFd1.png" width="25%" />
+<img src="https://imgur.com/FyueilY.png" width="25%" />
 
-summary here.
+summary here. (lexile 1000L)
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
 
@@ -28,5 +27,5 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDQ2MzAyNiwtMzEwNjIxNDIyXX0=
+eyJoaXN0b3J5IjpbLTE1OTM3NzA4NjAsLTMxMDYyMTQyMl19
 -->
