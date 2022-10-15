@@ -17,8 +17,8 @@ The story of the life of Louis Braille and how he lost his eye sight and how his
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Guard-Dog-Dick-King-Smith/9780552554336?ref=grid-view&qid=1665840171795&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002714171" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
 
@@ -32,7 +32,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc5ODIyMDksLTE3OTUyNTM1NDcsMj
-k1NTE5MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQzOTA1
-LC0xNDAxNzU2MzRdfQ==
+eyJoaXN0b3J5IjpbMTc5NjA2MTM3LC0xNzk1MjUzNTQ3LDI5NT
+UxOTM0NCwyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0MzkwNSwt
+MTQwMTc1NjM0XX0=
 -->
