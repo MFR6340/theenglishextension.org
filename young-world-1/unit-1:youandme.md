@@ -1,5 +1,5 @@
 # Young World 1, Unit 1: You and Me
-*This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.*
+*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
 ## The Flag Book, Lonely Planet Kids
 
@@ -50,7 +50,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTkzNDY0MTcsLTE1NjE4NzA2MDYsLT
-E0NzY1NTM0OTEsLTM1MTYzOTk4LDE1MDMwMTc4NzEsLTE3MDk1
-ODgxODZdfQ==
+eyJoaXN0b3J5IjpbLTEwMDM0NjA1MDgsLTExNTkzNDY0MTcsLT
+E1NjE4NzA2MDYsLTE0NzY1NTM0OTEsLTM1MTYzOTk4LDE1MDMw
+MTc4NzEsLTE3MDk1ODgxODZdfQ==
 -->
