@@ -20,6 +20,15 @@ summary here.
 <a href="https://www.bookdepository.com/Guard-Dog-Dick-King-Smith/9780552554336?ref=grid-view&qid=1665840171795&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002714171" rel="nofollow">Buy on Orell Füssli</a>
 
+## Painting in the Dark, by Rachelle Burke
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+
 ## Title here, by author here
 
 <img src="imgurlinkhere.png" width="25%" />
@@ -31,8 +40,10 @@ summary here.
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NjA2MTM3LC0xNzk1MjUzNTQ3LDI5NT
-UxOTM0NCwyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0MzkwNSwt
-MTQwMTc1NjM0XX0=
+eyJoaXN0b3J5IjpbLTE3Njg4MjI4ODEsLTE3OTUyNTM1NDcsMj
+k1NTE5MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQzOTA1
+LC0xNDAxNzU2MzRdfQ==
 -->
