@@ -59,12 +59,12 @@ summary here. (lexile 600)
 
 ## What’s the Weather by Fraser and Judith Ralston
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/oDhXIpf.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Whats-Weather-Fraser-Ralston/9780241459508?ref=grid-view&qid=1665848334248&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058312596" rel="nofollow">Buy on Orell Füssli</a>
 
 ## The Long Winter, by Laura Ingalls Wilder 
 
@@ -83,9 +83,9 @@ summary here. (Lexile AD 1130L)
 
 <a href="https://www.bookdepository.com/Ox-Cart-Man-Donald-Hall/9780140504415?ref=grid-view&qid=1665848163492&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDk2MjYxNiwtMzI2MTMwNzQ3LC0zMD
-gzODk4MjksMTI2NzM5NDExMywzNDYzOTg0OTEsLTIxOTI4MzMx
-NCwtODcxODEzNzAzLDE4OTA1NTEwMTgsMTc4NDA3Mzg4NSw4OT
-kzNTc3NzksLTc3MjMyNDQwNSwxMzE1MDEwOTI4LDEzMDQ2NjIy
-ODldfQ==
+eyJoaXN0b3J5IjpbLTE3NjcxNTczNjksLTMyNjEzMDc0NywtMz
+A4Mzg5ODI5LDEyNjczOTQxMTMsMzQ2Mzk4NDkxLC0yMTkyODMz
+MTQsLTg3MTgxMzcwMywxODkwNTUxMDE4LDE3ODQwNzM4ODUsOD
+k5MzU3Nzc5LC03NzIzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYy
+Mjg5XX0=
 -->
