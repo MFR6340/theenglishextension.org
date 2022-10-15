@@ -17,8 +17,8 @@ summary here.
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Marguerite-Makes-Book--Robertson/9780892363728" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005363893" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
 
@@ -49,5 +49,5 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjY0MzU1MjMsMTA0NjM4OTkwMV19
+eyJoaXN0b3J5IjpbLTMyMjQ3NDU3NSwxMDQ2Mzg5OTAxXX0=
 -->
