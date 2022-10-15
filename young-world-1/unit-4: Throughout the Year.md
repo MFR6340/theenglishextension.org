@@ -77,16 +77,15 @@ summary here. (lexile 790)
 
 ## The Ox Cart Man, by Donald Hall
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/M9Qpynv.png" width="25%" />
 
 summary here. (Lexile AD 1130L)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Ox-Cart-Man-Donald-Hall/9780140504415?ref=grid-view&qid=1665848163492&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjcxMzAyNDYsLTMyNjEzMDc0NywtMz
-A4Mzg5ODI5LDEyNjczOTQxMTMsMzQ2Mzk4NDkxLC0yMTkyODMz
-MTQsLTg3MTgxMzcwMywxODkwNTUxMDE4LDE3ODQwNzM4ODUsOD
-k5MzU3Nzc5LC03NzIzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYy
-Mjg5XX0=
+eyJoaXN0b3J5IjpbMTQ5MjY4MDgzLC0zMjYxMzA3NDcsLTMwOD
+M4OTgyOSwxMjY3Mzk0MTEzLDM0NjM5ODQ5MSwtMjE5MjgzMzE0
+LC04NzE4MTM3MDMsMTg5MDU1MTAxOCwxNzg0MDczODg1LDg5OT
+M1Nzc3OSwtNzcyMzI0NDA1LDEzMTUwMTA5MjgsMTMwNDY2MjI4
+OV19
 -->
