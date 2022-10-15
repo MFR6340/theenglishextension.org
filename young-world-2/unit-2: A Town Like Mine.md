@@ -18,7 +18,7 @@ summary here. (lexile 1000L)
 
 <a href="https://www.bookdepository.com/Homer-Price-Robert-McCloskey/9780140309270?ref=grid-view&qid=1665841406347&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
-## The Cities Book, Lonely Planet Kids
+## The Cities Book, by Lonely Planet Kids
 
 <img src="https://imgur.com/jLSqG2Y.png" width="25%" />
 
@@ -27,5 +27,5 @@ summary here.
 <a href="https://www.bookdepository.com/Lonely-Planet-Kids-Cities-Book-Lonely-Planet-Kids/9781786570185?ref=grid-view&qid=1665841588904&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039247755" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwMzc2MDEwLC0zMTA2MjE0MjJdfQ==
+eyJoaXN0b3J5IjpbLTE4NzUzNDM5MSwtMzEwNjIxNDIyXX0=
 -->
