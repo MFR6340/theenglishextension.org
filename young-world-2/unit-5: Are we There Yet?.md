@@ -1,6 +1,6 @@
 # Young World 2, Unit 5: Are We There Yet?
 
-This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
+*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
 
 
@@ -14,5 +14,6 @@ summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006158349" rel="nofollow">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3Njc0MzIwLC0xNDY4NjIxNDc1XX0=
+eyJoaXN0b3J5IjpbOTg1NjEyMzE3LDM1NzY3NDMyMCwtMTQ2OD
+YyMTQ3NV19
 -->
