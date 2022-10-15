@@ -25,14 +25,14 @@ Meet kids from 84 countries around the world from Australia to Zambezi.  See whe
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Story-Ireland-Brendan-OBrien/9781847171849?ref=grid-view&qid=1665848988287&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1013487989" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
+## This Is How We Do It: One Day in the Lives of Seven Kids from around the World, by Matt LaMothe
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.
+summary here. 
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
@@ -51,7 +51,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTM5OTQ3OCwtMTU2MTg3MDYwNiwtMT
-Q3NjU1MzQ5MSwtMzUxNjM5OTgsMTUwMzAxNzg3MSwtMTcwOTU4
-ODE4Nl19
+eyJoaXN0b3J5IjpbLTEzODAyNDkzOTMsLTE1NjE4NzA2MDYsLT
+E0NzY1NTM0OTEsLTM1MTYzOTk4LDE1MDMwMTc4NzEsLTE3MDk1
+ODgxODZdfQ==
 -->
