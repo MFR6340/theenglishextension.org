@@ -27,23 +27,13 @@ summary here.
 summary here.
 
 <a href="https://www.bookdepository.com/Painting-Dark-Rachelle-Burk/9781943431151?ref=grid-view&qid=1665840447877&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
-
-## Title here, by author here
-
-<img src="imgurlinkhere.png" width="25%" />
-
-summary here.
-
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
-
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038137025" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk1NDE4MSwtMTc5NTI1MzU0NywyOT
-U1MTkzNDQsMjEwMTAzMTA0MywxMzc3MDUwMjA3LDY2NDM5MDUs
-LTE0MDE3NTYzNF19
+eyJoaXN0b3J5IjpbLTUwMzk2OTQ4OSwtMTkyOTU0MTgxLC0xNz
+k1MjUzNTQ3LDI5NTUxOTM0NCwyMTAxMDMxMDQzLDEzNzcwNTAy
+MDcsNjY0MzkwNSwtMTQwMTc1NjM0XX0=
 -->
