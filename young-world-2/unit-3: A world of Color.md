@@ -4,12 +4,11 @@
 
 ## Ish, by Peter H. Reynolds
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/UtViGvL.png" width="25%" />
 
 summary here.
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
 
@@ -58,5 +57,5 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk4NzI2NzEsMTA0NjM4OTkwMV19
+eyJoaXN0b3J5IjpbLTIxMDU1NTIyMDYsMTA0NjM4OTkwMV19
 -->
