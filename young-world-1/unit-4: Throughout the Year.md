@@ -68,12 +68,12 @@ summary here.
 
 ## The Long Winter, by Laura Ingalls Wilder 
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/Hb6Pps5.png" width="25%" />
 
 summary here. (lexile 790)
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003411951" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
 
@@ -84,7 +84,7 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTc2MTIzNywtMzI2MTMwNzQ3LC0zMD
+eyJoaXN0b3J5IjpbLTE2NzMzMTE5OSwtMzI2MTMwNzQ3LC0zMD
 gzODk4MjksMTI2NzM5NDExMywzNDYzOTg0OTEsLTIxOTI4MzMx
 NCwtODcxODEzNzAzLDE4OTA1NTEwMTgsMTc4NDA3Mzg4NSw4OT
 kzNTc3NzksLTc3MjMyNDQwNSwxMzE1MDEwOTI4LDEzMDQ2NjIy
