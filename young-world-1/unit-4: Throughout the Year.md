@@ -57,15 +57,6 @@ summary here. (lexile 600)
 <a href="https://www.bookdepository.com/Magic-School-Bus-inside-Hurricane-Joanna-Cole/9780590446877?ref=grid-view&qid=1665847708965&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003335907" rel="nofollow">Buy on Orell Füssli</a>
 
-## What’s the Weather by Fraser and Judith Ralston
-
-<img src="https://imgur.com/oDhXIpf.png" width="25%" />
-
-summary here.
-
-<a href="https://www.bookdepository.com/Whats-Weather-Fraser-Ralston/9780241459508?ref=grid-view&qid=1665848334248&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058312596" rel="nofollow">Buy on Orell Füssli</a>
-
 ## The Long Winter, by Laura Ingalls Wilder 
 
 <img src="https://imgur.com/Hb6Pps5.png" width="25%" />
@@ -83,7 +74,7 @@ summary here. (Lexile AD 1130L)
 
 <a href="https://www.bookdepository.com/Ox-Cart-Man-Donald-Hall/9780140504415?ref=grid-view&qid=1665848163492&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjcxNTczNjksLTMyNjEzMDc0NywtMz
+eyJoaXN0b3J5IjpbLTEzMzM5OTE0MTksLTMyNjEzMDc0NywtMz
 A4Mzg5ODI5LDEyNjczOTQxMTMsMzQ2Mzk4NDkxLC0yMTkyODMz
 MTQsLTg3MTgxMzcwMywxODkwNTUxMDE4LDE3ODQwNzM4ODUsOD
 k5MzU3Nzc5LC03NzIzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYy
