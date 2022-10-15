@@ -37,7 +37,7 @@ summary here. (680L)
 
 <a href="https://www.bookdepository.com/Charlottes-Web-E-B-White/9780141354828?ref=grid-view&qid=1665855328386&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
-## Title here, by author here
+## The BFG, by Roald Dahl
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -70,9 +70,9 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MjI2MzI3MSwtMTQxNTc5NTI1LDEzMD
-U1NTk5MTIsLTE5NTczMDMwMzYsMTI4MTExNTQwLC02ODg4OTA1
-NTAsMTEyODAxNTMzNSwxNDE4MjQxODg3LC0yMDYwOTU2MjYwLC
-0xNDgwNzI1NTkyLC0xMzY3OTAxNTM4LDEwNTIyMjQ2NDYsMTIy
-NjE1MzgxOV19
+eyJoaXN0b3J5IjpbNDI1NTczMjg1LC0xNDE1Nzk1MjUsMTMwNT
+U1OTkxMiwtMTk1NzMwMzAzNiwxMjgxMTE1NDAsLTY4ODg5MDU1
+MCwxMTI4MDE1MzM1LDE0MTgyNDE4ODcsLTIwNjA5NTYyNjAsLT
+E0ODA3MjU1OTIsLTEzNjc5MDE1MzgsMTA1MjIyNDY0NiwxMjI2
+MTUzODE5XX0=
 -->
