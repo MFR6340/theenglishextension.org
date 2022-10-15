@@ -34,14 +34,13 @@ discription here (Lexile 1100L)
 
 summary here. (lexile level 720)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Ticktock-Bannekers-Clock-Shana-Keller/9781585369560?ref=grid-view&qid=1665847100281&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-## Title here, by author here
+## Sea Clocks: The Story of Longitude, Louise Borden
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.
+summary here. (lexile level 910)
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
@@ -51,7 +50,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1Mjg2OTE4LDQ2NTM0NTczLC0xNjIyOD
-EyMjEsLTcxMjgyNjEyOSwxMzI1OTAwMTIzLDIxMTI4MTE2NDMs
-LTE1ODk0OTA3NDUsMTg4OTM3NzI2MywxMTAzNTEwMTkzXX0=
+eyJoaXN0b3J5IjpbMTUxNzgxNDI5Miw0NjUzNDU3MywtMTYyMj
+gxMjIxLC03MTI4MjYxMjksMTMyNTkwMDEyMywyMTEyODExNjQz
+LC0xNTg5NDkwNzQ1LDE4ODkzNzcyNjMsMTEwMzUxMDE5M119
 -->
