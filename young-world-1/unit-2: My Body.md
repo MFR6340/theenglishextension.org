@@ -1,5 +1,5 @@
 # Young World 1, Unit 2: My Body
-*This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.*
+*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
 ## The Way We Work, David Macaulay
 
@@ -29,6 +29,6 @@ summary here.
 
 <a href="https://www.bookdepository.com/The-Magic-School-Bus-Presents-The-Human-Body-Dan-Green-Carolyn-Bracken/9780545683647" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgyNzc1ODksMTMzOTI2Nzg5MiwtMj
-A5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1Mzk4NDEzM119
+eyJoaXN0b3J5IjpbLTIzODE0MjIwOCwxMzM5MjY3ODkyLC0yMD
+kzMTQ4MTY0LDE0NzI2ODk2OTQsNDUzOTg0MTMzXX0=
 -->
