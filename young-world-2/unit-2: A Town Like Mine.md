@@ -24,8 +24,8 @@ summary here. (lexile 1000L)
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Lonely-Planet-Kids-Cities-Book-Lonely-Planet-Kids/9781786570185?ref=grid-view&qid=1665841588904&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039247755" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE4MzQwMzEsLTMxMDYyMTQyMl19
+eyJoaXN0b3J5IjpbODkwMzc2MDEwLC0zMTA2MjE0MjJdfQ==
 -->
