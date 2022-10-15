@@ -1,5 +1,5 @@
 # Young World 1, Unit 4: Throughout the Year
-*This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.*
+*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
 ## Snowflake Bentley, by Jacqueline Briggs Martin
 Caldecott Medal Winner
@@ -74,9 +74,9 @@ summary here. (Lexile AD 1130L)
 
 <a href="https://www.bookdepository.com/Ox-Cart-Man-Donald-Hall/9780140504415?ref=grid-view&qid=1665848163492&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM5OTE0MTksLTMyNjEzMDc0NywtMz
-A4Mzg5ODI5LDEyNjczOTQxMTMsMzQ2Mzk4NDkxLC0yMTkyODMz
-MTQsLTg3MTgxMzcwMywxODkwNTUxMDE4LDE3ODQwNzM4ODUsOD
-k5MzU3Nzc5LC03NzIzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYy
-Mjg5XX0=
+eyJoaXN0b3J5IjpbMzUwMTYwNzk0LC0zMjYxMzA3NDcsLTMwOD
+M4OTgyOSwxMjY3Mzk0MTEzLDM0NjM5ODQ5MSwtMjE5MjgzMzE0
+LC04NzE4MTM3MDMsMTg5MDU1MTAxOCwxNzg0MDczODg1LDg5OT
+M1Nzc3OSwtNzcyMzI0NDA1LDEzMTUwMTA5MjgsMTMwNDY2MjI4
+OV19
 -->
