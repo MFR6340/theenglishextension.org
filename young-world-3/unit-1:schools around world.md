@@ -29,7 +29,7 @@ summary here.
 <a href="https://www.bookdepository.com/Boy-Who-Harnessed-Wind-William-Kamkwamba/9780147510426?ref=grid-view&qid=1665854100400&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 
-## Harry otter and the philosopher's stone
+## Harry Potter and the philosopher's stone, by J. K. Rowling
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -44,7 +44,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTU3MzMzNywtNDgyMTY1MTI1LC0xNj
+eyJoaXN0b3J5IjpbMTQ1Mjk2NTQ1NSwtNDgyMTY1MTI1LC0xNj
 cwMzU0OTcwLDY0NzQ5NDY4MiwxMjI2OTUxODA4LDExNjA2NTEw
 NywxMTQyNTUwNTQzLDE0MDUxNzk1Ml19
 -->
