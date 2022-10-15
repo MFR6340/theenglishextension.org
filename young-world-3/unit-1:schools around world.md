@@ -26,7 +26,7 @@ This 2016 updated version of a DK classic shows children from Botswana to Turkey
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Boy-Who-Harnessed-Wind-William-Kamkwamba/9780147510426?ref=grid-view&qid=1665854100400&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
@@ -44,7 +44,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTY3MTEzNSwtNDgyMTY1MTI1LC0xNj
-cwMzU0OTcwLDY0NzQ5NDY4MiwxMjI2OTUxODA4LDExNjA2NTEw
-NywxMTQyNTUwNTQzLDE0MDUxNzk1Ml19
+eyJoaXN0b3J5IjpbLTE2NzIyMjgwODAsLTQ4MjE2NTEyNSwtMT
+Y3MDM1NDk3MCw2NDc0OTQ2ODIsMTIyNjk1MTgwOCwxMTYwNjUx
+MDcsMTE0MjU1MDU0MywxNDA1MTc5NTJdfQ==
 -->
