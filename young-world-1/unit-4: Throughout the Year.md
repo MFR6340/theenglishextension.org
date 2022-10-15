@@ -48,21 +48,45 @@ Lots of amazing National Geographic photos of fascinating weather.  (Lexile 950L
 <a href="https://www.bookdepository.com/DK-Eyewitness-Books-Hurricane-Tornado-Jack-Challoner/9781465420534?ref=grid-view&qid=1656442853663&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1032481893" rel="nofollow">Buy on Orell Füssli</a>
 
+## Title here, by author here
 
+<img src="imgurlinkhere.png" width="25%" />
 
+summary here.
 
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
+## Title here, by author here
 
+<img src="imgurlinkhere.png" width="25%" />
 
+summary here.
 
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
+## Title here, by author here
 
+<img src="imgurlinkhere.png" width="25%" />
 
+summary here.
 
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
+## Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjEzMDc0NywtMzA4Mzg5ODI5LDEyNj
-czOTQxMTMsMzQ2Mzk4NDkxLC0yMTkyODMzMTQsLTg3MTgxMzcw
-MywxODkwNTUxMDE4LDE3ODQwNzM4ODUsODk5MzU3Nzc5LC03Nz
-IzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYyMjg5XX0=
+eyJoaXN0b3J5IjpbLTI5NjYzMjcxMywtMzI2MTMwNzQ3LC0zMD
+gzODk4MjksMTI2NzM5NDExMywzNDYzOTg0OTEsLTIxOTI4MzMx
+NCwtODcxODEzNzAzLDE4OTA1NTEwMTgsMTc4NDA3Mzg4NSw4OT
+kzNTc3NzksLTc3MjMyNDQwNSwxMzE1MDEwOTI4LDEzMDQ2NjIy
+ODldfQ==
 -->
