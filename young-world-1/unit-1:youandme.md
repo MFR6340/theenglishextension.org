@@ -21,12 +21,12 @@ Meet kids from 84 countries around the world from Australia to Zambezi.  See whe
 
 ## The Story of Ireland, by Brendan O’Brien
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/6zAmwpH.png" width="25%" />
 
 summary here.
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1013487989" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
 
@@ -51,6 +51,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE4NzA2MDYsLTE0NzY1NTM0OTEsLT
-M1MTYzOTk4LDE1MDMwMTc4NzEsLTE3MDk1ODgxODZdfQ==
+eyJoaXN0b3J5IjpbMTc0MTM5OTQ3OCwtMTU2MTg3MDYwNiwtMT
+Q3NjU1MzQ5MSwtMzUxNjM5OTgsMTUwMzAxNzg3MSwtMTcwOTU4
+ODE4Nl19
 -->
