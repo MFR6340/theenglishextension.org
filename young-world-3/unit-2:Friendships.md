@@ -39,12 +39,12 @@ summary here. (680L)
 
 ## The BFG, by Roald Dahl
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/FKsGdaK.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/BFG-Roald-Dahl/9780141365428?ref=grid-view&qid=1665855539620&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801519" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
 
@@ -70,9 +70,9 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1NTczMjg1LC0xNDE1Nzk1MjUsMTMwNT
-U1OTkxMiwtMTk1NzMwMzAzNiwxMjgxMTE1NDAsLTY4ODg5MDU1
-MCwxMTI4MDE1MzM1LDE0MTgyNDE4ODcsLTIwNjA5NTYyNjAsLT
-E0ODA3MjU1OTIsLTEzNjc5MDE1MzgsMTA1MjIyNDY0NiwxMjI2
-MTUzODE5XX0=
+eyJoaXN0b3J5IjpbMTM4NDUyNzU2NCwtMTQxNTc5NTI1LDEzMD
+U1NTk5MTIsLTE5NTczMDMwMzYsMTI4MTExNTQwLC02ODg4OTA1
+NTAsMTEyODAxNTMzNSwxNDE4MjQxODg3LC0yMDYwOTU2MjYwLC
+0xNDgwNzI1NTkyLC0xMzY3OTAxNTM4LDEwNTIyMjQ2NDYsMTIy
+NjE1MzgxOV19
 -->
