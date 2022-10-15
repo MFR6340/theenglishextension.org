@@ -55,9 +55,9 @@ summary here.
 <a href="https://www.bookdepository.com/Hundred-Dresses-Eleanor-Estes/9780152052607?ref=grid-view&qid=1665855691211&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006423614" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
+## Bridge to Terabithia, by Katherine Paterson
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="![Bridge to Terabithia](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/0612/9780061227288.jpg).png" width="25%" />
 
 summary here.
 
@@ -70,9 +70,9 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjcwMTUyMzUsLTE0MTU3OTUyNSwxMz
-A1NTU5OTEyLC0xOTU3MzAzMDM2LDEyODExMTU0MCwtNjg4ODkw
-NTUwLDExMjgwMTUzMzUsMTQxODI0MTg4NywtMjA2MDk1NjI2MC
-wtMTQ4MDcyNTU5MiwtMTM2NzkwMTUzOCwxMDUyMjI0NjQ2LDEy
-MjYxNTM4MTldfQ==
+eyJoaXN0b3J5IjpbLTE0Njc5NDY2NTYsLTExMjcwMTUyMzUsLT
+E0MTU3OTUyNSwxMzA1NTU5OTEyLC0xOTU3MzAzMDM2LDEyODEx
+MTU0MCwtNjg4ODkwNTUwLDExMjgwMTUzMzUsMTQxODI0MTg4Ny
+wtMjA2MDk1NjI2MCwtMTQ4MDcyNTU5MiwtMTM2NzkwMTUzOCwx
+MDUyMjI0NjQ2LDEyMjYxNTM4MTldfQ==
 -->
