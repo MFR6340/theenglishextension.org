@@ -39,7 +39,7 @@ summary here. (children from: Italy, Japan, Iran, India, Peru, Uganda, and Russi
 
 ## My Country by Dorothea Mackellar & Andrew McLean
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/OUUlfCh.png" width="25%" />
 
 summary here.
 
@@ -51,7 +51,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzY1NzMyMSwtMTU2MTg3MDYwNiwtMT
+eyJoaXN0b3J5IjpbLTQ4MDA5NTE4NCwtMTU2MTg3MDYwNiwtMT
 Q3NjU1MzQ5MSwtMzUxNjM5OTgsMTUwMzAxNzg3MSwtMTcwOTU4
 ODE4Nl19
 -->
