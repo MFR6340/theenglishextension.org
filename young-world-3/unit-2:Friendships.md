@@ -52,8 +52,8 @@ summary here.
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Hundred-Dresses-Eleanor-Estes/9780152052607?ref=grid-view&qid=1665855691211&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006423614" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
 
@@ -70,9 +70,9 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzNzAzNjE4LC0xNDE1Nzk1MjUsMTMwNT
-U1OTkxMiwtMTk1NzMwMzAzNiwxMjgxMTE1NDAsLTY4ODg5MDU1
-MCwxMTI4MDE1MzM1LDE0MTgyNDE4ODcsLTIwNjA5NTYyNjAsLT
-E0ODA3MjU1OTIsLTEzNjc5MDE1MzgsMTA1MjIyNDY0NiwxMjI2
-MTUzODE5XX0=
+eyJoaXN0b3J5IjpbLTExMjcwMTUyMzUsLTE0MTU3OTUyNSwxMz
+A1NTU5OTEyLC0xOTU3MzAzMDM2LDEyODExMTU0MCwtNjg4ODkw
+NTUwLDExMjgwMTUzMzUsMTQxODI0MTg4NywtMjA2MDk1NjI2MC
+wtMTQ4MDcyNTU5MiwtMTM2NzkwMTUzOCwxMDUyMjI0NjQ2LDEy
+MjYxNTM4MTldfQ==
 -->
