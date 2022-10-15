@@ -1,6 +1,6 @@
 # Young World 3, Unit 2: Friendships
 
-This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
+*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
 ## A Bear Called Paddington
 
@@ -45,8 +45,9 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTU1OTkxMiwtMTk1NzMwMzAzNiwxMj
-gxMTE1NDAsLTY4ODg5MDU1MCwxMTI4MDE1MzM1LDE0MTgyNDE4
-ODcsLTIwNjA5NTYyNjAsLTE0ODA3MjU1OTIsLTEzNjc5MDE1Mz
-gsMTA1MjIyNDY0NiwxMjI2MTUzODE5XX0=
+eyJoaXN0b3J5IjpbLTE0MTU3OTUyNSwxMzA1NTU5OTEyLC0xOT
+U3MzAzMDM2LDEyODExMTU0MCwtNjg4ODkwNTUwLDExMjgwMTUz
+MzUsMTQxODI0MTg4NywtMjA2MDk1NjI2MCwtMTQ4MDcyNTU5Mi
+wtMTM2NzkwMTUzOCwxMDUyMjI0NjQ2LDEyMjYxNTM4MTldfQ==
+
 -->
