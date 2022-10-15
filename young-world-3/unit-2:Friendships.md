@@ -33,7 +33,7 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here. 
+summary here. (680L)
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
@@ -71,9 +71,9 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NzE0NDg4LC0xNDE1Nzk1MjUsMTMwNT
-U1OTkxMiwtMTk1NzMwMzAzNiwxMjgxMTE1NDAsLTY4ODg5MDU1
-MCwxMTI4MDE1MzM1LDE0MTgyNDE4ODcsLTIwNjA5NTYyNjAsLT
-E0ODA3MjU1OTIsLTEzNjc5MDE1MzgsMTA1MjIyNDY0NiwxMjI2
-MTUzODE5XX0=
+eyJoaXN0b3J5IjpbLTQ2MjcyMTc2NSwtMTQxNTc5NTI1LDEzMD
+U1NTk5MTIsLTE5NTczMDMwMzYsMTI4MTExNTQwLC02ODg4OTA1
+NTAsMTEyODAxNTMzNSwxNDE4MjQxODg3LC0yMDYwOTU2MjYwLC
+0xNDgwNzI1NTkyLC0xMzY3OTAxNTM4LDEwNTIyMjQ2NDYsMTIy
+NjE1MzgxOV19
 -->
