@@ -36,7 +36,7 @@ summary here.
 summary here.
 
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -44,7 +44,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyOTM3NDkzLDE0NTI5NjU0NTUsLTQ4Mj
-E2NTEyNSwtMTY3MDM1NDk3MCw2NDc0OTQ2ODIsMTIyNjk1MTgw
-OCwxMTYwNjUxMDcsMTE0MjU1MDU0MywxNDA1MTc5NTJdfQ==
+eyJoaXN0b3J5IjpbMTU1OTg0OTc5OSwxNDUyOTY1NDU1LC00OD
+IxNjUxMjUsLTE2NzAzNTQ5NzAsNjQ3NDk0NjgyLDEyMjY5NTE4
+MDgsMTE2MDY1MTA3LDExNDI1NTA1NDMsMTQwNTE3OTUyXX0=
 -->
