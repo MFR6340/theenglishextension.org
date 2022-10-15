@@ -6,8 +6,7 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 <img src="https://imgur.com/eQdEzwj.png" width="25%" />
 
-summary here.
-
+summary here. (lexile 1000L)
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053851415" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -29,5 +28,5 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzY1MDI1MCwtMzEwNjIxNDIyXX0=
+eyJoaXN0b3J5IjpbLTExMjczMjYwNjMsLTMxMDYyMTQyMl19
 -->
