@@ -57,12 +57,12 @@ summary here.
 
 ## Bridge to Terabithia, by Katherine Paterson
 
-<img src="![Bridge to Terabithia](https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/0612/9780061227288.jpg).png" width="25%" />
+<img src="https://imgur.com/w3OBZpN.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Bridge-Terabithia-Katherine-Paterson/9780061227288?ref=grid-view&qid=1665855943316&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href=https://www.orellfuessli.ch/shop/home/artikeldetails/A1043683097" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -70,9 +70,9 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc5NDY2NTYsLTExMjcwMTUyMzUsLT
-E0MTU3OTUyNSwxMzA1NTU5OTEyLC0xOTU3MzAzMDM2LDEyODEx
-MTU0MCwtNjg4ODkwNTUwLDExMjgwMTUzMzUsMTQxODI0MTg4Ny
-wtMjA2MDk1NjI2MCwtMTQ4MDcyNTU5MiwtMTM2NzkwMTUzOCwx
-MDUyMjI0NjQ2LDEyMjYxNTM4MTldfQ==
+eyJoaXN0b3J5IjpbMTE0NjA3MzI0NywtMTEyNzAxNTIzNSwtMT
+QxNTc5NTI1LDEzMDU1NTk5MTIsLTE5NTczMDMwMzYsMTI4MTEx
+NTQwLC02ODg4OTA1NTAsMTEyODAxNTMzNSwxNDE4MjQxODg3LC
+0yMDYwOTU2MjYwLC0xNDgwNzI1NTkyLC0xMzY3OTAxNTM4LDEw
+NTIyMjQ2NDYsMTIyNjE1MzgxOV19
 -->
