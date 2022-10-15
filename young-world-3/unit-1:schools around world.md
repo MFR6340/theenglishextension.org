@@ -31,11 +31,11 @@ summary here.
 
 ## Harry Potter and the philosopher's stone, by J. K. Rowling
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/naCrhxz.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
 
@@ -44,7 +44,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Mjk2NTQ1NSwtNDgyMTY1MTI1LC0xNj
-cwMzU0OTcwLDY0NzQ5NDY4MiwxMjI2OTUxODA4LDExNjA2NTEw
-NywxMTQyNTUwNTQzLDE0MDUxNzk1Ml19
+eyJoaXN0b3J5IjpbNDUyOTM3NDkzLDE0NTI5NjU0NTUsLTQ4Mj
+E2NTEyNSwtMTY3MDM1NDk3MCw2NDc0OTQ2ODIsMTIyNjk1MTgw
+OCwxMTYwNjUxMDcsMTE0MjU1MDU0MywxNDA1MTc5NTJdfQ==
 -->
