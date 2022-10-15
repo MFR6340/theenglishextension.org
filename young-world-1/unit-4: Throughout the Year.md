@@ -75,18 +75,18 @@ summary here. (lexile 790)
 <a href="https://www.bookdepository.com/Long-Winter-Laura-Ingalls-Wilder/9780064400060?ref=grid-view&qid=1665847899443&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003411951" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
+## The Ox Cart Man, by Donald Hall
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.
+summary here. (Lexile AD 1130L)
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDUwMzQ0MCwtMzI2MTMwNzQ3LC0zMD
-gzODk4MjksMTI2NzM5NDExMywzNDYzOTg0OTEsLTIxOTI4MzMx
-NCwtODcxODEzNzAzLDE4OTA1NTEwMTgsMTc4NDA3Mzg4NSw4OT
-kzNTc3NzksLTc3MjMyNDQwNSwxMzE1MDEwOTI4LDEzMDQ2NjIy
-ODldfQ==
+eyJoaXN0b3J5IjpbLTE5MjcxMzAyNDYsLTMyNjEzMDc0NywtMz
+A4Mzg5ODI5LDEyNjczOTQxMTMsMzQ2Mzk4NDkxLC0yMTkyODMz
+MTQsLTg3MTgxMzcwMywxODkwNTUxMDE4LDE3ODQwNzM4ODUsOD
+k5MzU3Nzc5LC03NzIzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYy
+Mjg5XX0=
 -->
