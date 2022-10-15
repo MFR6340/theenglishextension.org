@@ -10,7 +10,7 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Carry-On-Mr-Bowditch-Jean-Lee-Latham/9780618250745?ref=grid-view&qid=1665843551689&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
@@ -22,5 +22,5 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODAxOTczMiwtMTQ2ODYyMTQ3NV19
+eyJoaXN0b3J5IjpbMTI2NTczMDkzNywtMTQ2ODYyMTQ3NV19
 -->
