@@ -1,5 +1,5 @@
 # Young World 1, Unit 3: Apples and Crisps
-*This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.*
+*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
 ## Apples, by Ken Robbins
 
@@ -46,8 +46,8 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzYxNjkyMCwtMTU5MzI4MTYxNCwyMj
-UzODM1MzksMTg5MDU3NjY4MCwtMTk0MTE4OTUsLTM4NTAwMzI0
-NiwxODg4NDgwMDcwLDE3MjI3MjQ2MzMsMTE4NDE5MzY2NSwtNz
-MyOTMxOTU2XX0=
+eyJoaXN0b3J5IjpbLTE1NzE2MDQ1LC01NzM2MTY5MjAsLTE1OT
+MyODE2MTQsMjI1MzgzNTM5LDE4OTA1NzY2ODAsLTE5NDExODk1
+LC0zODUwMDMyNDYsMTg4ODQ4MDA3MCwxNzIyNzI0NjMzLDExOD
+QxOTM2NjUsLTczMjkzMTk1Nl19
 -->
