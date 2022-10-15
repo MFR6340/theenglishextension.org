@@ -43,15 +43,14 @@ summary here. (children from: Italy, Japan, Iran, India, Peru, Uganda, and Russi
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/My-Country-Dorothea-MacKellar/9781743837702?ref=grid-view&qid=1665849509446&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDA5NTE4NCwtMTU2MTg3MDYwNiwtMT
-Q3NjU1MzQ5MSwtMzUxNjM5OTgsMTUwMzAxNzg3MSwtMTcwOTU4
-ODE4Nl19
+eyJoaXN0b3J5IjpbLTExNTkzNDY0MTcsLTE1NjE4NzA2MDYsLT
+E0NzY1NTM0OTEsLTM1MTYzOTk4LDE1MDMwMTc4NzEsLTE3MDk1
+ODgxODZdfQ==
 -->
