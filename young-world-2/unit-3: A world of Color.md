@@ -11,9 +11,9 @@ summary here.
 <a href="https://www.bookdepository.com/Ish-Peter-H-Reynolds/9781844282968?ref=grid-view&qid=1665842005562&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 
-## Title here, by author here
+## Marguerite Makes a Book, by Bruce Robertson
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/Obtul5O.png" width="25%" />
 
 summary here.
 
@@ -49,5 +49,5 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5NDYwMTkyLDEwNDYzODk5MDFdfQ==
+eyJoaXN0b3J5IjpbLTEzMjY0MzU1MjMsMTA0NjM4OTkwMV19
 -->
