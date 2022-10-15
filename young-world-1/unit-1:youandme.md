@@ -37,7 +37,7 @@ summary here. (children from: Italy, Japan, Iran, India, Peru, Uganda, and Russi
 <a href="https://www.bookdepository.com/This-Is-How-We-Do-It-Matt-Lamothe/9781797218717?ref=grid-view&qid=1665849256702&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063175273" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
+## My Country by Dorothea Mackellar & Andrew McLean
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -51,7 +51,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE1NTI3MjMsLTE1NjE4NzA2MDYsLT
-E0NzY1NTM0OTEsLTM1MTYzOTk4LDE1MDMwMTc4NzEsLTE3MDk1
-ODgxODZdfQ==
+eyJoaXN0b3J5IjpbLTkxNzY1NzMyMSwtMTU2MTg3MDYwNiwtMT
+Q3NjU1MzQ5MSwtMzUxNjM5OTgsMTUwMzAxNzg3MSwtMTcwOTU4
+ODE4Nl19
 -->
