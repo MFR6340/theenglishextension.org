@@ -12,7 +12,7 @@ summary here. (lexile 1000L)
 
 ## Homer Price, by Robert McCloskey
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/2nilFd1.png" width="25%" />
 
 summary here.
 
@@ -28,5 +28,5 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjkxNDI2NjksLTMxMDYyMTQyMl19
+eyJoaXN0b3J5IjpbMjEwMDQ2MzAyNiwtMzEwNjIxNDIyXX0=
 -->
