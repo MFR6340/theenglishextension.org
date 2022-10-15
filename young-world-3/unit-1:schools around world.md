@@ -22,7 +22,7 @@ This 2016 updated version of a DK classic shows children from Botswana to Turkey
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038917790" rel="nofollow">Buy on Orell Füssli</a>
 
 ## The Boy Who Harnessed the Wind, by William Kampwamba
-<img src="https://imgur.com/a4PmuJD.png" width="25%" />
+<img src=".png" width="25%" />
 
 summary here.
 
@@ -44,7 +44,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzIyMjgwODAsLTQ4MjE2NTEyNSwtMT
-Y3MDM1NDk3MCw2NDc0OTQ2ODIsMTIyNjk1MTgwOCwxMTYwNjUx
-MDcsMTE0MjU1MDU0MywxNDA1MTc5NTJdfQ==
+eyJoaXN0b3J5IjpbMTc1Mjk4Mzg2LC00ODIxNjUxMjUsLTE2Nz
+AzNTQ5NzAsNjQ3NDk0NjgyLDEyMjY5NTE4MDgsMTE2MDY1MTA3
+LDExNDI1NTA1NDMsMTQwNTE3OTUyXX0=
 -->
