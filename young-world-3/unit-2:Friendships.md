@@ -31,12 +31,11 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 ## Charlotte’s Web, by E.B. White
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/VDv5kTJ.png" width="25%" />
 
 summary here. (680L)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Charlottes-Web-E-B-White/9780141354828?ref=grid-view&qid=1665855328386&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 ## Title here, by author here
 
@@ -71,7 +70,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MjcyMTc2NSwtMTQxNTc5NTI1LDEzMD
+eyJoaXN0b3J5IjpbMTQ4MjI2MzI3MSwtMTQxNTc5NTI1LDEzMD
 U1NTk5MTIsLTE5NTczMDMwMzYsMTI4MTExNTQwLC02ODg4OTA1
 NTAsMTEyODAxNTMzNSwxNDE4MjQxODg3LC0yMDYwOTU2MjYwLC
 0xNDgwNzI1NTkyLC0xMzY3OTAxNTM4LDEwNTIyMjQ2NDYsMTIy
