@@ -38,17 +38,8 @@ summary here.
 <a href="https://www.bookdepository.com/Dot-Peter-H-Reynolds/9781844281695?ref=grid-view&qid=1665842808024&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002588073" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
-
-<img src="imgurlinkhere.png" width="25%" />
-
-summary here.
-
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODM2MjI0MDEsLTMyMjQ3NDU3NSwxMD
+eyJoaXN0b3J5IjpbLTE4Njk1OTA4NjcsLTMyMjQ3NDU3NSwxMD
 Q2Mzg5OTAxXX0=
 -->
