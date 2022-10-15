@@ -21,12 +21,19 @@ This 2016 updated version of a DK classic shows children from Botswana to Turkey
 <a href="https://www.bookdepository.com/Children-Just-Like-Me-School-Like-Mine-Dk/9781465451002?ref=grid-view&qid=1664202276483&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038917790" rel="nofollow">Buy on Orell Füssli</a>
 
+## Title here, by author here
 
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjE2NTEyNSwtMTY3MDM1NDk3MCw2ND
-c0OTQ2ODIsMTIyNjk1MTgwOCwxMTYwNjUxMDcsMTE0MjU1MDU0
-MywxNDA1MTc5NTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMTIxNzE3OTEsLTQ4MjE2NTEyNSwtMT
+Y3MDM1NDk3MCw2NDc0OTQ2ODIsMTIyNjk1MTgwOCwxMTYwNjUx
+MDcsMTE0MjU1MDU0MywxNDA1MTc5NTJdfQ==
 -->
