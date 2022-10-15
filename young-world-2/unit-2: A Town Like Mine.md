@@ -1,6 +1,6 @@
 # Young World 2, Unit 2: A Town Like Mine
 
-This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
+*This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.*
 
 ## Cities Around the World, by Lucy Menzies
 
@@ -28,5 +28,5 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjczMjYwNjMsLTMxMDYyMTQyMl19
+eyJoaXN0b3J5IjpbLTY5NjIxNjM1OSwtMzEwNjIxNDIyXX0=
 -->
