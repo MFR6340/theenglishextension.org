@@ -11,15 +11,15 @@ summary here.
 <a href="https://www.bookdepository.com/Little-House-Big-Woods-Laura-Ingalls-Wilder/9780064400015?ref=grid-view&qid=1665843122581&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002848480" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
+## The Jungle Book, by Rudyard Kipling
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/p7BPDMw.png" width="25%" />
 
 summary here.
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjkwMjQzOTAsLTExMDA3MzQ0MDEsLT
-g2MTk0MjU0NiwxNTAzNTM0NzQ4XX0=
+eyJoaXN0b3J5IjpbNzQ1MjQ5Njc3LC0xMTAwNzM0NDAxLC04Nj
+E5NDI1NDYsMTUwMzUzNDc0OF19
 -->
