@@ -18,14 +18,14 @@ summary here. (lexile 1000L)
 
 <a href="https://www.bookdepository.com/Homer-Price-Robert-McCloskey/9780140309270?ref=grid-view&qid=1665841406347&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
-## Title here, by author here
+## The Cities Book, Lonely Planet Kids
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/jLSqG2Y.png" width="25%" />
 
 summary here.
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzAwMjE5MTksLTMxMDYyMTQyMl19
+eyJoaXN0b3J5IjpbLTE1NDE4MzQwMzEsLTMxMDYyMTQyMl19
 -->
