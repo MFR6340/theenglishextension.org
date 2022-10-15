@@ -17,9 +17,9 @@ summary here.
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Jungle-Book-Rudyard-Kipling/9780141325293?ref=grid-view&qid=1665843348245&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1MjQ5Njc3LC0xMTAwNzM0NDAxLC04Nj
-E5NDI1NDYsMTUwMzUzNDc0OF19
+eyJoaXN0b3J5IjpbMTYxMDc5NzM5NywtMTEwMDczNDQwMSwtOD
+YxOTQyNTQ2LDE1MDM1MzQ3NDhdfQ==
 -->
