@@ -22,12 +22,12 @@ summary here.
 
 ## The Seventh Most Important Thing- Shelley pearsall
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/DpHYsvF.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Seventh-Most-Important-Thing-Shelley-Pearsall/9780553497311?ref=grid-view&qid=1665842641892&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039319893" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
 
@@ -49,6 +49,6 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTU3NDYzNywtMzIyNDc0NTc1LDEwND
-YzODk5MDFdfQ==
+eyJoaXN0b3J5IjpbNzg1MTY2ODUxLC0zMjI0NzQ1NzUsMTA0Nj
+M4OTkwMV19
 -->
