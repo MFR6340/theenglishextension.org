@@ -31,12 +31,12 @@ summary here.
 
 ## The Dot, by Peter H. Reynolds
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/3ZvEIv5.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Dot-Peter-H-Reynolds/9781844281695?ref=grid-view&qid=1665842808024&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002588073" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
 
@@ -49,6 +49,6 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDE5MDYzOCwtMzIyNDc0NTc1LDEwND
-YzODk5MDFdfQ==
+eyJoaXN0b3J5IjpbLTEwODM2MjI0MDEsLTMyMjQ3NDU3NSwxMD
+Q2Mzg5OTAxXX0=
 -->
