@@ -20,7 +20,7 @@ summary here.
 <a href="https://www.bookdepository.com/Marguerite-Makes-Book--Robertson/9780892363728" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005363893" rel="nofollow">Buy on Orell Füssli</a>
 
-## The Seventh Most Important Thing- Shelley pearsall
+## The Seventh Most Important Thing, by Shelley pearsall
 
 <img src="https://imgur.com/DpHYsvF.png" width="25%" />
 
@@ -29,7 +29,7 @@ summary here.
 <a href="https://www.bookdepository.com/Seventh-Most-Important-Thing-Shelley-Pearsall/9780553497311?ref=grid-view&qid=1665842641892&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039319893" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
+## The Dot, by Peter H. Reynolds
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -49,6 +49,6 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1MTY2ODUxLC0zMjI0NzQ1NzUsMTA0Nj
-M4OTkwMV19
+eyJoaXN0b3J5IjpbMTM0NDE5MDYzOCwtMzIyNDc0NTc1LDEwND
+YzODk5MDFdfQ==
 -->
