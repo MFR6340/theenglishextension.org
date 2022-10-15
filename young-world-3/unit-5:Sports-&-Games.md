@@ -1,10 +1,10 @@
 # Young World 3, Unit 5: Sports & Games
 
-This post contains affiliate links to books. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase additional English books for classrooms.
+*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNDI3MTc2OV19
+eyJoaXN0b3J5IjpbLTMwMDU2NDMwMCwtMzI0MjcxNzY5XX0=
 -->
