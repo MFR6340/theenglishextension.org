@@ -26,15 +26,32 @@ discription here (Lexile 1100L)
 
 
 <a href="https://www.bookdepository.com/Happy-Hollisters-Cuckoo-Clock-Mystery-Jerry-West/9781949436570?ref=grid-view&qid=1656001073916&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053696364" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053696364" rel="nofollow">Buy on Orell Füssli</a> 
 
+## Tick Tock, Banneker’s Clock, by Shana Keller (lexile level 720)
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here. (lexile level 720)
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+
+## Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY1MzQ1NzMsLTE2MjI4MTIyMSwtNzEyOD
-I2MTI5LDEzMjU5MDAxMjMsMjExMjgxMTY0MywtMTU4OTQ5MDc0
-NSwxODg5Mzc3MjYzLDExMDM1MTAxOTNdfQ==
+eyJoaXN0b3J5IjpbLTMxNjA3MDg4MCw0NjUzNDU3MywtMTYyMj
+gxMjIxLC03MTI4MjYxMjksMTMyNTkwMDEyMywyMTEyODExNjQz
+LC0xNTg5NDkwNzQ1LDE4ODkzNzcyNjMsMTEwMzUxMDE5M119
 -->
