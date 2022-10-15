@@ -4,9 +4,9 @@ This post contains affiliate links to books. If you make a purchase through thes
 
 
 
-## Title here, by author here
+## Carry On, Mr. Bowditch, by Jean Lee Latham
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/6rfoBak.png" width="25%" />
 
 summary here.
 
@@ -22,5 +22,5 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTYyNjE0OSwtMTQ2ODYyMTQ3NV19
+eyJoaXN0b3J5IjpbMTM2ODAxOTczMiwtMTQ2ODYyMTQ3NV19
 -->
