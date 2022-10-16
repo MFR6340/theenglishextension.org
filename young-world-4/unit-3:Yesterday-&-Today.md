@@ -30,14 +30,14 @@ summary here. Funny haha
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003007318" rel="nofollow">Buy on Orell Füssli</a>
 
 ## War Horse, Michael Morpurgo
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/GBZ7U8o.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/War-Horse-Michael-Morpurgo/9780439796644?ref=grid-view&qid=1665930437324&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062788659" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
+## Mary Poppins
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -46,5 +46,5 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjcxNDcxNiwtMTE5NDg1MjUzXX0=
+eyJoaXN0b3J5IjpbMTc2NTQ0NTE4MSwtMTE5NDg1MjUzXX0=
 -->
