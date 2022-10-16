@@ -9,8 +9,8 @@
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Kid-Athletes-David-Stabler/9781594748028?ref=grid-view&qid=1665928260307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035793246" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
 
@@ -39,5 +39,6 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NzM2ODI5LC0zMjQyNzE3NjldfQ==
+eyJoaXN0b3J5IjpbLTM3ODE5MjM0LDUzNzczNjgyOSwtMzI0Mj
+cxNzY5XX0=
 -->
