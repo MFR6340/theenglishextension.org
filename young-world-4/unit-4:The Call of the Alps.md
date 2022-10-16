@@ -22,12 +22,12 @@ summary here.
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Heidi, by Johanna Spyri
-<img src="imgurlinkhere.png" width="25%" />
+<img src=".png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Heidi-Johanna-Spyri/9780141322568?ref=grid-view&qid=1665931270781&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005226950" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Happy Hollisters and the Swiss Echo Mystery, by Jerry West
 
@@ -40,5 +40,5 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMDg2OTY0LC03MzI2NjM5MjhdfQ==
+eyJoaXN0b3J5IjpbLTE5NTU5NDQ3MDQsLTczMjY2MzkyOF19
 -->
