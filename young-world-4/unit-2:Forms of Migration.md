@@ -6,12 +6,12 @@
 
 ## Moonbird, a Year on the Wind. By Philip Hoose
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/0oemAkn.png" width="25%" />
 
 summary here. (lexile 1150L)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Moonbird-Phillip-Hoose/9780374304683?ref=grid-view&qid=1665929598174&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018908390" rel="nofollow">Buy on Orell Füssli</a>
 
 
 ## Title here, by author here
@@ -23,5 +23,5 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3ODkyMzYyLDE4Mzk2NjgxNTNdfQ==
+eyJoaXN0b3J5IjpbNjQwNjYzODM1LDE4Mzk2NjgxNTNdfQ==
 -->
