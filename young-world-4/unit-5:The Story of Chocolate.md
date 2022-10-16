@@ -4,13 +4,13 @@
 
 ## Charlie and the Chocolate Factory, by Roald Dahl
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/gSBaQBZ.png" width="25%" />
 
-summary here.
+summary here. (lexile 810)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Charlie-Chocolate-Factory-Roald-Dahl/9780142410318?ref=grid-view&qid=1665931796298&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801520" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk2MTQ5NTAsODY4NzY4MzAsOTIyMDM1Nj
-Y0LDE3MjQ5MjI3NDEsLTEyODY0MDM2MDddfQ==
+eyJoaXN0b3J5IjpbLTE1NTczODY3OTQsODY4NzY4MzAsOTIyMD
+M1NjY0LDE3MjQ5MjI3NDEsLTEyODY0MDM2MDddfQ==
 -->
