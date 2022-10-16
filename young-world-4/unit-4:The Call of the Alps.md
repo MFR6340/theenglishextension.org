@@ -5,12 +5,12 @@
 
 ## Festivals and Traditions in Switzerland, by Barbara Piatti & Yvonne Rogenmoser
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/yF8ZSP4.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Festivals-and-Traditions-in-Switzerland-Barbara-Piatti-Yvonne-Rogenmoser/9780735844162" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056567331" rel="nofollow">Buy on Orell Füssli</a>
 
 ## The Apple and the Arrow, by Mary Buff
 
@@ -40,6 +40,6 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTcyODcyNSwtMTk1NTk0NDcwNCwtNz
+eyJoaXN0b3J5IjpbMTM4NzMxOTYzMywtMTk1NTk0NDcwNCwtNz
 MyNjYzOTI4XX0=
 -->
