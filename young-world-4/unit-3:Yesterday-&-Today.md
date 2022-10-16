@@ -39,13 +39,12 @@ summary here.
 
 ## Mary Poppins, by Pamela L. Travers
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/Nak0fBU.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Mary-Poppins-P-L-Travers/9780007286416?ref=grid-view&qid=1665930949367&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.youtube.com/watch?v=os9J0QXo2AE" rel="nofollow">Buy on  Amazon</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTkzMzYzMCwtMTE5NDg1MjUzXX0=
+eyJoaXN0b3J5IjpbLTMyNzI1MzUyNCwtMTE5NDg1MjUzXX0=
 -->
