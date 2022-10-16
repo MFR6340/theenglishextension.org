@@ -14,12 +14,11 @@ summary here.
 
 ## DK: Children’s book of Sports
 
-<img src="https://imgur.com/undefined.png" width="25%" />
+<img src="https://imgur.com/COT8oyE.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Childrens-Book-Sport-DK/9781405368506?ref=grid-view&qid=1665929123129&sr=1-4" rel="nofollow"> Buy on BookDepository</a>  
 
 ## Sportopedia, by Adam Skinner
 
@@ -30,15 +29,8 @@ summary here.
 <a href="https://www.bookdepository.com/Sportopedia-Adam-Skinner/9781786030849?ref=grid-view&qid=1665928910005&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1048100234" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
 
-<img src="imgurlinkhere.png" width="25%" />
-
-summary here.
-
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzMxMTI1NCw1Mzc3MzY4MjksLTMyND
-I3MTc2OV19
+eyJoaXN0b3J5IjpbLTExMzc3MTM2OTIsNTM3NzM2ODI5LC0zMj
+QyNzE3NjldfQ==
 -->
