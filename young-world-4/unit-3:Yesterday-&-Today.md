@@ -45,7 +45,7 @@ summary here.
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
-<a href="orell fussli link here" rel="nofollow">Buy on  Amazon Füssli</a>
+<a href="https://www.youtube.com/watch?v=os9J0QXo2AE" rel="nofollow">Buy on  Amazon</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ4Nzk4MDgyLC0xMTk0ODUyNTNdfQ==
+eyJoaXN0b3J5IjpbLTExNTkwNDU3ODgsLTExOTQ4NTI1M119
 -->
