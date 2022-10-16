@@ -37,7 +37,7 @@ summary here.
 <a href="https://www.bookdepository.com/War-Horse-Michael-Morpurgo/9780439796644?ref=grid-view&qid=1665930437324&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062788659" rel="nofollow">Buy on Orell Füssli</a>
 
-## Mary Poppins, by Pamela L. Trave
+## Mary Poppins, by Pamela L. Travers
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -47,5 +47,5 @@ summary here.
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <a href="https://www.youtube.com/watch?v=os9J0QXo2AE" rel="nofollow">Buy on  Amazon</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTczNzYyOSwtMTE5NDg1MjUzXX0=
+eyJoaXN0b3J5IjpbLTI5MTkzMzYzMCwtMTE5NDg1MjUzXX0=
 -->
