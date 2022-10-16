@@ -12,9 +12,9 @@ summary here.
 <a href="https://www.bookdepository.com/Adam-Road-Elizabeth-Janet-Gray/9780140324648?ref=grid-view&qid=1665930041706&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354191" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
+## Gold Rush Fever, the Story of the Klondike, by Barbara Greenwood
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src=".png" width="25%" />
 
 summary here.
 
@@ -48,5 +48,5 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ1ODc0MTksLTExOTQ4NTI1M119
+eyJoaXN0b3J5IjpbLTkxMzQxMDY2OCwtMTE5NDg1MjUzXX0=
 -->
