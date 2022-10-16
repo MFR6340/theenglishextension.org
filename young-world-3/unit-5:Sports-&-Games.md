@@ -21,9 +21,9 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
+## Sportopedia, by Adam Skinner
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/4TlTy00.png" width="25%" />
 
 summary here.
 
@@ -39,6 +39,6 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODE5MjM0LDUzNzczNjgyOSwtMzI0Mj
-cxNzY5XX0=
+eyJoaXN0b3J5IjpbLTE3ODUwNzU4MzIsNTM3NzM2ODI5LC0zMj
+QyNzE3NjldfQ==
 -->
