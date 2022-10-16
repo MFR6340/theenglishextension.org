@@ -16,12 +16,11 @@ summary here. (lexile 1150L)
 
 ## Stuart Little, by EB White
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/iIhYxmk.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Stuart-Little-E-B-White/9780064400565?ref=grid-view&qid=1665929853040&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4MzQxMTI3LDE4Mzk2NjgxNTNdfQ==
+eyJoaXN0b3J5IjpbLTEzMzQxODI1NzEsMTgzOTY2ODE1M119
 -->
