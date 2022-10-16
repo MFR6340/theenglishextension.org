@@ -6,13 +6,12 @@
 
 ## Make it Messy, by Marcus Samuelsson
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/undefined.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034596066" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Nzc0NDU0NSwtOTMxOTM0NjQ4LC0xMz
+eyJoaXN0b3J5IjpbMTU2NDQzMzc0MCwtOTMxOTM0NjQ4LC0xMz
 cxMjM5MjQyXX0=
 -->
