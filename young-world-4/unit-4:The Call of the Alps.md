@@ -30,7 +30,7 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
+## Happy Hollisters and the Swiss Echo Mystery, by Jerry West
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -41,5 +41,5 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTI5MjkyOSwtNzMyNjYzOTI4XX0=
+eyJoaXN0b3J5IjpbLTU0NTA4MzA5MywtNzMyNjYzOTI4XX0=
 -->
