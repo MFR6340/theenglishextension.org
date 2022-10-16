@@ -14,7 +14,7 @@ summary here. (lexile 1150L)
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018908390" rel="nofollow">Buy on Orell Füssli</a>
 
 
-## Title here, by author here
+## Stuart Little, by EB White
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -23,5 +23,5 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwNjYzODM1LDE4Mzk2NjgxNTNdfQ==
+eyJoaXN0b3J5IjpbNzU4MzQxMTI3LDE4Mzk2NjgxNTNdfQ==
 -->
