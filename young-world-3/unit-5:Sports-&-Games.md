@@ -12,9 +12,9 @@ summary here.
 <a href="https://www.bookdepository.com/Kid-Athletes-David-Stabler/9781594748028?ref=grid-view&qid=1665928260307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035793246" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
+## DK: Children’s book of Sports
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/undefined.png" width="25%" />
 
 summary here.
 
@@ -39,6 +39,6 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NTEyOTE0MCw1Mzc3MzY4MjksLTMyND
+eyJoaXN0b3J5IjpbMTA5NzMxMTI1NCw1Mzc3MzY4MjksLTMyND
 I3MTc2OV19
 -->
