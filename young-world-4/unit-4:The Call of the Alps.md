@@ -12,17 +12,17 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
+## The Apple and the Arrow, by Mary Buff
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/DsPI10e.png" width="25%" />
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Apple-Arrow-Buff-M/9780618128099?ref=grid-view&qid=1665931458861&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Heidi, by Johanna Spyri
-<img src=".png" width="25%" />
+<img src="https://imgur.com/XPkX05Y.png" width="25%" />
 
 summary here.
 
@@ -40,5 +40,6 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU5NDQ3MDQsLTczMjY2MzkyOF19
+eyJoaXN0b3J5IjpbMjYyMDYxNTM5LC0xOTU1OTQ0NzA0LC03Mz
+I2NjM5MjhdfQ==
 -->
