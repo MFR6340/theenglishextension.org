@@ -27,8 +27,8 @@ summary here.
 
 summary here.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Sportopedia-Adam-Skinner/9781786030849?ref=grid-view&qid=1665928910005&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1048100234" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
 
@@ -39,6 +39,6 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODUwNzU4MzIsNTM3NzM2ODI5LC0zMj
-QyNzE3NjldfQ==
+eyJoaXN0b3J5IjpbLTU3NTEyOTE0MCw1Mzc3MzY4MjksLTMyND
+I3MTc2OV19
 -->
