@@ -26,17 +26,16 @@ summary here.
 
 summary here. Funny haha
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Great-Brain-John-D-Fitzgerald/9780142400586?ref=grid-view&qid=1665930318266&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003007318" rel="nofollow">Buy on Orell Füssli</a>
 
-## Title here, by author here
-
+## War Horse, Michael Morpurgo
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062788659" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
 
@@ -47,5 +46,5 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTcxMDAxMywtMTE5NDg1MjUzXX0=
+eyJoaXN0b3J5IjpbMTYwMjcxNDcxNiwtMTE5NDg1MjUzXX0=
 -->
