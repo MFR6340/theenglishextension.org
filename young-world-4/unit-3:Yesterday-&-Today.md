@@ -22,12 +22,12 @@ summary here.
 
 ## The Great Brain, by John D. Fitzgerald
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/njY8PTT.png" width="25%" />
 
-summary here.
+summary here. Funny haha
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003007318" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Title here, by author here
 
@@ -47,5 +47,5 @@ summary here.
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjE4NjI5MzAsLTExOTQ4NTI1M119
+eyJoaXN0b3J5IjpbLTM2NTcxMDAxMywtMTE5NDg1MjUzXX0=
 -->
