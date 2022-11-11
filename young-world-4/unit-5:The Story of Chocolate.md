@@ -6,11 +6,12 @@
 
 <img src="https://imgur.com/gSBaQBZ.png" width="25%" />
 
-summary here. (lexile 810)
+The fantastic tale of a poor boy who wins a golden ticket to enter Willy Wonka's Chocolate Factory. (lexile 810)
 
 <a href="https://www.bookdepository.com/Charlie-Chocolate-Factory-Roald-Dahl/9780142410318?ref=grid-view&qid=1665931796298&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801520" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTczODY3OTQsODY4NzY4MzAsOTIyMD
-M1NjY0LDE3MjQ5MjI3NDEsLTEyODY0MDM2MDddfQ==
+eyJoaXN0b3J5IjpbMTI1OTMwNTU5MSwtMTU1NzM4Njc5NCw4Nj
+g3NjgzMCw5MjIwMzU2NjQsMTcyNDkyMjc0MSwtMTI4NjQwMzYw
+N119
 -->
