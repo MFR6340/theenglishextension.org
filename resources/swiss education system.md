@@ -33,11 +33,13 @@ Author Margaret Oertig interviewed more than 120 parents to gain insight into th
 ## Consulting
 If you are in central Switzerland and feel you need personalized help in finding the right school for your child, Stefanie Busse can help.  Consult her website at Swiss Education Consulting (swisseducationconsulting.ch) for more information about her services and fees. 
 
-##English Instruction
+## English Instruction
+There are a number of organizations which provide tutoring and supplemental English classes.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyMDIxNDgyLDM5OTU4NDU5NSw2NTI3OD
-AzNjEsNTE1NzYyNDMsLTIwMDAxNzcyNzksMTc3OTUwMzY0OSwt
-MTA1NTEyNjA0LC0xOTA4Nzg5NjQ5LC0xMTgxMTA3MTUzLDEwMj
-UzNDU1NjQsMTQ1NTk5MjM3NCwtMTk1NjA4MjE5OF19
+eyJoaXN0b3J5IjpbMTgxNzIyMjgwNCwzOTk1ODQ1OTUsNjUyNz
+gwMzYxLDUxNTc2MjQzLC0yMDAwMTc3Mjc5LDE3Nzk1MDM2NDks
+LTEwNTUxMjYwNCwtMTkwODc4OTY0OSwtMTE4MTEwNzE1MywxMD
+I1MzQ1NTY0LDE0NTU5OTIzNzQsLTE5NTYwODIxOThdfQ==
 -->
