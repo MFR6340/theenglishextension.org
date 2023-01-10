@@ -36,14 +36,14 @@ The classic children's novel, originally published in German, about an charming 
 
 <img src="https://imgur.com/dtqp6SI.png" width="25%" />
 
-A mystery adventure of the Hollister family while they are on vacation in Switzerland.  While the five children track down the leads to finding missing Mr. Meyer and a diamond t (Lexile 730L)
+A mystery adventure of the Hollister family while visiting Switzerland.  The five children track down the leads to finding missing Mr. Meyer and a diamond and learn about Swiss life and customs.  This book is one in a series (Lexile 730L)
 
 <a href="https://www.bookdepository.com/Happy-Hollisters-Swiss-Echo-Mystery-Jerry-West/9781949436587?ref=grid-view&qid=1665931110999&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053696383" rel="nofollow">Buy on Orell Füssli</a>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjYyNDU1MiwtNzc5NTgzNjE1LC05OD
-Y5MDk5ODcsMTM4NzMxOTYzMywtMTk1NTk0NDcwNCwtNzMyNjYz
-OTI4XX0=
+eyJoaXN0b3J5IjpbLTEwNTEyMTEwMzUsLTc3OTU4MzYxNSwtOT
+g2OTA5OTg3LDEzODczMTk2MzMsLTE5NTU5NDQ3MDQsLTczMjY2
+MzkyOF19
 -->
