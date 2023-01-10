@@ -24,7 +24,8 @@ summary here.
 ## Heidi, by Johanna Spyri
 <img src="https://imgur.com/XPkX05Y.png" width="25%" />
 
-Newberry Honor Book.  The story of William Tell.  N
+Newberry Honor Book.  The story of William Tell, who shot an apple of the head of his son in 1291.  Written from the viewpoint of his son Walter.  (Lexile level 750L) 
+
 
 <a href="https://www.bookdepository.com/Heidi-Johanna-Spyri/9780141322568?ref=grid-view&qid=1665931270781&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005226950" rel="nofollow">Buy on Orell Füssli</a>
@@ -40,6 +41,6 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjkwOTk4NywxMzg3MzE5NjMzLC0xOT
-U1OTQ0NzA0LC03MzI2NjM5MjhdfQ==
+eyJoaXN0b3J5IjpbLTE1ODgwOTc3MDAsLTk4NjkwOTk4NywxMz
+g3MzE5NjMzLC0xOTU1OTQ0NzA0LC03MzI2NjM5MjhdfQ==
 -->
