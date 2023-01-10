@@ -24,7 +24,7 @@ Newberry Honor Book.  The story of William Tell, who shot an apple of the head o
 ## Heidi, by Johanna Spyri
 <img src="https://imgur.com/XPkX05Y.png" width="25%" />
 
-The classic children's novel about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  Originally published in 1880-81 in two parts.  As it is now out of copyright there are quite a few English translations available including for free on Project Gutenberg.  [http://www.gutenberg.org/ebooks/1448](http://www.gutenberg.org/ebooks/1448).
+The classic children's novel about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  Originally published in 1880-81 in two parts.  As it is now out of copyright there are quite a few English translations available including for free on Project Gutenberg.  [http://www.gutenberg.org/ebooks/1448](http://www.gutenberg.org/ebooks/1448).  Lexile level varies on tran
 
 
 
@@ -42,7 +42,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1NzU1MTk5LC03Nzk1ODM2MTUsLTk4Nj
-kwOTk4NywxMzg3MzE5NjMzLC0xOTU1OTQ0NzA0LC03MzI2NjM5
-MjhdfQ==
+eyJoaXN0b3J5IjpbLTIwNjk0NDkwNDQsLTc3OTU4MzYxNSwtOT
+g2OTA5OTg3LDEzODczMTk2MzMsLTE5NTU5NDQ3MDQsLTczMjY2
+MzkyOF19
 -->
