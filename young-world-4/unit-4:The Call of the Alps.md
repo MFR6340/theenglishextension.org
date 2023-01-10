@@ -7,7 +7,7 @@
 
 <img src="https://imgur.com/yF8ZSP4.png" width="25%" />
 
-summary here.
+A lovely book that explains 
 
 <a href="https://www.bookdepository.com/Festivals-and-Traditions-in-Switzerland-Barbara-Piatti-Yvonne-Rogenmoser/9780735844162" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056567331" rel="nofollow">Buy on Orell Füssli</a>
@@ -43,7 +43,7 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQ4NzM3NjksLTc3OTU4MzYxNSwtOT
-g2OTA5OTg3LDEzODczMTk2MzMsLTE5NTU5NDQ3MDQsLTczMjY2
-MzkyOF19
+eyJoaXN0b3J5IjpbLTE4MzU4NTQ2MDcsLTEzNTQ4NzM3NjksLT
+c3OTU4MzYxNSwtOTg2OTA5OTg3LDEzODczMTk2MzMsLTE5NTU5
+NDQ3MDQsLTczMjY2MzkyOF19
 -->
