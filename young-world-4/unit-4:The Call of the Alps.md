@@ -24,7 +24,7 @@ summary here.
 ## Heidi, by Johanna Spyri
 <img src="https://imgur.com/XPkX05Y.png" width="25%" />
 
-summary here.
+Newberry Honor Book.  The story of William Tell.  N
 
 <a href="https://www.bookdepository.com/Heidi-Johanna-Spyri/9780141322568?ref=grid-view&qid=1665931270781&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005226950" rel="nofollow">Buy on Orell Füssli</a>
@@ -40,6 +40,6 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzMxOTYzMywtMTk1NTk0NDcwNCwtNz
-MyNjYzOTI4XX0=
+eyJoaXN0b3J5IjpbLTk4NjkwOTk4NywxMzg3MzE5NjMzLC0xOT
+U1OTQ0NzA0LC03MzI2NjM5MjhdfQ==
 -->
