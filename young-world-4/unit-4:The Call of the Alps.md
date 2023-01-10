@@ -24,7 +24,8 @@ Newberry Honor Book.  The story of William Tell, who shot an apple of the head o
 ## Heidi, by Johanna Spyri
 <img src="https://imgur.com/XPkX05Y.png" width="25%" />
 
-The classic children's novel about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  Originally published in 1880-81 in two parts.  As it is now out of copyright there are quite a few English translations available including for free on Project Gutenberg.  [http://www.gutenberg.org/ebooks/1448](http://www.gutenberg.org/ebooks/1448).  Lexile level varies on tran
+The classic children's novel, originally published in German, about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  Originally published in 1880-81 in two parts.  As it is now out of copyright there are quite a few English translations available including for free on Project Gutenberg.  [http://www.gutenberg.org/ebooks/1448](http://www.gutenberg.org/ebooks/1448).  Lexile level varies based on translation. 
+
 
 
 
@@ -35,14 +36,14 @@ The classic children's novel about an charming orphan girl who is sent to live w
 
 <img src="https://imgur.com/dtqp6SI.png" width="25%" />
 
-summary here.
+summary here. (Lexile 730L)
 
 <a href="https://www.bookdepository.com/Happy-Hollisters-Swiss-Echo-Mystery-Jerry-West/9781949436587?ref=grid-view&qid=1665931110999&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053696383" rel="nofollow">Buy on Orell Füssli</a>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk0NDkwNDQsLTc3OTU4MzYxNSwtOT
-g2OTA5OTg3LDEzODczMTk2MzMsLTE5NTU5NDQ3MDQsLTczMjY2
-MzkyOF19
+eyJoaXN0b3J5IjpbMTYzNzc0MzgsLTc3OTU4MzYxNSwtOTg2OT
+A5OTg3LDEzODczMTk2MzMsLTE5NTU5NDQ3MDQsLTczMjY2Mzky
+OF19
 -->
