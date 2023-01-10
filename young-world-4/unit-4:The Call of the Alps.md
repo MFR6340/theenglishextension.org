@@ -7,7 +7,7 @@
 
 <img src="https://imgur.com/yF8ZSP4.png" width="25%" />
 
-A lovely book that explains festivals and gatherings that take place throughout Switzerland from Fasnacht festivites to the , to the Bullmarket in Zug. 
+A lovely book that explains festivals and gatherings that take place throughout Switzerland including the well-known Carnival festivites to the Bullmarket in Zug.  Basel, to Jura, to Zug.  Fasnacht festivites to the , to the Bullmarket in Zug. 
 
 <a href="https://www.bookdepository.com/Festivals-and-Traditions-in-Switzerland-Barbara-Piatti-Yvonne-Rogenmoser/9780735844162" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056567331" rel="nofollow">Buy on Orell Füssli</a>
@@ -43,7 +43,8 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2NDcwMDEwLC02NzQxNjMxODgsLTEzNT
-Q4NzM3NjksLTc3OTU4MzYxNSwtOTg2OTA5OTg3LDEzODczMTk2
-MzMsLTE5NTU5NDQ3MDQsLTczMjY2MzkyOF19
+eyJoaXN0b3J5IjpbLTE3ODE1MTE3OTMsNzg2NDcwMDEwLC02Nz
+QxNjMxODgsLTEzNTQ4NzM3NjksLTc3OTU4MzYxNSwtOTg2OTA5
+OTg3LDEzODczMTk2MzMsLTE5NTU5NDQ3MDQsLTczMjY2MzkyOF
+19
 -->
