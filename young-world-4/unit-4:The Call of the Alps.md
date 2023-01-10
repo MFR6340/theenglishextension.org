@@ -24,7 +24,7 @@ Newberry Honor Book.  The story of William Tell, who shot an apple of the head o
 ## Heidi, by Johanna Spyri
 <img src="https://imgur.com/XPkX05Y.png" width="25%" />
 
-
+The classic children's novel about an orphan girl who is sent to live with her grandfather in the Swiss Alps.
 
 
 <a href="https://www.bookdepository.com/Heidi-Johanna-Spyri/9780141322568?ref=grid-view&qid=1665931270781&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
@@ -41,6 +41,6 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODc3MTEzOTQsLTk4NjkwOTk4NywxMz
-g3MzE5NjMzLC0xOTU1OTQ0NzA0LC03MzI2NjM5MjhdfQ==
+eyJoaXN0b3J5IjpbLTc3OTU4MzYxNSwtOTg2OTA5OTg3LDEzOD
+czMTk2MzMsLTE5NTU5NDQ3MDQsLTczMjY2MzkyOF19
 -->
