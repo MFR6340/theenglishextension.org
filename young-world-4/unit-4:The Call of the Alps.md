@@ -7,7 +7,7 @@
 
 <img src="https://imgur.com/yF8ZSP4.png" width="25%" />
 
-A lovely book that explains festivals and gatherings that take place throughout Switzerland from Fasnacht, to the 
+A lovely book that explains festivals and gatherings that take place throughout Switzerland from Fasnacht festivites to celebrate, to the Bullmarket in Zug. 
 
 <a href="https://www.bookdepository.com/Festivals-and-Traditions-in-Switzerland-Barbara-Piatti-Yvonne-Rogenmoser/9780735844162" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056567331" rel="nofollow">Buy on Orell Füssli</a>
@@ -43,7 +43,7 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDE2MzE4OCwtMTM1NDg3Mzc2OSwtNz
-c5NTgzNjE1LC05ODY5MDk5ODcsMTM4NzMxOTYzMywtMTk1NTk0
-NDcwNCwtNzMyNjYzOTI4XX0=
+eyJoaXN0b3J5IjpbLTExMzkzMDA2NjQsLTY3NDE2MzE4OCwtMT
+M1NDg3Mzc2OSwtNzc5NTgzNjE1LC05ODY5MDk5ODcsMTM4NzMx
+OTYzMywtMTk1NTk0NDcwNCwtNzMyNjYzOTI4XX0=
 -->
