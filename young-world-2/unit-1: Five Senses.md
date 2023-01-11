@@ -22,7 +22,7 @@ Explains why and how Louis Braille invented the system of printing for the blind
 
 ## Out of Darkness, the Story of Louis Braille, by Russell Friedman
 
-<img src="https://i.imgur.com/yeGgE4B.png" width="25%" />
+<img src="blob:https://imgur.com/b7a9ba28-ce8f-4725-bb80-fd2c3338487a" width="25%" />
 
 Explains why and how Louis Braille invented the system of printing for the blind.  (Lexile 580L)
 
@@ -54,8 +54,8 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjUwMjI3MCwxODYwMDQ1MTc4LC02OD
-AzOTcwNTEsMTE4ODk5NTEzNSwtNTAzOTY5NDg5LC0xOTI5NTQx
-ODEsLTE3OTUyNTM1NDcsMjk1NTE5MzQ0LDIxMDEwMzEwNDMsMT
-M3NzA1MDIwNyw2NjQzOTA1LC0xNDAxNzU2MzRdfQ==
+eyJoaXN0b3J5IjpbLTM2NTU2MjgyLDE4NjAwNDUxNzgsLTY4MD
+M5NzA1MSwxMTg4OTk1MTM1LC01MDM5Njk0ODksLTE5Mjk1NDE4
+MSwtMTc5NTI1MzU0NywyOTU1MTkzNDQsMjEwMTAzMTA0MywxMz
+c3MDUwMjA3LDY2NDM5MDUsLTE0MDE3NTYzNF19
 -->
