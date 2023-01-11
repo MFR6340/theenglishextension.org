@@ -13,7 +13,7 @@ The story of the life of Louis Braille and how he lost his eye sight and how his
 
 ## Louis Braille, The Boy Who Invented Books for the Blind, by Margaret Davidson
 
-<img src="https://imgur.com/vCoeds5" width="25%" />
+<img src="https://i.imgur.com/vCoeds5.png" width="25%" />
 
 Explains why and how Louis Braille invented the system of printing for the blind.  (Lexile 580L)
 
@@ -44,8 +44,8 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTAwNzgxOTMsMTE4ODk5NTEzNSwtNT
-AzOTY5NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1NDcsMjk1NTE5
-MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQzOTA1LC0xND
-AxNzU2MzRdfQ==
+eyJoaXN0b3J5IjpbLTY4MDM5NzA1MSwxMTg4OTk1MTM1LC01MD
+M5Njk0ODksLTE5Mjk1NDE4MSwtMTc5NTI1MzU0NywyOTU1MTkz
+NDQsMjEwMTAzMTA0MywxMzc3MDUwMjA3LDY2NDM5MDUsLTE0MD
+E3NTYzNF19
 -->
