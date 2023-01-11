@@ -18,7 +18,7 @@ The story of the life of Louis Braille and how he lost his eye sight and how his
 Explains why and how Louis Braille invented the system of printing for the blind.  (Lexile 580L)
 
 <a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441269" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/suggestartike/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -44,7 +44,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU4NTUzOTksMTE4ODk5NTEzNSwtNT
+eyJoaXN0b3J5IjpbLTE0NTAwNzgxOTMsMTE4ODk5NTEzNSwtNT
 AzOTY5NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1NDcsMjk1NTE5
 MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQzOTA1LC0xND
 AxNzU2MzRdfQ==
