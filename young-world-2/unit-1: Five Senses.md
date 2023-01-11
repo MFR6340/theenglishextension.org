@@ -45,7 +45,7 @@ The cute, little and unintimidating dog really wants to become a guard dog, but 
 
 <img src="https://imgur.com/E3qFwW0.png" width="25%" />
 
-summary here.
+summary here.  (Lexile 920L)
 
 <a href="https://www.bookdepository.com/Painting-Dark-Rachelle-Burk/9781943431151?ref=grid-view&qid=1665840447877&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038137025" rel="nofollow">Buy on Orell Füssli</a>
@@ -54,8 +54,8 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDgyMTMyOTcsMTg2MDA0NTE3OCwtNj
-gwMzk3MDUxLDExODg5OTUxMzUsLTUwMzk2OTQ4OSwtMTkyOTU0
-MTgxLC0xNzk1MjUzNTQ3LDI5NTUxOTM0NCwyMTAxMDMxMDQzLD
-EzNzcwNTAyMDcsNjY0MzkwNSwtMTQwMTc1NjM0XX0=
+eyJoaXN0b3J5IjpbMTEwNzY5MzcwMCwxODYwMDQ1MTc4LC02OD
+AzOTcwNTEsMTE4ODk5NTEzNSwtNTAzOTY5NDg5LC0xOTI5NTQx
+ODEsLTE3OTUyNTM1NDcsMjk1NTE5MzQ0LDIxMDEwMzEwNDMsMT
+M3NzA1MDIwNyw2NjQzOTA1LC0xNDAxNzU2MzRdfQ==
 -->
