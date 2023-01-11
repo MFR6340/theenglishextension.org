@@ -11,6 +11,17 @@ The story of the life of Louis Braille and how he lost his eye sight and how his
 <a href="https://www.bookdepository.com/Six-Dots-Story-Young-Louis-Braille-Jen-Bryant/9780449813379?ref=grid-view&qid=1665672398249&sr=1-1#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441269" rel="nofollow">Buy on Orell Füssli</a>
 
+## Louis Braille, A Story of Young Louis Braille, by Jen Bryant
+
+<img src="https://imgur.com/NJxodvq.png" width="25%" />
+
+The story of the life of Louis Braille and how he lost his eye sight and how his frustration at being unable to read ultimately motivated him to develop a raised alphabet.  (Lexile 590L)
+
+<a href="https://www.bookdepository.com/Six-Dots-Story-Young-Louis-Braille-Jen-Bryant/9780449813379?ref=grid-view&qid=1665672398249&sr=1-1#" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441269" rel="nofollow">Buy on Orell Füssli</a>
+
+
+
 ## The Guard Dog, by Dick King Smith
 
 <img src="https://imgur.com/kZ3HTR1.png" width="25%" />
@@ -33,7 +44,8 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODk5NTEzNSwtNTAzOTY5NDg5LC0xOT
-I5NTQxODEsLTE3OTUyNTM1NDcsMjk1NTE5MzQ0LDIxMDEwMzEw
-NDMsMTM3NzA1MDIwNyw2NjQzOTA1LC0xNDAxNzU2MzRdfQ==
+eyJoaXN0b3J5IjpbLTExNzI1NjAyMjYsMTE4ODk5NTEzNSwtNT
+AzOTY5NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1NDcsMjk1NTE5
+MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQzOTA1LC0xND
+AxNzU2MzRdfQ==
 -->
