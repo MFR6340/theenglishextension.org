@@ -13,7 +13,7 @@ The story of the life of Louis Braille and how he lost his eye sight and how his
 
 ## Louis Braille, The Boy Who Invented Books for the Blind, by Margaret Davidson
 
-<img src="https://imgur.com/NJxodvq.png" width="25%" />
+<img src="https://imgur.com/vCoeds5" width="25%" />
 
 The story of the life of Louis Braille and how he lost his eye sight and how his frustration at being unable to read ultimately motivated him to develop a raised alphabet.  (Lexile 590L)
 
@@ -44,7 +44,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5MTY5MzQxLDExODg5OTUxMzUsLTUwMz
+eyJoaXN0b3J5IjpbNzUzMDQyOTQ1LDExODg5OTUxMzUsLTUwMz
 k2OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LDI5NTUxOTM0
 NCwyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0MzkwNSwtMTQwMT
 c1NjM0XX0=
