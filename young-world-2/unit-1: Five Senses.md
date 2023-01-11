@@ -24,7 +24,7 @@ Explains why and how Louis Braille invented the system of printing for the blind
 
 <img src="https://i.imgur.com/nHMN3td.png" width="25%" />
 
-Biography on .  (Lexile 1000L)
+Biography on the life of Louis Braille, how he became blind, and his incredible development of the alphabet.  (Lexile 1000L)
 
 <a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartike/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -54,7 +54,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NTQ5MjgxLDE4NjAwNDUxNzgsLTY4MD
+eyJoaXN0b3J5IjpbMzE5NTEzODcxLDE4NjAwNDUxNzgsLTY4MD
 M5NzA1MSwxMTg4OTk1MTM1LC01MDM5Njk0ODksLTE5Mjk1NDE4
 MSwtMTc5NTI1MzU0NywyOTU1MTkzNDQsMjEwMTAzMTA0MywxMz
 c3MDUwMjA3LDY2NDM5MDUsLTE0MDE3NTYzNF19
