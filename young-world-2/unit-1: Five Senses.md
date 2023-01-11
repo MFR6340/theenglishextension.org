@@ -6,7 +6,7 @@
 
 <img src="https://imgur.com/NJxodvq.png" width="25%" />
 
-The story of the life of Louis Braille and how he lost his eye sight and how his frustration at being unable to read ultimately motivated him to develop a raised alphabet.  (Lexile 590L)
+The story of the life of Louis Braille and how he lost his eye sight and how his frustration at being unable to read ultimately motivated him to develop a raised alphabet.  High interest and lower readibilty suitable for reluctant readers. (Lexile 590L)
 
 <a href="https://www.bookdepository.com/Six-Dots-Story-Young-Louis-Braille-Jen-Bryant/9780449813379?ref=grid-view&qid=1665672398249&sr=1-1#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441269" rel="nofollow">Buy on Orell Füssli</a>
@@ -15,7 +15,7 @@ The story of the life of Louis Braille and how he lost his eye sight and how his
 
 <img src="https://i.imgur.com/vCoeds5.png" width="25%" />
 
-Explains why and how Louis Braille invented the system of printing for the blind.  Good for reluc (Lexile 580L)
+Explains why and how Louis Braille invented the system of printing for the blind.  Good for reluctant readers.  (Lexile 580L)
 
 <a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartike/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -36,7 +36,7 @@ A biography on the life of Louis Braille, how he became blind, and his incredibl
 
 <img src="https://imgur.com/kZ3HTR1.png" width="25%" />
 
-summary here.
+summary here. (Lexile
 
 <a href="https://www.bookdepository.com/Guard-Dog-Dick-King-Smith/9780552554336?ref=grid-view&qid=1665840171795&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002714171" rel="nofollow">Buy on Orell Füssli</a>
@@ -54,8 +54,8 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzg0NjM0MDYsMTg2MDA0NTE3OCwtNj
-gwMzk3MDUxLDExODg5OTUxMzUsLTUwMzk2OTQ4OSwtMTkyOTU0
-MTgxLC0xNzk1MjUzNTQ3LDI5NTUxOTM0NCwyMTAxMDMxMDQzLD
-EzNzcwNTAyMDcsNjY0MzkwNSwtMTQwMTc1NjM0XX0=
+eyJoaXN0b3J5IjpbMTkyNDYyMTY2NSwxODYwMDQ1MTc4LC02OD
+AzOTcwNTEsMTE4ODk5NTEzNSwtNTAzOTY5NDg5LC0xOTI5NTQx
+ODEsLTE3OTUyNTM1NDcsMjk1NTE5MzQ0LDIxMDEwMzEwNDMsMT
+M3NzA1MDIwNyw2NjQzOTA1LC0xNDAxNzU2MzRdfQ==
 -->
