@@ -36,7 +36,7 @@ A biography on the life of Louis Braille, how he became blind, and his incredibl
 
 <img src="https://imgur.com/kZ3HTR1.png" width="25%" />
 
-The cute, little and unintimidating dog really wants to become a guard dog, but no one wants him . (Lexile NC810L)
+The cute, little and unintimidating dog really wants to become a guard dog, but no one wants him because his bark is so awful.  Nice twist at the end when a hard -of-hearing man comes along.  (Lexile NC810L)
 
 <a href="https://www.bookdepository.com/Guard-Dog-Dick-King-Smith/9780552554336?ref=grid-view&qid=1665840171795&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002714171" rel="nofollow">Buy on Orell Füssli</a>
@@ -54,7 +54,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzUxNjYzMjAsMTg2MDA0NTE3OCwtNj
+eyJoaXN0b3J5IjpbLTE2NDgyMTMyOTcsMTg2MDA0NTE3OCwtNj
 gwMzk3MDUxLDExODg5OTUxMzUsLTUwMzk2OTQ4OSwtMTkyOTU0
 MTgxLC0xNzk1MjUzNTQ3LDI5NTUxOTM0NCwyMTAxMDMxMDQzLD
 EzNzcwNTAyMDcsNjY0MzkwNSwtMTQwMTc1NjM0XX0=
