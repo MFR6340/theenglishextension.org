@@ -15,9 +15,9 @@ The story of the life of Louis Braille and how he lost his eye sight and how his
 
 <img src="https://imgur.com/vCoeds5" width="25%" />
 
-The story of the life of Louis Braille and how he lost his eye sight and how his frustration at being unable to read ultimately motivated him to develop a raised alphabet.  (Lexile 580L)
+Explains why and how Louis Braille invented the system of printing for the blind.  (Lexile 580L)
 
-<a href="https://www.bookdepository.com/Six-Dots-Story-Young-Louis-Braille-Jen-Bryant/9780449813379?ref=grid-view&qid=1665672398249&sr=1-1#" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441269" rel="nofollow">Buy on Orell Füssli</a>
 
 
@@ -44,8 +44,8 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2NDAwODAyLDExODg5OTUxMzUsLTUwMz
-k2OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LDI5NTUxOTM0
-NCwyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0MzkwNSwtMTQwMT
-c1NjM0XX0=
+eyJoaXN0b3J5IjpbLTEzMTU4NTUzOTksMTE4ODk5NTEzNSwtNT
+AzOTY5NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1NDcsMjk1NTE5
+MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQzOTA1LC0xND
+AxNzU2MzRdfQ==
 -->
