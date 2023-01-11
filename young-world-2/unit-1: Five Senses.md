@@ -20,6 +20,16 @@ Explains why and how Louis Braille invented the system of printing for the blind
 <a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartike/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
+## Out of Darkness, the Story of Louis Braille, by Russell Friedman
+
+<img src="https://i.imgur.com/vCoeds5.png" width="25%" />
+
+Explains why and how Louis Braille invented the system of printing for the blind.  (Lexile 580L)
+
+<a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/suggestartike/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
+
+
 
 
 ## The Guard Dog, by Dick King Smith
@@ -44,8 +54,8 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDM5NzA1MSwxMTg4OTk1MTM1LC01MD
-M5Njk0ODksLTE5Mjk1NDE4MSwtMTc5NTI1MzU0NywyOTU1MTkz
-NDQsMjEwMTAzMTA0MywxMzc3MDUwMjA3LDY2NDM5MDUsLTE0MD
-E3NTYzNF19
+eyJoaXN0b3J5IjpbMTg2MDA0NTE3OCwtNjgwMzk3MDUxLDExOD
+g5OTUxMzUsLTUwMzk2OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUz
+NTQ3LDI5NTUxOTM0NCwyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNj
+Y0MzkwNSwtMTQwMTc1NjM0XX0=
 -->
