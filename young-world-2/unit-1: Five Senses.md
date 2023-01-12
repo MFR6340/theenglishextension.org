@@ -57,15 +57,16 @@ Dedicated to help and raise awareness of blind and partially-sighted people, the
 <a href="https://www.blindekuh.ch/restaurant-blindekuh-dinner-in-the-dark.html" rel="nofollow"> Blinde Kuh Restaurant</a> 
 
 
-Donate an audio book or make an appointment to visit the remarkable SBS Schweizerische Bibliothek für Blinde, Seh- und Lesebehinderte (Swiss library for the blind, visually impaired and print disabled)  It has provided books, music and games to the blind and visually impaired for over 100 years.  https://www.sbs.ch/english/
+Donate an audio book or make an appointment to visit the remarkable SBS Schweizerische Bibliothek für Blinde, Seh- und Lesebehinderte (Swiss library for the blind, visually impaired and print disabled)  It has provided books, music and games to the blind and visually impaired for over 100 years.  
+<a href="https://www.sbs.ch/english/" rel="nofollow"> Blinde Kuh Restaurant</a>
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ5NDA5NjgsNDczNzU2MzA1LC04Mz
-U4OTM2OTMsLTY1NTc0MzM5NywxMTA3NjkzNzAwLDE4NjAwNDUx
-NzgsLTY4MDM5NzA1MSwxMTg4OTk1MTM1LC01MDM5Njk0ODksLT
-E5Mjk1NDE4MSwtMTc5NTI1MzU0NywyOTU1MTkzNDQsMjEwMTAz
-MTA0MywxMzc3MDUwMjA3LDY2NDM5MDUsLTE0MDE3NTYzNF19
+eyJoaXN0b3J5IjpbLTM3MTgzNjU3MCw0NzM3NTYzMDUsLTgzNT
+g5MzY5MywtNjU1NzQzMzk3LDExMDc2OTM3MDAsMTg2MDA0NTE3
+OCwtNjgwMzk3MDUxLDExODg5OTUxMzUsLTUwMzk2OTQ4OSwtMT
+kyOTU0MTgxLC0xNzk1MjUzNTQ3LDI5NTUxOTM0NCwyMTAxMDMx
+MDQzLDEzNzcwNTAyMDcsNjY0MzkwNSwtMTQwMTc1NjM0XX0=
 -->
