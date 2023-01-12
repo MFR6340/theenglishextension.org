@@ -29,13 +29,13 @@ summary here.
 
 ## Carrie's War, by Nina Bawden
 
-<img src="https://imgur.com/jLSqG2Y.png" width="25%" />
+<img src="https://i.imgur.com/XFBCugf.png" width="25%" />
 
 summary here.
 
 <a href="https://www.bookdepository.com/Carrie-s-War/9780349009162" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDc4NTkzNSw1NTk5NTAwMzcsLTE4Nz
-UzNDM5MSwtMzEwNjIxNDIyXX0=
+eyJoaXN0b3J5IjpbLTE1NTE2MzE5OTksNTU5OTUwMDM3LC0xOD
+c1MzQzOTEsLTMxMDYyMTQyMl19
 -->
