@@ -6,7 +6,7 @@
 
 <img src="https://imgur.com/NJxodvq.png" width="25%" />
 
-The story of the life of Louis Braille and how he lost his eye sight and how his frustration at being unable to read ultimately motivated him to develop a raised alphabet.  High interest and lower readibilty suitable for reluctant readers. (Lexile 590L)
+The story of the life of Louis Braille and how he lost his eye sight and how his frustration at being unable to read ultimately motivated him to develop a raised alphabet. Suitable for reluctant readers. (Lexile 590L)
 
 <a href="https://www.bookdepository.com/Six-Dots-Story-Young-Louis-Braille-Jen-Bryant/9780449813379?ref=grid-view&qid=1665672398249&sr=1-1#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441269" rel="nofollow">Buy on Orell Füssli</a>
@@ -54,8 +54,9 @@ summary here.  (Lexile 920L)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzY5MzcwMCwxODYwMDQ1MTc4LC02OD
-AzOTcwNTEsMTE4ODk5NTEzNSwtNTAzOTY5NDg5LC0xOTI5NTQx
-ODEsLTE3OTUyNTM1NDcsMjk1NTE5MzQ0LDIxMDEwMzEwNDMsMT
-M3NzA1MDIwNyw2NjQzOTA1LC0xNDAxNzU2MzRdfQ==
+eyJoaXN0b3J5IjpbLTY1NTc0MzM5NywxMTA3NjkzNzAwLDE4Nj
+AwNDUxNzgsLTY4MDM5NzA1MSwxMTg4OTk1MTM1LC01MDM5Njk0
+ODksLTE5Mjk1NDE4MSwtMTc5NTI1MzU0NywyOTU1MTkzNDQsMj
+EwMTAzMTA0MywxMzc3MDUwMjA3LDY2NDM5MDUsLTE0MDE3NTYz
+NF19
 -->
