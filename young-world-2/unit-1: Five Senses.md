@@ -50,7 +50,7 @@ summary here.  (Lexile 920L)
 <a href="https://www.bookdepository.com/Painting-Dark-Rachelle-Burk/9781943431151?ref=grid-view&qid=1665840447877&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038137025" rel="nofollow">Buy on Orell Füssli</a>
 
-##Supplemental Activities
+# Supplemental Activities
 
 Make a reservation at the Blinde Kuh restaurant in Zurich or Basel
 Dedicated to help and raise awareness of blind and partially-sighted people, their restaurants offer amazing food, served unseen, in the dark.  A fantastic experience.
@@ -62,9 +62,9 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczNzU2MzA1LC04MzU4OTM2OTMsLTY1NT
-c0MzM5NywxMTA3NjkzNzAwLDE4NjAwNDUxNzgsLTY4MDM5NzA1
-MSwxMTg4OTk1MTM1LC01MDM5Njk0ODksLTE5Mjk1NDE4MSwtMT
-c5NTI1MzU0NywyOTU1MTkzNDQsMjEwMTAzMTA0MywxMzc3MDUw
-MjA3LDY2NDM5MDUsLTE0MDE3NTYzNF19
+eyJoaXN0b3J5IjpbMjIyMTE0Njc2LDQ3Mzc1NjMwNSwtODM1OD
+kzNjkzLC02NTU3NDMzOTcsMTEwNzY5MzcwMCwxODYwMDQ1MTc4
+LC02ODAzOTcwNTEsMTE4ODk5NTEzNSwtNTAzOTY5NDg5LC0xOT
+I5NTQxODEsLTE3OTUyNTM1NDcsMjk1NTE5MzQ0LDIxMDEwMzEw
+NDMsMTM3NzA1MDIwNyw2NjQzOTA1LC0xNDAxNzU2MzRdfQ==
 -->
