@@ -26,6 +26,16 @@ summary here.
 
 <a href="https://www.bookdepository.com/Lonely-Planet-Kids-Cities-Book-Lonely-Planet-Kids/9781786570185?ref=grid-view&qid=1665841588904&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039247755" rel="nofollow">Buy on Orell Füssli</a>
+
+## Carrie's War, by Nina Ba
+
+<img src="https://imgur.com/jLSqG2Y.png" width="25%" />
+
+summary here.
+
+<a href="https://www.bookdepository.com/Lonely-Planet-Kids-Cities-Book-Lonely-Planet-Kids/9781786570185?ref=grid-view&qid=1665841588904&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039247755" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzUzNDM5MSwtMzEwNjIxNDIyXX0=
+eyJoaXN0b3J5IjpbLTU1NTU4MzE2MywtMTg3NTM0MzkxLC0zMT
+A2MjE0MjJdfQ==
 -->
