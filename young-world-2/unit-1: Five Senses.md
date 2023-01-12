@@ -50,13 +50,16 @@ summary here.  (Lexile 920L)
 <a href="https://www.bookdepository.com/Painting-Dark-Rachelle-Burk/9781943431151?ref=grid-view&qid=1665840447877&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038137025" rel="nofollow">Buy on Orell Füssli</a>
 
+##Supplemental Activities
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTc0MzM5NywxMTA3NjkzNzAwLDE4Nj
-AwNDUxNzgsLTY4MDM5NzA1MSwxMTg4OTk1MTM1LC01MDM5Njk0
-ODksLTE5Mjk1NDE4MSwtMTc5NTI1MzU0NywyOTU1MTkzNDQsMj
-EwMTAzMTA0MywxMzc3MDUwMjA3LDY2NDM5MDUsLTE0MDE3NTYz
-NF19
+eyJoaXN0b3J5IjpbMTE5NjM5NDAzNCwtNjU1NzQzMzk3LDExMD
+c2OTM3MDAsMTg2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUx
+MzUsLTUwMzk2OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LD
+I5NTUxOTM0NCwyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0Mzkw
+NSwtMTQwMTc1NjM0XX0=
 -->
