@@ -53,15 +53,17 @@ summary here.  (Lexile 920L)
 ##Supplemental Activities
 
 Make a reservation at the Blinde Kuh restaurant in Zurich or Basel
-Dedicated to help and raise awareness of blind and partially-sighted people, their restaurants offer amazing food, served unseen, in the dark.  A fantastic experience
+Dedicated to help and raise awareness of blind and partially-sighted people, their restaurants offer amazing food, served unseen, in the dark.  A fantastic experience.
 https://www.blindekuh.ch/restaurant-blindekuh-dinner-in-the-dark.html
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjI0NTMsLTY1NTc0MzM5NywxMTA3Nj
-kzNzAwLDE4NjAwNDUxNzgsLTY4MDM5NzA1MSwxMTg4OTk1MTM1
-LC01MDM5Njk0ODksLTE5Mjk1NDE4MSwtMTc5NTI1MzU0NywyOT
-U1MTkzNDQsMjEwMTAzMTA0MywxMzc3MDUwMjA3LDY2NDM5MDUs
-LTE0MDE3NTYzNF19
+eyJoaXN0b3J5IjpbLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMD
+c2OTM3MDAsMTg2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUx
+MzUsLTUwMzk2OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LD
+I5NTUxOTM0NCwyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0Mzkw
+NSwtMTQwMTc1NjM0XX0=
 -->
