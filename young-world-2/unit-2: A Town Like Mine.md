@@ -34,8 +34,8 @@ summary here.
 summary here.
 
 <a href="https://www.bookdepository.com/Carrie-s-War/9780349009162" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039247755" rel="nofollow">Buy on Orell Füssli</a>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5OTUwMDM3LC0xODc1MzQzOTEsLTMxMD
-YyMTQyMl19
+eyJoaXN0b3J5IjpbMTA0NDc4NTkzNSw1NTk5NTAwMzcsLTE4Nz
+UzNDM5MSwtMzEwNjIxNDIyXX0=
 -->
