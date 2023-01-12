@@ -52,14 +52,15 @@ summary here.  (Lexile 920L)
 
 ##Supplemental Activities
 
-
+Make a reservation at the Blinden Kuh restaurant in Zurich
+Dedicated to 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NjM5NDAzNCwtNjU1NzQzMzk3LDExMD
-c2OTM3MDAsMTg2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUx
-MzUsLTUwMzk2OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LD
-I5NTUxOTM0NCwyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0Mzkw
-NSwtMTQwMTc1NjM0XX0=
+eyJoaXN0b3J5IjpbMzc4NDgwMzgyLC02NTU3NDMzOTcsMTEwNz
+Y5MzcwMCwxODYwMDQ1MTc4LC02ODAzOTcwNTEsMTE4ODk5NTEz
+NSwtNTAzOTY5NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1NDcsMj
+k1NTE5MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQzOTA1
+LC0xNDAxNzU2MzRdfQ==
 -->
