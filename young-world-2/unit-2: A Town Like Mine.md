@@ -37,13 +37,14 @@ summary here.
 
 ## When the Siren Wailed, by Noel Streatfeild
 
-<img src="https://imgur.com/jLSqG2Y.png" width="25%" />
+<img src="https://i.imgur.com/7hoyUhH.png" width="25%" />
 
 summary here.
 
-<a href="https://www.bookdepository.com/Lonely-Planet-Kids-Cities-Book-Lonely-Planet-Kids/9781786570185?ref=grid-view&qid=1665841588904&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/When-Siren-Wailed-Noel-Streatfeild/9781510109902?ref=grid-view&qid=1673535364933&sr=1-2
+" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039247755" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzU3MzY3LC0xNTUxNjMxOTk5LDU1OT
-k1MDAzNywtMTg3NTM0MzkxLC0zMTA2MjE0MjJdfQ==
+eyJoaXN0b3J5IjpbLTEzMTgzNDE2NjMsLTE1NTE2MzE5OTksNT
+U5OTUwMDM3LC0xODc1MzQzOTEsLTMxMDYyMTQyMl19
 -->
