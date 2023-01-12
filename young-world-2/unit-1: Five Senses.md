@@ -52,19 +52,20 @@ summary here.  (Lexile 920L)
 
 # Supplemental Activities
 
-Make a reservation at the Blinde Kuh restaurant in Zurich or Basel
+Make a reservation at the Blinde Kuh restaurant in Zurich or Basel.
 Dedicated to help and raise awareness of blind and partially-sighted people, their restaurants offer amazing food, served unseen, in the dark.  A fantastic experience.
 <a href="https://www.blindekuh.ch/restaurant-blindekuh-dinner-in-the-dark.html" rel="nofollow"> Blinde Kuh Restaurant</a> 
 
 
+
 Donate an audio book or make an appointment to visit the remarkable SBS Schweizerische Bibliothek für Blinde, Seh- und Lesebehinderte (Swiss library for the blind, visually impaired and print disabled)  It has provided books, music and games to the blind and visually impaired for over 100 years.  
-<a href="https://www.sbs.ch/english/" rel="nofollow">Butt</a>
+<a href="https://www.sbs.ch/english/" rel="nofollow">SBS Library</a>
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM5ODkwNTQsNDczNzU2MzA1LC04Mz
+eyJoaXN0b3J5IjpbLTEzNDU2NDE5NjgsNDczNzU2MzA1LC04Mz
 U4OTM2OTMsLTY1NTc0MzM5NywxMTA3NjkzNzAwLDE4NjAwNDUx
 NzgsLTY4MDM5NzA1MSwxMTg4OTk1MTM1LC01MDM5Njk0ODksLT
 E5Mjk1NDE4MSwtMTc5NTI1MzU0NywyOTU1MTkzNDQsMjEwMTAz
