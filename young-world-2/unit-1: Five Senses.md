@@ -1,6 +1,6 @@
 # Young World, Unit 2: Five Senses
 
-*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission which will be used to purchase books for classrooms at no cost to you.*
 
 ## Six Dots, A Story of Young Louis Braille, by Jen Bryant
 
@@ -56,15 +56,15 @@ Make a reservation at the Blinde Kuh restaurant in Zurich or Basel
 Dedicated to help and raise awareness of blind and partially-sighted people, their restaurants offer amazing food, served unseen, in the dark.  A fantastic experience.
 https://www.blindekuh.ch/restaurant-blindekuh-dinner-in-the-dark.html
 
-Donate an audio book or make an appointment to visit the remarkable SBS Schweizerische Bibliothek für Blinde, Seh- und Lesebehinderte (Swiss library for the blind, visually impaired and print disabled)  It has provided books, music and games to the blind and visually impaired fhttps://www.sbs.ch/english/
+Donate an audio book or make an appointment to visit the remarkable SBS Schweizerische Bibliothek für Blinde, Seh- und Lesebehinderte (Swiss library for the blind, visually impaired and print disabled)  It has provided books, music and games to the blind and visually impaired for over 100 years.  https://www.sbs.ch/english/
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzI2NDkwNiwtODM1ODkzNjkzLC02NT
-U3NDMzOTcsMTEwNzY5MzcwMCwxODYwMDQ1MTc4LC02ODAzOTcw
-NTEsMTE4ODk5NTEzNSwtNTAzOTY5NDg5LC0xOTI5NTQxODEsLT
-E3OTUyNTM1NDcsMjk1NTE5MzQ0LDIxMDEwMzEwNDMsMTM3NzA1
-MDIwNyw2NjQzOTA1LC0xNDAxNzU2MzRdfQ==
+eyJoaXN0b3J5IjpbNDczNzU2MzA1LC04MzU4OTM2OTMsLTY1NT
+c0MzM5NywxMTA3NjkzNzAwLDE4NjAwNDUxNzgsLTY4MDM5NzA1
+MSwxMTg4OTk1MTM1LC01MDM5Njk0ODksLTE5Mjk1NDE4MSwtMT
+c5NTI1MzU0NywyOTU1MTkzNDQsMjEwMTAzMTA0MywxMzc3MDUw
+MjA3LDY2NDM5MDUsLTE0MDE3NTYzNF19
 -->
