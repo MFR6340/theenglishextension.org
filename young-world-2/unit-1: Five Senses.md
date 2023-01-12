@@ -56,14 +56,14 @@ Make a reservation at the Blinde Kuh restaurant in Zurich or Basel
 Dedicated to help and raise awareness of blind and partially-sighted people, their restaurants offer amazing food, served unseen, in the dark.  A fantastic experience.
 https://www.blindekuh.ch/restaurant-blindekuh-dinner-in-the-dark.html
 
-
+Donate an audio book or make a visit to the remarkable SBS Schweizerische Bibliothek für Blinde, Seh- und Lesebehinderte (Swiss library for the blind, visually impaired and print disabled)  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMD
-c2OTM3MDAsMTg2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUx
-MzUsLTUwMzk2OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LD
-I5NTUxOTM0NCwyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0Mzkw
-NSwtMTQwMTc1NjM0XX0=
+eyJoaXN0b3J5IjpbMjEzNjI2NDMyNywtODM1ODkzNjkzLC02NT
+U3NDMzOTcsMTEwNzY5MzcwMCwxODYwMDQ1MTc4LC02ODAzOTcw
+NTEsMTE4ODk5NTEzNSwtNTAzOTY5NDg5LC0xOTI5NTQxODEsLT
+E3OTUyNTM1NDcsMjk1NTE5MzQ0LDIxMDEwMzEwNDMsMTM3NzA1
+MDIwNyw2NjQzOTA1LC0xNDAxNzU2MzRdfQ==
 -->
