@@ -12,9 +12,9 @@ summary here.
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
  
 # Supplemental Activities
-
+What can more Scottish than the Highland Games?  Without even having to leave Switzerland, you have a chance to go watch 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODM4MzU0NjYsLTY2OTUzNTE1LC04MD
-QyODI2NDldfQ==
+eyJoaXN0b3J5IjpbLTI1NjIzODY5NywtMTM4MzgzNTQ2NiwtNj
+Y5NTM1MTUsLTgwNDI4MjY0OV19
 -->
