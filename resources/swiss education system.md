@@ -40,14 +40,14 @@ To prepare for the Cambridge exams:
 	Sharon Glencross can be reached at (include email address here)
 
 To get a structured approach for learning English phonics:
-	Theresa Jager
+	Theresa Jager: 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NzE5NDU2Miw4ODk3MTc4ODMsMTgxNz
+eyJoaXN0b3J5IjpbLTE5MjMwNTk2MCw4ODk3MTc4ODMsMTgxNz
 IyMjgwNCwzOTk1ODQ1OTUsNjUyNzgwMzYxLDUxNTc2MjQzLC0y
 MDAwMTc3Mjc5LDE3Nzk1MDM2NDksLTEwNTUxMjYwNCwtMTkwOD
 c4OTY0OSwtMTE4MTEwNzE1MywxMDI1MzQ1NTY0LDE0NTU5OTIz
