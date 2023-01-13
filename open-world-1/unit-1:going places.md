@@ -12,9 +12,10 @@ summary here.
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
  
 # Supplemental Activities
-What can more Scottish than the Highland Games?  Without even having to leave Switzerland, you have a chance to go see one of these amazing events.  The Highland Games Verband Schweiz organizes events every year.  For the program for this year.  
+What can more Scottish than the Highland Games?  Without even having to leave Switzerland, you have a chance to go see one of these amazing events.  The Highland Games Verband Schweiz organizes events every year.  For the program for this year.  https://www.hgvs.ch/saison-2023
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDcxNjA0OTYsLTEzODM4MzU0NjYsLT
-Y2OTUzNTE1LC04MDQyODI2NDldfQ==
+eyJoaXN0b3J5IjpbLTUzNzcwNTAzOSwtMTM4MzgzNTQ2NiwtNj
+Y5NTM1MTUsLTgwNDI4MjY0OV19
 -->
