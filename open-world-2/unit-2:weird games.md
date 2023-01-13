@@ -8,7 +8,7 @@
 
  Without even having to leave Switzerland, you have a chance to go see one of these amazing events.  The Highland Games Verband Schweiz organizes events every year.  For the program for this year.  https://www.hgvs.ch/saison-2023
 
-From the 16-18 June, 2023, Highland Games in Hasenstrick.  Celebrating the 10th Anniversary of the Highland Dragons Zurich team.  https://highlandgames-hasenstrick.ch/programm/
+From the 16-18 June, 2023 the Highland Games in Hasenstrick will take place, celebrating the 10th Anniversary of the Highland Dragons Zurich team.  https://highlandgames-hasenstrick.ch/programm/
 
 There's really no excuse not to attend a Highland Games.  The Walhall Highlanders are hosting an event from 18-20 August, 2023.  Even children can participate, if you register!  https://walhall-highlanders.ch/programm-2023/
 
@@ -17,6 +17,6 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODg3NTEyMiwtMTMzMTY3Mjc3MywxND
+eyJoaXN0b3J5IjpbMTQ1OTk2MTA4MywtMTMzMTY3Mjc3MywxND
 U4OTczOTQ1LC0zMzUzNzA1NDVdfQ==
 -->
