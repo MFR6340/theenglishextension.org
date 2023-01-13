@@ -10,7 +10,11 @@ summary here.
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+ 
+# Supplemental Activities
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzcwMDA3OCwtNjY5NTM1MTUsLTgwND
-I4MjY0OV19
+eyJoaXN0b3J5IjpbLTEzODM4MzU0NjYsLTY2OTUzNTE1LC04MD
+QyODI2NDldfQ==
 -->
