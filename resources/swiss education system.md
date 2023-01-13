@@ -37,15 +37,19 @@ If you are in central Switzerland and feel you need personalized help in finding
 There are a number of organizations which provide tutoring and supplemental English classes.
 
 To prepare for the Cambridge exams:
-	Sharon Glencross: 
+	Sharon Glencross can be reached at (include email address here)
+
+To get a structured approach for learning English phonics:
+	Theresa Jager
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM5MDA3ODAsODg5NzE3ODgzLDE4MT
-cyMjI4MDQsMzk5NTg0NTk1LDY1Mjc4MDM2MSw1MTU3NjI0Mywt
-MjAwMDE3NzI3OSwxNzc5NTAzNjQ5LC0xMDU1MTI2MDQsLTE5MD
-g3ODk2NDksLTExODExMDcxNTMsMTAyNTM0NTU2NCwxNDU1OTky
-Mzc0LC0xOTU2MDgyMTk4XX0=
+eyJoaXN0b3J5IjpbLTI0NzE5NDU2Miw4ODk3MTc4ODMsMTgxNz
+IyMjgwNCwzOTk1ODQ1OTUsNjUyNzgwMzYxLDUxNTc2MjQzLC0y
+MDAwMTc3Mjc5LDE3Nzk1MDM2NDksLTEwNTUxMjYwNCwtMTkwOD
+c4OTY0OSwtMTE4MTEwNzE1MywxMDI1MzQ1NTY0LDE0NTU5OTIz
+NzQsLTE5NTYwODIxOThdfQ==
 -->
