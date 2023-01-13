@@ -40,16 +40,16 @@ To prepare for the Cambridge exams:
 	Sharon Glencross can be reached at (include email address here)
 
 To get a structured approach for learning English phonics:
-	Theresa Jager: 
+	One of our founders, Theresa Jäger, teaches children to read and write using a systematic phonetic approach.  It's important to learn, as the sound [https://www.englishkidsclubs.ch/home](https://www.englishkidsclubs.ch/home)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjMwNTk2MCw4ODk3MTc4ODMsMTgxNz
-IyMjgwNCwzOTk1ODQ1OTUsNjUyNzgwMzYxLDUxNTc2MjQzLC0y
-MDAwMTc3Mjc5LDE3Nzk1MDM2NDksLTEwNTUxMjYwNCwtMTkwOD
-c4OTY0OSwtMTE4MTEwNzE1MywxMDI1MzQ1NTY0LDE0NTU5OTIz
-NzQsLTE5NTYwODIxOThdfQ==
+eyJoaXN0b3J5IjpbNzI5NTQ1MTgxLDg4OTcxNzg4MywxODE3Mj
+IyODA0LDM5OTU4NDU5NSw2NTI3ODAzNjEsNTE1NzYyNDMsLTIw
+MDAxNzcyNzksMTc3OTUwMzY0OSwtMTA1NTEyNjA0LC0xOTA4Nz
+g5NjQ5LC0xMTgxMTA3MTUzLDEwMjUzNDU1NjQsMTQ1NTk5MjM3
+NCwtMTk1NjA4MjE5OF19
 -->
