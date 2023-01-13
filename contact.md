@@ -1,18 +1,22 @@
 # Contact
+We can help! 
 
-Are you a teacher?
-	Would you like curriculum materials to help your native students?
+DAre you a teacher?
+	Do you need curriculum materials to help your native students?
 	Would you like some suggestions for working with a particular student?
 	Do you have any books you would like to add to our list?
 Are you a parent?
-	W
- To receive copies of our booklets to be used in the classroom or for further information on tutoring or additional resources, please contact: 
+	Would you like some help navigating the Swiss school system?
+	Would you like suggestions for working with your child?
+	
+	
+ 
 
 
 ##Email: info@teeo.org
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyMjk2MDc2LDE5MTg5MDQxNTAsLTEwOT
-EwNzIxMCw0OTI5OTE3OTIsMTUyMjQxNzUzOF19
+eyJoaXN0b3J5IjpbMTY3MDMxMDc1NSwxOTE4OTA0MTUwLC0xMD
+kxMDcyMTAsNDkyOTkxNzkyLDE1MjI0MTc1MzhdfQ==
 -->
