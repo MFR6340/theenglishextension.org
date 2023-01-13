@@ -10,7 +10,8 @@
 
 Of special note, The Highland Games Masters World Championship will take place from August 25-27, 2023 in Nuendorf.  Entry is free, so there is no reason not to go!  For more information see: https://www.highland-games-mittelland.com/
 
+There's really no excuse not to attend a Highland Games event.  The Walhall Highlanders are hosting an
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzIwNDg5OCwtMzM1MzcwNTQ1XX0=
+eyJoaXN0b3J5IjpbNTQzNzQzMzcyLC0zMzUzNzA1NDVdfQ==
 -->
