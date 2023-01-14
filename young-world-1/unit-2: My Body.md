@@ -28,7 +28,10 @@ A comprehensive visual journey of the human body from cells to systems. Highly d
 summary here.
 
 <a href="https://www.bookdepository.com/The-Magic-School-Bus-Presents-The-Human-Body-Dan-Green-Carolyn-Bracken/9780545683647" rel="nofollow"> Buy on BookDepository</a>  
+
+Not currently showing in Switzerland, one can still visit BodyWorks relatively closeby.  Hope on a train to Milan, and see This exhibition that gives details all about the human body.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODE0MjIwOCwxMzM5MjY3ODkyLC0yMD
-kzMTQ4MTY0LDE0NzI2ODk2OTQsNDUzOTg0MTMzXX0=
+eyJoaXN0b3J5IjpbMjM4MjcxOTAzLC0yMzgxNDIyMDgsMTMzOT
+I2Nzg5MiwtMjA5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1Mzk4NDEz
+M119
 -->
