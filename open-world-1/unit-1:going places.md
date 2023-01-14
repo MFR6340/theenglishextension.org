@@ -16,11 +16,11 @@ What can more Scottish than the Highland Games?  Without even having to leave Sw
 
 The bagpipes are quintessentially Scottish.  A well-played bagpipe stirs the soul of those who are graced to hear it.  Located in Lenzburg, Aargau, David Fleming plays at events, and even provides lessons for those who are interested in playing themselves.  His website contains information about Scottish events he hosts.  https://www.davidflemingbagpiper.com/
 
-You don't ev
+You don't need to leave Switzerland to see Highland Dancing or to learn how to do it yourself.  Classes are available in Zug and Lenzburg.  Events vary throughout the year.  Check Flora dance's website.  https://floradance.ch/?fbclid=IwAR02Cn94Yzlq19kIhgVnu-PyugnbIvZQ3GtTgaH7LZBgbgi9GIjXiJ3hhr0
 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTkzNjA2OSwtMTM4MzgzNTQ2NiwtNj
+eyJoaXN0b3J5IjpbMTQ1NzcwNjE3MiwtMTM4MzgzNTQ2NiwtNj
 Y5NTM1MTUsLTgwNDI4MjY0OV19
 -->
