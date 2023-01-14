@@ -16,9 +16,11 @@ What can more Scottish than the Highland Games?  Without even having to leave Sw
 
 The bagpipes are quintessentially Scottish.  A well-played bagpipe stirs the soul of those who are graced to hear it.  Located in Lenzburg, Aargau, David Fleming plays at events, and even provides lessons for those who are interested in playing themselves.  His website contains information about Scottish events he hosts.  https://www.davidflemingbagpiper.com/
 
+You don't ev
+
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njk1MTc5NjMsLTEzODM4MzU0NjYsLT
-Y2OTUzNTE1LC04MDQyODI2NDldfQ==
+eyJoaXN0b3J5IjpbLTQ2OTkzNjA2OSwtMTM4MzgzNTQ2NiwtNj
+Y5NTM1MTUsLTgwNDI4MjY0OV19
 -->
