@@ -31,9 +31,11 @@ summary here.
 
 # Supplemental Activities 
 
-Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Hope on a train to Milan, and see This exhibition that gives details all about the human body.  https://bodyworlds.com/city/milan/
+
+
+Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjE3MzAzNiwtMjM4MTQyMjA4LDEzMz
+eyJoaXN0b3J5IjpbMTU3MTE4NjM1NSwtMjM4MTQyMjA4LDEzMz
 kyNjc4OTIsLTIwOTMxNDgxNjQsMTQ3MjY4OTY5NCw0NTM5ODQx
 MzNdfQ==
 -->
