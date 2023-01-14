@@ -29,9 +29,11 @@ summary here.
 
 <a href="https://www.bookdepository.com/The-Magic-School-Bus-Presents-The-Human-Body-Dan-Green-Carolyn-Bracken/9780545683647" rel="nofollow"> Buy on BookDepository</a>  
 
-Not currently showing in Switzerland, one can still visit BodyWorks relatively closeby.  Hope on a train to Milan, and see This exhibition that gives details all about the human body.  
+# Supplemental Activities 
+
+Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Hope on a train to Milan, and see This exhibition that gives details all about the human body.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM4MjcxOTAzLC0yMzgxNDIyMDgsMTMzOT
-I2Nzg5MiwtMjA5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1Mzk4NDEz
-M119
+eyJoaXN0b3J5IjpbMTgzMjE3MzAzNiwtMjM4MTQyMjA4LDEzMz
+kyNjc4OTIsLTIwOTMxNDgxNjQsMTQ3MjY4OTY5NCw0NTM5ODQx
+MzNdfQ==
 -->
