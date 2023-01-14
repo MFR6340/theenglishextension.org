@@ -29,8 +29,10 @@ summary here.
 <a href="https://www.bookdepository.com/Sportopedia-Adam-Skinner/9781786030849?ref=grid-view&qid=1665928910005&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1048100234" rel="nofollow">Buy on Orell Füssli</a>
 
+# Supplemental Activities
 
+There really can't be a discussion about sports without it eventually turning to the Olympics.  And what better place to go 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzc3MTM2OTIsNTM3NzM2ODI5LC0zMj
+eyJoaXN0b3J5IjpbLTE3NDA1Mjg5NzAsNTM3NzM2ODI5LC0zMj
 QyNzE3NjldfQ==
 -->
