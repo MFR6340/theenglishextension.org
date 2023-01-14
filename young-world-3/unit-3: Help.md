@@ -5,9 +5,9 @@
 
 # Supplemental Activities
 
-There is no organiz
+There is no organization that is more quintisential to provide help than the Red Cross.  And of course, this famous organization has a museum.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjQ4MTUyMiwtMzA3MTgxOTQ0LDcxND
-YwNzAyMSwzMDQ0MzYxMjhdfQ==
+eyJoaXN0b3J5IjpbLTE5MjcxNDYxNTksLTMwNzE4MTk0NCw3MT
+Q2MDcwMjEsMzA0NDM2MTI4XX0=
 -->
