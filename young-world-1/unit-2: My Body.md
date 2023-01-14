@@ -31,13 +31,13 @@ summary here.
 
 # Supplemental Activities 
 
-At the Kultura Museum des Mensches in Zurich, learn all about human development from prehistory to present.  https://www.kulturama.ch/en/
+At the Kultura Museum des Mensches in Zurich, learn all about human development from prehistory to present.  «Who we are» shows you the unfolding of modern human being from conception to death. Anatomical specimen illustrate human life and its development.https://www.kulturama.ch/en/
 
 
 
 Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxNzMzNzYsLTIzODE0MjIwOCwxMzM5Mj
+eyJoaXN0b3J5IjpbODEzMTM0NTIsLTIzODE0MjIwOCwxMzM5Mj
 Y3ODkyLC0yMDkzMTQ4MTY0LDE0NzI2ODk2OTQsNDUzOTg0MTMz
 XX0=
 -->
