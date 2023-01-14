@@ -42,11 +42,11 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053696383" rel="nofollow">Buy on Orell Füssli</a>
 
 # Supplemental Activities
-Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri grew up.  Come visit and learn all about the autho
-https://spyri-museum.ch/en/
+
+Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri grew up.  Come visit and learn all about the author who wrote the world-famous book, Heidi. https://spyri-museum.ch/en/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1ODA1NTY5NSw3ODY0NzAwMTAsLTY3ND
+eyJoaXN0b3J5IjpbLTUwMjM5NTM1NSw3ODY0NzAwMTAsLTY3ND
 E2MzE4OCwtMTM1NDg3Mzc2OSwtNzc5NTgzNjE1LC05ODY5MDk5
 ODcsMTM4NzMxOTYzMywtMTk1NTk0NDcwNCwtNzMyNjYzOTI4XX
 0=
