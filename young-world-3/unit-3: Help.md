@@ -3,8 +3,11 @@
 *This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
 
-Nothing yet
+# Supplemental Activities
+
+There is no organiz
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyMTM0MzIyLC0zMDcxODE5NDQsNzE0Nj
-A3MDIxLDMwNDQzNjEyOF19
+eyJoaXN0b3J5IjpbLTI5NjQ4MTUyMiwtMzA3MTgxOTQ0LDcxND
+YwNzAyMSwzMDQ0MzYxMjhdfQ==
 -->
