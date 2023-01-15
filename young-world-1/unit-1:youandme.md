@@ -48,9 +48,16 @@ summary here.
 
 
 
+## Waitangi Day: The New Zealand Story, by Philppa Werry
 
+<img src="https://imgur.com/7nRyPSf.png" width="25%" />
+
+Provides information the colors, designs and shapes of the flags of countries of the world.
+
+<a href="https://www.bookdepository.com/Flag-Book-Lonely-Planet-Kids/9781788683098?ref=grid-view&qid=1656069226646&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054007305" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwODEyODExMSwtMTAwMzQ2MDUwOCwtMT
+eyJoaXN0b3J5IjpbMTgyMTUxOTA0MCwtMTAwMzQ2MDUwOCwtMT
 E1OTM0NjQxNywtMTU2MTg3MDYwNiwtMTQ3NjU1MzQ5MSwtMzUx
 NjM5OTgsMTUwMzAxNzg3MSwtMTcwOTU4ODE4Nl19
 -->
