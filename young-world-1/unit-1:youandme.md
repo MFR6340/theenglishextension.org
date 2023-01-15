@@ -76,12 +76,12 @@ summary here.
 
 ## How Much?: Visiting Markets Around the World, Ted Lewin
 
-<img src="https://imgur.com/O2ww5pO.png" width="25%" />
+<img src="https://imgur.com/MONJJnb.png" width="25%" />
 
 summary here.
 
-<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/How-Much-Ted-Lewin/9780688175535" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039278632" rel="nofollow"> Buy on Orell Füssli</a>
 
 ## A Long Walk to Water: Based on a True Story
 
@@ -101,8 +101,8 @@ summary here.
 <a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDA3NTMwMiwtNjM2ODEwOTYyLC0xMD
-AzNDYwNTA4LC0xMTU5MzQ2NDE3LC0xNTYxODcwNjA2LC0xNDc2
-NTUzNDkxLC0zNTE2Mzk5OCwxNTAzMDE3ODcxLC0xNzA5NTg4MT
-g2XX0=
+eyJoaXN0b3J5IjpbLTExNzU2NjgxMTMsLTYzNjgxMDk2MiwtMT
+AwMzQ2MDUwOCwtMTE1OTM0NjQxNywtMTU2MTg3MDYwNiwtMTQ3
+NjU1MzQ5MSwtMzUxNjM5OTgsMTUwMzAxNzg3MSwtMTcwOTU4OD
+E4Nl19
 -->
