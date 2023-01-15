@@ -68,20 +68,20 @@ summary here. (940L)
 <a href="https://www.bookdepository.com/Baking-Life-Amelie-Day-Vanessa-Curtis/9781496541383?ref=grid-view&qid=1673793543676&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038920519" rel="nofollow"> Buy on Orell Füssli</a>
 
-## Pizza! A Slice of History, Greg Pizzoli
+## Pizza! A Slice of History, by Greg Pizzoli
 
 <img src="https://imgur.com/ZQKEkKu.png" width="25%" />
 
-summary here.
+summary here. (Lexile 780L) 
 
 <a href="https://www.bookdepository.com/Pizza-Greg-Pizzoli/9780425291078" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062633626" rel="nofollow"> Buy on Orell Füssli</a>
 
-## Nacho’s Nachos, Sandra Nickel
+## Nacho’s Nachos, by Sandra Nickel
 
 <img src="https://imgur.com/LbI8oaG.png" width="25%" />
 
-The true story of chef Ignacio (Nacho) and how his quick invention led to a famous snack. An quick read which can lead to a great discussion on other food inventions.  It's also a great way to talk about the use of the apostrophe.  
+The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to a famous snack. An quick read which can lead to a great discussion on other food inventions.  It's also a great way to talk about the use of the apostrophe.  
 
 <a href="https://www.bookdepository.com/Nachos-Nachos-Sandra-Nickel/9781620143698?ref=grid-view&qid=1673793907326&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1057057543" rel="nofollow"> Buy on Orell Füssli</a>
@@ -91,7 +91,7 @@ The true story of chef Ignacio (Nacho) and how his quick invention led to a famo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Nzc5OTUyMSwtMTA0NjU3NDM2NCwtMT
+eyJoaXN0b3J5IjpbMTQyMjAxMTA4MiwtMTA0NjU3NDM2NCwtMT
 A3NjIwNDA0MSwxNjI0MTM2MTAxLC0xNDEzMTQ1NDAzLC0xNDM1
 MTg3MiwtMTU3MTYwNDUsLTU3MzYxNjkyMCwtMTU5MzI4MTYxNC
 wyMjUzODM1MzksMTg5MDU3NjY4MCwtMTk0MTE4OTUsLTM4NTAw
