@@ -83,13 +83,13 @@ summary here.
 <a href="https://www.bookdepository.com/How-Much-Ted-Lewin/9780688175535" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039278632" rel="nofollow"> Buy on Orell Füssli</a>
 
-## A Long Walk to Water: Based on a True Story
+## It’s Trevor Noah: Born a Crime, by Trevor Noah
 
 <img src="https://imgur.com/O2MqZu6.png" width="25%" />
 
 summary here.
 
-<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.bookdepository.com/Its-Trevor-Noah-Born-Crime-Trevor-Noah/9780525582199?ref=grid-view&qid=1673791904933&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
 
 ## A Long Walk to Water: Based on a True Story
@@ -101,8 +101,8 @@ summary here.
 <a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODE3MDU0OCwtNjM2ODEwOTYyLC0xMD
-AzNDYwNTA4LC0xMTU5MzQ2NDE3LC0xNTYxODcwNjA2LC0xNDc2
-NTUzNDkxLC0zNTE2Mzk5OCwxNTAzMDE3ODcxLC0xNzA5NTg4MT
-g2XX0=
+eyJoaXN0b3J5IjpbLTExODQ3ODYxODIsLTYzNjgxMDk2MiwtMT
+AwMzQ2MDUwOCwtMTE1OTM0NjQxNywtMTU2MTg3MDYwNiwtMTQ3
+NjU1MzQ5MSwtMzUxNjM5OTgsMTUwMzAxNzg3MSwtMTcwOTU4OD
+E4Nl19
 -->
