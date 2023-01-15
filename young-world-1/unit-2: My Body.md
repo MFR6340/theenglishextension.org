@@ -45,7 +45,7 @@ summary here.
 
 <img src="https://imgur.com/22Vjo0J.png" width="25%" />
 
-Jim Abbott was born without a hand.  Despite this imHe became a famous American baseball pitcher for both the Los Angeles Angels the New York Yankees where he threw a no-hitter game in 1993. He won a gold medal with the 1988 Summer Olympics team.  Only available used.
+Jim Abbott was born without a hand.  Despite this important body part, he dreamed of becoming a baseball player.  This ibook tells the inspirational true story of how He became a famous American baseball pitcher and played for both the Los Angeles Angels the New York Yankees and the US Olympics team.   where he threw a no-hitter game in 1993. He won a gold medal with the 1988 Summer Olympics team.  Only available used.
 
 <a href="https://www.amazon.com/Jim-Abbott-Against-Scholastic-biography/dp/0590435035" rel="nofollow"> Buy on Amazon</a> 
 
@@ -66,9 +66,9 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODg3NDU1NSwtMTU2NjkyOTc1NCwzMj
-UxODQ1MTIsLTE2MjQ0MDc1MjAsMTM4NjA2NTE2MCwyMTA4OTU1
-Nzc4LC0yNjkzMjA3MjMsODEzMTM0NTIsLTIzODE0MjIwOCwxMz
-M5MjY3ODkyLC0yMDkzMTQ4MTY0LDE0NzI2ODk2OTQsNDUzOTg0
-MTMzXX0=
+eyJoaXN0b3J5IjpbLTE0MTQ5ODE5NDMsLTE1NjY5Mjk3NTQsMz
+I1MTg0NTEyLC0xNjI0NDA3NTIwLDEzODYwNjUxNjAsMjEwODk1
+NTc3OCwtMjY5MzIwNzIzLDgxMzEzNDUyLC0yMzgxNDIyMDgsMT
+MzOTI2Nzg5MiwtMjA5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1Mzk4
+NDEzM119
 -->
