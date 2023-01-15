@@ -45,7 +45,7 @@ summary here.
 
 <img src="https://imgur.com/FlALckN.png" width="25%" />
 
-Jim Abbott was a famous American baseball pitcher for both the LoS Angeles Angels, the New York Yankees.   who was born with only one hand.  Only available used.
+Jim Abbott was a famous American baseball pitcher for both the LoS Angeles Angels the New York Yankees where he threw a no-hitter game in 1993. He won a gold medal with the 1988 Summer Olympics team, and  who was born with only one hand.  Only available used.
 
 <a href="https://www.amazon.com/Jim-Abbott-Against-Scholastic-biography/dp/0590435035" rel="nofollow"> Buy on Amazon</a> 
 
@@ -66,7 +66,7 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjEyNDg4MzEsMzI1MTg0NTEyLC0xNj
+eyJoaXN0b3J5IjpbLTIxMjE3NzI2MTQsMzI1MTg0NTEyLC0xNj
 I0NDA3NTIwLDEzODYwNjUxNjAsMjEwODk1NTc3OCwtMjY5MzIw
 NzIzLDgxMzEzNDUyLC0yMzgxNDIyMDgsMTMzOTI2Nzg5MiwtMj
 A5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1Mzk4NDEzM119
