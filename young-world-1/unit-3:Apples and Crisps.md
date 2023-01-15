@@ -68,19 +68,19 @@ summary here.
 
 ## Nacho’s Nachos, Sandra Nickel
 
-<img src="https://imgur.com/O2ww5pO.png" width="25%" />
+<img src="https://imgur.com/wnUveVL.png" width="25%" />
 
 summary here.
 
-<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Nachos-Nachos-Sandra-Nickel/9781620143698?ref=grid-view&qid=1673793907326&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1057057543" rel="nofollow"> Buy on Orell Füssli</a>
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2NDkxMDk0LC0xNTcxNjA0NSwtNTczNj
+eyJoaXN0b3J5IjpbLTE0MzUxODcyLC0xNTcxNjA0NSwtNTczNj
 E2OTIwLC0xNTkzMjgxNjE0LDIyNTM4MzUzOSwxODkwNTc2Njgw
 LC0xOTQxMTg5NSwtMzg1MDAzMjQ2LDE4ODg0ODAwNzAsMTcyMj
 cyNDYzMywxMTg0MTkzNjY1LC03MzI5MzE5NTZdfQ==
