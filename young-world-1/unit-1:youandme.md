@@ -63,9 +63,18 @@ description
 summary here.
 
 <a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
-<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a> 
+
+## A Long Walk to Water: Based on a True Story
+
+<img src="https://imgur.com/O2ww5pO.png" width="2225%" />
+
+summary here.
+
+<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füss
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI4NTg0MywtNjM2ODEwOTYyLC0xMD
+eyJoaXN0b3J5IjpbLTkyMTc2OTYwNSwtNjM2ODEwOTYyLC0xMD
 AzNDYwNTA4LC0xMTU5MzQ2NDE3LC0xNTYxODcwNjA2LC0xNDc2
 NTUzNDkxLC0zNTE2Mzk5OCwxNTAzMDE3ODcxLC0xNzA5NTg4MT
 g2XX0=
