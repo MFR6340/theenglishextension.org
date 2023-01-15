@@ -50,14 +50,14 @@ summary here. (lexile 750)
 
 ## The Baking Life of Amelie Day, By Vanessa Curtis
 
-<img src="https://imgur.com/O2ww5pO.png" width="25%" />
+<img src="https://imgur.com/Uu7ZlE6.png" width="25%" />
 
 summary here. (940L)
 
 <a href="https://www.bookdepository.com/Baking-Life-Amelie-Day-Vanessa-Curtis/9781496541383?ref=grid-view&qid=1673793543676&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038920519" rel="nofollow"> Buy on Orell Füssli</a>
 
-## A Long Walk to Water: Based on a True Story
+## Pizza! A Slice of History, Greg Pizzoli
 
 <img src="https://imgur.com/O2ww5pO.png" width="25%" />
 
@@ -80,7 +80,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjYyOTUwNiwtMTU3MTYwNDUsLTU3Mz
+eyJoaXN0b3J5IjpbMTg1NDM2MTU3MiwtMTU3MTYwNDUsLTU3Mz
 YxNjkyMCwtMTU5MzI4MTYxNCwyMjUzODM1MzksMTg5MDU3NjY4
 MCwtMTk0MTE4OTUsLTM4NTAwMzI0NiwxODg4NDgwMDcwLDE3Mj
 I3MjQ2MzMsMTE4NDE5MzY2NSwtNzMyOTMxOTU2XX0=
