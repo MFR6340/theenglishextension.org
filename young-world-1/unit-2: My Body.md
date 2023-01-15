@@ -45,7 +45,7 @@ summary here.
 
 <img src="https://imgur.com/22Vjo0J.png" width="25%" />
 
-Jim Abbott was born without a hand.  Despite this important body part, he dreamed of becoming a baseball player.  This ibook tells the inspirational true story of how He became a famous American baseball pitcher and played for both the Los Angeles Angels the New York Yankees and the US Olympics team.   where he threw a no-hitter game in 1993. He won a gold medal with the 1988 Summer Olympics team.  Only available used.
+Jim Abbott was born without a hand.  Despite this important body part, he dreamed of becoming a baseball player.  This ibook tells the inspirational true story of how He became a famous American baseball pitcher and played for both the Los Angeles Angels the New York Yankees and the US Olympics team.   He grew to baseball greatness when he threw a no-hitter game in 1993 despite having to both catch and throw with one hand.  Only available used.
 
 <a href="https://www.amazon.com/Jim-Abbott-Against-Scholastic-biography/dp/0590435035" rel="nofollow"> Buy on Amazon</a> 
 
@@ -58,6 +58,7 @@ Jim Abbott was born without a hand.  Despite this important body part, he dreame
 
 <a href="https://www.bookdepository.com/Out-My-Mind-Sharon-M-Draper/9781416971719?ref=grid-view&qid=1673793076916&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1017633441" rel="nofollow"> Buy on Orell Füssli</a>
+
 # Supplemental Activities 
 
 At the Kultura Museum des Mensches in Zurich, learn all about human development from prehistory to present.  «Who we are» shows you the unfolding of modern human being from conception to death. Anatomical specimen illustrate human life and its development.https://www.kulturama.ch/en/
@@ -66,9 +67,9 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ5ODE5NDMsLTE1NjY5Mjk3NTQsMz
-I1MTg0NTEyLC0xNjI0NDA3NTIwLDEzODYwNjUxNjAsMjEwODk1
-NTc3OCwtMjY5MzIwNzIzLDgxMzEzNDUyLC0yMzgxNDIyMDgsMT
-MzOTI2Nzg5MiwtMjA5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1Mzk4
-NDEzM119
+eyJoaXN0b3J5IjpbLTI4MDI0ODM3LC0xNTY2OTI5NzU0LDMyNT
+E4NDUxMiwtMTYyNDQwNzUyMCwxMzg2MDY1MTYwLDIxMDg5NTU3
+NzgsLTI2OTMyMDcyMyw4MTMxMzQ1MiwtMjM4MTQyMjA4LDEzMz
+kyNjc4OTIsLTIwOTMxNDgxNjQsMTQ3MjY4OTY5NCw0NTM5ODQx
+MzNdfQ==
 -->
