@@ -47,7 +47,7 @@ summary here. (lexile level 910)
 
 ## Time Villains, Victor Pineiro
 
-<img src="https://imgur.com/eHhazl4.png" width="25%" />
+<img src="https://imgur.com/pV4cOFG.png" width="25%" />
 
 summary here.
 
@@ -55,15 +55,15 @@ summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059707722" rel="nofollow"> Buy on Orell Füssli</a>
 ## How to Survive Time Travel, by Larry Hayes
 
-<img src="https://imgur.com/MQdMEsX.png" width="25%" />
+<img src="https://imgur.com/RL4C9lJ.png" width="25%" />
 
 summary here.
 
 <a href="https://www.bookdepository.com/How-Survive-Time-Travel-Larry-Hayes/9781471198366?ref=grid-view&qid=1673795737187&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058447306" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDM0MzAwLC01MjE1NjU3NTksMzUyMT
-U5NjM0LDQ2NTM0NTczLC0xNjIyODEyMjEsLTcxMjgyNjEyOSwx
-MzI1OTAwMTIzLDIxMTI4MTE2NDMsLTE1ODk0OTA3NDUsMTg4OT
-M3NzI2MywxMTAzNTEwMTkzXX0=
+eyJoaXN0b3J5IjpbLTExMzU0MTA0NzQsMTM0NDM0MzAwLC01Mj
+E1NjU3NTksMzUyMTU5NjM0LDQ2NTM0NTczLC0xNjIyODEyMjEs
+LTcxMjgyNjEyOSwxMzI1OTAwMTIzLDIxMTI4MTE2NDMsLTE1OD
+k0OTA3NDUsMTg4OTM3NzI2MywxMTAzNTEwMTkzXX0=
 -->
