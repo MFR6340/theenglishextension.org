@@ -55,8 +55,17 @@ summary here.
 description
 
 <a href="https://www.bookdepository.com/Waitangi-Day-Philippa-Werry/9781869664213?ref=grid-view&qid=1673790699073&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+
+## 
+
+<img src="https://imgur.com/OUUlfCh.png" width="25%" />
+
+summary here.
+
+<a href="https://www.bookdepository.com/My-Country-Dorothea-MacKellar/9781743837702?ref=grid-view&qid=1665849509446&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjgxMDk2MiwtMTAwMzQ2MDUwOCwtMT
-E1OTM0NjQxNywtMTU2MTg3MDYwNiwtMTQ3NjU1MzQ5MSwtMzUx
-NjM5OTgsMTUwMzAxNzg3MSwtMTcwOTU4ODE4Nl19
+eyJoaXN0b3J5IjpbMTg0NjM4MTc5NCwtNjM2ODEwOTYyLC0xMD
+AzNDYwNTA4LC0xMTU5MzQ2NDE3LC0xNTYxODcwNjA2LC0xNDc2
+NTUzNDkxLC0zNTE2Mzk5OCwxNTAzMDE3ODcxLC0xNzA5NTg4MT
+g2XX0=
 -->
