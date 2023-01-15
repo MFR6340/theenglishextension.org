@@ -81,7 +81,7 @@ summary here.
 
 <img src="https://imgur.com/LbI8oaG.png" width="25%" />
 
-The true story of chef Ignacio (Nacho) and how his quick invention led to a famous snack. 
+The true story of chef Ignacio (Nacho) and how his quick invention led to a famous snack. An quick read which can lead to a great discussion on other food inventions.  It's also a great way to talk about the use of the apostrophe.  
 
 <a href="https://www.bookdepository.com/Nachos-Nachos-Sandra-Nickel/9781620143698?ref=grid-view&qid=1673793907326&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1057057543" rel="nofollow"> Buy on Orell Füssli</a>
@@ -91,10 +91,10 @@ The true story of chef Ignacio (Nacho) and how his quick invention led to a famo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY3OTg3NzEsLTEwNDY1NzQzNjQsLT
-EwNzYyMDQwNDEsMTYyNDEzNjEwMSwtMTQxMzE0NTQwMywtMTQz
-NTE4NzIsLTE1NzE2MDQ1LC01NzM2MTY5MjAsLTE1OTMyODE2MT
-QsMjI1MzgzNTM5LDE4OTA1NzY2ODAsLTE5NDExODk1LC0zODUw
-MDMyNDYsMTg4ODQ4MDA3MCwxNzIyNzI0NjMzLDExODQxOTM2Nj
-UsLTczMjkzMTk1Nl19
+eyJoaXN0b3J5IjpbLTU3Nzc5OTUyMSwtMTA0NjU3NDM2NCwtMT
+A3NjIwNDA0MSwxNjI0MTM2MTAxLC0xNDEzMTQ1NDAzLC0xNDM1
+MTg3MiwtMTU3MTYwNDUsLTU3MzYxNjkyMCwtMTU5MzI4MTYxNC
+wyMjUzODM1MzksMTg5MDU3NjY4MCwtMTk0MTE4OTUsLTM4NTAw
+MzI0NiwxODg4NDgwMDcwLDE3MjI3MjQ2MzMsMTE4NDE5MzY2NS
+wtNzMyOTMxOTU2XX0=
 -->
