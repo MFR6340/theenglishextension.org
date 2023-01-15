@@ -12,9 +12,9 @@ summary here.
  
 # Supplemental Activities
 
-Not There are a lot 
+Rock climbing is a great example of a sport where boundaries are constantly being pushed.  What wasn't recognized for a long time was how many women have participated in th
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjQ5NDU5MV19
+eyJoaXN0b3J5IjpbMTA1MTQ5OTA2NF19
 -->
