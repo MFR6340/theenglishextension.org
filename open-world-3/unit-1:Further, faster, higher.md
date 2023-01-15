@@ -12,10 +12,10 @@ summary here.
  
 # Supplemental Activities
 
-Rock climbing is a great example of a sport where boundaries are constantly being pushed.  What wasn't recognized for a long time was how many women have participated in this amazing sport.  Through October 2023, the Swiss Alpine Museum has an exhibit "Women on the Mountain" focusing on the fearlessness of forty female alpinists.  https://www.alpinesmuseum.ch/en/exhibitions/lost-and-found-memories-office
+Rock climbing is a great example of a sport where boundaries are constantly being pushed.  What wasn't recognized for a long time was how many women have participated in this amazing sport.  Through October 2023, the Swiss Alpine Museum at the Gotthard is hosting the exhibit "**Women on the Mountain**" focusing on the fearlessness of forty female alpinists.  https://www.alpinesmuseum.ch/en/exhibitions/lost-and-found-memories-office
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjQ4MTYxNjRdfQ==
+eyJoaXN0b3J5IjpbMjc1NDk1NzIxXX0=
 -->
