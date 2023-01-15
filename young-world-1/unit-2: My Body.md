@@ -43,7 +43,7 @@ summary here.
 
 ## Usborne Look Inside Your Body
 
-<img src="https://imgur.com/O2ww5pO.png" width="25%" />
+<img src="https://imgur.com/FlALckN.png" width="25%" />
 
 summary here.
 
@@ -58,7 +58,7 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTA5MzE4NSwyMTA4OTU1Nzc4LC0yNj
-kzMjA3MjMsODEzMTM0NTIsLTIzODE0MjIwOCwxMzM5MjY3ODky
-LC0yMDkzMTQ4MTY0LDE0NzI2ODk2OTQsNDUzOTg0MTMzXX0=
+eyJoaXN0b3J5IjpbNjIxMjIzNTc5LDIxMDg5NTU3NzgsLTI2OT
+MyMDcyMyw4MTMxMzQ1MiwtMjM4MTQyMjA4LDEzMzkyNjc4OTIs
+LTIwOTMxNDgxNjQsMTQ3MjY4OTY5NCw0NTM5ODQxMzNdfQ==
 -->
