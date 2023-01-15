@@ -12,9 +12,9 @@ summary here.
  
 # Supplemental Activities
 
-Rock climbing is a great example of a sport where boundaries are constantly being pushed.  What wasn't recognized for a long time was how many women have participated in th
+Rock climbing is a great example of a sport where boundaries are constantly being pushed.  What wasn't recognized for a long time was how many women have participated in this amazing sport.  Through October 2023, the Swiss Alpine Museum has an exhibit focusing on the fearlessness of forty women who 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTQ5OTA2NF19
+eyJoaXN0b3J5IjpbMTg2OTUyNTg1NV19
 -->
