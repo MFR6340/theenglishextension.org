@@ -74,6 +74,24 @@ summary here.
 <a href="https://www.bookdepository.com/All-About-Philippines-Gidget-Roceles-Jimenez/9780804848480?ref=grid-view&qid=1673791475669&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1040951756" rel="nofollow"> Buy on Orell Füssli</a>
 
+## How Much?: Visiting Markets Around the World, Ted Lewin
+
+<img src="https://imgur.com/O2ww5pO.png" width="25%" />
+
+summary here.
+
+<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
+
+## A Long Walk to Water: Based on a True Story
+
+<img src="https://imgur.com/O2ww5pO.png" width="25%" />
+
+summary here.
+
+<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
+
 ## A Long Walk to Water: Based on a True Story
 
 <img src="https://imgur.com/O2ww5pO.png" width="25%" />
@@ -83,8 +101,8 @@ summary here.
 <a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU2OTU4OTQsLTYzNjgxMDk2MiwtMT
-AwMzQ2MDUwOCwtMTE1OTM0NjQxNywtMTU2MTg3MDYwNiwtMTQ3
-NjU1MzQ5MSwtMzUxNjM5OTgsMTUwMzAxNzg3MSwtMTcwOTU4OD
-E4Nl19
+eyJoaXN0b3J5IjpbMTI2MDA3NTMwMiwtNjM2ODEwOTYyLC0xMD
+AzNDYwNTA4LC0xMTU5MzQ2NDE3LC0xNTYxODcwNjA2LC0xNDc2
+NTUzNDkxLC0zNTE2Mzk5OCwxNTAzMDE3ODcxLC0xNzA5NTg4MT
+g2XX0=
 -->
