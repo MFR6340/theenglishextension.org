@@ -86,7 +86,7 @@ summary here. (lexile 710)
 
 ## Next Time you See a Cloud, by Emily Morgan
 
-<img src="https://imgur.com/tD1ZwIH.png" width="25%" />
+<img src="https://imgur.com/I4YxRyY.png" width="25%" />
 
 summary here.
 
@@ -95,13 +95,13 @@ summary here.
 
 ## The Reason for Seasons, Gail Gibbons
 
-<img src="https://imgur.com/H0CLyxX.png" width="25%" />
+<img src="https://imgur.com/02ldsWl.png" width="25%" />
 
 summary here.
 
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzYyMDIzNSwxMzM4MjQ2OTc4LDEzMD
+eyJoaXN0b3J5IjpbMTE2ODg5NTk5NiwxMzM4MjQ2OTc4LDEzMD
 Q0MDU3MzYsMzUwMTYwNzk0LC0zMjYxMzA3NDcsLTMwODM4OTgy
 OSwxMjY3Mzk0MTEzLDM0NjM5ODQ5MSwtMjE5MjgzMzE0LC04Nz
 E4MTM3MDMsMTg5MDU1MTAxOCwxNzg0MDczODg1LDg5OTM1Nzc3
