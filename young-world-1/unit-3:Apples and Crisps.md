@@ -18,7 +18,7 @@ From seeds to harvest to eating, this book has beautiful hand-colored photos is 
 
 
 A little girl goes to the store to buy the things she needs to make an apple pie.   (Lexile AD590L) 
-TEACHERS: Lesson Plans are available for this book. 
+*TEACHERS: Lesson Plans are available for this book.* 
 
 
 <a href="https://www.bookdepository.com/Apples-Ken-Robbins/9781481401654?ref=grid-view&qid=1656344168590&sr=1-6" rel="nofollow"> Buy on BookDepository</a>  
@@ -93,7 +93,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTQ3ODM1OSwtMTQxMzE0NTQwMywtMT
+eyJoaXN0b3J5IjpbMTExMzI2MTY2NywtMTQxMzE0NTQwMywtMT
 QzNTE4NzIsLTE1NzE2MDQ1LC01NzM2MTY5MjAsLTE1OTMyODE2
 MTQsMjI1MzgzNTM5LDE4OTA1NzY2ODAsLTE5NDExODk1LC0zOD
 UwMDMyNDYsMTg4ODQ4MDA3MCwxNzIyNzI0NjMzLDExODQxOTM2
