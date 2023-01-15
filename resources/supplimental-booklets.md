@@ -1,10 +1,12 @@
 ---
 layout: dir-index
 ---
+# Supplemental Materials
+[https://learnenglishteens.britishcouncil.org/](https://learnenglishteens.britishcouncil.org/) A useful website to work on listening comprehension, which despite being natives, many kids still often struggle with. Goes up to C1
 
 # Supplemental Booklets
 
-We provide supplemental booklets to be used in the classroom in conjunction with the Klett English Program currently used in 12 Cantons throughout Switzerland.
+TEEO provides supplemental booklets to be used in the classroom in conjunction with the Klett English Program currently used in 12 Cantons throughout Switzerland.
 
 ## Primary School
 
@@ -20,5 +22,5 @@ We provide supplemental booklets to be used in the classroom in conjunction with
 [3rd Year, Oberstufe](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1MjY5NDRdfQ==
+eyJoaXN0b3J5IjpbLTEzMTUxOTMyNTMsNTM1MjY5NDRdfQ==
 -->
