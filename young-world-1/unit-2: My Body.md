@@ -56,8 +56,8 @@ summary here.
 
 summary here.
 
-<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Out-My-Mind-Sharon-M-Draper/9781416971719?ref=grid-view&qid=1673793076916&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1017633441" rel="nofollow"> Buy on Orell Füssli</a>
 # Supplemental Activities 
 
 At the Kultura Museum des Mensches in Zurich, learn all about human development from prehistory to present.  «Who we are» shows you the unfolding of modern human being from conception to death. Anatomical specimen illustrate human life and its development.https://www.kulturama.ch/en/
@@ -66,7 +66,7 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTgyNTkyODMsMjEwODk1NTc3OCwtMj
-Y5MzIwNzIzLDgxMzEzNDUyLC0yMzgxNDIyMDgsMTMzOTI2Nzg5
-MiwtMjA5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1Mzk4NDEzM119
+eyJoaXN0b3J5IjpbMTA2MDg4NTkwOSwyMTA4OTU1Nzc4LC0yNj
+kzMjA3MjMsODEzMTM0NTIsLTIzODE0MjIwOCwxMzM5MjY3ODky
+LC0yMDkzMTQ4MTY0LDE0NzI2ODk2OTQsNDUzOTg0MTMzXX0=
 -->
