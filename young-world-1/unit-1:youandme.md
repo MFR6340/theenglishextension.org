@@ -54,10 +54,9 @@ summary here.
 
 description
 
-<a href="https://www.bookdepository.com/Flag-Book-Lonely-Planet-Kids/9781788683098?ref=grid-view&qid=1656069226646&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054007305" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Waitangi-Day-Philippa-Werry/9781869664213?ref=grid-view&qid=1673790699073&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTI0ODM4MywtMTAwMzQ2MDUwOCwtMT
+eyJoaXN0b3J5IjpbLTYzNjgxMDk2MiwtMTAwMzQ2MDUwOCwtMT
 E1OTM0NjQxNywtMTU2MTg3MDYwNiwtMTQ3NjU1MzQ5MSwtMzUx
 NjM5OTgsMTUwMzAxNzg3MSwtMTcwOTU4ODE4Nl19
 -->
