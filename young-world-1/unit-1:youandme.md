@@ -67,7 +67,7 @@ summary here.
 
 ## All About the Philippines: Stories, Songs, Crafts and Games for Kids, by Gidget Roceles Gimenez
 
-<img src="https://imgur.com/DShu2lZ.png" width="25%" />
+<img src="https://imgur.com/vBGZM2T.png" width="25%" />
 
 summary here.
 
@@ -76,7 +76,7 @@ summary here.
 
 ## How Much?: Visiting Markets Around the World, Ted Lewin
 
-<img src="https://imgur.com/MONJJnb.png" width="25%" />
+<img src="https://imgur.com/L6DW0ok.png" width="25%" />
 
 summary here.
 
@@ -85,14 +85,14 @@ summary here.
 
 ## It’s Trevor Noah: Born a Crime, by Trevor Noah
 
-<img src="https://imgur.com/O2MqZu6.png" width="25%" />
+<img src="https://imgur.com/j7GWfJI.png" width="25%" />
 
 summary here.
 
 <a href="https://www.bookdepository.com/Its-Trevor-Noah-Born-Crime-Trevor-Noah/9780525582199?ref=grid-view&qid=1673791904933&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051326754" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzExNjk3MiwxNTMwOTQ5MzcyLC02Mz
+eyJoaXN0b3J5IjpbLTExNjc5NzU3MSwxNTMwOTQ5MzcyLC02Mz
 Y4MTA5NjIsLTEwMDM0NjA1MDgsLTExNTkzNDY0MTcsLTE1NjE4
 NzA2MDYsLTE0NzY1NTM0OTEsLTM1MTYzOTk4LDE1MDMwMTc4Nz
 EsLTE3MDk1ODgxODZdfQ==
