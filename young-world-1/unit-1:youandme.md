@@ -1,6 +1,6 @@
 # Young World 1, Unit 1: You and Me
 *This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
-Waitangi Day: The New Zealand Story, by Philppa Werry
+
 ## The Flag Book, Lonely Planet Kids
 
 <img src="https://imgur.com/7nRyPSf.png" width="25%" />
@@ -92,8 +92,8 @@ summary here.
 <a href="https://www.bookdepository.com/Its-Trevor-Noah-Born-Crime-Trevor-Noah/9780525582199?ref=grid-view&qid=1673791904933&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051326754" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDk0OTM3MiwtNjM2ODEwOTYyLC0xMD
-AzNDYwNTA4LC0xMTU5MzQ2NDE3LC0xNTYxODcwNjA2LC0xNDc2
-NTUzNDkxLC0zNTE2Mzk5OCwxNTAzMDE3ODcxLC0xNzA5NTg4MT
-g2XX0=
+eyJoaXN0b3J5IjpbLTE5MTM1Mjk1NTEsMTUzMDk0OTM3MiwtNj
+M2ODEwOTYyLC0xMDAzNDYwNTA4LC0xMTU5MzQ2NDE3LC0xNTYx
+ODcwNjA2LC0xNDc2NTUzNDkxLC0zNTE2Mzk5OCwxNTAzMDE3OD
+cxLC0xNzA5NTg4MTg2XX0=
 -->
