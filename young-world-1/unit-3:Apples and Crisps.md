@@ -54,8 +54,8 @@ summary here. (lexile 750)
 
 summary here. (940L)
 
-<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Baking-Life-Amelie-Day-Vanessa-Curtis/9781496541383?ref=grid-view&qid=1673793543676&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038920519" rel="nofollow"> Buy on Orell Füssli</a>
 
 ## A Long Walk to Water: Based on a True Story
 
@@ -80,8 +80,8 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM1NjUwNTIsLTE1NzE2MDQ1LC01Nz
-M2MTY5MjAsLTE1OTMyODE2MTQsMjI1MzgzNTM5LDE4OTA1NzY2
-ODAsLTE5NDExODk1LC0zODUwMDMyNDYsMTg4ODQ4MDA3MCwxNz
-IyNzI0NjMzLDExODQxOTM2NjUsLTczMjkzMTk1Nl19
+eyJoaXN0b3J5IjpbMTY4NjYyOTUwNiwtMTU3MTYwNDUsLTU3Mz
+YxNjkyMCwtMTU5MzI4MTYxNCwyMjUzODM1MzksMTg5MDU3NjY4
+MCwtMTk0MTE4OTUsLTM4NTAwMzI0NiwxODg4NDgwMDcwLDE3Mj
+I3MjQ2MzMsMTE4NDE5MzY2NSwtNzMyOTMxOTU2XX0=
 -->
