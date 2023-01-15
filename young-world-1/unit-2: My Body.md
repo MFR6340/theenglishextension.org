@@ -43,7 +43,7 @@ summary here.
 
 ## Jim Abbott, Against All Odds, by Ellen Emerson White
 
-<img src="https://imgur.com/FlALckN.png" width="25%" />
+<img src="https://imgur.com/22Vjo0J.png" width="25%" />
 
 Jim Abbott was born without a hand.  He became famous American baseball pitcher for both the Los Angeles Angels the New York Yankees where he threw a no-hitter game in 1993. He won a gold medal with the 1988 Summer Olympics team.  Only available used.
 
@@ -66,8 +66,9 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY5Mjk3NTQsMzI1MTg0NTEyLC0xNj
-I0NDA3NTIwLDEzODYwNjUxNjAsMjEwODk1NTc3OCwtMjY5MzIw
-NzIzLDgxMzEzNDUyLC0yMzgxNDIyMDgsMTMzOTI2Nzg5MiwtMj
-A5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1Mzk4NDEzM119
+eyJoaXN0b3J5IjpbLTE0NDUyNzQ4NDIsLTE1NjY5Mjk3NTQsMz
+I1MTg0NTEyLC0xNjI0NDA3NTIwLDEzODYwNjUxNjAsMjEwODk1
+NTc3OCwtMjY5MzIwNzIzLDgxMzEzNDUyLC0yMzgxNDIyMDgsMT
+MzOTI2Nzg5MiwtMjA5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1Mzk4
+NDEzM119
 -->
