@@ -54,7 +54,7 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 
 <img src="https://imgur.com/WQdtOmL.png" width="25%" />
 
-Third-grade Phoebe has a new classmate from France who expands  (lexile 750L)
+Third-grade Phoebe has a new classmate from France who expands her knowledge and love of food. (lexile 750L)
 
 <a href="https://www.bookdepository.com/Lunch-Will-Never-Be-Same-1-Veera-Hiranandani/9780448466958?ref=grid-view&qid=1673793391847&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033477719" rel="nofollow"> Buy on Orell Füssli</a>
@@ -91,10 +91,10 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjgyNzE0OSwtMTA3NjIwNDA0MSwxNj
-I0MTM2MTAxLC0xNDEzMTQ1NDAzLC0xNDM1MTg3MiwtMTU3MTYw
-NDUsLTU3MzYxNjkyMCwtMTU5MzI4MTYxNCwyMjUzODM1MzksMT
-g5MDU3NjY4MCwtMTk0MTE4OTUsLTM4NTAwMzI0NiwxODg4NDgw
-MDcwLDE3MjI3MjQ2MzMsMTE4NDE5MzY2NSwtNzMyOTMxOTU2XX
-0=
+eyJoaXN0b3J5IjpbLTEwNDY1NzQzNjQsLTEwNzYyMDQwNDEsMT
+YyNDEzNjEwMSwtMTQxMzE0NTQwMywtMTQzNTE4NzIsLTE1NzE2
+MDQ1LC01NzM2MTY5MjAsLTE1OTMyODE2MTQsMjI1MzgzNTM5LD
+E4OTA1NzY2ODAsLTE5NDExODk1LC0zODUwMDMyNDYsMTg4ODQ4
+MDA3MCwxNzIyNzI0NjMzLDExODQxOTM2NjUsLTczMjkzMTk1Nl
+19
 -->
