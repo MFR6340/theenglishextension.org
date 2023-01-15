@@ -15,6 +15,8 @@ From seeds to harvest to eating, this book has beautiful hand-colored photos is 
 
 <img src="https://imgur.com/F78MUbL.png" width="25%"  />
 
+(Lexile AD590L) 
+
 From seeds to harvest to eating, this book has beautiful hand-colored photos is a good foundation to talk more about how other foods are grown and what recipes they are in.  (Lexile 710L)
 
 
@@ -90,9 +92,9 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTMxNDU0MDMsLTE0MzUxODcyLC0xNT
-cxNjA0NSwtNTczNjE2OTIwLC0xNTkzMjgxNjE0LDIyNTM4MzUz
-OSwxODkwNTc2NjgwLC0xOTQxMTg5NSwtMzg1MDAzMjQ2LDE4OD
-g0ODAwNzAsMTcyMjcyNDYzMywxMTg0MTkzNjY1LC03MzI5MzE5
-NTZdfQ==
+eyJoaXN0b3J5IjpbMTA0ODExMDg0MCwtMTQxMzE0NTQwMywtMT
+QzNTE4NzIsLTE1NzE2MDQ1LC01NzM2MTY5MjAsLTE1OTMyODE2
+MTQsMjI1MzgzNTM5LDE4OTA1NzY2ODAsLTE5NDExODk1LC0zOD
+UwMDMyNDYsMTg4ODQ4MDA3MCwxNzIyNzI0NjMzLDExODQxOTM2
+NjUsLTczMjkzMTk1Nl19
 -->
