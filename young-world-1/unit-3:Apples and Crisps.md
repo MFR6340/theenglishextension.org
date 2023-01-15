@@ -59,11 +59,11 @@ summary here. (940L)
 
 ## Pizza! A Slice of History, Greg Pizzoli
 
-<img src="https://imgur.com/O2ww5pO.png" width="25%" />
+<img src="https://imgur.com/9waPO10.png" width="25%" />
 
 summary here.
 
-<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.bookdepository.com/Pizza-Greg-Pizzoli/9780425291078" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
 
 ## A Long Walk to Water: Based on a True Story
@@ -80,8 +80,8 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NDM2MTU3MiwtMTU3MTYwNDUsLTU3Mz
-YxNjkyMCwtMTU5MzI4MTYxNCwyMjUzODM1MzksMTg5MDU3NjY4
-MCwtMTk0MTE4OTUsLTM4NTAwMzI0NiwxODg4NDgwMDcwLDE3Mj
-I3MjQ2MzMsMTE4NDE5MzY2NSwtNzMyOTMxOTU2XX0=
+eyJoaXN0b3J5IjpbLTE3MTI5OTA5ODksLTE1NzE2MDQ1LC01Nz
+M2MTY5MjAsLTE1OTMyODE2MTQsMjI1MzgzNTM5LDE4OTA1NzY2
+ODAsLTE5NDExODk1LC0zODUwMDMyNDYsMTg4ODQ4MDA3MCwxNz
+IyNzI0NjMzLDExODQxOTM2NjUsLTczMjkzMTk1Nl19
 -->
