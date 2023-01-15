@@ -50,7 +50,7 @@ summary here. (lexile 750)
 
 ## The Baking Life of Amelie Day, By Vanessa Curtis
 
-<img src="https://imgur.com/Uu7ZlE6.png" width="25%" />
+<img src="https://imgur.com/BIkI5aV.png" width="25%" />
 
 summary here. (940L)
 
@@ -59,7 +59,7 @@ summary here. (940L)
 
 ## Pizza! A Slice of History, Greg Pizzoli
 
-<img src="https://imgur.com/9waPO10.png" width="25%" />
+<img src="https://imgur.com/ZQKEkKu.png" width="25%" />
 
 summary here.
 
@@ -80,9 +80,9 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwMDU3MTcsLTE0MzUxODcyLC0xNTcxNj
-A0NSwtNTczNjE2OTIwLC0xNTkzMjgxNjE0LDIyNTM4MzUzOSwx
-ODkwNTc2NjgwLC0xOTQxMTg5NSwtMzg1MDAzMjQ2LDE4ODg0OD
-AwNzAsMTcyMjcyNDYzMywxMTg0MTkzNjY1LC03MzI5MzE5NTZd
-fQ==
+eyJoaXN0b3J5IjpbMTU5MzA5MDk3MywtMTQzNTE4NzIsLTE1Nz
+E2MDQ1LC01NzM2MTY5MjAsLTE1OTMyODE2MTQsMjI1MzgzNTM5
+LDE4OTA1NzY2ODAsLTE5NDExODk1LC0zODUwMDMyNDYsMTg4OD
+Q4MDA3MCwxNzIyNzI0NjMzLDExODQxOTM2NjUsLTczMjkzMTk1
+Nl19
 -->
