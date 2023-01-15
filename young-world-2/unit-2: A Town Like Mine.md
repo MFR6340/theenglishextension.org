@@ -45,9 +45,10 @@ summary here.
 " rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1060398683" rel="nofollow">Buy on Orell Füssli</a>
 
-https://www.freewalk.ch/swiss/#cities
+# Supplemental Activities
+Sometimes we learn more about other cities when we are traveling than the ones that are right at our doorstep.  Learn more about the cities that are nearby and learn the stories behind the bhttps://www.freewalk.ch/swiss/#cities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTAwNzMzMywtMTg5NjQyNDM2NiwtMT
-U1MTYzMTk5OSw1NTk5NTAwMzcsLTE4NzUzNDM5MSwtMzEwNjIx
-NDIyXX0=
+eyJoaXN0b3J5IjpbLTEwMDI3MjI1NDUsLTI1NTAwNzMzMywtMT
+g5NjQyNDM2NiwtMTU1MTYzMTk5OSw1NTk5NTAwMzcsLTE4NzUz
+NDM5MSwtMzEwNjIxNDIyXX0=
 -->
