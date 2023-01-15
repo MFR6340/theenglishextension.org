@@ -13,9 +13,7 @@ From seeds to harvest to eating, this book has beautiful hand-colored photos is 
 
 ## How to Make an Apple Pie and See the World, by Marjorie Priceman
 
-<img src="https://i.imgur.com/w1aMgNI.png" width="25%"  />
-
-
+<img src="https://i.imgur.com/8QC2M6K.jpg" width="25%"  />
 
 A little girl goes to the store to buy the things she needs to make an apple pie.   (Lexile AD590L) 
 *TEACHERS: Lesson Plans are available for this book.* 
@@ -93,9 +91,9 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDEzNjEwMSwtMTQxMzE0NTQwMywtMT
-QzNTE4NzIsLTE1NzE2MDQ1LC01NzM2MTY5MjAsLTE1OTMyODE2
-MTQsMjI1MzgzNTM5LDE4OTA1NzY2ODAsLTE5NDExODk1LC0zOD
-UwMDMyNDYsMTg4ODQ4MDA3MCwxNzIyNzI0NjMzLDExODQxOTM2
-NjUsLTczMjkzMTk1Nl19
+eyJoaXN0b3J5IjpbLTg4ODQxNjYyMSwxNjI0MTM2MTAxLC0xND
+EzMTQ1NDAzLC0xNDM1MTg3MiwtMTU3MTYwNDUsLTU3MzYxNjky
+MCwtMTU5MzI4MTYxNCwyMjUzODM1MzksMTg5MDU3NjY4MCwtMT
+k0MTE4OTUsLTM4NTAwMzI0NiwxODg4NDgwMDcwLDE3MjI3MjQ2
+MzMsMTE4NDE5MzY2NSwtNzMyOTMxOTU2XX0=
 -->
