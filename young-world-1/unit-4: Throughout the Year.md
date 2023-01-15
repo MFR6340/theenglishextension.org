@@ -77,7 +77,7 @@ summary here. (Lexile AD 1130L)
 
 ## The Big Snow, by Berta and Elmer Hader
 
-<img src="https://imgur.com/O2ww5pO.png" width="25%" />
+<img src="https://imgur.com/w4bkr1S.png" width="25%" />
 
 summary here. (lexile 710)
 
@@ -102,7 +102,7 @@ summary here.
 <a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODU5NDM1NiwzNTAxNjA3OTQsLTMyNj
+eyJoaXN0b3J5IjpbMTQxNzM2ODk4MywzNTAxNjA3OTQsLTMyNj
 EzMDc0NywtMzA4Mzg5ODI5LDEyNjczOTQxMTMsMzQ2Mzk4NDkx
 LC0yMTkyODMzMTQsLTg3MTgxMzcwMywxODkwNTUxMDE4LDE3OD
 QwNzM4ODUsODk5MzU3Nzc5LC03NzIzMjQ0MDUsMTMxNTAxMDky
