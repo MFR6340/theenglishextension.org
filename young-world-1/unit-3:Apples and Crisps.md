@@ -45,14 +45,14 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 
 summary here. (lexile 750)
 
-<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Lunch-Will-Never-Be-Same-1-Veera-Hiranandani/9780448466958?ref=grid-view&qid=1673793391847&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033477719" rel="nofollow"> Buy on Orell Füssli</a>
 
-## A Long Walk to Water: Based on a True Story
+## The Baking Life of Amelie Day, By Vanessa Curtis
 
 <img src="https://imgur.com/O2ww5pO.png" width="25%" />
 
-summary here.
+summary here. (940L)
 
 <a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
@@ -80,7 +80,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTk2NjYxODYsLTE1NzE2MDQ1LC01Nz
+eyJoaXN0b3J5IjpbLTEyMzM1NjUwNTIsLTE1NzE2MDQ1LC01Nz
 M2MTY5MjAsLTE1OTMyODE2MTQsMjI1MzgzNTM5LDE4OTA1NzY2
 ODAsLTE5NDExODk1LC0zODUwMDMyNDYsMTg4ODQ4MDA3MCwxNz
 IyNzI0NjMzLDExODQxOTM2NjUsLTczMjkzMTk1Nl19
