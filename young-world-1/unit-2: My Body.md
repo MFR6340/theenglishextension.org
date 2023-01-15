@@ -41,13 +41,13 @@ summary here.
 <a href="https://www.bookdepository.com/1-000-Amazing-Human-Body-Facts-Dk/9780744028843?ref=grid-view&qid=1673792564417&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059647890" rel="nofollow"> Buy on Orell Füssli</a>
 
-## Usborne Look Inside Your Body
+## Jim Abbott, Against All Odds, by Ellen Emerson White
 
 <img src="https://imgur.com/FlALckN.png" width="25%" />
-
+https://www.amazon.com/Jim-Abbott-Against-Scholastic-biography/dp/0590435035
 summary here.
 
-<a href="https://www.bookdepository.com/Look-Inside-Your-Body-Louie-Stowell/9781409549475?ref=grid-view&qid=1673792779077&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.bookdepository.com/Look-Inside-Your-Body-Louie-Stowell/9781409549475?ref=grid-view&qid=1673792779077&sr=1-1" rel="nofollow"> Buy on Amazon</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1022805974" rel="nofollow"> Buy on Orell Füssli</a>  
 
 ## Out of My Mind, Sharon Draper
@@ -66,8 +66,8 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1MTg0NTEyLC0xNjI0NDA3NTIwLDEzOD
-YwNjUxNjAsMjEwODk1NTc3OCwtMjY5MzIwNzIzLDgxMzEzNDUy
-LC0yMzgxNDIyMDgsMTMzOTI2Nzg5MiwtMjA5MzE0ODE2NCwxND
-cyNjg5Njk0LDQ1Mzk4NDEzM119
+eyJoaXN0b3J5IjpbMTMzMjY0MDg2MSwzMjUxODQ1MTIsLTE2Mj
+Q0MDc1MjAsMTM4NjA2NTE2MCwyMTA4OTU1Nzc4LC0yNjkzMjA3
+MjMsODEzMTM0NTIsLTIzODE0MjIwOCwxMzM5MjY3ODkyLC0yMD
+kzMTQ4MTY0LDE0NzI2ODk2OTQsNDUzOTg0MTMzXX0=
 -->
