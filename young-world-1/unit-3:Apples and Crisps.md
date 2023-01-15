@@ -11,6 +11,16 @@ From seeds to harvest to eating, this book has beautiful hand-colored photos is 
 <a href="https://www.bookdepository.com/Apples-Ken-Robbins/9781481401654?ref=grid-view&qid=1656344168590&sr=1-6" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1031141802" rel="nofollow">Buy on Orell Füssli</a>
 
+## How to Make an Apple Pie and See the World, by 
+
+<img src="https://imgur.com/F78MUbL.png" width="25%"  />
+
+From seeds to harvest to eating, this book has beautiful hand-colored photos is a good foundation to talk more about how other foods are grown and what recipes they are in.  (Lexile 710L)
+
+
+<a href="https://www.bookdepository.com/Apples-Ken-Robbins/9781481401654?ref=grid-view&qid=1656344168590&sr=1-6" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1031141802" rel="nofollow">Buy on Orell Füssli</a>
+
 ## Cloudy with a Chance of Meatballs, by Judith Barrett
 
 <img src="https://imgur.com/fQL4dqI.png" width="25%" />
@@ -80,9 +90,9 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3ODI5NTIwLC0xNDM1MTg3MiwtMTU3MT
-YwNDUsLTU3MzYxNjkyMCwtMTU5MzI4MTYxNCwyMjUzODM1Mzks
-MTg5MDU3NjY4MCwtMTk0MTE4OTUsLTM4NTAwMzI0NiwxODg4ND
-gwMDcwLDE3MjI3MjQ2MzMsMTE4NDE5MzY2NSwtNzMyOTMxOTU2
-XX0=
+eyJoaXN0b3J5IjpbLTE0MTMxNDU0MDMsLTE0MzUxODcyLC0xNT
+cxNjA0NSwtNTczNjE2OTIwLC0xNTkzMjgxNjE0LDIyNTM4MzUz
+OSwxODkwNTc2NjgwLC0xOTQxMTg5NSwtMzg1MDAzMjQ2LDE4OD
+g0ODAwNzAsMTcyMjcyNDYzMywxMTg0MTkzNjY1LC03MzI5MzE5
+NTZdfQ==
 -->
