@@ -29,23 +29,8 @@ summary here.
 
 <a href="https://www.bookdepository.com/The-Magic-School-Bus-Presents-The-Human-Body-Dan-Green-Carolyn-Bracken/9780545683647" rel="nofollow"> Buy on BookDepository</a>
 
-## Jim Abbott: Against All Odds (Scholastic biography) Famous baseball pitcher who was born missing a hand.
 
-<img src="https://imgur.com/O2ww5pO.png" width="25%" />
 
-summary here.
-
-<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
-
-## A Long Walk to Water: Based on a True Story
-
-<img src="https://imgur.com/O2ww5pO.png" width="25%" />
-
-summary here.
-
-<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a>
 
 ## A Long Walk to Water: Based on a True Story
 
@@ -73,7 +58,7 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTMyMDcyMyw4MTMxMzQ1MiwtMjM4MT
-QyMjA4LDEzMzkyNjc4OTIsLTIwOTMxNDgxNjQsMTQ3MjY4OTY5
-NCw0NTM5ODQxMzNdfQ==
+eyJoaXN0b3J5IjpbODU1NjUzNjg2LC0yNjkzMjA3MjMsODEzMT
+M0NTIsLTIzODE0MjIwOCwxMzM5MjY3ODkyLC0yMDkzMTQ4MTY0
+LDE0NzI2ODk2OTQsNDUzOTg0MTMzXX0=
 -->
