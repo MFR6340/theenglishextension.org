@@ -54,7 +54,7 @@ summary here.
 
 <img src="https://i.imgur.com/dRtP69n.png" width="25%" />
 
-An 11 year old girl has Cerebral Palsy and is unable to walk, talk or write (Lexile 700L)
+11 year old Melody has Cerebral Palsy and is unable to walk, talk or write, but she has a photographic memory.  She's trapped in her own body until she gets a computer thath (Lexile 700L)
 
 <a href="https://www.bookdepository.com/Out-My-Mind-Sharon-M-Draper/9781416971719?ref=grid-view&qid=1673793076916&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1017633441" rel="nofollow"> Buy on Orell Füssli</a>
@@ -66,8 +66,8 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzMzE3MzE5LC0xNjI0NDA3NTIwLDEzOD
-YwNjUxNjAsMjEwODk1NTc3OCwtMjY5MzIwNzIzLDgxMzEzNDUy
-LC0yMzgxNDIyMDgsMTMzOTI2Nzg5MiwtMjA5MzE0ODE2NCwxND
-cyNjg5Njk0LDQ1Mzk4NDEzM119
+eyJoaXN0b3J5IjpbLTY1MjM4NTU0NSwtMTYyNDQwNzUyMCwxMz
+g2MDY1MTYwLDIxMDg5NTU3NzgsLTI2OTMyMDcyMyw4MTMxMzQ1
+MiwtMjM4MTQyMjA4LDEzMzkyNjc4OTIsLTIwOTMxNDgxNjQsMT
+Q3MjY4OTY5NCw0NTM5ODQxMzNdfQ==
 -->
