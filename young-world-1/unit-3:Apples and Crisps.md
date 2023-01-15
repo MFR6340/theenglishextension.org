@@ -54,7 +54,7 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 
 <img src="https://imgur.com/WQdtOmL.png" width="25%" />
 
-Third-grade Phoebe has a new clas (lexile 750L)
+Third-grade Phoebe has a new classmate from France who expands  (lexile 750L)
 
 <a href="https://www.bookdepository.com/Lunch-Will-Never-Be-Same-1-Veera-Hiranandani/9780448466958?ref=grid-view&qid=1673793391847&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033477719" rel="nofollow"> Buy on Orell Füssli</a>
@@ -91,7 +91,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTE5ODcwNywtMTA3NjIwNDA0MSwxNj
+eyJoaXN0b3J5IjpbLTczMjgyNzE0OSwtMTA3NjIwNDA0MSwxNj
 I0MTM2MTAxLC0xNDEzMTQ1NDAzLC0xNDM1MTg3MiwtMTU3MTYw
 NDUsLTU3MzYxNjkyMCwtMTU5MzI4MTYxNCwyMjUzODM1MzksMT
 g5MDU3NjY4MCwtMTk0MTE4OTUsLTM4NTAwMzI0NiwxODg4NDgw
