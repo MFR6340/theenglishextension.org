@@ -77,7 +77,7 @@ summary here. (Lexile AD 1130L)
 
 ## The Big Snow, by Berta and Elmer Hader
 
-<img src="https://imgur.com/w4bkr1S.png" width="25%" />
+<img src="https://imgur.com/ldsbZbT.png" width="25%" />
 
 summary here. (lexile 710)
 
@@ -101,9 +101,9 @@ summary here.
 
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODI0Njk3OCwxMzA0NDA1NzM2LDM1MD
-E2MDc5NCwtMzI2MTMwNzQ3LC0zMDgzODk4MjksMTI2NzM5NDEx
-MywzNDYzOTg0OTEsLTIxOTI4MzMxNCwtODcxODEzNzAzLDE4OT
-A1NTEwMTgsMTc4NDA3Mzg4NSw4OTkzNTc3NzksLTc3MjMyNDQw
-NSwxMzE1MDEwOTI4LDEzMDQ2NjIyODldfQ==
+eyJoaXN0b3J5IjpbMTM0NzYyMDIzNSwxMzM4MjQ2OTc4LDEzMD
+Q0MDU3MzYsMzUwMTYwNzk0LC0zMjYxMzA3NDcsLTMwODM4OTgy
+OSwxMjY3Mzk0MTEzLDM0NjM5ODQ5MSwtMjE5MjgzMzE0LC04Nz
+E4MTM3MDMsMTg5MDU1MTAxOCwxNzg0MDczODg1LDg5OTM1Nzc3
+OSwtNzcyMzI0NDA1LDEzMTUwMTA5MjgsMTMwNDY2MjI4OV19
 -->
