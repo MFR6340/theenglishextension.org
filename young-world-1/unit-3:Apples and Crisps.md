@@ -81,7 +81,7 @@ summary here.
 
 <img src="https://imgur.com/LbI8oaG.png" width="25%" />
 
-summary here.
+The true story of chef Ignacio (Nacho) and how his quick invention led to a famous snack. 
 
 <a href="https://www.bookdepository.com/Nachos-Nachos-Sandra-Nickel/9781620143698?ref=grid-view&qid=1673793907326&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1057057543" rel="nofollow"> Buy on Orell Füssli</a>
@@ -91,10 +91,10 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDY1NzQzNjQsLTEwNzYyMDQwNDEsMT
-YyNDEzNjEwMSwtMTQxMzE0NTQwMywtMTQzNTE4NzIsLTE1NzE2
-MDQ1LC01NzM2MTY5MjAsLTE1OTMyODE2MTQsMjI1MzgzNTM5LD
-E4OTA1NzY2ODAsLTE5NDExODk1LC0zODUwMDMyNDYsMTg4ODQ4
-MDA3MCwxNzIyNzI0NjMzLDExODQxOTM2NjUsLTczMjkzMTk1Nl
-19
+eyJoaXN0b3J5IjpbLTExNzY3OTg3NzEsLTEwNDY1NzQzNjQsLT
+EwNzYyMDQwNDEsMTYyNDEzNjEwMSwtMTQxMzE0NTQwMywtMTQz
+NTE4NzIsLTE1NzE2MDQ1LC01NzM2MTY5MjAsLTE1OTMyODE2MT
+QsMjI1MzgzNTM5LDE4OTA1NzY2ODAsLTE5NDExODk1LC0zODUw
+MDMyNDYsMTg4ODQ4MDA3MCwxNzIyNzI0NjMzLDExODQxOTM2Nj
+UsLTczMjkzMTk1Nl19
 -->
