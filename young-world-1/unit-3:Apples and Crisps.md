@@ -72,7 +72,7 @@ summary here. (940L)
 
 <img src="https://imgur.com/ZQKEkKu.png" width="25%" />
 
-summary here. (Lexile 780L) 
+Fun facts about one of the world's favorite foods. (Lexile 780L) 
 
 <a href="https://www.bookdepository.com/Pizza-Greg-Pizzoli/9780425291078" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062633626" rel="nofollow"> Buy on Orell Füssli</a>
@@ -91,10 +91,10 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjAxMTA4MiwtMTA0NjU3NDM2NCwtMT
-A3NjIwNDA0MSwxNjI0MTM2MTAxLC0xNDEzMTQ1NDAzLC0xNDM1
-MTg3MiwtMTU3MTYwNDUsLTU3MzYxNjkyMCwtMTU5MzI4MTYxNC
-wyMjUzODM1MzksMTg5MDU3NjY4MCwtMTk0MTE4OTUsLTM4NTAw
-MzI0NiwxODg4NDgwMDcwLDE3MjI3MjQ2MzMsMTE4NDE5MzY2NS
-wtNzMyOTMxOTU2XX0=
+eyJoaXN0b3J5IjpbLTEyMDYyODY0NDYsLTEwNDY1NzQzNjQsLT
+EwNzYyMDQwNDEsMTYyNDEzNjEwMSwtMTQxMzE0NTQwMywtMTQz
+NTE4NzIsLTE1NzE2MDQ1LC01NzM2MTY5MjAsLTE1OTMyODE2MT
+QsMjI1MzgzNTM5LDE4OTA1NzY2ODAsLTE5NDExODk1LC0zODUw
+MDMyNDYsMTg4ODQ4MDA3MCwxNzIyNzI0NjMzLDExODQxOTM2Nj
+UsLTczMjkzMTk1Nl19
 -->
