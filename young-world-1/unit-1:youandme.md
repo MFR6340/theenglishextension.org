@@ -62,10 +62,11 @@ description
 
 summary here.
 
-<a href="https://www.bookdepository.com/My-Country-Dorothea-MacKellar/9781743837702?ref=grid-view&qid=1665849509446&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzOTM5NzMxLC02MzY4MTA5NjIsLTEwMD
-M0NjA1MDgsLTExNTkzNDY0MTcsLTE1NjE4NzA2MDYsLTE0NzY1
-NTM0OTEsLTM1MTYzOTk4LDE1MDMwMTc4NzEsLTE3MDk1ODgxOD
-ZdfQ==
+eyJoaXN0b3J5IjpbLTE0NDI4NTg0MywtNjM2ODEwOTYyLC0xMD
+AzNDYwNTA4LC0xMTU5MzQ2NDE3LC0xNTYxODcwNjA2LC0xNDc2
+NTUzNDkxLC0zNTE2Mzk5OCwxNTAzMDE3ODcxLC0xNzA5NTg4MT
+g2XX0=
 -->
