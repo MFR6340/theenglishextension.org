@@ -53,9 +53,7 @@ summary here.( Lexile 1030L)
 <a href="https://www.bookdepository.com/Gone-the-Woods-True-Story-of-Growing-Up-in-the-Wild-Gary-Paulsen/9781529047721" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059151245" rel="nofollow">Buy on Orell Füssli</a>
 
-##  Gone to the Woods,  A True Story of  Growing up in the Wild, by Gary Paulsen
-
-<img src="blob:https://imgur.com/0418c7c3-8181-4aae-a68e-f36fea1dbf45" width="25%" />
+![](https://i.imgur.com/VZ8JHp9.png)" width="25%" />
 
 summary here.( Lexile 1030L)
 
@@ -65,8 +63,8 @@ summary here.( Lexile 1030L)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDU1Njg3NiwtNTQ0MjExMDI0LDE5ND
-g0MTc5NDIsNDc5NTQ2MDkyLC05MjYzOTA1NjUsMTg1OTcyNTAs
-MjIxNDA5NTU5LC0xNjU4NDM0MTcyLC0xMTAwNzM0NDAxLC04Nj
-E5NDI1NDYsMTUwMzUzNDc0OF19
+eyJoaXN0b3J5IjpbODY0NTIzNDAzLC01OTQ1NTY4NzYsLTU0ND
+IxMTAyNCwxOTQ4NDE3OTQyLDQ3OTU0NjA5MiwtOTI2MzkwNTY1
+LDE4NTk3MjUwLDIyMTQwOTU1OSwtMTY1ODQzNDE3MiwtMTEwMD
+czNDQwMSwtODYxOTQyNTQ2LDE1MDM1MzQ3NDhdfQ==
 -->
