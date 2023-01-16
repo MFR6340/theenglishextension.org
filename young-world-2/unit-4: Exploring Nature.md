@@ -43,9 +43,16 @@ summary here.( Lexile NC1230L)
 <a href="https://www.bookdepository.com/Guts-Gary-Paulsen/9780440407126?ref=grid-view&qid=1673879187868&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006227112" rel="nofollow">Buy on Orell Füssli</a>
 
+## 
+ growing up in the Wilds, by Gary Paulsen
+<img src="https://i.imgur.com/iPL74ef.png" width="25%" />
 
+summary here.( Lexile NC1230L)
+
+<a href="https://www.bookdepository.com/Guts-Gary-Paulsen/9780440407126?ref=grid-view&qid=1673879187868&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006227112" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNzM3MTM2MSwxOTQ4NDE3OTQyLDQ3OT
+eyJoaXN0b3J5IjpbMTA0NTAwMDU5OSwxOTQ4NDE3OTQyLDQ3OT
 U0NjA5MiwtOTI2MzkwNTY1LDE4NTk3MjUwLDIyMTQwOTU1OSwt
 MTY1ODQzNDE3MiwtMTEwMDczNDQwMSwtODYxOTQyNTQ2LDE1MD
 M1MzQ3NDhdfQ==
