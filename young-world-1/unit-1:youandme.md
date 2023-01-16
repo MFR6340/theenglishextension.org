@@ -1,7 +1,7 @@
 # Young World 1, Unit 1: You and Me
 *This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
-This is the first unit taught in third grade in their first year lear English.  It covers general terms and ideas including families from around the world, English speaking countries, Flags from other countries and descriptions of people.  
+This is the first unit taught in third grade in their first year learning English.  Due to the introductory level, the Klett unit covers very general terms and ideas including:  families from around the world, English speaking countries, Flags from other countries and descriptions of people.  Native English speakers should be able to deeper into any of these areas.  Here are some sugg
 
 
 ## Books About Many Countries
@@ -105,7 +105,7 @@ summary here.
 <a href="https://www.bookdepository.com/Its-Trevor-Noah-Born-Crime-Trevor-Noah/9780525582199?ref=grid-view&qid=1673791904933&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051326754" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzIwNzI3NzgsMTUzMDk0OTM3MiwtNj
+eyJoaXN0b3J5IjpbLTEyNTI1NzA4NzksMTUzMDk0OTM3MiwtNj
 M2ODEwOTYyLC0xMDAzNDYwNTA4LC0xMTU5MzQ2NDE3LC0xNTYx
 ODcwNjA2LC0xNDc2NTUzNDkxLC0zNTE2Mzk5OCwxNTAzMDE3OD
 cxLC0xNzA5NTg4MTg2XX0=
