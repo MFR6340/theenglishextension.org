@@ -1,6 +1,8 @@
 # Young World 1, Unit 5: Around the Clock
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
+This unit covers time zones, school days around the world, and events that happen throughout the day.  Here are some suggestions for Native English speakers to delve deeper into this theme:
+
 ## The 13 Clocks, by James Thurber
 
 <img src="https://imgur.com/Z6h3leZ.png" width="25%"  />
@@ -62,9 +64,9 @@ summary here.
 <a href="https://www.bookdepository.com/How-Survive-Time-Travel-Larry-Hayes/9781471198366?ref=grid-view&qid=1673795737187&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058447306" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjMzODg0LC0xMTM1NDEwNDc0LDEzND
-QzNDMwMCwtNTIxNTY1NzU5LDM1MjE1OTYzNCw0NjUzNDU3Mywt
-MTYyMjgxMjIxLC03MTI4MjYxMjksMTMyNTkwMDEyMywyMTEyOD
-ExNjQzLC0xNTg5NDkwNzQ1LDE4ODkzNzcyNjMsMTEwMzUxMDE5
-M119
+eyJoaXN0b3J5IjpbLTE4MjY2Mzc0NDIsLTExMzU0MTA0NzQsMT
+M0NDM0MzAwLC01MjE1NjU3NTksMzUyMTU5NjM0LDQ2NTM0NTcz
+LC0xNjIyODEyMjEsLTcxMjgyNjEyOSwxMzI1OTAwMTIzLDIxMT
+I4MTE2NDMsLTE1ODk0OTA3NDUsMTg4OTM3NzI2MywxMTAzNTEw
+MTkzXX0=
 -->
