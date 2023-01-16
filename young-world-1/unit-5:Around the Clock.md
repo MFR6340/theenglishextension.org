@@ -74,10 +74,13 @@ summary here.
 Visit a Clock Tower
 There are some amazing and fascinating clock towers in Switzerland.  
 Zug: The Zuger Zytturm is free to visit.  
+Bern:
+Lucerne
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk1NzQ2NDcsLTExMzU0MTA0NzQsMT
-M0NDM0MzAwLC01MjE1NjU3NTksMzUyMTU5NjM0LDQ2NTM0NTcz
-LC0xNjIyODEyMjEsLTcxMjgyNjEyOSwxMzI1OTAwMTIzLDIxMT
-I4MTE2NDMsLTE1ODk0OTA3NDUsMTg4OTM3NzI2MywxMTAzNTEw
-MTkzXX0=
+eyJoaXN0b3J5IjpbLTg5MzQ1NjMzMiwtMTEzNTQxMDQ3NCwxMz
+Q0MzQzMDAsLTUyMTU2NTc1OSwzNTIxNTk2MzQsNDY1MzQ1NzMs
+LTE2MjI4MTIyMSwtNzEyODI2MTI5LDEzMjU5MDAxMjMsMjExMj
+gxMTY0MywtMTU4OTQ5MDc0NSwxODg5Mzc3MjYzLDExMDM1MTAx
+OTNdfQ==
 -->
