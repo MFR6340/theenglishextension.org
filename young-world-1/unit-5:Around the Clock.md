@@ -79,14 +79,16 @@ There are some amazing and fascinating clock towers in Switzerland.
  - Lucerne: The Turmuhren https://turmuhrenluzern.ch/en/project/zeitturm/
 
 Visit a Clock Museum
-Switerland, world-famous for its clocks a
+Switzerland, world-famous for its clocks and watches, has 7 public museums focused on time-pieces and even more private ones! 
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNTUzNDYyLC0xMTM1NDEwNDc0LDEzND
-QzNDMwMCwtNTIxNTY1NzU5LDM1MjE1OTYzNCw0NjUzNDU3Mywt
-MTYyMjgxMjIxLC03MTI4MjYxMjksMTMyNTkwMDEyMywyMTEyOD
-ExNjQzLC0xNTg5NDkwNzQ1LDE4ODkzNzcyNjMsMTEwMzUxMDE5
-M119
+eyJoaXN0b3J5IjpbMTYyODY2NjY4MCwtMTEzNTQxMDQ3NCwxMz
+Q0MzQzMDAsLTUyMTU2NTc1OSwzNTIxNTk2MzQsNDY1MzQ1NzMs
+LTE2MjI4MTIyMSwtNzEyODI2MTI5LDEzMjU5MDAxMjMsMjExMj
+gxMTY0MywtMTU4OTQ5MDc0NSwxODg5Mzc3MjYzLDExMDM1MTAx
+OTNdfQ==
 -->
