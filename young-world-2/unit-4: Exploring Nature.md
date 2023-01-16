@@ -41,9 +41,10 @@ summary here.(no Lexile level available)
 summary here.(no Lexile level available)
 
 <a href="https://www.bookdepository.com/Guts-Gary-Paulsen/9780440407126?ref=grid-view&qid=1673879187868&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052920702" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006227112" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODQxNzk0Miw0Nzk1NDYwOTIsLTkyNj
-M5MDU2NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NTg0MzQxNzIs
-LTExMDA3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0NzQ4XX0=
+eyJoaXN0b3J5IjpbMTkxMDYxNDA0MCwxOTQ4NDE3OTQyLDQ3OT
+U0NjA5MiwtOTI2MzkwNTY1LDE4NTk3MjUwLDIyMTQwOTU1OSwt
+MTY1ODQzNDE3MiwtMTEwMDczNDQwMSwtODYxOTQyNTQ2LDE1MD
+M1MzQ3NDhdfQ==
 -->
