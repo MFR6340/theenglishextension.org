@@ -36,7 +36,7 @@ A biography on the life of Louis Braille, how he became blind, and his incredibl
 Summary here.  (Lexile AD690L)
 
 <a href="https://www.bookdepository.com/Magic-School-Bus-Explores-Senses-Joanna-Cole/9780590446983?ref=grid-view&qid=1673873471036&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/suggestartike/A1002436648?sq=The%20Magic%20School%20Bus%20Explores%20the%20Senses&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1002436648?sq=The%20Magic%20School%20Bus%20Explores%20the%20Senses&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -74,7 +74,7 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxODc2NTY0LC0xMzQ1NjQxOTY4LDQ3Mz
+eyJoaXN0b3J5IjpbMzgwMTA0NzkyLC0xMzQ1NjQxOTY4LDQ3Mz
 c1NjMwNSwtODM1ODkzNjkzLC02NTU3NDMzOTcsMTEwNzY5Mzcw
 MCwxODYwMDQ1MTc4LC02ODAzOTcwNTEsMTE4ODk5NTEzNSwtNT
 AzOTY5NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1NDcsMjk1NTE5
