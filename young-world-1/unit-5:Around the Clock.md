@@ -13,8 +13,6 @@ Description here (Lexile 1050L)
 <a href="https://www.bookdepository.com/Story-Clocks-Calendars-Betsy-Maestro/9780060589455?ref=grid-view&qid=1656422356224&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002848514" rel="nofollow">Buy on Orell Füssli</a>
 
-
-
 ### Tick Tock, Banneker’s Clock, by Shana Keller
 
 <img src="https://imgur.com/M4beI8A.png" width="25%" />
@@ -71,10 +69,13 @@ summary here.
 
 <a href="https://www.bookdepository.com/How-Survive-Time-Travel-Larry-Hayes/9781471198366?ref=grid-view&qid=1673795737187&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058447306" rel="nofollow"> Buy on Orell Füssli</a>
+
+## Supplemental Activities
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzNzc0MjU1LC0xMTM1NDEwNDc0LDEzND
-QzNDMwMCwtNTIxNTY1NzU5LDM1MjE1OTYzNCw0NjUzNDU3Mywt
-MTYyMjgxMjIxLC03MTI4MjYxMjksMTMyNTkwMDEyMywyMTEyOD
-ExNjQzLC0xNTg5NDkwNzQ1LDE4ODkzNzcyNjMsMTEwMzUxMDE5
-M119
+eyJoaXN0b3J5IjpbLTIwOTAzMzIwODQsLTExMzU0MTA0NzQsMT
+M0NDM0MzAwLC01MjE1NjU3NTksMzUyMTU5NjM0LDQ2NTM0NTcz
+LC0xNjIyODEyMjEsLTcxMjgyNjEyOSwxMzI1OTAwMTIzLDIxMT
+I4MTE2NDMsLTE1ODk0OTA3NDUsMTg4OTM3NzI2MywxMTAzNTEw
+MTkzXX0=
 -->
