@@ -24,10 +24,10 @@ summary here.( Lexile 1020L)
 
 summary here.( Lexile 1020L)
 
-<a href="https://www.bookdepository.com/Jungle-Book-Rudyard-Kipling/9780141325293?ref=grid-view&qid=1665843348245&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.amazon.com/Justin-Codys-Race-to-Survival/dp/0997476834/ref=sr_1_1?adid=082VK13VJJCZTQYGWWCZ&campaign=211041&creative=374001&keywords=Race+to+Survival&qid=1673878233&s=books&sr=1-1" rel="nofollow"> Buy on Amazon</a>  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1OTcyNTAsMjIxNDA5NTU5LC0xNjU4ND
-M0MTcyLC0xMTAwNzM0NDAxLC04NjE5NDI1NDYsMTUwMzUzNDc0
-OF19
+eyJoaXN0b3J5IjpbNTk4NTk3MTI5LDE4NTk3MjUwLDIyMTQwOT
+U1OSwtMTY1ODQzNDE3MiwtMTEwMDczNDQwMSwtODYxOTQyNTQ2
+LDE1MDM1MzQ3NDhdfQ==
 -->
