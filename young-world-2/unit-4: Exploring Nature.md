@@ -26,9 +26,16 @@ summary here.(no Lexile level available)
 
 <a href="https://www.amazon.com/Justin-Codys-Race-to-Survival/dp/0997476834/ref=sr_1_1?adid=082VK13VJJCZTQYGWWCZ&campaign=211041&creative=374001&keywords=Race+to+Survival&qid=1673878233&s=books&sr=1-1" rel="nofollow"> Buy on Amazon</a>  
 
+## Gone Camping: A Novel in Verse, by Rudyard Kipling
 
+<img src="https://imgur.com/p7BPDMw.png" width="25%" />
+
+summary here.( Lexile 1020L)
+
+<a href="https://www.bookdepository.com/Gone-Camping-Novel-Verse-Tamera-Will-Wissinger/9781328596345?ref=grid-view&qid=1673878569329&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4ODk0Mjc1LDE4NTk3MjUwLDIyMTQwOT
-U1OSwtMTY1ODQzNDE3MiwtMTEwMDczNDQwMSwtODYxOTQyNTQ2
-LDE1MDM1MzQ3NDhdfQ==
+eyJoaXN0b3J5IjpbLTkyNjM5MDU2NSwxODU5NzI1MCwyMjE0MD
+k1NTksLTE2NTg0MzQxNzIsLTExMDA3MzQ0MDEsLTg2MTk0MjU0
+NiwxNTAzNTM0NzQ4XX0=
 -->
