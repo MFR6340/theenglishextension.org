@@ -1,7 +1,7 @@
 # Young World 1, Unit 1: You and Me
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-This is the first unit taught in third grade in their first year learning English.  Due to the introductory level, the Klett unit covers very general terms and ideas including:  families from around the world, English speaking countries, Flags from other countries and descriptions of people.  Native English speakers should be able to deeper into any of these areas.  Here are some suggestions:
+**This is the first unit taught in the first year of learning English third grade in their first year learning English.  Due to the introductory level, the Klett unit covers very general terms and ideas including:  families from around the world, English speaking countries, Flags from other countries and descriptions of people.  Native English speakers should be able to deeper into any of these areas.  Here are some suggestions:**
 
 
 ## Books About Many Countries
@@ -114,5 +114,5 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDA3MDgxMF19
+eyJoaXN0b3J5IjpbLTE2NTMxODkxNDVdfQ==
 -->
