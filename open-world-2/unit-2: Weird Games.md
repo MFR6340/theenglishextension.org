@@ -1,7 +1,7 @@
 
 
 # Open World 2, Unit 2: Weird and Wonderful Games
-*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 
 # Supplemental Activities
@@ -17,5 +17,5 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTk2MTA4M119
+eyJoaXN0b3J5IjpbLTExMzU0NjA1MDddfQ==
 -->
