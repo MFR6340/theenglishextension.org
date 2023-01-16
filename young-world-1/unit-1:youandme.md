@@ -104,9 +104,17 @@ summary here.
 
 <a href="https://www.bookdepository.com/Its-Trevor-Noah-Born-Crime-Trevor-Noah/9780525582199?ref=grid-view&qid=1673791904933&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051326754" rel="nofollow"> Buy on Orell Füssli</a>
+
+## Supplemental Materials
+
+### Describing Emotions
+When we describe ourselves or other people, we usually start with how  Often, there's a better or more precise way to say it.  This fabulous emotion wheel by Geoffrey Roberts is a great way to helps kids (and adults) express their feelings more clearly.  It obviously helps improves descriptive writing skills and character development  as well. 
+<img src="https://i.imgur.com/tCWChf6.jpeg" width="85%" />
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MTY0MDg1NCwxNTMwOTQ5MzcyLC02Mz
-Y4MTA5NjIsLTEwMDM0NjA1MDgsLTExNTkzNDY0MTcsLTE1NjE4
-NzA2MDYsLTE0NzY1NTM0OTEsLTM1MTYzOTk4LDE1MDMwMTc4Nz
-EsLTE3MDk1ODgxODZdfQ==
+eyJoaXN0b3J5IjpbLTE4MTEwMDI3MzUsLTY4MTY0MDg1NCwxNT
+MwOTQ5MzcyLC02MzY4MTA5NjIsLTEwMDM0NjA1MDgsLTExNTkz
+NDY0MTcsLTE1NjE4NzA2MDYsLTE0NzY1NTM0OTEsLTM1MTYzOT
+k4LDE1MDMwMTc4NzEsLTE3MDk1ODgxODZdfQ==
 -->
