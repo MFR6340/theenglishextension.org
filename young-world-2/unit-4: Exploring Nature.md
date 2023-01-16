@@ -30,12 +30,20 @@ summary here.(no Lexile level available)
 
 <img src="https://i.imgur.com/Bg066im.jpg" width="25%" />
 
-summary here.( Lexile 1020L)
+summary here.(no Lexile level available)
+
+<a href="https://www.bookdepository.com/Gone-Camping-Novel-Verse-Tamera-Will-Wissinger/9781328596345?ref=grid-view&qid=1673878569329&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052920702" rel="nofollow">Buy on Orell Füssli</a>
+
+## Guts, by Gary Paulsen
+<img src="https://i.imgur.com/Bg066im.jpg" width="25%" />
+
+summary here.(no Lexile level available)
 
 <a href="https://www.bookdepository.com/Gone-Camping-Novel-Verse-Tamera-Will-Wissinger/9781328596345?ref=grid-view&qid=1673878569329&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052920702" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5NTQ2MDkyLC05MjYzOTA1NjUsMTg1OT
-cyNTAsMjIxNDA5NTU5LC0xNjU4NDM0MTcyLC0xMTAwNzM0NDAx
-LC04NjE5NDI1NDYsMTUwMzUzNDc0OF19
+eyJoaXN0b3J5IjpbMTE1MTI5MTI3NSw0Nzk1NDYwOTIsLTkyNj
+M5MDU2NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NTg0MzQxNzIs
+LTExMDA3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0NzQ4XX0=
 -->
