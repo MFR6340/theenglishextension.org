@@ -1,5 +1,5 @@
 # Young World 1, Unit 2: My Body
-*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 ## The Way We Work, David Macaulay
 
@@ -67,9 +67,9 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDI0ODM3LC0xNTY2OTI5NzU0LDMyNT
-E4NDUxMiwtMTYyNDQwNzUyMCwxMzg2MDY1MTYwLDIxMDg5NTU3
-NzgsLTI2OTMyMDcyMyw4MTMxMzQ1MiwtMjM4MTQyMjA4LDEzMz
-kyNjc4OTIsLTIwOTMxNDgxNjQsMTQ3MjY4OTY5NCw0NTM5ODQx
-MzNdfQ==
+eyJoaXN0b3J5IjpbOTY0NTk0MTg1LC0yODAyNDgzNywtMTU2Nj
+kyOTc1NCwzMjUxODQ1MTIsLTE2MjQ0MDc1MjAsMTM4NjA2NTE2
+MCwyMTA4OTU1Nzc4LC0yNjkzMjA3MjMsODEzMTM0NTIsLTIzOD
+E0MjIwOCwxMzM5MjY3ODkyLC0yMDkzMTQ4MTY0LDE0NzI2ODk2
+OTQsNDUzOTg0MTMzXX0=
 -->
