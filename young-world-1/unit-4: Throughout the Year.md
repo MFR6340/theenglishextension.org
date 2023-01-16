@@ -1,6 +1,8 @@
 # Young World 1, Unit 4: Throughout the Year
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
+This unit covers seasons, weather, and appropriate clothing. 
+
 ## Snowflake Bentley, by Jacqueline Briggs Martin
 Caldecott Medal Winner
 
@@ -101,7 +103,7 @@ summary here.
 
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ1MTI3Mjg4LDEzMzgyNDY5NzgsMTMwND
+eyJoaXN0b3J5IjpbMTc2OTQ2NTYwLDEzMzgyNDY5NzgsMTMwND
 QwNTczNiwzNTAxNjA3OTQsLTMyNjEzMDc0NywtMzA4Mzg5ODI5
 LDEyNjczOTQxMTMsMzQ2Mzk4NDkxLC0yMTkyODMzMTQsLTg3MT
 gxMzcwMywxODkwNTUxMDE4LDE3ODQwNzM4ODUsODk5MzU3Nzc5
