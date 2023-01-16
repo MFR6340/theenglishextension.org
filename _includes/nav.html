@@ -3,7 +3,7 @@
 <!-- list all pages -->
 {% assign categories = site.pages | sort: 'title' | group_by: 'dir' %}
 
-<!-- first pass: sub-categories -->
+<!-- resources -->
 {% for cat in categories %}
     {% if cat.name == "/resources/" %}
         {% assign name = cat.name | remove: '/' %}
@@ -19,7 +19,40 @@
 
 <br>
 
+<!-- young world -->
 {% for cat in categories %}
+    {% if cat.name contains "/young-world-" %}
+        {% assign name = cat.name | remove: '/' %}
+
+        {% for p in cat.items %}
+            {% if p.name == "index.md" %}
+                <li class="tag-h1"><a href="{{ p.url }}">{{ p.title }}</a></li>
+                {% break %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+
+<!-- open world -->
+{% for cat in categories %}
+    {% if cat.name contains "/open-world-" %}
+        {% assign name = cat.name | remove: '/' %}
+
+        {% for p in cat.items %}
+            {% if p.name == "index.md" %}
+                <li class="tag-h1"><a href="{{ p.url }}">{{ p.title }}</a></li>
+                {% break %}
+            {% endif %}
+        {% endfor %}
+    {% endif %}
+{% endfor %}
+
+<!-- other categories -->
+{% for cat in categories %}
+    {% if cat.name contains "/young-world-" or cat.name contains "/open-world-" %}
+        {% continue %}
+    {% endif %}
+    
     {% if cat.name != "/" and cat.name != "/assets/css/" and cat.name != "/resources/" %}
         {% assign name = cat.name | remove: '/' %}
 
@@ -34,7 +67,7 @@
 
 <br>
 
-<!-- second pass: header links (with no categories) -->
+<!-- links without a category (with no categories) -->
 {% for cat in categories %}
     {% if cat.name == "/" %}
         {% assign items = cat.items | sort: 'url' %}
