@@ -49,11 +49,12 @@ summary here.( Lexile NC1230L)
 
 summary here.( Lexile NC1230L)
 
-<a href="https://www.bookdepository.com/Guts-Gary-Paulsen/9780440407126?ref=grid-view&qid=1673879187868&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+
+<a href="https://www.bookdepository.com/Gone-the-Woods-True-Story-of-Growing-Up-in-the-Wild-Gary-Paulsen/9781529047721" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006227112" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDIxMTAyNCwxOTQ4NDE3OTQyLDQ3OT
-U0NjA5MiwtOTI2MzkwNTY1LDE4NTk3MjUwLDIyMTQwOTU1OSwt
-MTY1ODQzNDE3MiwtMTEwMDczNDQwMSwtODYxOTQyNTQ2LDE1MD
-M1MzQ3NDhdfQ==
+eyJoaXN0b3J5IjpbLTk2NTkxOTQ4NywtNTQ0MjExMDI0LDE5ND
+g0MTc5NDIsNDc5NTQ2MDkyLC05MjYzOTA1NjUsMTg1OTcyNTAs
+MjIxNDA5NTU5LC0xNjU4NDM0MTcyLC0xMTAwNzM0NDAxLC04Nj
+E5NDI1NDYsMTUwMzUzNDc0OF19
 -->
