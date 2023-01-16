@@ -20,7 +20,7 @@ summary here.
 <a href="https://www.bookdepository.com/Marguerite-Makes-Book--Robertson/9780892363728" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005363893" rel="nofollow">Buy on Orell Füssli</a>
 
-## The Seventh Most Important Thing, by Shelley pearsall
+## The Seventh Most Important Thing, by Shelley Pearsall
 
 <img src="https://imgur.com/DpHYsvF.png" width="25%" />
 
@@ -40,6 +40,6 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk1OTA4NjcsLTMyMjQ3NDU3NSwxMD
-Q2Mzg5OTAxXX0=
+eyJoaXN0b3J5IjpbNTk1MTk0NTczLC0xODY5NTkwODY3LC0zMj
+I0NzQ1NzUsMTA0NjM4OTkwMV19
 -->
