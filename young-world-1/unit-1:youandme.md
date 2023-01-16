@@ -108,12 +108,12 @@ summary here.
 ## Supplemental Materials
 
 ### Describing Emotions
-When we describe ourselves or other people, we usually start with how we look.  But a really good description tells how a person FEELS as well.   This fabulous emotion wheel by Geoffrey Roberts is a great way to give some precise words to  kids (and adults) tell or write about themselves and other characters. 
-<img src="https://i.imgur.com/tCWChf6.jpeg" width="85%" />
+When we describe ourselves or other people, we usually start with how we look.  But a really good description tells how a person FEELS as well.   This fabulous emotion wheel by Geoffrey Roberts is a great way to find some precise words to use when telling or write about a person or a character in a book.  Print this chart and hang it on the door or the refrigerator or bathroom mirror for a week or two.
+<img src="https://i.imgur.com/tCWChf6.jpeg" width="95%" />
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI2NzA2NDMsLTY4MTY0MDg1NCwxNT
+eyJoaXN0b3J5IjpbLTIwNDQ1NTY2MjQsLTY4MTY0MDg1NCwxNT
 MwOTQ5MzcyLC02MzY4MTA5NjIsLTEwMDM0NjA1MDgsLTExNTkz
 NDY0MTcsLTE1NjE4NzA2MDYsLTE0NzY1NTM0OTEsLTM1MTYzOT
 k4LDE1MDMwMTc4NzEsLTE3MDk1ODgxODZdfQ==
