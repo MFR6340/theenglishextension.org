@@ -41,9 +41,18 @@ summary here.(Lexile 570L)
 <a href="https://www.bookdepository.com/Family-Stories-Series-Are-We-There-Yet-Enid-Blyton/9781444959529#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058727152" rel="nofollow">Buy on Orell Füssli</a>
 
+### Survivor Titanic, by Stephen Davies
+
+<img src="https://i.imgur.com/61EpL2l.png" width="35%" />
+
+summary here. (Lexile )
+
+<a href="https://www.bookdepository.com/Family-Stories-Series-Are-We-There-Yet-Enid-Blyton/9781444959529#" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058727152" rel="nofollow">Buy on Orell Füssli</a>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjIzMzQ1MTEsLTE4NzY1NjU5MTksMT
-UwNDQ0OTEwOCwtMTc2NDg5MDExMiw5ODU2MTIzMTcsMzU3Njc0
-MzIwLC0xNDY4NjIxNDc1XX0=
+eyJoaXN0b3J5IjpbLTUyNjU2NDk3LC0xNjYyMzM0NTExLC0xOD
+c2NTY1OTE5LDE1MDQ0NDkxMDgsLTE3NjQ4OTAxMTIsOTg1NjEy
+MzE3LDM1NzY3NDMyMCwtMTQ2ODYyMTQ3NV19
 -->
