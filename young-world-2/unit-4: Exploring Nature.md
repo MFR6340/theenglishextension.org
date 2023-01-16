@@ -58,15 +58,15 @@ summary here.( Lexile 1030L)
 
 <img src="https://i.imgur.com/KmTXAF1.png" width="25%" />
 
-summary here.( Lexile 1020L)
+summary here.( Lexile 590L)
 
-<a href="https://www.bookdepository.com/Jungle-Book-Rudyard-Kipling/9780141325293?ref=grid-view&qid=1665843348245&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Great-Kapok-Tree-Lynne-Cherry/9780152026141?ref=grid-view&qid=1673880321369&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004838818" rel="nofollow">Buy on Orell Füssli</a>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3Mzg3MTc4LC01OTQ1NTY4NzYsLTU0ND
-IxMTAyNCwxOTQ4NDE3OTQyLDQ3OTU0NjA5MiwtOTI2MzkwNTY1
-LDE4NTk3MjUwLDIyMTQwOTU1OSwtMTY1ODQzNDE3MiwtMTEwMD
-czNDQwMSwtODYxOTQyNTQ2LDE1MDM1MzQ3NDhdfQ==
+eyJoaXN0b3J5IjpbMTk1OTEzMjE0OSwtNTk0NTU2ODc2LC01ND
+QyMTEwMjQsMTk0ODQxNzk0Miw0Nzk1NDYwOTIsLTkyNjM5MDU2
+NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NTg0MzQxNzIsLTExMD
+A3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0NzQ4XX0=
 -->
