@@ -1,5 +1,5 @@
 # Young World 1, Unit 3: Apples and Crisps
-*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 ## Apples, by Ken Robbins
 
@@ -91,10 +91,10 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDYyODY0NDYsLTEwNDY1NzQzNjQsLT
-EwNzYyMDQwNDEsMTYyNDEzNjEwMSwtMTQxMzE0NTQwMywtMTQz
-NTE4NzIsLTE1NzE2MDQ1LC01NzM2MTY5MjAsLTE1OTMyODE2MT
-QsMjI1MzgzNTM5LDE4OTA1NzY2ODAsLTE5NDExODk1LC0zODUw
-MDMyNDYsMTg4ODQ4MDA3MCwxNzIyNzI0NjMzLDExODQxOTM2Nj
-UsLTczMjkzMTk1Nl19
+eyJoaXN0b3J5IjpbLTM4MzgyNTI4NiwtMTIwNjI4NjQ0NiwtMT
+A0NjU3NDM2NCwtMTA3NjIwNDA0MSwxNjI0MTM2MTAxLC0xNDEz
+MTQ1NDAzLC0xNDM1MTg3MiwtMTU3MTYwNDUsLTU3MzYxNjkyMC
+wtMTU5MzI4MTYxNCwyMjUzODM1MzksMTg5MDU3NjY4MCwtMTk0
+MTE4OTUsLTM4NTAwMzI0NiwxODg4NDgwMDcwLDE3MjI3MjQ2Mz
+MsMTE4NDE5MzY2NSwtNzMyOTMxOTU2XX0=
 -->
