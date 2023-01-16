@@ -40,7 +40,7 @@ summary here.
 
 ## Black Book of colors by Menena Cottin
 
-<img src="https://imgur.com/3ZvEIv5.png" width="25%" />
+<img src="https://i.imgur.com/4ld6dtz.png" width="25%" />
 
 summary here.
 
@@ -49,6 +49,6 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODExNDkxNywtMTg2OTU5MDg2NywtMz
+eyJoaXN0b3J5IjpbMTIzMDA5NDc5OCwtMTg2OTU5MDg2NywtMz
 IyNDc0NTc1LDEwNDYzODk5MDFdfQ==
 -->
