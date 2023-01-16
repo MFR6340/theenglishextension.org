@@ -45,11 +45,13 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri grew up.  Come visit and learn all about the author who wrote the world-famous book, Heidi. https://spyri-museum.ch/en/
 
-The majestic Alps have always called people to both work play on their slopes.   There are plenty of ways of playing, from skiing, to sledding, to bobsledding.  The Ski Museum in Davos has a lovely collection of  Alpine sports artifacts which will definitely 
+The majestic Alps have always called people to both work play on their slopes.   There are plenty of ways of playing, from skiing, to sledding, to bobsledding.  The Ski Museum in Davos has a lovely collection of  Alpine sports artifacts which will definitely to react with "Wow, they really used THAT?"  https://www.wintersportmuseum.ch
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDMzNzI3MzcsNzg2NDcwMDEwLC02Nz
-QxNjMxODgsLTEzNTQ4NzM3NjksLTc3OTU4MzYxNSwtOTg2OTA5
-OTg3LDEzODczMTk2MzMsLTE5NTU5NDQ3MDQsLTczMjY2MzkyOF
-19
+eyJoaXN0b3J5IjpbLTc1MjY3Mzk0OCw3ODY0NzAwMTAsLTY3ND
+E2MzE4OCwtMTM1NDg3Mzc2OSwtNzc5NTgzNjE1LC05ODY5MDk5
+ODcsMTM4NzMxOTYzMywtMTk1NTk0NDcwNCwtNzMyNjYzOTI4XX
+0=
 -->
