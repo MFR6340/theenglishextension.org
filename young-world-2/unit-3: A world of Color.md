@@ -51,12 +51,12 @@ summary here. (no Lexile level available)
 ## Leonardo Da Vinci for Kids, by Janis Herbert
 <img src="https://i.imgur.com/Ay29f9T.png" width="25%" />
 
-summary here.(Lexile 760L)
+summary here.(Lexile 920L)
 
-<a href="https://www.bookdepository.com/Seventh-Most-Important-Thing-Shelley-Pearsall/9780553497311?ref=grid-view&qid=1665842641892&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Leonardo-da-Vinci-for-Kids-Janis-Herbert/9781556522987?ref=grid-view&qid=1673876529239&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039319893" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1MDU3MjkyLC01ODkyOTkzMTksMTc2Nz
+eyJoaXN0b3J5IjpbODM5OTk1MDk0LC01ODkyOTkzMTksMTc2Nz
 czMjE4OSwtMTg2OTU5MDg2NywtMzIyNDc0NTc1LDEwNDYzODk5
 MDFdfQ==
 -->
