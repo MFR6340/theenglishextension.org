@@ -1,5 +1,5 @@
 # Open World 3, Unit 1: Further, faster, higher
-*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 ## Title here, by author here
 
@@ -17,5 +17,5 @@ Rock climbing is a great example of a sport where boundaries are constantly bein
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTQ3NzYzNV19
+eyJoaXN0b3J5IjpbMTAwMTQzNjg1M119
 -->
