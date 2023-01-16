@@ -43,8 +43,8 @@ Summary here.  (Lexile AD690L)
 
 Summary here.(Lexile 800L)
 
-<a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/suggestartike/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Song-for-Whale-Lynne-Kelly/9781848126916?ref=grid-view&qid=1673873979579&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1058950540?sq=Song%20for%20a%20Whale&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
 
 ## The Guard Dog, by Dick King Smith
@@ -80,7 +80,7 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODY2Nzc1MywzODAxMDQ3OTIsLTEzND
+eyJoaXN0b3J5IjpbLTczMDE1OTc3MCwzODAxMDQ3OTIsLTEzND
 U2NDE5NjgsNDczNzU2MzA1LC04MzU4OTM2OTMsLTY1NTc0MzM5
 NywxMTA3NjkzNzAwLDE4NjAwNDUxNzgsLTY4MDM5NzA1MSwxMT
 g4OTk1MTM1LC01MDM5Njk0ODksLTE5Mjk1NDE4MSwtMTc5NTI1
