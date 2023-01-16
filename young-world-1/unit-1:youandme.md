@@ -1,7 +1,7 @@
 # Young World 1, Unit 1: You and Me
 *This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
-This is the first unit taught in third grade in the first year of English.  It covers general terms and ideas including families from around the world, English speaking countries, Flags from other countries and descriptions of people.  
+This is the first unit taught in third grade in their first year lear English.  It covers general terms and ideas including families from around the world, English speaking countries, Flags from other countries and descriptions of people.  
 
 
 ## Books About Many Countries
@@ -31,6 +31,16 @@ summary here. (children from: Italy, Japan, Iran, India, Peru, Uganda, and Russi
 
 <a href="https://www.bookdepository.com/This-Is-How-We-Do-It-Matt-Lamothe/9781797218717?ref=grid-view&qid=1665849256702&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063175273" rel="nofollow">Buy on Orell Füssli</a>
+
+### How Much?: Visiting Markets Around the World, Ted Lewin
+
+<img src="https://imgur.com/L6DW0ok.png" width="25%" />
+
+summary here.
+
+<a href="https://www.bookdepository.com/How-Much-Ted-Lewin/9780688175535" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039278632" rel="nofollow"> Buy on Orell Füssli</a>
+
 
 
 ## Books on Specific Countries
@@ -75,7 +85,7 @@ summary here.
 <a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a> 
 
-##All About the Philippines: Stories, Songs, Crafts and Games for Kids, by Gidget Roceles Gimenez
+### All About the Philippines: Stories, Songs, Crafts and Games for Kids, by Gidget Roceles Gimenez
 
 <img src="https://imgur.com/vBGZM2T.png" width="25%" />
 
@@ -84,16 +94,9 @@ summary here.
 <a href="https://www.bookdepository.com/All-About-Philippines-Gidget-Roceles-Jimenez/9780804848480?ref=grid-view&qid=1673791475669&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1040951756" rel="nofollow"> Buy on Orell Füssli</a>
 
-## How Much?: Visiting Markets Around the World, Ted Lewin
 
-<img src="https://imgur.com/L6DW0ok.png" width="25%" />
 
-summary here.
-
-<a href="https://www.bookdepository.com/How-Much-Ted-Lewin/9780688175535" rel="nofollow"> Buy on BookDepository</a> 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039278632" rel="nofollow"> Buy on Orell Füssli</a>
-
-## It’s Trevor Noah: Born a Crime, by Trevor Noah
+### It’s Trevor Noah: Born a Crime, by Trevor Noah
 
 <img src="https://imgur.com/j7GWfJI.png" width="25%" />
 
@@ -102,8 +105,8 @@ summary here.
 <a href="https://www.bookdepository.com/Its-Trevor-Noah-Born-Crime-Trevor-Noah/9780525582199?ref=grid-view&qid=1673791904933&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051326754" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDg5NDM3LDE1MzA5NDkzNzIsLTYzNj
-gxMDk2MiwtMTAwMzQ2MDUwOCwtMTE1OTM0NjQxNywtMTU2MTg3
-MDYwNiwtMTQ3NjU1MzQ5MSwtMzUxNjM5OTgsMTUwMzAxNzg3MS
-wtMTcwOTU4ODE4Nl19
+eyJoaXN0b3J5IjpbLTEyMzIwNzI3NzgsMTUzMDk0OTM3MiwtNj
+M2ODEwOTYyLC0xMDAzNDYwNTA4LC0xMTU5MzQ2NDE3LC0xNTYx
+ODcwNjA2LC0xNDc2NTUzNDkxLC0zNTE2Mzk5OCwxNTAzMDE3OD
+cxLC0xNzA5NTg4MTg2XX0=
 -->
