@@ -1,6 +1,6 @@
 # Young World 2, Unit 5: Are We There Yet?
 
-*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit covers Transportation including the reasons for transportation, logical transportation options, the history of the bicycle, and unusual means of transportation.**
 
@@ -52,5 +52,5 @@ summary here. (Lexile )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU2MDI3NjZdfQ==
+eyJoaXN0b3J5IjpbMTA1OTM4NTczMF19
 -->
