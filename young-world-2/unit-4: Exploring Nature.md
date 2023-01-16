@@ -26,16 +26,16 @@ summary here.(no Lexile level available)
 
 <a href="https://www.amazon.com/Justin-Codys-Race-to-Survival/dp/0997476834/ref=sr_1_1?adid=082VK13VJJCZTQYGWWCZ&campaign=211041&creative=374001&keywords=Race+to+Survival&qid=1673878233&s=books&sr=1-1" rel="nofollow"> Buy on Amazon</a>  
 
-## Gone Camping: A Novel in Verse, by Tamara Wi
+## Gone Camping: A Novel in Verse, by Tamara Will Wissinger
 
-<img src="https://imgur.com/p7BPDMw.png" width="25%" />
+<img src="https://i.imgur.com/Bg066im.jpg" width="25%" />
 
 summary here.( Lexile 1020L)
 
 <a href="https://www.bookdepository.com/Gone-Camping-Novel-Verse-Tamera-Will-Wissinger/9781328596345?ref=grid-view&qid=1673878569329&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052920702" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Nzc2MzgxMiwtOTI2MzkwNTY1LDE4NT
-k3MjUwLDIyMTQwOTU1OSwtMTY1ODQzNDE3MiwtMTEwMDczNDQw
-MSwtODYxOTQyNTQ2LDE1MDM1MzQ3NDhdfQ==
+eyJoaXN0b3J5IjpbNDc5NTQ2MDkyLC05MjYzOTA1NjUsMTg1OT
+cyNTAsMjIxNDA5NTU5LC0xNjU4NDM0MTcyLC0xMTAwNzM0NDAx
+LC04NjE5NDI1NDYsMTUwMzUzNDc0OF19
 -->
