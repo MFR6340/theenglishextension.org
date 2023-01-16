@@ -65,9 +65,9 @@ Jim Abbott was born without a hand.  Despite this important body part, he dreame
 At the Kultura Museum des Mensches in Zurich, learn all about human development from prehistory to present.  «Who we are» shows you the unfolding of modern human being from conception to death. Anatomical specimen illustrate human life and its development.https://www.kulturama.ch/en/
 
 
-Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
+The exhibition BodyWorlds is not currently showing in Switzerland, but one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MTIwMDYyMCwtNTkxMjkwMzEyLC0yOD
+eyJoaXN0b3J5IjpbLTg1NTY1ODEzMiwtNTkxMjkwMzEyLC0yOD
 AyNDgzNywtMTU2NjkyOTc1NCwzMjUxODQ1MTIsLTE2MjQ0MDc1
 MjAsMTM4NjA2NTE2MCwyMTA4OTU1Nzc4LC0yNjkzMjA3MjMsOD
 EzMTM0NTIsLTIzODE0MjIwOCwxMzM5MjY3ODkyLC0yMDkzMTQ4
