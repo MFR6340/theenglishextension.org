@@ -53,9 +53,9 @@ summary here.( Lexile 1030L)
 <a href="https://www.bookdepository.com/Gone-the-Woods-True-Story-of-Growing-Up-in-the-Wild-Gary-Paulsen/9781529047721" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059151245" rel="nofollow">Buy on Orell Füssli</a>
 
-## ## Gone to the Woods,  A True Story of  Growing up in the Wild, by Gary Paulsen
+##  Gone to the Woods,  A True Story of  Growing up in the Wild, by Gary Paulsen
 
-<img src="https://i.imgur.com/7ku9Sld.png" width="25%" />
+<img src="blob:https://imgur.com/0418c7c3-8181-4aae-a68e-f36fea1dbf45" width="25%" />
 
 summary here.( Lexile 1030L)
 
@@ -63,15 +63,9 @@ summary here.( Lexile 1030L)
 <a href="https://www.bookdepository.com/Gone-the-Woods-True-Story-of-Growing-Up-in-the-Wild-Gary-Paulsen/9781529047721" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059151245" rel="nofollow">Buy on Orell Füssli</a>by Gary Paulsen
 
-<img src="https://i.imgur.com/7ku9Sld.png" width="25%" />
 
-summary here.( Lexile 1030L)
-
-
-<a href="https://www.bookdepository.com/Gone-the-Woods-True-Story-of-Growing-Up-in-the-Wild-Gary-Paulsen/9781529047721" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059151245" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODIwMjA3MywtNTQ0MjExMDI0LDE5ND
+eyJoaXN0b3J5IjpbLTU5NDU1Njg3NiwtNTQ0MjExMDI0LDE5ND
 g0MTc5NDIsNDc5NTQ2MDkyLC05MjYzOTA1NjUsMTg1OTcyNTAs
 MjIxNDA5NTU5LC0xNjU4NDM0MTcyLC0xMTAwNzM0NDAxLC04Nj
 E5NDI1NDYsMTUwMzUzNDc0OF19
