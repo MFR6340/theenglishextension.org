@@ -7,7 +7,7 @@
 <img src="https://imgur.com/0WE9nQ5.png
 " width="25%" />
 
-A comprehensive visual journey of the human body from cells to systems. Highly detailed with multiple double page spreads and enough humor throughout to engage any aged reader.
+A comprehensive visual journey of the human body from cells to systems. Highly detailed with multiple double page spreads and enough humor throughout to engage any reader.
 
 <a href="https://www.amazon.de/-/en/David-Macaulay/dp/0618233784/ref=sr_1_1?crid=3LWMZNEQ41GJC&keywords=Way+We+Work+Macaulay&qid=1656343477&sprefix=way+we+work+macaulay%2Caps%2C314&sr=8-1" rel="nofollow"> Buy on Amazon.de</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002858687" rel="nofollow">Buy on Orell Füssli</a>
@@ -33,7 +33,7 @@ summary here.
 
 
 
-## DK 1,000 Amazing Human Body Facts
+## 1,000 Amazing Human Body Facts, by DK
 
 <img src="https://imgur.com/F3TnTUH.png" width="25%" />
 
@@ -65,12 +65,11 @@ Jim Abbott was born without a hand.  Despite this important body part, he dreame
 At the Kultura Museum des Mensches in Zurich, learn all about human development from prehistory to present.  «Who we are» shows you the unfolding of modern human being from conception to death. Anatomical specimen illustrate human life and its development.https://www.kulturama.ch/en/
 
 
-
 Not currently showing in Switzerland, one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTI5MDMxMiwtMjgwMjQ4MzcsLTE1Nj
-Y5Mjk3NTQsMzI1MTg0NTEyLC0xNjI0NDA3NTIwLDEzODYwNjUx
-NjAsMjEwODk1NTc3OCwtMjY5MzIwNzIzLDgxMzEzNDUyLC0yMz
-gxNDIyMDgsMTMzOTI2Nzg5MiwtMjA5MzE0ODE2NCwxNDcyNjg5
-Njk0LDQ1Mzk4NDEzM119
+eyJoaXN0b3J5IjpbLTk0MTIwMDYyMCwtNTkxMjkwMzEyLC0yOD
+AyNDgzNywtMTU2NjkyOTc1NCwzMjUxODQ1MTIsLTE2MjQ0MDc1
+MjAsMTM4NjA2NTE2MCwyMTA4OTU1Nzc4LC0yNjkzMjA3MjMsOD
+EzMTM0NTIsLTIzODE0MjIwOCwxMzM5MjY3ODkyLC0yMDkzMTQ4
+MTY0LDE0NzI2ODk2OTQsNDUzOTg0MTMzXX0=
 -->
