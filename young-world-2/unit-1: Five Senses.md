@@ -38,10 +38,10 @@ Summary here.  (Lexile AD690L)
 <a href="https://www.bookdepository.com/Magic-School-Bus-Explores-Senses-Joanna-Cole/9780590446983?ref=grid-view&qid=1673873471036&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1002436648?sq=The%20Magic%20School%20Bus%20Explores%20the%20Senses&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
-## Song for a Whale, by Russell Friedman
+## Song for a Whale, by Lynne Kelly
 <img src="https://i.imgur.com/c4bX7Yh.png" width="25%" />
 
-A biography on the life of Louis Braille, how he became blind, and his incredible development of the alphabet.  Appropriate for grades 5-7. (Lexile 1000L)
+Summary here.(Lex
 
 <a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartike/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -80,7 +80,7 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2Mjg4NzYxOSwzODAxMDQ3OTIsLTEzND
+eyJoaXN0b3J5IjpbMTI5Mzc5NzE4NiwzODAxMDQ3OTIsLTEzND
 U2NDE5NjgsNDczNzU2MzA1LC04MzU4OTM2OTMsLTY1NTc0MzM5
 NywxMTA3NjkzNzAwLDE4NjAwNDUxNzgsLTY4MDM5NzA1MSwxMT
 g4OTk1MTM1LC01MDM5Njk0ODksLTE5Mjk1NDE4MSwtMTc5NTI1
