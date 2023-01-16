@@ -24,7 +24,7 @@ summary here.
 
 <img src="https://imgur.com/DpHYsvF.png" width="25%" />
 
-summary here.(Lexile
+summary here.(Lexile 760L)
 
 <a href="https://www.bookdepository.com/Seventh-Most-Important-Thing-Shelley-Pearsall/9780553497311?ref=grid-view&qid=1665842641892&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039319893" rel="nofollow">Buy on Orell Füssli</a>
@@ -48,9 +48,15 @@ summary here. (no Lexile level available)
 <a href="https://www.bookdepository.com/Black-Book-Colours-Menena-Cottin/9781406322187?ref=grid-view&qid=1673876271828&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 
+## Leonardo Da Vinci for Kids, by Janis Herbert
+<img src="https://imgur.com/DpHYsvF.png" width="25%" />
 
+summary here.(Lexile 760L)
+
+<a href="https://www.bookdepository.com/Seventh-Most-Important-Thing-Shelley-Pearsall/9780553497311?ref=grid-view&qid=1665842641892&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039319893" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc3NzM3MDAsLTU4OTI5OTMxOSwxNz
+eyJoaXN0b3J5IjpbLTE2MDE1NDI1NzEsLTU4OTI5OTMxOSwxNz
 Y3NzMyMTg5LC0xODY5NTkwODY3LC0zMjI0NzQ1NzUsMTA0NjM4
 OTkwMV19
 -->
