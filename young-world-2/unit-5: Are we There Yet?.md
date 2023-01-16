@@ -47,13 +47,13 @@ summary here.(Lexile 570L)
 
 summary here. (Lexile )
 
-<a href="https://www.bookdepository.com/Family-Stories-Series-Are-We-There-Yet-Enid-Blyton/9781444959529#" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058727152" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Titanic-Stephen-Davies/9781407178752?ref=grid-view&qid=1673883552652&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1041054587" rel="nofollow">Buy on Orell Füssli</a>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzMjI3MjcxLC01MjY1NjQ5NywtMTY2Mj
-MzNDUxMSwtMTg3NjU2NTkxOSwxNTA0NDQ5MTA4LC0xNzY0ODkw
-MTEyLDk4NTYxMjMxNywzNTc2NzQzMjAsLTE0Njg2MjE0NzVdfQ
-==
+eyJoaXN0b3J5IjpbLTU2ODQwNTM0MCwtNTI2NTY0OTcsLTE2Nj
+IzMzQ1MTEsLTE4NzY1NjU5MTksMTUwNDQ0OTEwOCwtMTc2NDg5
+MDExMiw5ODU2MTIzMTcsMzU3Njc0MzIwLC0xNDY4NjIxNDc1XX
+0=
 -->
