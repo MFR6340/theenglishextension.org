@@ -1,6 +1,6 @@
 # Young World 3, Unit 5: Sports & Games
 
-*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 
 ## Kid Athletes: True Tales of Childhood from Sports Legends, by David Stabler
@@ -37,5 +37,5 @@ There really can't be a discussion about sports without it eventually turning to
 It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding has been a major sport for years.  Next time you are in St. Moritz, check out the BobMuseum.  https://bobmuseum.ch/museum/#!/infopoint
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjg5NzkyM119
+eyJoaXN0b3J5IjpbLTE0MDY5NjU4OTUsLTcxNjg5NzkyM119
 -->
