@@ -1,6 +1,6 @@
 # Young World 4, Unit 4: The Call of the Alps
 
-*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 
 ## Festivals and Traditions in Switzerland, by Barbara Piatti & Yvonne Rogenmoser
@@ -50,8 +50,8 @@ The majestic Alps have always called people to both work play on their slopes.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjY3Mzk0OCw3ODY0NzAwMTAsLTY3ND
-E2MzE4OCwtMTM1NDg3Mzc2OSwtNzc5NTgzNjE1LC05ODY5MDk5
-ODcsMTM4NzMxOTYzMywtMTk1NTk0NDcwNCwtNzMyNjYzOTI4XX
-0=
+eyJoaXN0b3J5IjpbLTE4MjExMTczOTQsLTc1MjY3Mzk0OCw3OD
+Y0NzAwMTAsLTY3NDE2MzE4OCwtMTM1NDg3Mzc2OSwtNzc5NTgz
+NjE1LC05ODY5MDk5ODcsMTM4NzMxOTYzMywtMTk1NTk0NDcwNC
+wtNzMyNjYzOTI4XX0=
 -->
