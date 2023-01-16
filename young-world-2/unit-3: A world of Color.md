@@ -24,7 +24,7 @@ summary here.
 
 <img src="https://imgur.com/DpHYsvF.png" width="25%" />
 
-summary here.
+summary here.(Lexile
 
 <a href="https://www.bookdepository.com/Seventh-Most-Important-Thing-Shelley-Pearsall/9780553497311?ref=grid-view&qid=1665842641892&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039319893" rel="nofollow">Buy on Orell Füssli</a>
@@ -33,7 +33,7 @@ summary here.
 
 <img src="https://imgur.com/3ZvEIv5.png" width="25%" />
 
-summary here.
+summary here.(Lexile AD500L)
 
 <a href="https://www.bookdepository.com/Dot-Peter-H-Reynolds/9781844281695?ref=grid-view&qid=1665842808024&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002588073" rel="nofollow">Buy on Orell Füssli</a>
@@ -50,6 +50,7 @@ summary here. (no Lexile level available)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTI5OTMxOSwxNzY3NzMyMTg5LC0xOD
-Y5NTkwODY3LC0zMjI0NzQ1NzUsMTA0NjM4OTkwMV19
+eyJoaXN0b3J5IjpbLTE4ODc3NzM3MDAsLTU4OTI5OTMxOSwxNz
+Y3NzMyMTg5LC0xODY5NTkwODY3LC0zMjI0NzQ1NzUsMTA0NjM4
+OTkwMV19
 -->
