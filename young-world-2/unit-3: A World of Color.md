@@ -1,5 +1,5 @@
 # Young World 2, Unit 3: A World of Color
-*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 
 ## Ish, by Peter H. Reynolds
@@ -50,5 +50,5 @@ summary here. (no Lexile level available)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY1NjI0NjE4XX0=
+eyJoaXN0b3J5IjpbMTEzOTkxMjk0XX0=
 -->
