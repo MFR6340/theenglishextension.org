@@ -22,8 +22,17 @@ Adam is competing against others for a four million dollar prize to be the first
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004888026" rel="nofollow">Buy on Orell Füssli</a>
 
+### Crossing on Time, by Douglas Evans
+
+<img src="https://i.imgur.com/2u20wBX.png" width="45%" />
+
+summary here.  (Lexile here)
+
+
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004888026" rel="nofollow">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDQ0OTEwOCwtMTc2NDg5MDExMiw5OD
-U2MTIzMTcsMzU3Njc0MzIwLC0xNDY4NjIxNDc1XX0=
+eyJoaXN0b3J5IjpbNjEwODQwMDE1LDE1MDQ0NDkxMDgsLTE3Nj
+Q4OTAxMTIsOTg1NjEyMzE3LDM1NzY3NDMyMCwtMTQ2ODYyMTQ3
+NV19
 -->
