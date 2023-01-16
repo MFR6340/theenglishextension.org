@@ -73,14 +73,14 @@ summary here.
 ## Supplemental Activities
 Visit a Clock Tower
 There are some amazing and fascinating clock towers in Switzerland.  
-Zug: The Zuger Zytturm is free to visit.  Just request a key to the Tower in the gift shop below.  
-Bern:
+Zug: The Zuger Zytturm is free to visit.  Just request a key to the Tower in the gift shop below.  https://www.myswitzerland.com/en-us/experiences/zytturm-zug/
+Bern: ,The Zytglogge.  Tours are avaiu [https://www.bern.com/en/detail/berns-clock-tower-zytglogge](https://www.bern.com/en/detail/berns-clock-tower-zytglogge)
 Lucerne: 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTgyNTUxNSwtMTEzNTQxMDQ3NCwxMz
-Q0MzQzMDAsLTUyMTU2NTc1OSwzNTIxNTk2MzQsNDY1MzQ1NzMs
-LTE2MjI4MTIyMSwtNzEyODI2MTI5LDEzMjU5MDAxMjMsMjExMj
-gxMTY0MywtMTU4OTQ5MDc0NSwxODg5Mzc3MjYzLDExMDM1MTAx
-OTNdfQ==
+eyJoaXN0b3J5IjpbLTUxMzI5NjI5LC0xMTM1NDEwNDc0LDEzND
+QzNDMwMCwtNTIxNTY1NzU5LDM1MjE1OTYzNCw0NjUzNDU3Mywt
+MTYyMjgxMjIxLC03MTI4MjYxMjksMTMyNTkwMDEyMywyMTEyOD
+ExNjQzLC0xNTg5NDkwNzQ1LDE4ODkzNzcyNjMsMTEwMzUxMDE5
+M119
 -->
