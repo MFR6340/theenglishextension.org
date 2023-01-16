@@ -1,6 +1,7 @@
 # Young World 1, Unit 1: You and Me
 *This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
+
 ## The Flag Book, Lonely Planet Kids
 
 <img src="https://imgur.com/7nRyPSf.png" width="25%" />
@@ -19,11 +20,14 @@ Meet kids from 84 countries around the world from Australia to Zambezi.  See whe
 <a href="https://www.bookdepository.com/Lonely-Planet-Kids-This-Is-My-World-Lonely-Planet-Kids/9781787012943?ref=grid-view&qid=1664279444882&sr=1-7" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1047548315" rel="nofollow">Buy on Orell Füssli</a>
 
-## The Story of Ireland, by Brendan O’Brien
+## Books on specific countries
+It's great to learn a little bit about a lot of countries, but it is also important to go deeper and learn more about just one place. 
+
+### The Story of Ireland, by Brendan O’Brien
 
 <img src="https://imgur.com/6zAmwpH.png" width="25%" />
 
-It's great to learn a little bit about a lot of countries, but it is also important to go deeper and learn more about just one place.  summary here.
+ This book on Ireland does just that.  
 
 <a href="https://www.bookdepository.com/Story-Ireland-Brendan-OBrien/9781847171849?ref=grid-view&qid=1665848988287&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1013487989" rel="nofollow">Buy on Orell Füssli</a>
@@ -92,8 +96,8 @@ summary here.
 <a href="https://www.bookdepository.com/Its-Trevor-Noah-Born-Crime-Trevor-Noah/9780525582199?ref=grid-view&qid=1673791904933&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051326754" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM1NDQ0OSwxNTMwOTQ5MzcyLC02Mz
-Y4MTA5NjIsLTEwMDM0NjA1MDgsLTExNTkzNDY0MTcsLTE1NjE4
-NzA2MDYsLTE0NzY1NTM0OTEsLTM1MTYzOTk4LDE1MDMwMTc4Nz
-EsLTE3MDk1ODgxODZdfQ==
+eyJoaXN0b3J5IjpbOTUyOTg4Njg2LDE1MzA5NDkzNzIsLTYzNj
+gxMDk2MiwtMTAwMzQ2MDUwOCwtMTE1OTM0NjQxNywtMTU2MTg3
+MDYwNiwtMTQ3NjU1MzQ5MSwtMzUxNjM5OTgsMTUwMzAxNzg3MS
+wtMTcwOTU4ODE4Nl19
 -->
