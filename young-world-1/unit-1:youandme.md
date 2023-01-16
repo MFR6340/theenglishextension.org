@@ -5,7 +5,7 @@
 
 <img src="https://imgur.com/7nRyPSf.png" width="25%" />
 
-Provides information on the colors, designs and shapes of the flags of countries of the world.
+Provides information on the colors, designs and shapes of the flags of the world.
 
 <a href="https://www.bookdepository.com/Flag-Book-Lonely-Planet-Kids/9781788683098?ref=grid-view&qid=1656069226646&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054007305" rel="nofollow">Buy on Orell Füssli</a>
@@ -23,7 +23,7 @@ Meet kids from 84 countries around the world from Australia to Zambezi.  See whe
 
 <img src="https://imgur.com/6zAmwpH.png" width="25%" />
 
-summary here.
+It's great to learn a little bit about a lot of countries, but it is also important to go deeper and learn more about just one place.  summary here.
 
 <a href="https://www.bookdepository.com/Story-Ireland-Brendan-OBrien/9781847171849?ref=grid-view&qid=1665848988287&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1013487989" rel="nofollow">Buy on Orell Füssli</a>
@@ -92,7 +92,7 @@ summary here.
 <a href="https://www.bookdepository.com/Its-Trevor-Noah-Born-Crime-Trevor-Noah/9780525582199?ref=grid-view&qid=1673791904933&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051326754" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTMyODE4NiwxNTMwOTQ5MzcyLC02Mz
+eyJoaXN0b3J5IjpbLTE5ODM1NDQ0OSwxNTMwOTQ5MzcyLC02Mz
 Y4MTA5NjIsLTEwMDM0NjA1MDgsLTExNTkzNDY0MTcsLTE1NjE4
 NzA2MDYsLTE0NzY1NTM0OTEsLTM1MTYzOTk4LDE1MDMwMTc4Nz
 EsLTE3MDk1ODgxODZdfQ==
