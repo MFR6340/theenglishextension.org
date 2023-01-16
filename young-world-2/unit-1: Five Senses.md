@@ -29,6 +29,15 @@ A biography on the life of Louis Braille, how he became blind, and his incredibl
 <a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartike/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
+##  The Magic School Bus Explores the Senses, by Joanna Cole 
+
+<img src="https://imgur.com/kZ3HTR1.png" width="25%" />
+
+The cute, little and unintimidating dog really wants to become a guard dog, but no one wants him because his bark is so awful.  Nice twist at the end when a hard -of-hearing man comes along.  (Lexile NC810L)
+
+<a href="https://www.bookdepository.com/Guard-Dog-Dick-King-Smith/9780552554336?ref=grid-view&qid=1665840171795&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002714171" rel="nofollow">Buy on Orell Füssli</a>
+
 
 
 
@@ -65,9 +74,10 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU2NDE5NjgsNDczNzU2MzA1LC04Mz
-U4OTM2OTMsLTY1NTc0MzM5NywxMTA3NjkzNzAwLDE4NjAwNDUx
-NzgsLTY4MDM5NzA1MSwxMTg4OTk1MTM1LC01MDM5Njk0ODksLT
-E5Mjk1NDE4MSwtMTc5NTI1MzU0NywyOTU1MTkzNDQsMjEwMTAz
-MTA0MywxMzc3MDUwMjA3LDY2NDM5MDUsLTE0MDE3NTYzNF19
+eyJoaXN0b3J5IjpbNzk4ODI4MTM2LC0xMzQ1NjQxOTY4LDQ3Mz
+c1NjMwNSwtODM1ODkzNjkzLC02NTU3NDMzOTcsMTEwNzY5Mzcw
+MCwxODYwMDQ1MTc4LC02ODAzOTcwNTEsMTE4ODk5NTEzNSwtNT
+AzOTY5NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1NDcsMjk1NTE5
+MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQzOTA1LC0xND
+AxNzU2MzRdfQ==
 -->
