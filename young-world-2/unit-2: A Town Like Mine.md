@@ -22,7 +22,7 @@ summary here. (lexile 1000L)
 
 <img src="https://imgur.com/jLSqG2Y.png" width="25%" />
 
-summary here.(Lexile
+summary here.(Lexile IG1140L)
 
 <a href="https://www.bookdepository.com/Lonely-Planet-Kids-Cities-Book-Lonely-Planet-Kids/9781786570185?ref=grid-view&qid=1665841588904&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039247755" rel="nofollow">Buy on Orell Füssli</a>
@@ -31,7 +31,7 @@ summary here.(Lexile
 
 <img src="https://i.imgur.com/XFBCugf.png" width="25%" />
 
-summary here.
+summary here.( Lexile 
 
 <a href="https://www.bookdepository.com/Carrie-s-War/9780349009162" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -48,7 +48,7 @@ summary here.
 # Supplemental Activities
 Sometimes we learn more about other cities when we are traveling than the ones that are right at our doorstep.  Learn more about the cities that are nearby and learn the stories behind the buildings you walk past every day.  Free Walk offers free tours in 13 cities in Switzerland.  If you like what you learned, give your tour guide a nice tip at the end.  https://www.freewalk.ch/swiss/#cities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMjA5MjAyMSw4MzY1NDQ5MDksLTI1NT
-AwNzMzMywtMTg5NjQyNDM2NiwtMTU1MTYzMTk5OSw1NTk5NTAw
-MzcsLTE4NzUzNDM5MSwtMzEwNjIxNDIyXX0=
+eyJoaXN0b3J5IjpbMjAyNjQ0MjYxLDgzNjU0NDkwOSwtMjU1MD
+A3MzMzLC0xODk2NDI0MzY2LC0xNTUxNjMxOTk5LDU1OTk1MDAz
+NywtMTg3NTM0MzkxLC0zMTA2MjE0MjJdfQ==
 -->
