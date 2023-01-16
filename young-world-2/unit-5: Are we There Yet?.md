@@ -15,15 +15,15 @@ summary here.(Lexile 570L)
 
 ### MVP*: Magellan Voyage Project, by Douglas Evans
 
-<img src="https://imgur.com/6rfoBak.png" width="25%" />
+<img src="https://i.imgur.com/n6FEYvP.png" width="45%" />
 
 This fun book is out of print and therefore can only be found used.  It's worth the search. Adam is competing against others for a four million dollar prize to be the first around the world in forty days without flying.  Lots of action and adventure, and of course, an evil Baron.  (Lexile 690L)
 
 <a href="https://www.amazon.com/MVP-Magellan-Project-Douglas-Evans/dp/1932425136" rel="nofollow"> Buy on Amazon</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006158349" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004888026" rel="nofollow">Buy on Orell Füssli</a>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzc3MzU3OCwtMTc2NDg5MDExMiw5OD
-U2MTIzMTcsMzU3Njc0MzIwLC0xNDY4NjIxNDc1XX0=
+eyJoaXN0b3J5IjpbLTIwNzgyMDAyMjYsLTE3NjQ4OTAxMTIsOT
+g1NjEyMzE3LDM1NzY3NDMyMCwtMTQ2ODYyMTQ3NV19
 -->
