@@ -1,6 +1,9 @@
 # Young World 1, Unit 1: You and Me
 *This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
+This is the first unit
+
+
 ## Books Covering Many Countries
 ### The Flag Book, Lonely Planet Kids
 
@@ -37,7 +40,7 @@ It's great to learn a little bit about a lot of countries, but it is also import
 
 <img src="https://imgur.com/6zAmwpH.png" width="25%" />
 
- .  
+ Summary here....  
 
 <a href="https://www.bookdepository.com/Story-Ireland-Brendan-OBrien/9781847171849?ref=grid-view&qid=1665848988287&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1013487989" rel="nofollow">Buy on Orell Füssli</a>
@@ -99,8 +102,8 @@ summary here.
 <a href="https://www.bookdepository.com/Its-Trevor-Noah-Born-Crime-Trevor-Noah/9780525582199?ref=grid-view&qid=1673791904933&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051326754" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ5NzU1NDQsMTUzMDk0OTM3MiwtNj
-M2ODEwOTYyLC0xMDAzNDYwNTA4LC0xMTU5MzQ2NDE3LC0xNTYx
-ODcwNjA2LC0xNDc2NTUzNDkxLC0zNTE2Mzk5OCwxNTAzMDE3OD
-cxLC0xNzA5NTg4MTg2XX0=
+eyJoaXN0b3J5IjpbNzc2NzI4NzExLDE1MzA5NDkzNzIsLTYzNj
+gxMDk2MiwtMTAwMzQ2MDUwOCwtMTE1OTM0NjQxNywtMTU2MTg3
+MDYwNiwtMTQ3NjU1MzQ5MSwtMzUxNjM5OTgsMTUwMzAxNzg3MS
+wtMTcwOTU4ODE4Nl19
 -->
