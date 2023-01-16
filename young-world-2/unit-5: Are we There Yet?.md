@@ -43,7 +43,7 @@ summary here.(Lexile 570L)
 
 ### Survivor Titanic, by Stephen Davies
 
-<img src="https://i.imgur.com/61EpL2l.png" width="35%" />
+<img src="https://i.imgur.com/Cgf8KU8.png" width="35%" />
 
 summary here. (Lexile )
 
@@ -52,7 +52,8 @@ summary here. (Lexile )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjU2NDk3LC0xNjYyMzM0NTExLC0xOD
-c2NTY1OTE5LDE1MDQ0NDkxMDgsLTE3NjQ4OTAxMTIsOTg1NjEy
-MzE3LDM1NzY3NDMyMCwtMTQ2ODYyMTQ3NV19
+eyJoaXN0b3J5IjpbMjIzMjI3MjcxLC01MjY1NjQ5NywtMTY2Mj
+MzNDUxMSwtMTg3NjU2NTkxOSwxNTA0NDQ5MTA4LC0xNzY0ODkw
+MTEyLDk4NTYxMjMxNywzNTc2NzQzMjAsLTE0Njg2MjE0NzVdfQ
+==
 -->
