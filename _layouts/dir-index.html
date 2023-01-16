@@ -29,7 +29,7 @@
         {% for p in items %}
             {% if p.url == page.url %}
             {% else %}
-                <li class="tag-h1"><a href="{{ p.url | remove: '.html' }}">{{ p.title }}</a></li>
+                <li class="tag-h1"><a href="{{ p.url | remove: '.html' | replace: '?', '%3F' }}">{{ p.title }}</a></li>
             {% endif %}
         {% endfor %}
     {% endif %}
