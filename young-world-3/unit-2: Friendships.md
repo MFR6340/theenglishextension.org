@@ -1,6 +1,6 @@
 # Young World 3, Unit 2: Friendships
 
-*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 ## A Bear Called Paddington
 
@@ -70,5 +70,5 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjA3MzI0N119
+eyJoaXN0b3J5IjpbLTUxMTEzMTE0OSwxMTQ2MDczMjQ3XX0=
 -->
