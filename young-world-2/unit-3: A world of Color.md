@@ -48,15 +48,9 @@ summary here. (no Lexile level available)
 <a href="https://www.bookdepository.com/Black-Book-Colours-Menena-Cottin/9781406322187?ref=grid-view&qid=1673876271828&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 
-## Leonardo Da Vinci for Kids, by Janis Herbert
-<img src="https://i.imgur.com/Ay29f9T.png" width="25%" />
 
-summary here.(Lexile 920L)
-
-<a href="https://www.bookdepository.com/Leonardo-da-Vinci-for-Kids-Janis-Herbert/9781556522987?ref=grid-view&qid=1673876529239&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039319893" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM5OTk1MDk0LC01ODkyOTkzMTksMTc2Nz
-czMjE4OSwtMTg2OTU5MDg2NywtMzIyNDc0NTc1LDEwNDYzODk5
-MDFdfQ==
+eyJoaXN0b3J5IjpbNTY1NjI0NjE4LDgzOTk5NTA5NCwtNTg5Mj
+k5MzE5LDE3Njc3MzIxODksLTE4Njk1OTA4NjcsLTMyMjQ3NDU3
+NSwxMDQ2Mzg5OTAxXX0=
 -->
