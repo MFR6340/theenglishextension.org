@@ -94,7 +94,7 @@ dd { margin: 0 0 0 40px; }
 menu, ol, ul { padding: 0 0 0 40px; }
 
 /* Corrects list images handled incorrectly in IE7 */
-nav ul, nav ol { list-style: none; list-style-image: none; }
+ul, nav ol { list-style: none; list-style-image: none; }
 
 /* ============================================================================= Embedded content ========================================================================== */
 /* 1. Removes border when inside 'a' element in IE6/7/8/9, FF3 2. Improves image quality when scaled in IE7 code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/ */
@@ -285,10 +285,10 @@ section {
 small { font-size: 12px; }
 
 nav { 
-  width: 230px; 
+  width: 330px; 
   position: relative; 
   left: 50%;
-  margin-left: -580px;
+  margin-left: -680px;
   text-align: right;
   float: left;
 }
@@ -302,7 +302,7 @@ nav ul a:hover { color: #999; }
 
 footer { width: 180px; position: fixed; left: 50%; margin-left: -530px; bottom: 20px; text-align: right; line-height: 16px; }
 
-@media print, screen and (max-width: 1060px) { div.wrapper { width: auto; margin: 0; }
+@media print, screen and (max-width: 1110px) { div.wrapper { width: auto; margin: 0; }
   nav {
     margin: 190px auto 20px; 
     left: 0%;
