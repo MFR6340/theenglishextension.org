@@ -33,7 +33,7 @@ A biography on the life of Louis Braille, how he became blind, and his incredibl
 
 <img src="https://i.imgur.com/kiJ2NaN.png" width="25%" />
 
-Summary here.  (Lexile NC810L)
+Summary here.  (Lexile AD690L)
 
 <a href="https://www.bookdepository.com/Guard-Dog-Dick-King-Smith/9780552554336?ref=grid-view&qid=1665840171795&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002714171" rel="nofollow">Buy on Orell Füssli</a>
@@ -74,7 +74,7 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzEyNzk0OCwtMTM0NTY0MTk2OCw0Nz
+eyJoaXN0b3J5IjpbLTIzOTYyMzEwMCwtMTM0NTY0MTk2OCw0Nz
 M3NTYzMDUsLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMDc2OTM3
 MDAsMTg2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUxMzUsLT
 UwMzk2OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LDI5NTUx
