@@ -37,7 +37,7 @@ It's great to learn a little bit about a lot of countries, but it is also import
 
 <img src="https://imgur.com/6zAmwpH.png" width="25%" />
 
- This book on Ireland does just that.  
+ .  
 
 <a href="https://www.bookdepository.com/Story-Ireland-Brendan-OBrien/9781847171849?ref=grid-view&qid=1665848988287&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1013487989" rel="nofollow">Buy on Orell Füssli</a>
@@ -99,8 +99,8 @@ summary here.
 <a href="https://www.bookdepository.com/Its-Trevor-Noah-Born-Crime-Trevor-Noah/9780525582199?ref=grid-view&qid=1673791904933&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051326754" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MjU2Mzc1MywxNTMwOTQ5MzcyLC02Mz
-Y4MTA5NjIsLTEwMDM0NjA1MDgsLTExNTkzNDY0MTcsLTE1NjE4
-NzA2MDYsLTE0NzY1NTM0OTEsLTM1MTYzOTk4LDE1MDMwMTc4Nz
-EsLTE3MDk1ODgxODZdfQ==
+eyJoaXN0b3J5IjpbLTExMjQ5NzU1NDQsMTUzMDk0OTM3MiwtNj
+M2ODEwOTYyLC0xMDAzNDYwNTA4LC0xMTU5MzQ2NDE3LC0xNTYx
+ODcwNjA2LC0xNDc2NTUzNDkxLC0zNTE2Mzk5OCwxNTAzMDE3OD
+cxLC0xNzA5NTg4MTg2XX0=
 -->
