@@ -6,7 +6,7 @@
 
 <img src="https://imgur.com/eQdEzwj.png" width="25%" />
 
-summary here.  (no Lexile level)
+summary here.  (no Lexile level available)
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053851415" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -39,7 +39,7 @@ summary here.( Lexile 760L)
 
 <img src="https://i.imgur.com/7hoyUhH.png" width="25%" />
 
-summary here.( no Lexile level)
+summary here.( no Lexile level available)
 
 <a href="https://www.bookdepository.com/When-Siren-Wailed-Noel-Streatfeild/9781510109902?ref=grid-view&qid=1673535364933&sr=1-2
 " rel="nofollow"> Buy on BookDepository</a>  
@@ -48,8 +48,8 @@ summary here.( no Lexile level)
 # Supplemental Activities
 Sometimes we learn more about other cities when we are traveling than the ones that are right at our doorstep.  Learn more about the cities that are nearby and learn the stories behind the buildings you walk past every day.  Free Walk offers free tours in 13 cities in Switzerland.  If you like what you learned, give your tour guide a nice tip at the end.  https://www.freewalk.ch/swiss/#cities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTE5NjI3MDgsLTEzODAyOTcyOTUsOD
-M2NTQ0OTA5LC0yNTUwMDczMzMsLTE4OTY0MjQzNjYsLTE1NTE2
-MzE5OTksNTU5OTUwMDM3LC0xODc1MzQzOTEsLTMxMDYyMTQyMl
-19
+eyJoaXN0b3J5IjpbMTg4NjI3MzIyOCwtMTM4MDI5NzI5NSw4Mz
+Y1NDQ5MDksLTI1NTAwNzMzMywtMTg5NjQyNDM2NiwtMTU1MTYz
+MTk5OSw1NTk5NTAwMzcsLTE4NzUzNDM5MSwtMzEwNjIxNDIyXX
+0=
 -->
