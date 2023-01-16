@@ -9,8 +9,10 @@ layout: dir-index
 ### Describing Emotions
 Sometimes it's a challenge to find the right word or emotion.  Often, there's a better or more precise way to say it.  This fabulous emotion wheel is a great way to helps kids (and adults) express their feelings more clearly.  It obviously helps improves descriptive writing skills as well. 
 <img src="https://i.imgur.com/tCWChf6.jpeg" width="85%" />
+
+
  
-# Supplemental Booklets
+# Unit Booklets for Klett Program
 
 TEEO provides supplemental booklets to be used in the classroom in conjunction with the Klett English Program currently used in 12 Cantons throughout Switzerland.
 
@@ -28,5 +30,5 @@ TEEO provides supplemental booklets to be used in the classroom in conjunction w
 [3rd Year, Oberstufe](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4Mzc1NDY3XX0=
+eyJoaXN0b3J5IjpbLTExNzc4MDI3NjJdfQ==
 -->
