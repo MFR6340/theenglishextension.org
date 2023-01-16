@@ -17,7 +17,17 @@ summary here.( Lexile 1020L)
 
 <a href="https://www.bookdepository.com/Jungle-Book-Rudyard-Kipling/9780141325293?ref=grid-view&qid=1665843348245&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
+
+## Race to Survival,by Cliff Jacobson
+
+<img src="https://imgur.com/p7BPDMw.png" width="25%" />
+
+summary here.( Lexile 1020L)
+
+<a href="https://www.bookdepository.com/Jungle-Book-Rudyard-Kipling/9780141325293?ref=grid-view&qid=1665843348245&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNDA5NTU5LC0xNjU4NDM0MTcyLC0xMT
-AwNzM0NDAxLC04NjE5NDI1NDYsMTUwMzUzNDc0OF19
+eyJoaXN0b3J5IjpbMTg1OTcyNTAsMjIxNDA5NTU5LC0xNjU4ND
+M0MTcyLC0xMTAwNzM0NDAxLC04NjE5NDI1NDYsMTUwMzUzNDc0
+OF19
 -->
