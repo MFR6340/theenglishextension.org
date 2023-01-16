@@ -4,18 +4,7 @@
 **This unit covers time zones, school days around the world, and events that happen throughout the day.  Here are some suggestions for Native English speakers to delve deeper into this theme:**
 
 ## Non-Fiction Books 
-
-
-
-## Fantasy Stories
-### The 13 Clocks, by James Thurber
-
-<img src="https://imgur.com/Z6h3leZ.png" width="25%"  />
-
-Description here.
-<a href="https://www.bookdepository.com/13-Clocks-James-Thurber/9780143110149?ref=grid-view&qid=1656416664054&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441194" rel="nofollow">Buy on Orell Füssli</a>
-## The Story of Clocks and Calendars, by Betsy Maestro
+### The Story of Clocks and Calendars, by Betsy Maestro
 
 <img src="https://imgur.com/c8geq4Z.png" width="25%"  />
 
@@ -24,15 +13,8 @@ Description here (Lexile 1050L)
 <a href="https://www.bookdepository.com/Story-Clocks-Calendars-Betsy-Maestro/9780060589455?ref=grid-view&qid=1656422356224&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002848514" rel="nofollow">Buy on Orell Füssli</a>
 
-## The Happy Hollisters and the Cuckoo Clock Mystery, by Jerry West
-
-<img src="https://imgur.com/7L5Xm9p.png" width="25%"  />
-
-discription here (Lexile 1100L)
 
 
-<a href="https://www.bookdepository.com/Happy-Hollisters-Cuckoo-Clock-Mystery-Jerry-West/9781949436570?ref=grid-view&qid=1656001073916&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053696364" rel="nofollow">Buy on Orell Füssli</a> 
 
 ## Tick Tock, Banneker’s Clock, by Shana Keller
 
@@ -51,6 +33,28 @@ summary here. (lexile level 910)
 <a href="https://www.bookdepository.com/Sea-Clocks-Louise-Borden/9780689842160?ref=grid-view&qid=1665847233702&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003050527" rel="nofollow">Buy on Orell Füssli</a>
 
+
+
+## Fantasy Stories
+### The Happy Hollisters and the Cuckoo Clock Mystery, by Jerry West
+
+<img src="https://imgur.com/7L5Xm9p.png" width="25%"  />
+
+discription here (Lexile 1100L)
+
+
+<a href="https://www.bookdepository.com/Happy-Hollisters-Cuckoo-Clock-Mystery-Jerry-West/9781949436570?ref=grid-view&qid=1656001073916&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053696364" rel="nofollow">Buy on Orell Füssli</a> 
+
+### The 13 Clocks, by James Thurber
+
+<img src="https://imgur.com/Z6h3leZ.png" width="25%"  />
+
+Description here.
+<a href="https://www.bookdepository.com/13-Clocks-James-Thurber/9780143110149?ref=grid-view&qid=1656416664054&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441194" rel="nofollow">Buy on Orell Füssli</a>
+
+
 ## Time Villains, Victor Pineiro
 
 <img src="https://imgur.com/pV4cOFG.png" width="25%" />
@@ -68,9 +72,9 @@ summary here.
 <a href="https://www.bookdepository.com/How-Survive-Time-Travel-Larry-Hayes/9781471198366?ref=grid-view&qid=1673795737187&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058447306" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjc0MDY1OTQsLTExMzU0MTA0NzQsMT
-M0NDM0MzAwLC01MjE1NjU3NTksMzUyMTU5NjM0LDQ2NTM0NTcz
-LC0xNjIyODEyMjEsLTcxMjgyNjEyOSwxMzI1OTAwMTIzLDIxMT
-I4MTE2NDMsLTE1ODk0OTA3NDUsMTg4OTM3NzI2MywxMTAzNTEw
-MTkzXX0=
+eyJoaXN0b3J5IjpbNzkzNjUwOTUyLC0xMTM1NDEwNDc0LDEzND
+QzNDMwMCwtNTIxNTY1NzU5LDM1MjE1OTYzNCw0NjUzNDU3Mywt
+MTYyMjgxMjIxLC03MTI4MjYxMjksMTMyNTkwMDEyMywyMTEyOD
+ExNjQzLC0xNTg5NDkwNzQ1LDE4ODkzNzcyNjMsMTEwMzUxMDE5
+M119
 -->
