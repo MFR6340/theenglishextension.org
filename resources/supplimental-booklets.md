@@ -4,7 +4,9 @@ layout: dir-index
 # Supplemental Materials
 [https://learnenglishteens.britishcouncil.org/](https://learnenglishteens.britishcouncil.org/) A useful website to work on listening comprehension, which despite being natives, many kids still often struggle with. Goes up to C1
 
-Sometimes it's a challenge to find the right word or emotion.  Often, there's a better or more precise way to say it.  This fabulous emotion wheel is a great way to helps kids (and adults) express their feelings more clearly.  It obviously helps improves descriptive writing skills as well.  
+Sometimes it's a challenge to find the right word or emotion.  Often, there's a better or more precise way to say it.  This fabulous emotion wheel is a great way to helps kids (and adults) express their feelings more clearly.  It obviously helps improves descriptive writing skills as well. 
+
+ <a href="https://www.bookdepository.com/Out-My-Mind-Sharon-M-Draper/9781416971719?ref=grid-view&qid=1673793076916&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 
 # Supplemental Booklets
 
@@ -24,5 +26,5 @@ TEEO provides supplemental booklets to be used in the classroom in conjunction w
 [3rd Year, Oberstufe](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzI4NjM5NCw1MzUyNjk0NF19
+eyJoaXN0b3J5IjpbLTM1Mjg1ODQyMiw1MzUyNjk0NF19
 -->
