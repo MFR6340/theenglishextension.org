@@ -53,18 +53,12 @@ summary here.( Lexile 1030L)
 <a href="https://www.bookdepository.com/Gone-the-Woods-True-Story-of-Growing-Up-in-the-Wild-Gary-Paulsen/9781529047721" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059151245" rel="nofollow">Buy on Orell Füssli</a>
 
-![](https://i.imgur.com/VZ8JHp9.png)" width="25%" />
 
-summary here.( Lexile 1030L)
-
-
-<a href="https://www.bookdepository.com/Gone-the-Woods-True-Story-of-Growing-Up-in-the-Wild-Gary-Paulsen/9781529047721" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059151245" rel="nofollow">Buy on Orell Füssli</a>by Gary Paulsen
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NTIzNDAzLC01OTQ1NTY4NzYsLTU0ND
-IxMTAyNCwxOTQ4NDE3OTQyLDQ3OTU0NjA5MiwtOTI2MzkwNTY1
-LDE4NTk3MjUwLDIyMTQwOTU1OSwtMTY1ODQzNDE3MiwtMTEwMD
-czNDQwMSwtODYxOTQyNTQ2LDE1MDM1MzQ3NDhdfQ==
+eyJoaXN0b3J5IjpbMTAwNDAwMTcyMSwtNTk0NTU2ODc2LC01ND
+QyMTEwMjQsMTk0ODQxNzk0Miw0Nzk1NDYwOTIsLTkyNjM5MDU2
+NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NTg0MzQxNzIsLTExMD
+A3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0NzQ4XX0=
 -->
