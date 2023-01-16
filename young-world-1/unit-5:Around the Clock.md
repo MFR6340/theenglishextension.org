@@ -1,5 +1,5 @@
 # Young World 1, Unit 5: Around the Clock
-*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms..*
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 ## The 13 Clocks, by James Thurber
 
@@ -62,8 +62,9 @@ summary here.
 <a href="https://www.bookdepository.com/How-Survive-Time-Travel-Larry-Hayes/9781471198366?ref=grid-view&qid=1673795737187&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058447306" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzU0MTA0NzQsMTM0NDM0MzAwLC01Mj
-E1NjU3NTksMzUyMTU5NjM0LDQ2NTM0NTczLC0xNjIyODEyMjEs
-LTcxMjgyNjEyOSwxMzI1OTAwMTIzLDIxMTI4MTE2NDMsLTE1OD
-k0OTA3NDUsMTg4OTM3NzI2MywxMTAzNTEwMTkzXX0=
+eyJoaXN0b3J5IjpbMTg5NjMzODg0LC0xMTM1NDEwNDc0LDEzND
+QzNDMwMCwtNTIxNTY1NzU5LDM1MjE1OTYzNCw0NjUzNDU3Mywt
+MTYyMjgxMjIxLC03MTI4MjYxMjksMTMyNTkwMDEyMywyMTEyOD
+ExNjQzLC0xNTg5NDkwNzQ1LDE4ODkzNzcyNjMsMTEwMzUxMDE5
+M119
 -->
