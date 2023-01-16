@@ -13,11 +13,11 @@ summary here.
 
 <img src="https://imgur.com/p7BPDMw.png" width="25%" />
 
-summary here.
+summary here.( Lexile 1020L)
 
 <a href="https://www.bookdepository.com/Jungle-Book-Rudyard-Kipling/9780141325293?ref=grid-view&qid=1665843348245&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTg0MzQxNzIsLTExMDA3MzQ0MDEsLT
-g2MTk0MjU0NiwxNTAzNTM0NzQ4XX0=
+eyJoaXN0b3J5IjpbMTA1ODk3ODkzNSwtMTY1ODQzNDE3MiwtMT
+EwMDczNDQwMSwtODYxOTQyNTQ2LDE1MDM1MzQ3NDhdfQ==
 -->
