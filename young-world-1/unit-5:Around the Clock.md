@@ -71,7 +71,7 @@ summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058447306" rel="nofollow"> Buy on Orell Füssli</a>
 
 ## Supplemental Activities
-Visit a Clock Tower
+Climb a Clock Tower
 There are some amazing and fascinating clock towers in Switzerland.  
 
  - Zug: The Zuger Zytturm is free to visit.  Just request a key to the Tower in the gift shop below.  https://www.myswitzerland.com/en-us/experiences/zytturm-zug/
@@ -86,9 +86,9 @@ Switzerland, world-famous for its clocks and watches, has 7 public museums focus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyODY2NjY4MCwtMTEzNTQxMDQ3NCwxMz
-Q0MzQzMDAsLTUyMTU2NTc1OSwzNTIxNTk2MzQsNDY1MzQ1NzMs
-LTE2MjI4MTIyMSwtNzEyODI2MTI5LDEzMjU5MDAxMjMsMjExMj
-gxMTY0MywtMTU4OTQ5MDc0NSwxODg5Mzc3MjYzLDExMDM1MTAx
-OTNdfQ==
+eyJoaXN0b3J5IjpbLTQxODgzOTEzNCwxNjI4NjY2NjgwLC0xMT
+M1NDEwNDc0LDEzNDQzNDMwMCwtNTIxNTY1NzU5LDM1MjE1OTYz
+NCw0NjUzNDU3MywtMTYyMjgxMjIxLC03MTI4MjYxMjksMTMyNT
+kwMDEyMywyMTEyODExNjQzLC0xNTg5NDkwNzQ1LDE4ODkzNzcy
+NjMsMTEwMzUxMDE5M119
 -->
