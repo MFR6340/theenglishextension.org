@@ -1,5 +1,5 @@
 # Young World 1, Unit 4: Throughout the Year
-*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 ## Snowflake Bentley, by Jacqueline Briggs Martin
 Caldecott Medal Winner
@@ -101,9 +101,9 @@ summary here.
 
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODg5NTk5NiwxMzM4MjQ2OTc4LDEzMD
-Q0MDU3MzYsMzUwMTYwNzk0LC0zMjYxMzA3NDcsLTMwODM4OTgy
-OSwxMjY3Mzk0MTEzLDM0NjM5ODQ5MSwtMjE5MjgzMzE0LC04Nz
-E4MTM3MDMsMTg5MDU1MTAxOCwxNzg0MDczODg1LDg5OTM1Nzc3
-OSwtNzcyMzI0NDA1LDEzMTUwMTA5MjgsMTMwNDY2MjI4OV19
+eyJoaXN0b3J5IjpbNjQ1MTI3Mjg4LDEzMzgyNDY5NzgsMTMwND
+QwNTczNiwzNTAxNjA3OTQsLTMyNjEzMDc0NywtMzA4Mzg5ODI5
+LDEyNjczOTQxMTMsMzQ2Mzk4NDkxLC0yMTkyODMzMTQsLTg3MT
+gxMzcwMywxODkwNTUxMDE4LDE3ODQwNzM4ODUsODk5MzU3Nzc5
+LC03NzIzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYyMjg5XX0=
 -->
