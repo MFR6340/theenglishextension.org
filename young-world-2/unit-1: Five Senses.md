@@ -40,7 +40,7 @@ Summary here.  (Lexile AD690L)
 
 ## Out of Darkness, the Story of Louis Braille, by Russell Friedman
 
-<img src=https://i.imgur.com/c4bX7Yh.png"25%" />
+<img src=''https://i.imgur.com/c4bX7Yh.png"25%" />
 
 A biography on the life of Louis Braille, how he became blind, and his incredible development of the alphabet.  Appropriate for grades 5-7. (Lexile 1000L)
 
@@ -81,7 +81,7 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDQ5MTkzMCwzODAxMDQ3OTIsLTEzND
+eyJoaXN0b3J5IjpbLTI4ODA4NjI2NiwzODAxMDQ3OTIsLTEzND
 U2NDE5NjgsNDczNzU2MzA1LC04MzU4OTM2OTMsLTY1NTc0MzM5
 NywxMTA3NjkzNzAwLDE4NjAwNDUxNzgsLTY4MDM5NzA1MSwxMT
 g4OTk1MTM1LC01MDM5Njk0ODksLTE5Mjk1NDE4MSwtMTc5NTI1
