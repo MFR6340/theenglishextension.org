@@ -1,6 +1,5 @@
 # Young World 2, Unit 1: Five Senses
-
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission which will be used to purchase books for classrooms at no cost to you.*
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 ## Six Dots, A Story of Young Louis Braille, by Jen Bryant
 
@@ -80,10 +79,10 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzc3NzAxNSwzODAxMDQ3OTIsLTEzND
-U2NDE5NjgsNDczNzU2MzA1LC04MzU4OTM2OTMsLTY1NTc0MzM5
-NywxMTA3NjkzNzAwLDE4NjAwNDUxNzgsLTY4MDM5NzA1MSwxMT
-g4OTk1MTM1LC01MDM5Njk0ODksLTE5Mjk1NDE4MSwtMTc5NTI1
-MzU0NywyOTU1MTkzNDQsMjEwMTAzMTA0MywxMzc3MDUwMjA3LD
-Y2NDM5MDUsLTE0MDE3NTYzNF19
+eyJoaXN0b3J5IjpbLTE4MzI1NjgzODQsMTkwMzc3NzAxNSwzOD
+AxMDQ3OTIsLTEzNDU2NDE5NjgsNDczNzU2MzA1LC04MzU4OTM2
+OTMsLTY1NTc0MzM5NywxMTA3NjkzNzAwLDE4NjAwNDUxNzgsLT
+Y4MDM5NzA1MSwxMTg4OTk1MTM1LC01MDM5Njk0ODksLTE5Mjk1
+NDE4MSwtMTc5NTI1MzU0NywyOTU1MTkzNDQsMjEwMTAzMTA0My
+wxMzc3MDUwMjA3LDY2NDM5MDUsLTE0MDE3NTYzNF19
 -->
