@@ -2,6 +2,10 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.* 
 
+This unit discusses school buildings, classrooms, school timetable, uniforms.
+
+
+
 ## Off to Class: Incredible and Unusual Schools Around the World, by Susan Hughes
 
 <img src="https://imgur.com/3sxCIqX.png" width="25%" />
@@ -44,5 +48,5 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzAyNjIyNV19
+eyJoaXN0b3J5IjpbMTEzNDE5MDc4LDE1NzMwMjYyMjVdfQ==
 -->
