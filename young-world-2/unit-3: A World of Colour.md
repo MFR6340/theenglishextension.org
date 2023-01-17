@@ -62,13 +62,14 @@ Switzerland has over 1,100 museums, making it one of countries with the highest 
  
  - Rosegarten Collection
 This museum in Lucern has works by Swiss artist Paul Klee, as well as other Classic Modernist and Impressionist artists including Pablo Picasso, and Renoir and Cézanne. https://www.rosengart.ch/en/welcome
+ - Claire Ochsner Museum and Sculpture Garden
+On page 27, is a sculpture by Swiss artist Claire Ochsner which can be seen in person in Zug near Metalli and the train station.  She has many more sculptures all over Switzerland.  She also has a sculpture garden in Frenkendorf, ten minutes from Basel, which is open from 16.00-18.00 every Friday.  http://www.claire-ochsner.ch/skulpturgarten/
 
-Claire Ochsner Museum and Sculpture Garden
-On page 27, is a sculpture by Swiss artist Claire Ochsner which can be seen in person in Zug near Metalli and the train station.  She has many more sculptures all over Switzerland.  She also has a sculpture garden located in Frenkendorf, ten minutes from Basel, is open from 16.00-18.00 every Friday.  http://www.claire-ochsner.ch/skulpturgarten/
+
 
 
 ### Do a Puzzle
-You can still get some culture and have fun while remaining in your living room.  There's really no better way to become familiar with a work of fine art than to do a puzzle.  
+You can still get some culture and have fun while remaining in your living room.  There's really no better way to become familiar with the minute details of a work of fine art than by doing a puzzle.  
 <img src="https://i.imgur.com/8bQLA0S.png" width="55%" />
 Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many other famous artists.  They also have special pieces, in interesting shapes like paint brushes and boats that match the theme.  Beware, if you do get one, don't begin with one with more than 250 pieces, as they can be challenging.  A straight piece does not necessarily mean it's an edge.  Good fun on cold day.  https://www.wentworthpuzzles.com/us/fine-art-jigsaw-puzzles-2/all-fine-art-puzzles
 
@@ -82,5 +83,5 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTczMDkxNCwxNjM4OTY5NTE3XX0=
+eyJoaXN0b3J5IjpbLTE0MzQxNTE1MjQsMTYzODk2OTUxN119
 -->
