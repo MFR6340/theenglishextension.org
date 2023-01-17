@@ -15,8 +15,8 @@ summary here. (Lexile level)
 
 ## Supplemental Activities
 
-There is no better place than Ballenberg Open-Air Museum which has over 100 different traditional buildings from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial
+There is no better place than Ballenberg Open-Air Museum which has over 100 different traditional buildings from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial and crafting buildings which are still used for demonstrations.  Listed as a heritage site of national significance, it is a wonderful way to spend a day. 
 https://www.ballenberg.ch/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjg2NjE1NzEsLTg5MTg4NDg5M119
+eyJoaXN0b3J5IjpbMTI2OTQ4NjQzMSwtODkxODg0ODkzXX0=
 -->
