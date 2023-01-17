@@ -54,6 +54,8 @@ Switzerland has over 1,100 museums, making it one of countries with the highest 
 
  - Zentrum Paul Klee
 	Show-casing one of Switzerland's most renowned artists, and hosting around 4,000 pieces of his work, the museum in Bern conducts guided tours and also has interactive programs for children.  Find more information here: https://www.zpk.org/en/art-mediation/guided-tours-43.html
+	Angelika Kaufmann Museum
+	Kaufmann was a famous female Swiss artist who built in international reputation in the 18th Century.  
 	
 	
 
@@ -64,5 +66,6 @@ You can still get some culture and have fun while remaining in your living room.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NzgxNjg0OSwtNjU3MzA2NTM1XX0=
+eyJoaXN0b3J5IjpbMTc2NzM1NDY1NSwtNzY3ODE2ODQ5LC02NT
+czMDY1MzVdfQ==
 -->
