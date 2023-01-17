@@ -58,9 +58,9 @@ Switzerland has over 1,100 museums, making it one of countries with the highest 
  - Angelika Kaufmann Museum
 	Kaufmann was a famous female Swiss artist who built in international reputation for her landscapes and portraits in the 18th Century.  In 1768, she became one of only two female artists who co-founded the Royal Academy in London.  Born in Chur, Kaufmann also had close ties to Schwarzenburg, Austria (a 45 minute drive from St. Gallen)  where the museum is located.  http://angelika-kauffmann.com/das-museum/oeffnungszeiten
 	
- - 
- - Alberto Giacometti Museum
-	  It's unusual to find a museum housed in a hotel, but it doesn't reduce its importance as one of the best collections of Giacometti's graphic works.  Giacometti was a versitile Swiss artist who was influenced by the Cubists and Surrealists.  
+ 
+ Alberto Giacometti Museum
+	  It's unusual to find a public museum housed in a hotel, but it doesn't reduce its importance as one of the best collections of Giacometti's graphic works.  Giacometti was a versitile Swiss artist who was influenced by the Cubists and Surrealists.  Located in the Pensiun Aldier in Sent, Engadin.  https://www.engadin.com/en/alberto-giacometti-museum
 
 	
 	
@@ -72,6 +72,6 @@ You can still get some culture and have fun while remaining in your living room.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTEyNTg3Nyw0OTY4MTYyNSwtOTkwMD
-MxNzAwLC03Njc4MTY4NDksLTY1NzMwNjUzNV19
+eyJoaXN0b3J5IjpbLTEzMTEwNTMxNjMsNDk2ODE2MjUsLTk5MD
+AzMTcwMCwtNzY3ODE2ODQ5LC02NTczMDY1MzVdfQ==
 -->
