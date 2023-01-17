@@ -14,12 +14,12 @@
 
 ###  The Big Orange Splot, Daniel Pinkwater
 
-<img src="blob:https://imgur.com/72d70da1-73c1-4cf2-96f1-088195f19ba8" width="35%" />
+<img src="https://i.imgur.com/jvkWz2c.png" width="35%" />
 
 This book contains photos and illustrations of  houses from ten sub-cultures around the world.  Shows the yurt in Mongolia, the Chinese tulou and the underground homes of Tunisia built from natural materials from the region.  A fascinating book for any age.  ( No Lexile level available)
 
-<a href="https://www.bookdepository.com/Wonderful-Houses-Around-the-World-Yoshio-Komatsu-Akira-Nishiyama/9780936070346" rel="nofollow"> Buy on BookDepository</a> 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002594921" rel="nofollow"> Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/The-Big-Orange-Splot-Daniel-Manus-Pinkwater/9780590445108" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1006324946?sq=The%20Big%20Orange%20Splot&stype=productName" rel="nofollow"> Buy on Orell Füssli</a>
 
 
 
@@ -38,7 +38,7 @@ This book contains photos and illustrations of  houses from ten sub-cultures aro
 There is no better place than Ballenberg Open-Air Museum which has over 100 different traditional buildings from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial and crafting buildings which are still used for demonstrations.  Listed as a heritage site of national significance, it is a wonderful way to spend a day. 
 https://www.ballenberg.ch/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg5MTA5NDMsMjA0Nzg3MzAxNSw5OT
+eyJoaXN0b3J5IjpbLTE0ODQ0NjkxODgsMjA0Nzg3MzAxNSw5OT
 UyMDY3MDQsMTE5NTI2Mjc2LC0xMTQ0Mjg2OTgxLC0xMjAxNzE2
 MDksMTIzNjYzOTQ0LC0xNjQ2MTQzMzcwLDIxMTY1OTUyMTksLT
 g5MTg4NDg5M119
