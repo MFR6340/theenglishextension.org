@@ -1,7 +1,9 @@
 # Young World 2, Unit 2: A Town Like Mine
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-This unit contains information on the infrastructure of a town, the people who work there, giving directions.  It  covers some of the differences between country and city livingCountry mouse and city mouse.
+**This unit contains information on the infrastructure of a town, the people who work there, giving directions.  It  covers some of the differences between country and city living and includes a very simple version of the story of the "Country Mouse and City Mouse".  Here are some suggestions for Native English speakers to delve deeper into the theme of Cities:**  
+
+## 
 ## Cities Around the World, by Lucy Menzies
 
 <img src="https://imgur.com/eQdEzwj.png" width="25%" />
@@ -48,7 +50,7 @@ summary here.( no Lexile level available)
 # Supplemental Activities
 Sometimes we learn more about other cities when we are traveling than the ones that are right at our doorstep.  Learn more about the cities that are nearby and learn the stories behind the buildings you walk past every day.  Free Walk offers free tours in 13 cities in Switzerland.  If you like what you learned, give your tour guide a nice tip at the end.  https://www.freewalk.ch/swiss/#cities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzQxODEzMSwtOTE3NjQ0OTQ2LDE4OD
+eyJoaXN0b3J5IjpbLTIxNjExMTkyMCwtOTE3NjQ0OTQ2LDE4OD
 YyNzMyMjgsLTEzODAyOTcyOTUsODM2NTQ0OTA5LC0yNTUwMDcz
 MzMsLTE4OTY0MjQzNjYsLTE1NTE2MzE5OTksNTU5OTUwMDM3LC
 0xODc1MzQzOTEsLTMxMDYyMTQyMl19
