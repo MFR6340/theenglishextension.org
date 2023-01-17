@@ -4,7 +4,27 @@
 This unit is about human senses and comparing them to animal senses.  
 
 ## Non-Fiction
-Included here are multiple books about Louis Braille at a variety of reading levels.  His story is compelling as boy who overcomes adversity by creating a simple but incredibly useful invention.  
+
+## Painting in the Dark, by Rachelle Burke
+
+<img src="https://imgur.com/E3qFwW0.png" width="25%" />
+
+summary here.  (Lexile 920L)
+
+<a href="https://www.bookdepository.com/Painting-Dark-Rachelle-Burk/9781943431151?ref=grid-view&qid=1665840447877&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038137025" rel="nofollow">Buy on Orell Füssli</a>
+
+
+##  The Magic School Bus Explores the Senses, by Joanna Cole 
+
+<img src="https://i.imgur.com/kiJ2NaN.png" width="25%" />
+
+Summary here.  (Lexile AD690L)
+
+<a href="https://www.bookdepository.com/Magic-School-Bus-Explores-Senses-Joanna-Cole/9780590446983?ref=grid-view&qid=1673873471036&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1002436648?sq=The%20Magic%20School%20Bus%20Explores%20the%20Senses&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
+
+**Included here are multiple books about Louis Braille at a variety of reading levels.  His story is compelling as boy who overcomes adversity by creating a simple but incredibly useful invention.**  
 ### Six Dots, A Story of Young Louis Braille, by Jen Bryant
 
 <img src="https://imgur.com/NJxodvq.png" width="25%" />
@@ -31,25 +51,6 @@ A biography on the life of Louis Braille, how he became blind, and his incredibl
 
 <a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartike/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
-
-## Painting in the Dark, by Rachelle Burke
-
-<img src="https://imgur.com/E3qFwW0.png" width="25%" />
-
-summary here.  (Lexile 920L)
-
-<a href="https://www.bookdepository.com/Painting-Dark-Rachelle-Burk/9781943431151?ref=grid-view&qid=1665840447877&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038137025" rel="nofollow">Buy on Orell Füssli</a>
-
-
-##  The Magic School Bus Explores the Senses, by Joanna Cole 
-
-<img src="https://i.imgur.com/kiJ2NaN.png" width="25%" />
-
-Summary here.  (Lexile AD690L)
-
-<a href="https://www.bookdepository.com/Magic-School-Bus-Explores-Senses-Joanna-Cole/9780590446983?ref=grid-view&qid=1673873471036&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1002436648?sq=The%20Magic%20School%20Bus%20Explores%20the%20Senses&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Fiction
 ### Song for a Whale, by Lynne Kelly
@@ -87,11 +88,11 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzAwODcyMTcsLTE4MzI1NjgzODQsMT
-kwMzc3NzAxNSwzODAxMDQ3OTIsLTEzNDU2NDE5NjgsNDczNzU2
-MzA1LC04MzU4OTM2OTMsLTY1NTc0MzM5NywxMTA3NjkzNzAwLD
-E4NjAwNDUxNzgsLTY4MDM5NzA1MSwxMTg4OTk1MTM1LC01MDM5
-Njk0ODksLTE5Mjk1NDE4MSwtMTc5NTI1MzU0NywyOTU1MTkzND
-QsMjEwMTAzMTA0MywxMzc3MDUwMjA3LDY2NDM5MDUsLTE0MDE3
-NTYzNF19
+eyJoaXN0b3J5IjpbLTk5ODM2MTc1MywtMTgzMjU2ODM4NCwxOT
+AzNzc3MDE1LDM4MDEwNDc5MiwtMTM0NTY0MTk2OCw0NzM3NTYz
+MDUsLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMDc2OTM3MDAsMT
+g2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUxMzUsLTUwMzk2
+OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LDI5NTUxOTM0NC
+wyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0MzkwNSwtMTQwMTc1
+NjM0XX0=
 -->
