@@ -29,7 +29,7 @@ summary here.(no Lexile level available)
 ### Guts, by Gary Paulsen
 <img src="https://i.imgur.com/iPL74ef.png" width="35%" />
 
-At some point during Oberstufe (Swiss Middle School), there's a huge chance your child will be required to read "Hatchet",  a fictional book by Gary Paulsen.  "Guts" are the real stories behind "Hatchet" of surviving in the woods.  ( Lexile NC1230L) 
+At some point during Oberstufe (Swiss Middle School), there's a huge chance your child will be required to read "Hatchet",  a fictional book by Gary Paulsen.  "Guts" tell the real stories behind "Hatchet" of surviving in the woods.  ( Lexile NC1230L) 
 <a href="https://www.bookdepository.com/Guts-Gary-Paulsen/9780440407126?ref=grid-view&qid=1673879187868&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006227112" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -48,7 +48,7 @@ Here's another book by Gary Paulsen, prolific American author of both fiction an
 
 <img src="https://i.imgur.com/Bg066im.jpg" width="25%" />
 
-Have lots of fun reading about a child's camping adventures, with the story told in various forms of verse.  Learn how to camp, laugh at the funny stories, and be exposed to rhyming couplets and quatraines and much more. (no Lexile levels are given to Poetry)
+Have lots of fun reading about Lucy's camping adventures, with the story told in various forms of verse.  Learn how to camp, laugh at the funny stories, and be exposed to rhyming couplets and quatrains and limericks and more. (no Lexile levels are given to Poetry)
 
 <a href="https://www.bookdepository.com/Gone-Camping-Novel-Verse-Tamera-Will-Wissinger/9781328596345?ref=grid-view&qid=1673878569329&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052920702" rel="nofollow">Buy on Orell Füssli</a>
@@ -73,7 +73,7 @@ summary here.( Lexile 1020L)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDMzNTIxNSwtNTk0NTU2ODc2LC01ND
+eyJoaXN0b3J5IjpbLTY2OTA0NjA5NiwtNTk0NTU2ODc2LC01ND
 QyMTEwMjQsMTk0ODQxNzk0Miw0Nzk1NDYwOTIsLTkyNjM5MDU2
 NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NTg0MzQxNzIsLTExMD
 A3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0NzQ4XX0=
