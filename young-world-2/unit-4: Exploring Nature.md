@@ -6,31 +6,16 @@
 ## Historical Fiction
 ### Little House in the Big Woods, by Laura Ingalls Wilder
 
-<img src="https://imgur.com/oUOkUq9.png" width="25%" />
+<img src="https://imgur.com/oUOkUq9.png" width="45%" />
 
 summary here.(Lexile 930L)
 
 <a href="https://www.bookdepository.com/Little-House-Big-Woods-Laura-Ingalls-Wilder/9780064400015?ref=grid-view&qid=1665843122581&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002848480" rel="nofollow">Buy on Orell Füssli</a>
 
-### The Great Kapok Tree : A Tale of the Amazon Rain Forest, by Lynne Cherry
-
-<img src="https://i.imgur.com/KmTXAF1.png" width="25%" />
-
-summary here.( Lexile 590L)
-
-<a href="https://www.bookdepository.com/Great-Kapok-Tree-Lynne-Cherry/9780152026141?ref=grid-view&qid=1673880321369&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004838818" rel="nofollow">Buy on Orell Füssli</a>
 
 
-## The Jungle Book, by Rudyard Kipling
 
-<img src="https://imgur.com/p7BPDMw.png" width="25%" />
-
-summary here.( Lexile 1020L)
-
-<a href="https://www.bookdepository.com/Jungle-Book-Rudyard-Kipling/9780141325293?ref=grid-view&qid=1665843348245&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Non-Fiction
 ### Race to Survival,by Cliff Jacobson
@@ -79,30 +64,19 @@ summary here.( Lexile 590L)
 <a href="https://www.bookdepository.com/Great-Kapok-Tree-Lynne-Cherry/9780152026141?ref=grid-view&qid=1673880321369&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004838818" rel="nofollow">Buy on Orell Füssli</a>
 
-## Guts, by Gary Paulsen
-<img src="https://i.imgur.com/iPL74ef.png" width="25%" />
+### The Jungle Book, by Rudyard Kipling
 
-summary here.( Lexile NC1230L)
+<img src="https://imgur.com/p7BPDMw.png" width="25%" />
 
-<a href="https://www.bookdepository.com/Guts-Gary-Paulsen/9780440407126?ref=grid-view&qid=1673879187868&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006227112" rel="nofollow">Buy on Orell Füssli</a>
+summary here.( Lexile 1020L)
 
-## Gone to the Woods,  A True Story of  Growing up in the Wild, by Gary Paulsen
-
-<img src="https://i.imgur.com/7ku9Sld.png" width="25%" />
-
-summary here.( Lexile 1030L)
-
-
-<a href="https://www.bookdepository.com/Gone-the-Woods-True-Story-of-Growing-Up-in-the-Wild-Gary-Paulsen/9781529047721" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059151245" rel="nofollow">Buy on Orell Füssli</a>
-
-
+<a href="https://www.bookdepository.com/Jungle-Book-Rudyard-Kipling/9780141325293?ref=grid-view&qid=1665843348245&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyMjk4Mjc4LC01OTQ1NTY4NzYsLTU0ND
-IxMTAyNCwxOTQ4NDE3OTQyLDQ3OTU0NjA5MiwtOTI2MzkwNTY1
-LDE4NTk3MjUwLDIyMTQwOTU1OSwtMTY1ODQzNDE3MiwtMTEwMD
-czNDQwMSwtODYxOTQyNTQ2LDE1MDM1MzQ3NDhdfQ==
+eyJoaXN0b3J5IjpbLTE0Mzk2MDk5MCwtNTk0NTU2ODc2LC01ND
+QyMTEwMjQsMTk0ODQxNzk0Miw0Nzk1NDYwOTIsLTkyNjM5MDU2
+NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NTg0MzQxNzIsLTExMD
+A3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0NzQ4XX0=
 -->
