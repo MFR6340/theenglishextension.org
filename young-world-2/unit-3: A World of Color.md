@@ -57,7 +57,9 @@ Switzerland has over 1,100 museums, making it one of countries with the highest 
 	
  - Angelika Kaufmann Museum
 	Kaufmann was a famous female Swiss artist who built in international reputation for her landscapes and portraits in the 18th Century.  In 1768, she became one of only two female artists who co-founded the Royal Academy in London.  Born in Chur, Kaufmann also had close ties to Schwarzenburg, Austria (a 45 minute drive from St. Gallen)  where the museum is located.  http://angelika-kauffmann.com/das-museum/oeffnungszeiten
-
+	
+ - Alberto Giacometti Museum
+ - It's unusual to find a m
 
 	
 	
@@ -69,6 +71,6 @@ You can still get some culture and have fun while remaining in your living room.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2ODE2MjUsLTk5MDAzMTcwMCwtNzY3OD
-E2ODQ5LC02NTczMDY1MzVdfQ==
+eyJoaXN0b3J5IjpbOTU3MjI2MzE4LDQ5NjgxNjI1LC05OTAwMz
+E3MDAsLTc2NzgxNjg0OSwtNjU3MzA2NTM1XX0=
 -->
