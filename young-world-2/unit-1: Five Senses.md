@@ -8,7 +8,7 @@ This unit is about human senses and comparing them to animal senses.
 ### Animal Senses: How Animals See, Hear, Taste, Smell and Feel by, Pamela Hickman
 
 <img src="https://i.imgur.com/rGB3XMj.png" width="45%" />
-Learn more about how various animals see, hear and smell and how it compares to our human senses.  Has ideas for experiments to better understand the differences..  (Lexile 920L)
+Learn more about how various animals see, hear and smell and how it compares to our human senses.  Has ideas for experiments to better understand the differences.  (Lexile 920L)
 
 <a href="https://www.bookdepository.com/Animal-Senses-Pamela-M-Hickman/9781550744231?ref=grid-view&qid=1673948141511&sr=1-7" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1005948597?sq=Animal%20Senses:%20How%20Animals%20See,%20Hear,%20Taste,%20Smell%20and%20Feel&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -98,11 +98,11 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MjA5NTA1NiwzMzMwNjU2MDQsLTE4Mz
-I1NjgzODQsMTkwMzc3NzAxNSwzODAxMDQ3OTIsLTEzNDU2NDE5
-NjgsNDczNzU2MzA1LC04MzU4OTM2OTMsLTY1NTc0MzM5NywxMT
-A3NjkzNzAwLDE4NjAwNDUxNzgsLTY4MDM5NzA1MSwxMTg4OTk1
-MTM1LC01MDM5Njk0ODksLTE5Mjk1NDE4MSwtMTc5NTI1MzU0Ny
-wyOTU1MTkzNDQsMjEwMTAzMTA0MywxMzc3MDUwMjA3LDY2NDM5
-MDVdfQ==
+eyJoaXN0b3J5IjpbNzYxNDU3Njg2LDMzMzA2NTYwNCwtMTgzMj
+U2ODM4NCwxOTAzNzc3MDE1LDM4MDEwNDc5MiwtMTM0NTY0MTk2
+OCw0NzM3NTYzMDUsLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMD
+c2OTM3MDAsMTg2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUx
+MzUsLTUwMzk2OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LD
+I5NTUxOTM0NCwyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0Mzkw
+NV19
 -->
