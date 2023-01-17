@@ -47,7 +47,7 @@ summary here.( Lexile 760L)
 
 <img src="https://i.imgur.com/7hoyUhH.png" width="25%" />
 
-Like, Carrie's War, children in world summary here.( no Lexile level available)
+Like, Carrie's War, children in world war II are forced to leave the city of London and evacuated to the country.  Three siblin summary here.( no Lexile level available)
 
 <a href="https://www.bookdepository.com/When-Siren-Wailed-Noel-Streatfeild/9781510109902?ref=grid-view&qid=1673535364933&sr=1-2
 " rel="nofollow"> Buy on BookDepository</a>  
@@ -56,8 +56,8 @@ Like, Carrie's War, children in world summary here.( no Lexile level available)
 # Supplemental Activities
 Sometimes we learn more about other cities when we are traveling than the ones that are right at our doorstep.  It doesn't have to be so! Learn more about the cities that are nearby and learn the stories behind the buildings you walk past every day.  Free Walk offers free tours in 13 cities in Switzerland.  If you like what you learned, give your tour guide a nice tip at the end.  https://www.freewalk.ch/swiss/#cities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4MjczODM2LC05MTc2NDQ5NDYsMTg4Nj
-I3MzIyOCwtMTM4MDI5NzI5NSw4MzY1NDQ5MDksLTI1NTAwNzMz
-MywtMTg5NjQyNDM2NiwtMTU1MTYzMTk5OSw1NTk5NTAwMzcsLT
-E4NzUzNDM5MSwtMzEwNjIxNDIyXX0=
+eyJoaXN0b3J5IjpbMTQ1MjQ3MzA4OCwtOTE3NjQ0OTQ2LDE4OD
+YyNzMyMjgsLTEzODAyOTcyOTUsODM2NTQ0OTA5LC0yNTUwMDcz
+MzMsLTE4OTY0MjQzNjYsLTE1NTE2MzE5OTksNTU5OTUwMDM3LC
+0xODc1MzQzOTEsLTMxMDYyMTQyMl19
 -->
