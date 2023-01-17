@@ -62,10 +62,6 @@ Switzerland has over 1,100 museums, making it one of countries with the highest 
  - Rosegarten Collection
 This museum in Lucern has works by Swiss artist Paul Klee, as well as other Classic Modernist and Impressionist artists including Pablo Picasso, and Renoir and Cézanne. https://www.rosengart.ch/en/welcomeList item
 
- 
-
-	
-	
 
 
 
@@ -74,7 +70,7 @@ You can still get some culture and have fun while remaining in your living room.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjY1NTIzLC0xMzExMDUzMTYzLDQ5Nj
-gxNjI1LC05OTAwMzE3MDAsLTc2NzgxNjg0OSwtNjU3MzA2NTM1
-XX0=
+eyJoaXN0b3J5IjpbLTk0NzA0MTk1LC02ODI2NTUyMywtMTMxMT
+A1MzE2Myw0OTY4MTYyNSwtOTkwMDMxNzAwLC03Njc4MTY4NDks
+LTY1NzMwNjUzNV19
 -->
