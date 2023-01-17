@@ -7,12 +7,12 @@ This unit is about human senses and comparing them to animal senses.
 
 ### Animal Senses: How Animals See, Hear, Taste, Smell and Feel by, Pamela Hickman
 
-<img src="https://imgur.com/E3qFwW0.png" width="35%" />
+<img src="https://i.imgur.com/rGB3XMj.png" width="45%" />
 
 A poor Turkish boy was born totally blind, yet learned how to paint, including using perspective and shadow.  (Lexile 920L)
 
-<a href="https://www.bookdepository.com/Painting-Dark-Rachelle-Burk/9781943431151?ref=grid-view&qid=1665840447877&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038137025" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Animal-Senses-Pamela-M-Hickman/9781550744231?ref=grid-view&qid=1673948141511&sr=1-7" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1005948597?sq=Animal%20Senses:%20How%20Animals%20See,%20Hear,%20Taste,%20Smell%20and%20Feel&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -99,11 +99,11 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwODI2OTUsMzMzMDY1NjA0LC0xODMyNT
-Y4Mzg0LDE5MDM3NzcwMTUsMzgwMTA0NzkyLC0xMzQ1NjQxOTY4
-LDQ3Mzc1NjMwNSwtODM1ODkzNjkzLC02NTU3NDMzOTcsMTEwNz
-Y5MzcwMCwxODYwMDQ1MTc4LC02ODAzOTcwNTEsMTE4ODk5NTEz
-NSwtNTAzOTY5NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1NDcsMj
-k1NTE5MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQzOTA1
-XX0=
+eyJoaXN0b3J5IjpbLTE5ODA0MTM0NzYsMzMzMDY1NjA0LC0xOD
+MyNTY4Mzg0LDE5MDM3NzcwMTUsMzgwMTA0NzkyLC0xMzQ1NjQx
+OTY4LDQ3Mzc1NjMwNSwtODM1ODkzNjkzLC02NTU3NDMzOTcsMT
+EwNzY5MzcwMCwxODYwMDQ1MTc4LC02ODAzOTcwNTEsMTE4ODk5
+NTEzNSwtNTAzOTY5NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1ND
+csMjk1NTE5MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQz
+OTA1XX0=
 -->
