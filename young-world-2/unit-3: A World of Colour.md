@@ -61,7 +61,10 @@ Switzerland has over 1,100 museums, making it one of countries with the highest 
 	Kaufmann was a famous female 18th Century Swiss artist who established an international reputation for her landscapes and portraits.  In 1768, she became one of only two female artists who co-founded the Royal Academy in London.  Born in Chur, Kaufmann also had close ties to Schwarzenburg, Austria (a 45 minute drive from St. Gallen)  where the museum is located.  Worth a quick visit to emphasis the talent and skill of an amazing woman who was recognized at a time when few women were.  http://angelika-kauffmann.com/das-museum/oeffnungszeiten
  
  - Rosegarten Collection
-This museum in Lucern has works by Swiss artist Paul Klee, as well as other Classic Modernist and Impressionist artists including Pablo Picasso, and Renoir and Cézanne. https://www.rosengart.ch/en/welcomeList item
+This museum in Lucern has works by Swiss artist Paul Klee, as well as other Classic Modernist and Impressionist artists including Pablo Picasso, and Renoir and Cézanne. https://www.rosengart.ch/en/welcome
+
+Claire Ochsner Museum and Sculpture Garden
+
 
 
 ### Do a Puzzle
@@ -79,5 +82,5 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczOTA0MjMxXX0=
+eyJoaXN0b3J5IjpbMTYyNjk2MDgwNV19
 -->
