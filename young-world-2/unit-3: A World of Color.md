@@ -61,11 +61,6 @@ Switzerland has over 1,100 museums, making it one of countries with the highest 
  - Rosegarten Collection
 This museum in Lucern has works by Swiss artist Paul Klee, as well as other Classic Modernist and Impressionist artists including Pablo Picasso, and Renoir and Cézanne. https://www.rosengart.ch/en/welcomeList item
 
-Tinguely
-https://www.tinguely.ch/en/education/leisure-activities-for-children-and-families.html
-
-
-
 
 ### Do a Puzzle
 You can still get some culture and have fun while remaining in your living room.  There's really no better way to become familiar with a work of fine art than to do a puzzle.  
@@ -76,7 +71,7 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5NTM5NTIwLC0xNjYyMTU4MDM4LC02OD
-I2NTUyMywtMTMxMTA1MzE2Myw0OTY4MTYyNSwtOTkwMDMxNzAw
-LC03Njc4MTY4NDksLTY1NzMwNjUzNV19
+eyJoaXN0b3J5IjpbMTk5NDg3NjU4OCwtMTY2MjE1ODAzOCwtNj
+gyNjU1MjMsLTEzMTEwNTMxNjMsNDk2ODE2MjUsLTk5MDAzMTcw
+MCwtNzY3ODE2ODQ5LC02NTczMDY1MzVdfQ==
 -->
