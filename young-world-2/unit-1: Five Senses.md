@@ -5,7 +5,9 @@ This unit is about human senses and comparing them to animal senses.
 
 ## Non-Fiction
 
-## Painting in the Dark, by Rachelle Burke
+### Animal Senses: How Animals See, Hear, Taste, Smell and Feel by, 
+
+### Painting in the Dark, by Rachelle Burke
 
 <img src="https://imgur.com/E3qFwW0.png" width="35%" />
 
@@ -88,11 +90,11 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMzMDY1NjA0LC0xODMyNTY4Mzg0LDE5MD
-M3NzcwMTUsMzgwMTA0NzkyLC0xMzQ1NjQxOTY4LDQ3Mzc1NjMw
-NSwtODM1ODkzNjkzLC02NTU3NDMzOTcsMTEwNzY5MzcwMCwxOD
-YwMDQ1MTc4LC02ODAzOTcwNTEsMTE4ODk5NTEzNSwtNTAzOTY5
-NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1NDcsMjk1NTE5MzQ0LD
-IxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQzOTA1LC0xNDAxNzU2
-MzRdfQ==
+eyJoaXN0b3J5IjpbMTEwNTA4MjkxLDMzMzA2NTYwNCwtMTgzMj
+U2ODM4NCwxOTAzNzc3MDE1LDM4MDEwNDc5MiwtMTM0NTY0MTk2
+OCw0NzM3NTYzMDUsLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMD
+c2OTM3MDAsMTg2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUx
+MzUsLTUwMzk2OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LD
+I5NTUxOTM0NCwyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0Mzkw
+NV19
 -->
