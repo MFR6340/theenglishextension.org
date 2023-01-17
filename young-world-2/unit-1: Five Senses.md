@@ -77,7 +77,7 @@ A deaf girl named Iris learns about a whale who cannot communicate with other wh
 
 <img src="https://imgur.com/kZ3HTR1.png" width="25%" />
 
-The cute, little and unintimidating dog really wants to become a guard dog, but no one wants him because his bark is so awful.  Nice twist at the end when a hard -of-hearing man comes along.  (Lexile NC810L)
+The cute, little, fearless dog really wants to become a guard dog, but no one wants him because his bark is so awful.  Nice twist at the end when a hard -of-hearing man comes along.  (Lexile NC810L)
 
 <a href="https://www.bookdepository.com/Guard-Dog-Dick-King-Smith/9780552554336?ref=grid-view&qid=1665840171795&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002714171" rel="nofollow">Buy on Orell Füssli</a>
@@ -92,14 +92,14 @@ Dedicated to help and raise awareness of blind and partially-sighted people, the
 
 
 
-Donate an audio book or make an appointment to visit the remarkable SBS Schweizerische Bibliothek für Blinde, Seh- und Lesebehinderte (Swiss library for the blind, visually impaired and print disabled)  It has provided books, music and games to the blind and visually impaired for over 100 years.  
+Donate an audio book or make an appointment to visit the SBS Schweizerische Bibliothek für Blinde, Seh- und Lesebehinderte (Swiss library for the blind, visually impaired and print disabled)  It has provided books, music and games to the blind and visually impaired for over 100 years.  
 <a href="https://www.sbs.ch/english/" rel="nofollow">SBS Library</a>
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTMxMDQ5MSwzMzMwNjU2MDQsLTE4Mz
+eyJoaXN0b3J5IjpbLTM2NDUyNjA0MywzMzMwNjU2MDQsLTE4Mz
 I1NjgzODQsMTkwMzc3NzAxNSwzODAxMDQ3OTIsLTEzNDU2NDE5
 NjgsNDczNzU2MzA1LC04MzU4OTM2OTMsLTY1NTc0MzM5NywxMT
 A3NjkzNzAwLDE4NjAwNDUxNzgsLTY4MDM5NzA1MSwxMTg4OTk1
