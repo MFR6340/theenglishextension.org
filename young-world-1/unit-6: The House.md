@@ -16,7 +16,7 @@
 
 <img src="https://i.imgur.com/3NpCq1z.png" width="35%" />
 
-This book contains photos and illustrations of ten houses  (Lexile level)
+This book contains photos and illustrations of ten houses from around the world.  Shows the yurt in Mongolia, the  (Lexile level)
 
 <a href="https://www.bookdepository.com/Wonderful-Houses-Around-the-World-Yoshio-Komatsu-Akira-Nishiyama/9780936070346" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002594921" rel="nofollow"> Buy on Orell Füssli</a>
@@ -36,8 +36,7 @@ This book contains photos and illustrations of ten houses  (Lexile level)
 There is no better place than Ballenberg Open-Air Museum which has over 100 different traditional buildings from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial and crafting buildings which are still used for demonstrations.  Listed as a heritage site of national significance, it is a wonderful way to spend a day. 
 https://www.ballenberg.ch/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjYwNTY4MjIsOTk1MjA2NzA0LDExOT
-UyNjI3NiwtMTE0NDI4Njk4MSwtMTIwMTcxNjA5LDEyMzY2Mzk0
-NCwtMTY0NjE0MzM3MCwyMTE2NTk1MjE5LC04OTE4ODQ4OTNdfQ
-==
+eyJoaXN0b3J5IjpbMjA0Nzg3MzAxNSw5OTUyMDY3MDQsMTE5NT
+I2Mjc2LC0xMTQ0Mjg2OTgxLC0xMjAxNzE2MDksMTIzNjYzOTQ0
+LC0xNjQ2MTQzMzcwLDIxMTY1OTUyMTksLTg5MTg4NDg5M119
 -->
