@@ -56,7 +56,7 @@ Switzerland has over 1,100 museums, making it one of countries with the highest 
 	Show-casing one of Switzerland's most renowned artists, and hosting around 4,000 pieces of his work, the museum in Bern conducts guided tours and also has interactive programs for children.  Find more information here: https://www.zpk.org/en/art-mediation/guided-tours-43.html
 	
  - Angelika Kaufmann Museum
-	Kaufmann was a famous female Swiss artist who built in international reputation in the 18th Century.  In 1768, she became one of only two female artists who co-founded the Royal Academy in London.  Born in Chur, Kaufmann also had close ties to Schwarzenburg, Austria (a 45 minute drive from St. Gallen)  where the museum is located.  
+	Kaufmann was a famous female Swiss artist who built in international reputation for her landscapes and portraits in the 18th Century.  In 1768, she became one of only two female artists who co-founded the Royal Academy in London.  Born in Chur, Kaufmann also had close ties to Schwarzenburg, Austria (a 45 minute drive from St. Gallen)  where the museum is located.  http://angelika-kauffmann.com/das-museum/oeffnungszeiten
 
 
 	
@@ -69,6 +69,6 @@ You can still get some culture and have fun while remaining in your living room.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzMzNDI2MCwtOTkwMDMxNzAwLC03Nj
-c4MTY4NDksLTY1NzMwNjUzNV19
+eyJoaXN0b3J5IjpbNDk2ODE2MjUsLTk5MDAzMTcwMCwtNzY3OD
+E2ODQ5LC02NTczMDY1MzVdfQ==
 -->
