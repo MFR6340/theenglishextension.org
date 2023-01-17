@@ -67,12 +67,12 @@ This museum in Lucern has works by Swiss artist Paul Klee, as well as other Clas
 
 ### Do a Puzzle
 You can still get some culture and have fun while remaining in your living room.  There's really no better way to become familiar with a work of fine art than to do a puzzle.  
-Wentworth puzzles have options from Van Gogh, Renoir, Seurat, and many other
+Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many other famous artists.  They also have special pieces, in interesting shapes like paint brushes and boats that match the theme.  Beware, if you do get one, start with a 250 piece, as they 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Mjk5NTgzOSwtMTY2MjE1ODAzOCwtNj
+eyJoaXN0b3J5IjpbLTg0MDUzMDA3OSwtMTY2MjE1ODAzOCwtNj
 gyNjU1MjMsLTEzMTEwNTMxNjMsNDk2ODE2MjUsLTk5MDAzMTcw
 MCwtNzY3ODE2ODQ5LC02NTczMDY1MzVdfQ==
 -->
