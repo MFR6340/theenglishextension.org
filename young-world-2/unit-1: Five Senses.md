@@ -4,7 +4,7 @@
 This unit is about human senses and comparing them to animal senses.  
 
 ## Non-Fiction
-Included are multiple books about Louis Braille, who is 
+Included here are multiple books about Louis Braille at a variety of reading levels.  His story is compelling as boy who overcomes adversity by creating a simple but incredibly useful invention.  
 ### Six Dots, A Story of Young Louis Braille, by Jen Bryant
 
 <img src="https://imgur.com/NJxodvq.png" width="25%" />
@@ -87,11 +87,11 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTYzNzMxNywtMTgzMjU2ODM4NCwxOT
-AzNzc3MDE1LDM4MDEwNDc5MiwtMTM0NTY0MTk2OCw0NzM3NTYz
-MDUsLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMDc2OTM3MDAsMT
-g2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUxMzUsLTUwMzk2
-OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LDI5NTUxOTM0NC
-wyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0MzkwNSwtMTQwMTc1
-NjM0XX0=
+eyJoaXN0b3J5IjpbLTE5MzAwODcyMTcsLTE4MzI1NjgzODQsMT
+kwMzc3NzAxNSwzODAxMDQ3OTIsLTEzNDU2NDE5NjgsNDczNzU2
+MzA1LC04MzU4OTM2OTMsLTY1NTc0MzM5NywxMTA3NjkzNzAwLD
+E4NjAwNDUxNzgsLTY4MDM5NzA1MSwxMTg4OTk1MTM1LC01MDM5
+Njk0ODksLTE5Mjk1NDE4MSwtMTc5NTI1MzU0NywyOTU1MTkzND
+QsMjEwMTAzMTA0MywxMzc3MDUwMjA3LDY2NDM5MDUsLTE0MDE3
+NTYzNF19
 -->
