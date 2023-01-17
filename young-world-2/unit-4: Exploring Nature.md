@@ -66,14 +66,14 @@ In the rainforest, a man falls asleep, exhausted after trying to cut down a gian
 
 <img src="https://imgur.com/p7BPDMw.png" width="25%" />
 
-A classic.  The story of Mowgli, a boy abandoned in the jungle and saved by a wolf pack. ( Lexile 1020L)
+A classic.  Set in central India, this famous story tells the story of Mowgli, a boy abandoned in the jungle and saved by a wolf pack. He's taught the laws of the jungle by a bear and ( Lexile 1020L)
 
 <a href="https://www.bookdepository.com/Jungle-Book-Rudyard-Kipling/9780141325293?ref=grid-view&qid=1665843348245&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQ3NjE4NDgsLTc0MTk4MzE3MCwtNT
+eyJoaXN0b3J5IjpbLTE5MTMwNzExNDcsLTc0MTk4MzE3MCwtNT
 k0NTU2ODc2LC01NDQyMTEwMjQsMTk0ODQxNzk0Miw0Nzk1NDYw
 OTIsLTkyNjM5MDU2NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NT
 g0MzQxNzIsLTExMDA3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0
