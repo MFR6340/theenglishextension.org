@@ -4,6 +4,7 @@
 This unit is about human senses and comparing them to animal senses.  
 
 ## Non-Fiction
+Included are multiple books about Louis Braille, who is 
 ### Six Dots, A Story of Young Louis Braille, by Jen Bryant
 
 <img src="https://imgur.com/NJxodvq.png" width="25%" />
@@ -17,7 +18,7 @@ The story of the life of Louis Braille and how he lost his eye sight and how his
 
 <img src="https://i.imgur.com/vCoeds5.png" width="25%" />
 
-Explains why and how Louis Braille invented the system of printing for the blind.  Good for reluctant readers. 80 pages. (Lexile 580L)
+Explains why and how Louis Braille invented the system of printing for the blind. Easy chapter book. 80 pages. (Lexile 580L)
 
 <a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -86,7 +87,7 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODM4OTg1OSwtMTgzMjU2ODM4NCwxOT
+eyJoaXN0b3J5IjpbMTE2NTYzNzMxNywtMTgzMjU2ODM4NCwxOT
 AzNzc3MDE1LDM4MDEwNDc5MiwtMTM0NTY0MTk2OCw0NzM3NTYz
 MDUsLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMDc2OTM3MDAsMT
 g2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUxMzUsLTUwMzk2
