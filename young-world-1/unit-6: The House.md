@@ -12,12 +12,21 @@
 <a href="https://www.bookdepository.com/If-You-Lived-Here-Houses-of-the-World-Giles-Laroche/9780547238920" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690154" rel="nofollow"> Buy on Orell Füssli</a>
 
+### Little House on the Prairie, by Laura Ingalls Wilder 
+
+<img src="https://i.imgur.com/eWdCAYe.png" width="35%" />
+
+ summary here. (Lexile level)
+
+<a href="https://www.bookdepository.com/If-You-Lived-Here-Houses-of-the-World-Giles-Laroche/9780547238920" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690154" rel="nofollow"> Buy on Orell Füssli</a>
+
 
 ## Supplemental Activities
 
 There is no better place than Ballenberg Open-Air Museum which has over 100 different traditional buildings from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial and crafting buildings which are still used for demonstrations.  Listed as a heritage site of national significance, it is a wonderful way to spend a day. 
 https://www.ballenberg.ch/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjYzOTQ0LC0xNjQ2MTQzMzcwLDIxMT
-Y1OTUyMTksLTg5MTg4NDg5M119
+eyJoaXN0b3J5IjpbLTEyMDE3MTYwOSwxMjM2NjM5NDQsLTE2ND
+YxNDMzNzAsMjExNjU5NTIxOSwtODkxODg0ODkzXX0=
 -->
