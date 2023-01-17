@@ -21,6 +21,15 @@ While essentially a picture book, the story of Mr. Plumbean house is much more t
 <a href="https://www.bookdepository.com/The-Big-Orange-Splot-Daniel-Manus-Pinkwater/9780590445108" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1006324946?sq=The%20Big%20Orange%20Splot&stype=productName" rel="nofollow"> Buy on Orell Füssli</a>
 
+###  The Big Orange Splot, Daniel Pinkwater
+
+<img src="https://i.imgur.com/jvkWz2c.png" width="35%" />
+
+While essentially a picture book, the story of Mr. Plumbean house is much more than that.  It is a story of nonconformity and creativity and remaining true to yourself.  It's hard to believe this book isn't more well-known.  ( Lexile 550L)
+
+<a href="https://www.bookdepository.com/The-Big-Orange-Splot-Daniel-Manus-Pinkwater/9780590445108" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1006324946?sq=The%20Big%20Orange%20Splot&stype=productName" rel="nofollow"> Buy on Orell Füssli</a>
+
 
 
 ### Little House on the Prairie, by Laura Ingalls Wilder 
@@ -38,7 +47,7 @@ While essentially a picture book, the story of Mr. Plumbean house is much more t
 Explore the structures on many acres of the Ballenberg Open-Air Museum.  It has over 100 different traditional buildings which have been transported from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial and crafting buildings which are still used for demonstrations.  Listed as a heritage site of national significance, it is a wonderful way to spend a day. 
 https://www.ballenberg.ch/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTIzMzYwOCwtMTQ4NDQ2OTE4OCwyMD
+eyJoaXN0b3J5IjpbLTMxMTUzMjU5MCwtMTQ4NDQ2OTE4OCwyMD
 Q3ODczMDE1LDk5NTIwNjcwNCwxMTk1MjYyNzYsLTExNDQyODY5
 ODEsLTEyMDE3MTYwOSwxMjM2NjM5NDQsLTE2NDYxNDMzNzAsMj
 ExNjU5NTIxOSwtODkxODg0ODkzXX0=
