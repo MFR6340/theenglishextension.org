@@ -67,7 +67,7 @@ A biography on the life of Louis Braille, how he became blind, and his incredibl
 ### Song for a Whale, by Lynne Kelly
 <img src="https://i.imgur.com/c4bX7Yh.png" width="25%" />
 
-Summary here.(Lexile 800L)
+A deaf girl named Iris learns about a whale who cannot communicate with other whales and develops a way to try to help it. .(Lexile 800L)
 
 <a href="https://www.bookdepository.com/Song-for-Whale-Lynne-Kelly/9781848126916?ref=grid-view&qid=1673873979579&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1058950540?sq=Song%20for%20a%20Whale&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -99,7 +99,7 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODEwMzk5MCwzMzMwNjU2MDQsLTE4Mz
+eyJoaXN0b3J5IjpbLTM2NTMxMDQ5MSwzMzMwNjU2MDQsLTE4Mz
 I1NjgzODQsMTkwMzc3NzAxNSwzODAxMDQ3OTIsLTEzNDU2NDE5
 NjgsNDczNzU2MzA1LC04MzU4OTM2OTMsLTY1NTc0MzM5NywxMT
 A3NjkzNzAwLDE4NjAwNDUxNzgsLTY4MDM5NzA1MSwxMTg4OTk1
