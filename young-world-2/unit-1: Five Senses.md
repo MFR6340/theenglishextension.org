@@ -30,6 +30,16 @@ A biography on the life of Louis Braille, how he became blind, and his incredibl
 <a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartike/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
+## Painting in the Dark, by Rachelle Burke
+
+<img src="https://imgur.com/E3qFwW0.png" width="25%" />
+
+summary here.  (Lexile 920L)
+
+<a href="https://www.bookdepository.com/Painting-Dark-Rachelle-Burk/9781943431151?ref=grid-view&qid=1665840447877&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038137025" rel="nofollow">Buy on Orell Füssli</a>
+
+
 ##  The Magic School Bus Explores the Senses, by Joanna Cole 
 
 <img src="https://i.imgur.com/kiJ2NaN.png" width="25%" />
@@ -39,7 +49,8 @@ Summary here.  (Lexile AD690L)
 <a href="https://www.bookdepository.com/Magic-School-Bus-Explores-Senses-Joanna-Cole/9780590446983?ref=grid-view&qid=1673873471036&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1002436648?sq=The%20Magic%20School%20Bus%20Explores%20the%20Senses&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
-## Song for a Whale, by Lynne Kelly
+## Fiction
+### Song for a Whale, by Lynne Kelly
 <img src="https://i.imgur.com/c4bX7Yh.png" width="25%" />
 
 Summary here.(Lexile 800L)
@@ -48,7 +59,7 @@ Summary here.(Lexile 800L)
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1058950540?sq=Song%20for%20a%20Whale&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
 
-## The Guard Dog, by Dick King Smith
+### The Guard Dog, by Dick King-Smith
 
 <img src="https://imgur.com/kZ3HTR1.png" width="25%" />
 
@@ -57,14 +68,7 @@ The cute, little and unintimidating dog really wants to become a guard dog, but 
 <a href="https://www.bookdepository.com/Guard-Dog-Dick-King-Smith/9780552554336?ref=grid-view&qid=1665840171795&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002714171" rel="nofollow">Buy on Orell Füssli</a>
 
-## Painting in the Dark, by Rachelle Burke
 
-<img src="https://imgur.com/E3qFwW0.png" width="25%" />
-
-summary here.  (Lexile 920L)
-
-<a href="https://www.bookdepository.com/Painting-Dark-Rachelle-Burk/9781943431151?ref=grid-view&qid=1665840447877&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038137025" rel="nofollow">Buy on Orell Füssli</a>
 
 # Supplemental Activities
 
@@ -81,7 +85,7 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzIxOTQxNCwtMTgzMjU2ODM4NCwxOT
+eyJoaXN0b3J5IjpbMTQ5NTIzODI1NywtMTgzMjU2ODM4NCwxOT
 AzNzc3MDE1LDM4MDEwNDc5MiwtMTM0NTY0MTk2OCw0NzM3NTYz
 MDUsLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMDc2OTM3MDAsMT
 g2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUxMzUsLTUwMzk2
