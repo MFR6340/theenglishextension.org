@@ -7,9 +7,9 @@ This unit is about human senses and comparing them to animal senses.
 
 ## Painting in the Dark, by Rachelle Burke
 
-<img src="https://imgur.com/E3qFwW0.png" width="25%" />
+<img src="https://imgur.com/E3qFwW0.png" width="35%" />
 
-summary here.  (Lexile 920L)
+A poor Turkish boy was born totally blind, yet learned how to paint, including using perspective and shadow.  (Lexile 920L)
 
 <a href="https://www.bookdepository.com/Painting-Dark-Rachelle-Burk/9781943431151?ref=grid-view&qid=1665840447877&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038137025" rel="nofollow">Buy on Orell Füssli</a>
@@ -17,7 +17,7 @@ summary here.  (Lexile 920L)
 
 ##  The Magic School Bus Explores the Senses, by Joanna Cole 
 
-<img src="https://i.imgur.com/kiJ2NaN.png" width="25%" />
+<img src="https://i.imgur.com/kiJ2NaN.png" width="35%" />
 
 Summary here.  (Lexile AD690L)
 
@@ -88,11 +88,11 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODM2MTc1MywtMTgzMjU2ODM4NCwxOT
-AzNzc3MDE1LDM4MDEwNDc5MiwtMTM0NTY0MTk2OCw0NzM3NTYz
-MDUsLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMDc2OTM3MDAsMT
-g2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUxMzUsLTUwMzk2
-OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LDI5NTUxOTM0NC
-wyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0MzkwNSwtMTQwMTc1
-NjM0XX0=
+eyJoaXN0b3J5IjpbMzMzMDY1NjA0LC0xODMyNTY4Mzg0LDE5MD
+M3NzcwMTUsMzgwMTA0NzkyLC0xMzQ1NjQxOTY4LDQ3Mzc1NjMw
+NSwtODM1ODkzNjkzLC02NTU3NDMzOTcsMTEwNzY5MzcwMCwxOD
+YwMDQ1MTc4LC02ODAzOTcwNTEsMTE4ODk5NTEzNSwtNTAzOTY5
+NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1NDcsMjk1NTE5MzQ0LD
+IxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQzOTA1LC0xNDAxNzU2
+MzRdfQ==
 -->
