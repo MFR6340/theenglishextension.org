@@ -35,10 +35,10 @@ While essentially a picture book, the story of Mr. Plumbean house is much more t
 
 ## Supplemental Activities
 
-There is no better place to spend a than Ballenberg Open-Air Museum which has over 100 different traditional buildings from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial and crafting buildings which are still used for demonstrations.  Listed as a heritage site of national significance, it is a wonderful way to spend a day. 
+Explore the structures on many acres of the Ballenberg Open-Air Museum.  It has over 100 different traditional buildings which have been transported from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial and crafting buildings which are still used for demonstrations.  Listed as a heritage site of national significance, it is a wonderful way to spend a day. 
 https://www.ballenberg.ch/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NTQ4Njg3MCwtMTQ4NDQ2OTE4OCwyMD
+eyJoaXN0b3J5IjpbMTI3MTIzMzYwOCwtMTQ4NDQ2OTE4OCwyMD
 Q3ODczMDE1LDk5NTIwNjcwNCwxMTk1MjYyNzYsLTExNDQyODY5
 ODEsLTEyMDE3MTYwOSwxMjM2NjM5NDQsLTE2NDYxNDMzNzAsMj
 ExNjU5NTIxOSwtODkxODg0ODkzXX0=
