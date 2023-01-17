@@ -67,11 +67,13 @@ You can still get some culture and have fun while remaining in your living room.
 
 Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many other famous artists.  They also have special pieces, in interesting shapes like paint brushes and boats that match the theme.  Beware, if you do get one, start with a 250 piece, as they can be challenging.  A straight piece does not necessarily mean it's an edge.  Good fun on cold day.  https://www.wentworthpuzzles.com/us/fine-art-jigsaw-puzzles-2/all-fine-art-puzzles
 
+https://i.imgur.com/8bQLA0S.png
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NDg3NjU4OCwtMTY2MjE1ODAzOCwtNj
-gyNjU1MjMsLTEzMTEwNTMxNjMsNDk2ODE2MjUsLTk5MDAzMTcw
-MCwtNzY3ODE2ODQ5LC02NTczMDY1MzVdfQ==
+eyJoaXN0b3J5IjpbMTg1MjU2NzM3OCwxOTk0ODc2NTg4LC0xNj
+YyMTU4MDM4LC02ODI2NTUyMywtMTMxMTA1MzE2Myw0OTY4MTYy
+NSwtOTkwMDMxNzAwLC03Njc4MTY4NDksLTY1NzMwNjUzNV19
 -->
