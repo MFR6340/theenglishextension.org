@@ -50,7 +50,7 @@ summary here. (no Lexile level available)
 
 ## Supplemental Activities
 ### Visit an Art Museum
-Switzerland has over 1,100 museums, making it one of countries with the highest number per capita, so there's no excuse not to find one that holds something of interest.  
+Switzerland has over 1,100 museums, making it one of countries with the highest number per capita, so there's no excuse not to find one that holds something of interest.  Make sure you go to the Kuntshaus in Zurich and the 
 
  - Zentrum Paul Klee
 	Show-casing one of Switzerland's most renowned artists, and hosting around 4,000 pieces of his work, the museum in Bern conducts guided tours and also has interactive programs for children.  Find more information here: https://www.zpk.org/en/art-mediation/guided-tours-43.html
@@ -74,7 +74,7 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjc1MTcyNDQsLTE2NjIxNTgwMzgsLT
+eyJoaXN0b3J5IjpbLTE2NTgwNzg5MTAsLTE2NjIxNTgwMzgsLT
 Y4MjY1NTIzLC0xMzExMDUzMTYzLDQ5NjgxNjI1LC05OTAwMzE3
 MDAsLTc2NzgxNjg0OSwtNjU3MzA2NTM1XX0=
 -->
