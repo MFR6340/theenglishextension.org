@@ -12,9 +12,9 @@
 <a href="https://www.bookdepository.com/If-You-Lived-Here-Houses-of-the-World-Giles-Laroche/9780547238920" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690154" rel="nofollow"> Buy on Orell Füssli</a>
 
-###  Wonderful Houses Around the World, by Yoshio Komatsu
+###  The Big Orange Splot, Daniel Pinkwater
 
-<img src="https://i.imgur.com/3NpCq1z.png" width="35%" />
+<img src="blob:https://imgur.com/72d70da1-73c1-4cf2-96f1-088195f19ba8" width="35%" />
 
 This book contains photos and illustrations of  houses from ten sub-cultures around the world.  Shows the yurt in Mongolia, the Chinese tulou and the underground homes of Tunisia built from natural materials from the region.  A fascinating book for any age.  ( No Lexile level available)
 
@@ -38,7 +38,7 @@ This book contains photos and illustrations of  houses from ten sub-cultures aro
 There is no better place than Ballenberg Open-Air Museum which has over 100 different traditional buildings from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial and crafting buildings which are still used for demonstrations.  Listed as a heritage site of national significance, it is a wonderful way to spend a day. 
 https://www.ballenberg.ch/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU5MTcxNjMsMjA0Nzg3MzAxNSw5OT
+eyJoaXN0b3J5IjpbLTEzNjg5MTA5NDMsMjA0Nzg3MzAxNSw5OT
 UyMDY3MDQsMTE5NTI2Mjc2LC0xMTQ0Mjg2OTgxLC0xMjAxNzE2
 MDksMTIzNjYzOTQ0LC0xNjQ2MTQzMzcwLDIxMTY1OTUyMTksLT
 g5MTg4NDg5M119
