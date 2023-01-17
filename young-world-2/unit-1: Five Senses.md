@@ -3,7 +3,8 @@
 
 This unit is about human senses and comparing them to animal senses.  
 
-## Six Dots, A Story of Young Louis Braille, by Jen Bryant
+## Non-Fiction
+### Six Dots, A Story of Young Louis Braille, by Jen Bryant
 
 <img src="https://imgur.com/NJxodvq.png" width="25%" />
 
@@ -12,7 +13,7 @@ The story of the life of Louis Braille and how he lost his eye sight and how his
 <a href="https://www.bookdepository.com/Six-Dots-Story-Young-Louis-Braille-Jen-Bryant/9780449813379?ref=grid-view&qid=1665672398249&sr=1-1#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441269" rel="nofollow">Buy on Orell Füssli</a>
 
-## Louis Braille, The Boy Who Invented Books for the Blind, by Margaret Davidson
+### Louis Braille, The Boy Who Invented Books for the Blind, by Margaret Davidson
 
 <img src="https://i.imgur.com/vCoeds5.png" width="25%" />
 
@@ -85,7 +86,7 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTIzODI1NywtMTgzMjU2ODM4NCwxOT
+eyJoaXN0b3J5IjpbMTExNTQ0Mzc0OSwtMTgzMjU2ODM4NCwxOT
 AzNzc3MDE1LDM4MDEwNDc5MiwtMTM0NTY0MTk2OCw0NzM3NTYz
 MDUsLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMDc2OTM3MDAsMT
 g2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUxMzUsLTUwMzk2
