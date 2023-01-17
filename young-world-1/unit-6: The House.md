@@ -25,7 +25,7 @@ While essentially a picture book, the story of Mr. Plumbean house is much more t
 
 <img src="https://i.imgur.com/kUye1iH.png" width="35%" />
 
-Imaginative Jack wants to design his own house.  He includes some fantastic ideas from an aquarium room This is a wonderful foundation for a descriptive writing project .  ( Lexile 550L)
+Imaginative Jack wants to design his own house.  He includes some fantastic ideas from an aquarium room to a race track.  This is a wonderful foundation for a descriptive writing project .  ( Lexile 550L)
 
 <a href="https://www.bookdepository.com/If-I-Built-House-Chris-Van-Dusen/9781984814845?ref=grid-view&qid=1673968527570&sr=1-4" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052959598" rel="nofollow"> Buy on Orell Füssli</a>
@@ -47,7 +47,7 @@ Imaginative Jack wants to design his own house.  He includes some fantastic idea
 Explore the structures on many acres of the Ballenberg Open-Air Museum.  It has over 100 different traditional buildings which have been transported from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial and crafting buildings which are still used for demonstrations.  Listed as a heritage site of national significance, it is a wonderful way to spend a day. 
 https://www.ballenberg.ch/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDk3MTgwMywtMTQ4NDQ2OTE4OCwyMD
+eyJoaXN0b3J5IjpbLTU3MTExNTY4OSwtMTQ4NDQ2OTE4OCwyMD
 Q3ODczMDE1LDk5NTIwNjcwNCwxMTk1MjYyNzYsLTExNDQyODY5
 ODEsLTEyMDE3MTYwOSwxMjM2NjM5NDQsLTE2NDYxNDMzNzAsMj
 ExNjU5NTIxOSwtODkxODg0ODkzXX0=
