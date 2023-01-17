@@ -1,6 +1,8 @@
 # Young World 2, Unit 3: A World of Color
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
+This unit co
+
 
 ## Ish, by Peter H. Reynolds
 
@@ -67,7 +69,8 @@ You can still get some culture and have fun while remaining in your living room.
 <img src="https://i.imgur.com/8bQLA0S.png" width="55%" />
 Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many other famous artists.  They also have special pieces, in interesting shapes like paint brushes and boats that match the theme.  Beware, if you do get one, don't begin with one with more than 250 pieces, as they can be challenging.  A straight piece does not necessarily mean it's an edge.  Good fun on cold day.  https://www.wentworthpuzzles.com/us/fine-art-jigsaw-puzzles-2/all-fine-art-puzzles
 
-https://i.imgur.com/rYUhCAm.jpg
+<img src="https://i.imgur.com/rYUhCAm.jpg
+" width="55%" />
 
 
 
@@ -76,7 +79,8 @@ https://i.imgur.com/rYUhCAm.jpg
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTMyNzQxOCwxOTk0ODc2NTg4LC0xNj
-YyMTU4MDM4LC02ODI2NTUyMywtMTMxMTA1MzE2Myw0OTY4MTYy
-NSwtOTkwMDMxNzAwLC03Njc4MTY4NDksLTY1NzMwNjUzNV19
+eyJoaXN0b3J5IjpbLTE5NDgxMTIzNzMsMTk5NDg3NjU4OCwtMT
+Y2MjE1ODAzOCwtNjgyNjU1MjMsLTEzMTEwNTMxNjMsNDk2ODE2
+MjUsLTk5MDAzMTcwMCwtNzY3ODE2ODQ5LC02NTczMDY1MzVdfQ
+==
 -->
