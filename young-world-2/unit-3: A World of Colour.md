@@ -71,10 +71,7 @@ On page 27, is a sculpture by Swiss artist Claire Ochsner which can be seen in p
 ### Do a Puzzle
 You can still get some culture and have fun while remaining in your living room.  There's really no better way to become familiar with the minute details of a work of fine art than by doing a puzzle.  
 <img src="https://i.imgur.com/8bQLA0S.png" width="55%" />
-Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many other famous artists.  They also have special pieces, in interesting shapes like paint brushes and boats that match the theme.  Beware, if you do get one, don't begin with one with more than 250 pieces, as they can be challenging.  A straight piece does not necessarily mean it's an edge.  Good fun on cold day.  https://www.wentworthpuzzles.com/us/fine-art-jigsaw-puzzles-2/all-fine-art-puzzles
-
-<img src="https://i.imgur.com/rYUhCAm.jpg
-" width="55%" />
+Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many other famous artists.  They also have special pieces, in interesting shapes like paint brushes and boats that match the theme.  Beware, if you do get one, don't begin with one with more than 250 pieces, as they can be challenging.  A straight piece does not necessarily mean it's an edge.  Good fun on cold day.  https://www.wentworthpuzzles.com/us/fine-art-jigsaw-puzzles-2/all-fine-art-puzzles  Also available on Amazon, John Lewis, and other stores.
 
 
 
@@ -83,5 +80,5 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQxNTE1MjQsMTYzODk2OTUxN119
+eyJoaXN0b3J5IjpbLTMyMDczMzU1NCwxNjM4OTY5NTE3XX0=
 -->
