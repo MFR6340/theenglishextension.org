@@ -2,6 +2,8 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
+This unit covers the attributes of  a good friend. Emotions. Story of the “crazy gang”
+
 ## A Bear Called Paddington
 
 <img src="https://i.imgur.com/wMmaATw.png" width="25%" />
@@ -70,5 +72,5 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMTEzMTE0OSwxMTQ2MDczMjQ3XX0=
+eyJoaXN0b3J5IjpbLTI5NzI0ODk5OCwxMTQ2MDczMjQ3XX0=
 -->
