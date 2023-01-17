@@ -29,7 +29,7 @@ summary here.(no Lexile level available)
 ### Guts, by Gary Paulsen
 <img src="https://i.imgur.com/iPL74ef.png" width="35%" />
 
-At some point during Oberstufe (Swiss Middle School), there's a huge chance your child will be required to read "Hatchet",  a fictional book by Gary Paulsen.  "Guts" tell the real stories behind "Hatchet" of surviving in the woods.  ( Lexile NC1230L) 
+At some point during Oberstufe (Swiss Middle School), there's a huge chance your child will be required to read "Hatchet",  a fictional book by Gary Paulsen.  "Guts" tells some of the real stories behind "Hatchet" of surviving in the woods.  ( Lexile NC1230L) 
 <a href="https://www.bookdepository.com/Guts-Gary-Paulsen/9780440407126?ref=grid-view&qid=1673879187868&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006227112" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -73,7 +73,7 @@ summary here.( Lexile 1020L)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTA0NjA5NiwtNTk0NTU2ODc2LC01ND
+eyJoaXN0b3J5IjpbLTc0MTk4MzE3MCwtNTk0NTU2ODc2LC01ND
 QyMTEwMjQsMTk0ODQxNzk0Miw0Nzk1NDYwOTIsLTkyNjM5MDU2
 NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NTg0MzQxNzIsLTExMD
 A3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0NzQ4XX0=
