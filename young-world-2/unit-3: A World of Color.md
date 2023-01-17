@@ -51,8 +51,8 @@ summary here. (no Lexile level available)
 ## Supplemental Activities
 ### Visit an Art Museum
 Switzerland has over 1,100 museums, making it one of countries with the highest number per capita, so there's no excuse not to find one that holds something of interest.  
-Paul Klee
-	Show-casing one of Switzerland's most renowned artists, the museum in Basel conducts guided tours and also has interactive programs for children.  Find more information here: https://www.zpk.org/en/art-mediation/guided-tours-43.html
+Zentrum Paul Klee
+	Show-casing one of Switzerland's most renowned artists, and hosting around 4,000 the museum in Basel conducts guided tours and also has interactive programs for children.  Find more information here: https://www.zpk.org/en/art-mediation/guided-tours-43.html
 	
 
 ### Do a Puzzle
@@ -60,5 +60,5 @@ You can still get some culture and have fun while remaining in your living room.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzI5NjkyLC02NTczMDY1MzVdfQ==
+eyJoaXN0b3J5IjpbLTE3NDg3MTk1NjUsLTY1NzMwNjUzNV19
 -->
