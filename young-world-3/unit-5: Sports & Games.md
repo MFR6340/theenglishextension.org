@@ -32,11 +32,15 @@ summary here.
 # Supplemental Activities
 
 There really can't be a discussion about sports without it eventually turning to the Olympics.  And what better place to go to learn about this amazing event than the Olympic Museum in Lausanne!
-[https://olympics.com/museum/](https://olympics.com/museum/)
+<a href="https://olympics.com/museum/" rel="nofollow"> The Olympic Museum</a> 
+
 
 It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding has been a major sport for years.  Next time you are in St. Moritz, check out the BobMuseum.  https://bobmuseum.ch/museum/#!/infopoint
 
+<a href="https://olympics.com/museum/" rel="nofollow"> The Olympic Museum</a> 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjk1MjY2NSwtMTQwNjk2NTg5NSwtNz
+eyJoaXN0b3J5IjpbMjEyMzUxMTI1MiwtMTQwNjk2NTg5NSwtNz
 E2ODk3OTIzXX0=
 -->
