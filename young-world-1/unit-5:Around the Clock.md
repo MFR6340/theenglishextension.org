@@ -37,7 +37,7 @@ summary here. (lexile level 910)
 
 <img src="https://imgur.com/7L5Xm9p.png" width="25%"  />
 
-discription here (Lexile 740L)
+description here (Lexile 740L)
 
 
 <a href="https://www.bookdepository.com/Happy-Hollisters-Cuckoo-Clock-Mystery-Jerry-West/9781949436570?ref=grid-view&qid=1656001073916&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -86,9 +86,9 @@ Switzerland, world-famous for its clocks and watches, has 7 public museums focus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODgzOTEzNCwxNjI4NjY2NjgwLC0xMT
-M1NDEwNDc0LDEzNDQzNDMwMCwtNTIxNTY1NzU5LDM1MjE1OTYz
-NCw0NjUzNDU3MywtMTYyMjgxMjIxLC03MTI4MjYxMjksMTMyNT
-kwMDEyMywyMTEyODExNjQzLC0xNTg5NDkwNzQ1LDE4ODkzNzcy
-NjMsMTEwMzUxMDE5M119
+eyJoaXN0b3J5IjpbLTI5NTkzODE4LC00MTg4MzkxMzQsMTYyOD
+Y2NjY4MCwtMTEzNTQxMDQ3NCwxMzQ0MzQzMDAsLTUyMTU2NTc1
+OSwzNTIxNTk2MzQsNDY1MzQ1NzMsLTE2MjI4MTIyMSwtNzEyOD
+I2MTI5LDEzMjU5MDAxMjMsMjExMjgxMTY0MywtMTU4OTQ5MDc0
+NSwxODg5Mzc3MjYzLDExMDM1MTAxOTNdfQ==
 -->
