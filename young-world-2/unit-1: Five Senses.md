@@ -17,10 +17,10 @@ The story of the life of Louis Braille and how he lost his eye sight and how his
 
 <img src="https://i.imgur.com/vCoeds5.png" width="25%" />
 
-Explains why and how Louis Braille invented the system of printing for the blind.  Good for reluctant readers.  (Lexile 580L)
+Explains why and how Louis Braille invented the system of printing for the blind.  Good for reluctant readers. 80 pages. (Lexile 580L)
 
 <a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/suggestartike/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Out of Darkness, the Story of Louis Braille, by Russell Friedman
 
@@ -86,7 +86,7 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTQ0Mzc0OSwtMTgzMjU2ODM4NCwxOT
+eyJoaXN0b3J5IjpbLTEzODM4OTg1OSwtMTgzMjU2ODM4NCwxOT
 AzNzc3MDE1LDM4MDEwNDc5MiwtMTM0NTY0MTk2OCw0NzM3NTYz
 MDUsLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMDc2OTM3MDAsMT
 g2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUxMzUsLTUwMzk2
