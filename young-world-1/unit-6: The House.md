@@ -5,7 +5,7 @@
 
 ### If You Lived Here, Houses of the World by Giles Laroche
 
-<img src="https://imgur.com/pV4cOFG.png" width="25%" />
+<img src="https://i.imgur.com/eWdCAYe.png" width="35%" />
 
 summary here. (Lexile level)
 
@@ -18,5 +18,6 @@ summary here. (Lexile level)
 There is no better place than Ballenberg Open-Air Museum which has over 100 different traditional buildings from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial and crafting buildings which are still used for demonstrations.  Listed as a heritage site of national significance, it is a wonderful way to spend a day. 
 https://www.ballenberg.ch/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjU5NTIxOSwtODkxODg0ODkzXX0=
+eyJoaXN0b3J5IjpbLTE2NDYxNDMzNzAsMjExNjU5NTIxOSwtOD
+kxODg0ODkzXX0=
 -->
