@@ -67,10 +67,11 @@ This museum in Lucern has works by Swiss artist Paul Klee, as well as other Clas
 
 ### Do a Puzzle
 You can still get some culture and have fun while remaining in your living room.  There's really no better way to become familiar with a work of art than to do a puzzle.  
+Sort by Fine Art, and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzA0MTk1LC02ODI2NTUyMywtMTMxMT
-A1MzE2Myw0OTY4MTYyNSwtOTkwMDMxNzAwLC03Njc4MTY4NDks
-LTY1NzMwNjUzNV19
+eyJoaXN0b3J5IjpbLTE2NjIxNTgwMzgsLTY4MjY1NTIzLC0xMz
+ExMDUzMTYzLDQ5NjgxNjI1LC05OTAwMzE3MDAsLTc2NzgxNjg0
+OSwtNjU3MzA2NTM1XX0=
 -->
