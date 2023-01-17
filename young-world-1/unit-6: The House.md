@@ -15,7 +15,8 @@ summary here. (Lexile level)
 
 ## Supplemental Activities
 
-There is no better place than Ballenberg Open-Air Museum to see houses of farmers, craftsmen and labourers.  Over 100 buildings have been transported to the site from regions all over Switzerland and represent Swiss architecture from the 14th to the 19th Century.  
+There is no better place than Ballenberg Open-Air Museum which has over 100 different traditional  to see houses of farmers, craftsmen and labourers.  Over 100 buildings have been transported to the site from regions all over Switzerland and represent Swiss architecture from the 14th to the 19th Century.  
+https://www.ballenberg.ch/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyMjExMTM2LC04OTE4ODQ4OTNdfQ==
+eyJoaXN0b3J5IjpbLTUwODE5MjMwNCwtODkxODg0ODkzXX0=
 -->
