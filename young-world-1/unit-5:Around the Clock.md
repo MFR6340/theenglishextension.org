@@ -73,6 +73,9 @@ summary here.
 
 ### My Watch, by Mark Twain
 Mark Twain can tell a tale like few others.  This funny short story about a man taking his watch into the watchmaker for repairs, which some say is one of the most dangerous things you can do to a watch.  
+Freely available online.  
+
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058447306" rel="nofollow"> Buy on Orell Füssli</a>https://omegaforums.net/threads/mark-twains-my-watch-short-story.16423/
 
 ## Supplemental Activities
 Climb a Clock Tower
@@ -90,10 +93,9 @@ Switzerland, world-famous for its clocks and watches, has 7 public museums focus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODA3MzE0MjYsLTI5NTkzODE4LC00MT
-g4MzkxMzQsMTYyODY2NjY4MCwtMTEzNTQxMDQ3NCwxMzQ0MzQz
-MDAsLTUyMTU2NTc1OSwzNTIxNTk2MzQsNDY1MzQ1NzMsLTE2Mj
-I4MTIyMSwtNzEyODI2MTI5LDEzMjU5MDAxMjMsMjExMjgxMTY0
-MywtMTU4OTQ5MDc0NSwxODg5Mzc3MjYzLDExMDM1MTAxOTNdfQ
-==
+eyJoaXN0b3J5IjpbLTgyODExMzE3MywtMjk1OTM4MTgsLTQxOD
+gzOTEzNCwxNjI4NjY2NjgwLC0xMTM1NDEwNDc0LDEzNDQzNDMw
+MCwtNTIxNTY1NzU5LDM1MjE1OTYzNCw0NjUzNDU3MywtMTYyMj
+gxMjIxLC03MTI4MjYxMjksMTMyNTkwMDEyMywyMTEyODExNjQz
+LC0xNTg5NDkwNzQ1LDE4ODkzNzcyNjMsMTEwMzUxMDE5M119
 -->
