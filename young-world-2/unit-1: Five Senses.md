@@ -1,7 +1,7 @@
 # Young World 2, Unit 1: Five Senses
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-This unit is about human senses and comparing them to animal senses.  
+**This unit is about human senses and comparing them to animal senses.  Here are some suggestions for native English speakers to delve deeper into this theme:****
 
 ## Non-Fiction
 
@@ -99,11 +99,11 @@ Donate an audio book or make an appointment to visit the SBS Schweizerische Bibl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NDUyNjA0MywzMzMwNjU2MDQsLTE4Mz
-I1NjgzODQsMTkwMzc3NzAxNSwzODAxMDQ3OTIsLTEzNDU2NDE5
-NjgsNDczNzU2MzA1LC04MzU4OTM2OTMsLTY1NTc0MzM5NywxMT
-A3NjkzNzAwLDE4NjAwNDUxNzgsLTY4MDM5NzA1MSwxMTg4OTk1
-MTM1LC01MDM5Njk0ODksLTE5Mjk1NDE4MSwtMTc5NTI1MzU0Ny
-wyOTU1MTkzNDQsMjEwMTAzMTA0MywxMzc3MDUwMjA3LDY2NDM5
-MDVdfQ==
+eyJoaXN0b3J5IjpbLTE0NDkyNzM2OTcsMzMzMDY1NjA0LC0xOD
+MyNTY4Mzg0LDE5MDM3NzcwMTUsMzgwMTA0NzkyLC0xMzQ1NjQx
+OTY4LDQ3Mzc1NjMwNSwtODM1ODkzNjkzLC02NTU3NDMzOTcsMT
+EwNzY5MzcwMCwxODYwMDQ1MTc4LC02ODAzOTcwNTEsMTE4ODk5
+NTEzNSwtNTAzOTY5NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1ND
+csMjk1NTE5MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQz
+OTA1XX0=
 -->
