@@ -50,7 +50,7 @@ summary here.( Lexile 1030L)
 
 <img src="https://i.imgur.com/Bg066im.jpg" width="25%" />
 
-summary here.(no Lexile level available)
+summary here. (no Lexile level)
 
 <a href="https://www.bookdepository.com/Gone-Camping-Novel-Verse-Tamera-Will-Wissinger/9781328596345?ref=grid-view&qid=1673878569329&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052920702" rel="nofollow">Buy on Orell Füssli</a>
@@ -75,7 +75,7 @@ summary here.( Lexile 1020L)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk2MDk5MCwtNTk0NTU2ODc2LC01ND
+eyJoaXN0b3J5IjpbMTg5OTY1MDA2NSwtNTk0NTU2ODc2LC01ND
 QyMTEwMjQsMTk0ODQxNzk0Miw0Nzk1NDYwOTIsLTkyNjM5MDU2
 NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NTg0MzQxNzIsLTExMD
 A3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0NzQ4XX0=
