@@ -50,17 +50,19 @@ summary here. (no Lexile level available)
 
 ## Supplemental Activities
 ### Visit an Art Museum
-Switzerland has over 1,100 museums, making it one of countries with the highest number per capita, so there's no excuse not to find one that holds something of interest.  Make sure you go to the Kuntshaus in Zurich and the 
+Switzerland has over 1,100 museums, making it one of countries with the highest number per capita, so there's no excuse not to find one that holds something of interest.  Make sure you go to the Kuntshaus in Zurich and the Kunsthaus in Basel, but here's some others: 
 
  - Zentrum Paul Klee
 	Show-casing one of Switzerland's most renowned artists, and hosting around 4,000 pieces of his work, the museum in Bern conducts guided tours and also has interactive programs for children.  Find more information here: https://www.zpk.org/en/art-mediation/guided-tours-43.html
 	
  - Angelika Kaufmann Museum
 	Kaufmann was a famous female 18th Century Swiss artist who established an international reputation for her landscapes and portraits.  In 1768, she became one of only two female artists who co-founded the Royal Academy in London.  Born in Chur, Kaufmann also had close ties to Schwarzenburg, Austria (a 45 minute drive from St. Gallen)  where the museum is located.  http://angelika-kauffmann.com/das-museum/oeffnungszeiten
-	
  
  - Rosegarten Collection
 This museum in Lucern has works by Swiss artist Paul Klee, as well as other Classic Modernist and Impressionist artists including Pablo Picasso, and Renoir and Cézanne. https://www.rosengart.ch/en/welcomeList item
+
+Tinguely
+https://www.tinguely.ch/en/education/leisure-activities-for-children-and-families.html
 
 
 
@@ -74,7 +76,7 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTgwNzg5MTAsLTE2NjIxNTgwMzgsLT
-Y4MjY1NTIzLC0xMzExMDUzMTYzLDQ5NjgxNjI1LC05OTAwMzE3
-MDAsLTc2NzgxNjg0OSwtNjU3MzA2NTM1XX0=
+eyJoaXN0b3J5IjpbNTc5NTM5NTIwLC0xNjYyMTU4MDM4LC02OD
+I2NTUyMywtMTMxMTA1MzE2Myw0OTY4MTYyNSwtOTkwMDMxNzAw
+LC03Njc4MTY4NDksLTY1NzMwNjUzNV19
 -->
