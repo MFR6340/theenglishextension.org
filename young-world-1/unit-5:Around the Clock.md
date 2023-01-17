@@ -71,6 +71,9 @@ summary here.
 <a href="https://www.bookdepository.com/How-Survive-Time-Travel-Larry-Hayes/9781471198366?ref=grid-view&qid=1673795737187&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058447306" rel="nofollow"> Buy on Orell Füssli</a>
 
+### My Watch, by Mark Twain
+Mark Twain can tell a tale like few others.  This funny short story about a man taking his watch into the watchmaker for repairs 
+
 ## Supplemental Activities
 Climb a Clock Tower
 There are some amazing and fascinating clock towers in Switzerland.  
@@ -87,9 +90,10 @@ Switzerland, world-famous for its clocks and watches, has 7 public museums focus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTM1MDQ3NSwtMjk1OTM4MTgsLTQxOD
-gzOTEzNCwxNjI4NjY2NjgwLC0xMTM1NDEwNDc0LDEzNDQzNDMw
-MCwtNTIxNTY1NzU5LDM1MjE1OTYzNCw0NjUzNDU3MywtMTYyMj
-gxMjIxLC03MTI4MjYxMjksMTMyNTkwMDEyMywyMTEyODExNjQz
-LC0xNTg5NDkwNzQ1LDE4ODkzNzcyNjMsMTEwMzUxMDE5M119
+eyJoaXN0b3J5IjpbLTE2ODY5NzYwNzMsLTI5NTkzODE4LC00MT
+g4MzkxMzQsMTYyODY2NjY4MCwtMTEzNTQxMDQ3NCwxMzQ0MzQz
+MDAsLTUyMTU2NTc1OSwzNTIxNTk2MzQsNDY1MzQ1NzMsLTE2Mj
+I4MTIyMSwtNzEyODI2MTI5LDEzMjU5MDAxMjMsMjExMjgxMTY0
+MywtMTU4OTQ5MDc0NSwxODg5Mzc3MjYzLDExMDM1MTAxOTNdfQ
+==
 -->
