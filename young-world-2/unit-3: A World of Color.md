@@ -62,7 +62,8 @@ Switzerland has over 1,100 museums, making it one of countries with the highest 
  Alberto Giacometti Museum
 	  It's unusual to find a public museum housed in a hotel, but it doesn't reduce its importance as one of the best collections of Giacometti's graphic works.  Giacometti was a versitile Swiss artist who was influenced by the Cubists and Surrealists.  Located in the Pensiun Aldier in Sent, Engadin.  https://www.engadin.com/en/alberto-giacometti-museum
 
-Ro
+Rosegarten Museum
+This museum in Lucern has works by Swiss artist Paul Klee, as well as other Classic Modernist and Impressionist artists including Pablo Picasso, and Renoir 
 
 	
 	
@@ -74,7 +75,7 @@ You can still get some culture and have fun while remaining in your living room.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1MzgyMDAsLTEzMTEwNTMxNjMsNDk2OD
-E2MjUsLTk5MDAzMTcwMCwtNzY3ODE2ODQ5LC02NTczMDY1MzVd
-fQ==
+eyJoaXN0b3J5IjpbMTk0MjYyMDg3MywtMTMxMTA1MzE2Myw0OT
+Y4MTYyNSwtOTkwMDMxNzAwLC03Njc4MTY4NDksLTY1NzMwNjUz
+NV19
 -->
