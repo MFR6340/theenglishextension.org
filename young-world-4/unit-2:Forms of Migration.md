@@ -9,7 +9,7 @@
 <img src="https://imgur.com/0oemAkn.png" width="25%" />
 
 summary here. (lexile 1150L)
-Teachers: Lessons plans are available for this unit.  Please contact 
+***Teachers: Lessons plans are available for this unit.  Please contact us to receive a copy.***
 
 <a href="https://www.bookdepository.com/Moonbird-Phillip-Hoose/9780374304683?ref=grid-view&qid=1665929598174&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018908390" rel="nofollow">Buy on Orell Füssli</a>
@@ -23,6 +23,6 @@ summary here.
 
 <a href="https://www.bookdepository.com/Stuart-Little-E-B-White/9780064400565?ref=grid-view&qid=1665929853040&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MjIwNjkxLC0xMzM0MTgyNTcxLDE4Mz
-k2NjgxNTNdfQ==
+eyJoaXN0b3J5IjpbMTQwMzg5NzY3MSwtMTMzNDE4MjU3MSwxOD
+M5NjY4MTUzXX0=
 -->
