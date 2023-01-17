@@ -47,7 +47,7 @@ description here (Lexile 740L)
 
 <img src="https://imgur.com/Z6h3leZ.png" width="25%"  />
 
-This book is more fantasy, word-play and adventure than clock related, but it's such good fun.  An evil Duke has been cursed with on his kingdom.  It is so cold that all of the hands of the 13 clocks in the castle are frozen.  
+This book is more fantasy, word-play and adventure than clock related, but it's such good fun.  An evil Duke has been cursed with on his kingdom.  It is so cold that all of the hands of the 13 clocks in the castle are frozen.  The Duke sets up impossible tasks for the young men who come to ask for the hand of Princess Saralinda, with the result of such men being fed to the Duke's geese.
 <a href="https://www.bookdepository.com/13-Clocks-James-Thurber/9780143110149?ref=grid-view&qid=1656416664054&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441194" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -86,9 +86,9 @@ Switzerland, world-famous for its clocks and watches, has 7 public museums focus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTYyNjE2NSwtMjk1OTM4MTgsLTQxOD
-gzOTEzNCwxNjI4NjY2NjgwLC0xMTM1NDEwNDc0LDEzNDQzNDMw
-MCwtNTIxNTY1NzU5LDM1MjE1OTYzNCw0NjUzNDU3MywtMTYyMj
-gxMjIxLC03MTI4MjYxMjksMTMyNTkwMDEyMywyMTEyODExNjQz
-LC0xNTg5NDkwNzQ1LDE4ODkzNzcyNjMsMTEwMzUxMDE5M119
+eyJoaXN0b3J5IjpbMjI0NDY0NDc0LC0yOTU5MzgxOCwtNDE4OD
+M5MTM0LDE2Mjg2NjY2ODAsLTExMzU0MTA0NzQsMTM0NDM0MzAw
+LC01MjE1NjU3NTksMzUyMTU5NjM0LDQ2NTM0NTczLC0xNjIyOD
+EyMjEsLTcxMjgyNjEyOSwxMzI1OTAwMTIzLDIxMTI4MTE2NDMs
+LTE1ODk0OTA3NDUsMTg4OTM3NzI2MywxMTAzNTEwMTkzXX0=
 -->
