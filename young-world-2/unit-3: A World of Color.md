@@ -66,12 +66,13 @@ This museum in Lucern has works by Swiss artist Paul Klee, as well as other Clas
 
 
 ### Do a Puzzle
-You can still get some culture and have fun while remaining in your living room.  There's really no better way to become familiar with a work of art than to do a puzzle.  
-Sort by Fine Art, and 
+You can still get some culture and have fun while remaining in your living room.  There's really no better way to become familiar with a work of fine art than to do a puzzle.  
+Wentworth puzzles have options from Van Gogh, Renoir, Seurat, and many other
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjIxNTgwMzgsLTY4MjY1NTIzLC0xMz
-ExMDUzMTYzLDQ5NjgxNjI1LC05OTAwMzE3MDAsLTc2NzgxNjg0
-OSwtNjU3MzA2NTM1XX0=
+eyJoaXN0b3J5IjpbLTY3Mjk5NTgzOSwtMTY2MjE1ODAzOCwtNj
+gyNjU1MjMsLTEzMTEwNTMxNjMsNDk2ODE2MjUsLTk5MDAzMTcw
+MCwtNzY3ODE2ODQ5LC02NTczMDY1MzVdfQ==
 -->
