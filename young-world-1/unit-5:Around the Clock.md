@@ -81,8 +81,9 @@ Freely available online.
 Climb a Clock Tower
 There are some amazing and fascinating clock towers in Switzerland.  
 
- - Zug: The Zuger Zytturm is free to visit.  Just request a key to the Tower in the gift shop below.  https://www.myswitzerland.com/en-us/experiences/zytturm-zug/
- - Bern: ,The Zytglogge.  Tours are available of the interior. Check the website.  https://www.bern.com/en/detail/berns-clock-tower-zytglogge
+ - Zug: The Zuger Zytturm is free to visit if you show up during regular working hours.  Just request a key to the Tower in the gift shop below.  They even have free 
+<a href="https://www.myswitzerland.com/en-us/experiences/zytturm-zug/" rel="nofollow"> Zuger Zytturm </a>  
+ - Bern: The Zytglogge.  Tours are available of the interior. Check the website.  https://www.bern.com/en/detail/berns-clock-tower-zytglogge
  - Lucerne: The Turmuhren https://turmuhrenluzern.ch/en/project/zeitturm/
 
 Visit a Clock Museum
@@ -93,9 +94,10 @@ Switzerland, world-famous for its clocks and watches, has 7 public museums focus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODE1MTQxMiwtMjk1OTM4MTgsLTQxOD
-gzOTEzNCwxNjI4NjY2NjgwLC0xMTM1NDEwNDc0LDEzNDQzNDMw
-MCwtNTIxNTY1NzU5LDM1MjE1OTYzNCw0NjUzNDU3MywtMTYyMj
-gxMjIxLC03MTI4MjYxMjksMTMyNTkwMDEyMywyMTEyODExNjQz
-LC0xNTg5NDkwNzQ1LDE4ODkzNzcyNjMsMTEwMzUxMDE5M119
+eyJoaXN0b3J5IjpbODQ3MDU0MzAwLDEwNjgxNTE0MTIsLTI5NT
+kzODE4LC00MTg4MzkxMzQsMTYyODY2NjY4MCwtMTEzNTQxMDQ3
+NCwxMzQ0MzQzMDAsLTUyMTU2NTc1OSwzNTIxNTk2MzQsNDY1Mz
+Q1NzMsLTE2MjI4MTIyMSwtNzEyODI2MTI5LDEzMjU5MDAxMjMs
+MjExMjgxMTY0MywtMTU4OTQ5MDc0NSwxODg5Mzc3MjYzLDExMD
+M1MTAxOTNdfQ==
 -->
