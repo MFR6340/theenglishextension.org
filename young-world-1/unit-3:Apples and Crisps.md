@@ -1,7 +1,7 @@
 # Young World 1, Unit 3: Apples and Crisps
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-**This Klett unit covers food, shopping and writing a list.  Here are some suggestions for Native English speakers to delve deeper into this theme:**
+**This Klett unit covers food, shopping and writing a list.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 ## Apples, by Ken Robbins
 
 <img src="https://imgur.com/F78MUbL.png" width="25%"  />
@@ -92,10 +92,10 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjM5MzM0NzgsLTEyMDYyODY0NDYsLT
-EwNDY1NzQzNjQsLTEwNzYyMDQwNDEsMTYyNDEzNjEwMSwtMTQx
-MzE0NTQwMywtMTQzNTE4NzIsLTE1NzE2MDQ1LC01NzM2MTY5Mj
-AsLTE1OTMyODE2MTQsMjI1MzgzNTM5LDE4OTA1NzY2ODAsLTE5
-NDExODk1LC0zODUwMDMyNDYsMTg4ODQ4MDA3MCwxNzIyNzI0Nj
-MzLDExODQxOTM2NjUsLTczMjkzMTk1Nl19
+eyJoaXN0b3J5IjpbMTAzMjY0Mzc3MCwtMTIwNjI4NjQ0NiwtMT
+A0NjU3NDM2NCwtMTA3NjIwNDA0MSwxNjI0MTM2MTAxLC0xNDEz
+MTQ1NDAzLC0xNDM1MTg3MiwtMTU3MTYwNDUsLTU3MzYxNjkyMC
+wtMTU5MzI4MTYxNCwyMjUzODM1MzksMTg5MDU3NjY4MCwtMTk0
+MTE4OTUsLTM4NTAwMzI0NiwxODg4NDgwMDcwLDE3MjI3MjQ2Mz
+MsMTE4NDE5MzY2NSwtNzMyOTMxOTU2XX0=
 -->
