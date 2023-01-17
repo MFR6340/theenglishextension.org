@@ -1,6 +1,8 @@
 # Young World 2, Unit 1: Five Senses
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
+This unit is about human senses and comparing them to animal senses.  Usingtesting senses with food.
+
 ## Six Dots, A Story of Young Louis Braille, by Jen Bryant
 
 <img src="https://imgur.com/NJxodvq.png" width="25%" />
@@ -79,10 +81,11 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzI1NjgzODQsMTkwMzc3NzAxNSwzOD
-AxMDQ3OTIsLTEzNDU2NDE5NjgsNDczNzU2MzA1LC04MzU4OTM2
-OTMsLTY1NTc0MzM5NywxMTA3NjkzNzAwLDE4NjAwNDUxNzgsLT
-Y4MDM5NzA1MSwxMTg4OTk1MTM1LC01MDM5Njk0ODksLTE5Mjk1
-NDE4MSwtMTc5NTI1MzU0NywyOTU1MTkzNDQsMjEwMTAzMTA0My
-wxMzc3MDUwMjA3LDY2NDM5MDUsLTE0MDE3NTYzNF19
+eyJoaXN0b3J5IjpbLTIyODcxODYxNywtMTgzMjU2ODM4NCwxOT
+AzNzc3MDE1LDM4MDEwNDc5MiwtMTM0NTY0MTk2OCw0NzM3NTYz
+MDUsLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMDc2OTM3MDAsMT
+g2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUxMzUsLTUwMzk2
+OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LDI5NTUxOTM0NC
+wyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0MzkwNSwtMTQwMTc1
+NjM0XX0=
 -->
