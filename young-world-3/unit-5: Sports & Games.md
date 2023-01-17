@@ -35,12 +35,11 @@ There really can't be a discussion about sports without it eventually turning to
 <a href="https://olympics.com/museum/" rel="nofollow"> The Olympic Museum</a> 
 
 
-It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding has been a major sport for years.  Next time you are in St. Moritz, check out the BobMuseum.  https://bobmuseum.ch/museum/#!/infopoint
-
-<a href="https://olympics.com/museum/" rel="nofollow"> The Olympic Museum</a> 
+It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding has been a major sport for years.  Next time you are in St. Moritz, check out the BobMuseum and learn about a sport you might not have thought a lot about.
+<a href="https://bobmuseum.ch/museum/#!/infopoint" rel="nofollow"> Bob Museum</a> 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzUxMTI1MiwtMTQwNjk2NTg5NSwtNz
-E2ODk3OTIzXX0=
+eyJoaXN0b3J5IjpbLTE1NTM4OTYzNDMsLTE0MDY5NjU4OTUsLT
+cxNjg5NzkyM119
 -->
