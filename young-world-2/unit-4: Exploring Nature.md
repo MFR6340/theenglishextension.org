@@ -1,5 +1,8 @@
 # Young World 2, Unit 4: Exploring Nature
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+
+The unit is about forests, forest animals, parts of the tree and what they do, and what you can do and should not do in the woods  Here are some suggestions for Native English speakers to delve deeper into this theme:
+
 ## Little House in the Big Woods, by Laura Ingalls Wilder
 
 <img src="https://imgur.com/oUOkUq9.png" width="25%" />
@@ -65,8 +68,8 @@ summary here.( Lexile 590L)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNjk0Njg3LC01OTQ1NTY4NzYsLTU0ND
-IxMTAyNCwxOTQ4NDE3OTQyLDQ3OTU0NjA5MiwtOTI2MzkwNTY1
-LDE4NTk3MjUwLDIyMTQwOTU1OSwtMTY1ODQzNDE3MiwtMTEwMD
-czNDQwMSwtODYxOTQyNTQ2LDE1MDM1MzQ3NDhdfQ==
+eyJoaXN0b3J5IjpbMTEzNjM5NTAyNiwtNTk0NTU2ODc2LC01ND
+QyMTEwMjQsMTk0ODQxNzk0Miw0Nzk1NDYwOTIsLTkyNjM5MDU2
+NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NTg0MzQxNzIsLTExMD
+A3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0NzQ4XX0=
 -->
