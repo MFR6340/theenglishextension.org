@@ -60,7 +60,7 @@ Switzerland has over 1,100 museums, making it one of countries with the highest 
 	
  - 
  - Alberto Giacometti Museum
-	  It's unusual to find a museum housed in a hotel, but it doesn't reduce its importance as one of the best collections of Giacometti's graphic works.  
+	  It's unusual to find a museum housed in a hotel, but it doesn't reduce its importance as one of the best collections of Giacometti's graphic works.  Giacometti was a versitile Swiss artist who was influenced by the Cubists and Surrealists.  
 
 	
 	
@@ -72,6 +72,6 @@ You can still get some culture and have fun while remaining in your living room.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTQ2Mjc0ODEsNDk2ODE2MjUsLTk5MD
-AzMTcwMCwtNzY3ODE2ODQ5LC02NTczMDY1MzVdfQ==
+eyJoaXN0b3J5IjpbLTU2OTEyNTg3Nyw0OTY4MTYyNSwtOTkwMD
+MxNzAwLC03Njc4MTY4NDksLTY1NzMwNjUzNV19
 -->
