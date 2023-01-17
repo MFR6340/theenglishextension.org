@@ -39,7 +39,7 @@ summary here. (lexile 1000L)
 
 <img src="https://i.imgur.com/XFBCugf.png" width="25%" />
 
-Carrie and her brother Nick are evacuted from London to a small mining village in Wales during the war.  They are unhappy with the family where they have been placed.  Ultimately they find friends who they are then ( Lexile 760L)
+Considered a classic story, Carrie and her brother Nick are evacuted from London to a small mining village in Wales during the war.  They are initally unhappy with the adults where they have been placed but ultimately they find friends.  Told from Carrie's point of view.  ( Lexile 760L)
 
 <a href="https://www.bookdepository.com/Carrie-s-War/9780349009162" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -56,8 +56,9 @@ Like, Carrie's War, children in world war II are forced to leave the city of Lon
 # Supplemental Activities
 Sometimes we learn more about other cities when we are traveling than the ones that are right at our doorstep.  It doesn't have to be so! Learn more about the cities that are nearby and learn the stories behind the buildings you walk past every day.  Free Walk offers free tours in 13 cities in Switzerland.  If you like what you learned, give your tour guide a nice tip at the end.  https://www.freewalk.ch/swiss/#cities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTUxOTQ3MjYsLTkxNzY0NDk0NiwxOD
-g2MjczMjI4LC0xMzgwMjk3Mjk1LDgzNjU0NDkwOSwtMjU1MDA3
-MzMzLC0xODk2NDI0MzY2LC0xNTUxNjMxOTk5LDU1OTk1MDAzNy
-wtMTg3NTM0MzkxLC0zMTA2MjE0MjJdfQ==
+eyJoaXN0b3J5IjpbLTE3MDQ1NTE5MDgsLTEwNTUxOTQ3MjYsLT
+kxNzY0NDk0NiwxODg2MjczMjI4LC0xMzgwMjk3Mjk1LDgzNjU0
+NDkwOSwtMjU1MDA3MzMzLC0xODk2NDI0MzY2LC0xNTUxNjMxOT
+k5LDU1OTk1MDAzNywtMTg3NTM0MzkxLC0zMTA2MjE0MjJdfQ==
+
 -->
