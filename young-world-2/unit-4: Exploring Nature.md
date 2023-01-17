@@ -48,7 +48,7 @@ Here's another book by Gary Paulsen, prolific American author of both fiction an
 
 <img src="https://i.imgur.com/Bg066im.jpg" width="25%" />
 
-Poetry isummary here. (no Lexile level)
+Have lots of fun reading about a child's camping adventures, with the story told in various forms of verse.  Learn how to camp, laugh at the funny stories, and be exposed to rhyming csummary here. (no Lexile level)
 
 <a href="https://www.bookdepository.com/Gone-Camping-Novel-Verse-Tamera-Will-Wissinger/9781328596345?ref=grid-view&qid=1673878569329&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052920702" rel="nofollow">Buy on Orell Füssli</a>
@@ -73,7 +73,7 @@ summary here.( Lexile 1020L)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzM3OTYwNTIsLTU5NDU1Njg3NiwtNT
+eyJoaXN0b3J5IjpbLTE0MjMyNDQ2NDAsLTU5NDU1Njg3NiwtNT
 Q0MjExMDI0LDE5NDg0MTc5NDIsNDc5NTQ2MDkyLC05MjYzOTA1
 NjUsMTg1OTcyNTAsMjIxNDA5NTU5LC0xNjU4NDM0MTcyLC0xMT
 AwNzM0NDAxLC04NjE5NDI1NDYsMTUwMzUzNDc0OF19
