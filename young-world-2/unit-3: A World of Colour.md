@@ -64,7 +64,7 @@ Switzerland has over 1,100 museums, making it one of countries with the highest 
 This museum in Lucern has works by Swiss artist Paul Klee, as well as other Classic Modernist and Impressionist artists including Pablo Picasso, and Renoir and Cézanne. https://www.rosengart.ch/en/welcome
 
 Claire Ochsner Museum and Sculpture Garden
-On page 27, is a sculpture by Swiss artist Claire Ochsner which can be seen in Zug, across from Metalli
+On page 27, is a sculpture by Swiss artist Claire Ochsner which can be seen in Zug, across from Metalli near the train station.  She has made many more colorful pieces which can be found 
 
 
 ### Do a Puzzle
@@ -82,5 +82,5 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE3ODYxMTJdfQ==
+eyJoaXN0b3J5IjpbMTYzODk2OTUxN119
 -->
