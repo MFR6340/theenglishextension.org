@@ -2,7 +2,7 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-This unit covers the attributes of a good friend.  It also discusses emotions and feelings.  
+**This unit covers the attributes of a good friend.  It also discusses emotions and feelings.  Here are some suggestions for native English speakers for literature that is related to this theme:**
 
 ## A Bear Called Paddington
 
@@ -72,5 +72,5 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzA3MTIzNTAsMTE0NjA3MzI0N119
+eyJoaXN0b3J5IjpbMzE4NjEwNzIzLDExNDYwNzMyNDddfQ==
 -->
