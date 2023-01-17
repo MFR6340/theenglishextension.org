@@ -57,7 +57,7 @@ Have lots of fun reading about Lucy's camping adventures, with the story told in
 
 <img src="https://i.imgur.com/KmTXAF1.png" width="25%" />
 
-In the rainforest, a man falls asleep, exhausted after trying to cut down a giant Kapok tree, which is home to many animals.   While he sleeps, various animals whisper in his ear.  summary here.( Lexile 590L)
+ThIn the rainforest, a man falls asleep, exhausted after trying to cut down a giant Kapok tree, which is home to many animals.   While he sleeps, various forest residents whisper in his ear to try to convince him to stop.  Contains lovely picture.  Can be used to discuss point of view, ( Lexile 590L)
 
 <a href="https://www.bookdepository.com/Great-Kapok-Tree-Lynne-Cherry/9780152026141?ref=grid-view&qid=1673880321369&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004838818" rel="nofollow">Buy on Orell Füssli</a>
@@ -73,7 +73,7 @@ summary here.( Lexile 1020L)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODgxMzUzNCwtNzQxOTgzMTcwLC01OT
+eyJoaXN0b3J5IjpbLTk5ODIzNjY3OSwtNzQxOTgzMTcwLC01OT
 Q1NTY4NzYsLTU0NDIxMTAyNCwxOTQ4NDE3OTQyLDQ3OTU0NjA5
 MiwtOTI2MzkwNTY1LDE4NTk3MjUwLDIyMTQwOTU1OSwtMTY1OD
 QzNDE3MiwtMTEwMDczNDQwMSwtODYxOTQyNTQ2LDE1MDM1MzQ3
