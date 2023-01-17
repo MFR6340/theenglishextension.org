@@ -35,7 +35,7 @@ Quirky Ms. Frizzle takes her class on a trip on the Magic School Bus through an 
 <a href="https://www.bookdepository.com/Magic-School-Bus-Explores-Senses-Joanna-Cole/9780590446983?ref=grid-view&qid=1673873471036&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1002436648?sq=The%20Magic%20School%20Bus%20Explores%20the%20Senses&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
-**Included here are multiple books about Louis Braille at a variety of reading levels.  His story is compelling as boy who overcomes adversity by creating a simple but incredibly useful invention.**  
+**Included here are multiple books about Louis Braille at a variety of reading levels.  The true story about boy who overcomes adversity by creating a simple but incredibly useful invention is compelling and inspirational.**  
 ### Six Dots, A Story of Young Louis Braille, by Jen Bryant
 
 <img src="https://imgur.com/NJxodvq.png" width="25%" />
@@ -99,7 +99,7 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzUxNzcxMCwzMzMwNjU2MDQsLTE4Mz
+eyJoaXN0b3J5IjpbMTAzODEwMzk5MCwzMzMwNjU2MDQsLTE4Mz
 I1NjgzODQsMTkwMzc3NzAxNSwzODAxMDQ3OTIsLTEzNDU2NDE5
 NjgsNDczNzU2MzA1LC04MzU4OTM2OTMsLTY1NTc0MzM5NywxMT
 A3NjkzNzAwLDE4NjAwNDUxNzgsLTY4MDM5NzA1MSwxMTg4OTk1
