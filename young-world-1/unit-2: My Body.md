@@ -1,7 +1,7 @@
 # Young World 1, Unit 2: My Body
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-**In this Klett unit, students learn vocabulary related to parts of the body, the skeleton, skin, and muscles.  Here are some suggestions for Native English speakers to delve deeper into this theme:**
+**In this Klett unit, students learn vocabulary related to parts of the body, the skeleton, skin, and muscles.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 ## The Way We Work, David Macaulay
 
 <img src="https://imgur.com/0WE9nQ5.png
@@ -67,7 +67,7 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 The exhibition BodyWorlds is not currently showing in Switzerland, but one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTY1ODEzMiwtNTkxMjkwMzEyLC0yOD
+eyJoaXN0b3J5IjpbMTU3ODE1ODQ3NiwtNTkxMjkwMzEyLC0yOD
 AyNDgzNywtMTU2NjkyOTc1NCwzMjUxODQ1MTIsLTE2MjQ0MDc1
 MjAsMTM4NjA2NTE2MCwyMTA4OTU1Nzc4LC0yNjkzMjA3MjMsOD
 EzMTM0NTIsLTIzODE0MjIwOCwxMzM5MjY3ODkyLC0yMDkzMTQ4
