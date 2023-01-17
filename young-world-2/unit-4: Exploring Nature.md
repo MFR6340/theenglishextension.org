@@ -66,16 +66,16 @@ In the rainforest, a man falls asleep, exhausted after trying to cut down a gian
 
 <img src="https://imgur.com/p7BPDMw.png" width="25%" />
 
-A classic.  Set in central India, this famous story tells the tale of of Mowgli, a boy who is raised by a pack of wolves. He's taught the laws of the jungle by  bear and ( Lexile 1020L)
+An essential classic.  Set in central India, this famous story tells the tale of of Mowgli, a boy who is raised by a pack of wolves. He meets Shere Khan, the tiger, Baloo the bear, and a panther and learns the laws of the jungle. ( Lexile 1020L)
 
 <a href="https://www.bookdepository.com/Jungle-Book-Rudyard-Kipling/9780141325293?ref=grid-view&qid=1665843348245&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MDYxMDQzMiwtNzQxOTgzMTcwLC01OT
-Q1NTY4NzYsLTU0NDIxMTAyNCwxOTQ4NDE3OTQyLDQ3OTU0NjA5
-MiwtOTI2MzkwNTY1LDE4NTk3MjUwLDIyMTQwOTU1OSwtMTY1OD
-QzNDE3MiwtMTEwMDczNDQwMSwtODYxOTQyNTQ2LDE1MDM1MzQ3
-NDhdfQ==
+eyJoaXN0b3J5IjpbLTExMDkwNTY3MjAsLTc0MTk4MzE3MCwtNT
+k0NTU2ODc2LC01NDQyMTEwMjQsMTk0ODQxNzk0Miw0Nzk1NDYw
+OTIsLTkyNjM5MDU2NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NT
+g0MzQxNzIsLTExMDA3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0
+NzQ4XX0=
 -->
