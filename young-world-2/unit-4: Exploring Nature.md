@@ -37,7 +37,7 @@ At some point during Oberstufe (Swiss Middle School), there's a huge chance your
 
 <img src="https://i.imgur.com/7ku9Sld.png" width="25%" />
 
-Here's another book by Gary Paulsen, prolific American author.  Known for "Hatchet", which summary here.( Lexile 1030L)
+Here's another book by Gary Paulsen, prolific American author of both fiction and non-fiction.  "Gone to the Woods" is a biography of his childhood.   ( Lexile 1030L)
 
 <a href="https://www.bookdepository.com/Gone-the-Woods-True-Story-of-Growing-Up-in-the-Wild-Gary-Paulsen/9781529047721" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059151245" rel="nofollow">Buy on Orell Füssli</a>
@@ -48,7 +48,7 @@ Here's another book by Gary Paulsen, prolific American author.  Known for "Hatch
 
 <img src="https://i.imgur.com/Bg066im.jpg" width="25%" />
 
-summary here. (no Lexile level)
+Poetry isummary here. (no Lexile level)
 
 <a href="https://www.bookdepository.com/Gone-Camping-Novel-Verse-Tamera-Will-Wissinger/9781328596345?ref=grid-view&qid=1673878569329&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052920702" rel="nofollow">Buy on Orell Füssli</a>
@@ -73,8 +73,8 @@ summary here.( Lexile 1020L)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1ODQ1MzU1LC01OTQ1NTY4NzYsLTU0ND
-IxMTAyNCwxOTQ4NDE3OTQyLDQ3OTU0NjA5MiwtOTI2MzkwNTY1
-LDE4NTk3MjUwLDIyMTQwOTU1OSwtMTY1ODQzNDE3MiwtMTEwMD
-czNDQwMSwtODYxOTQyNTQ2LDE1MDM1MzQ3NDhdfQ==
+eyJoaXN0b3J5IjpbLTEzNzM3OTYwNTIsLTU5NDU1Njg3NiwtNT
+Q0MjExMDI0LDE5NDg0MTc5NDIsNDc5NTQ2MDkyLC05MjYzOTA1
+NjUsMTg1OTcyNTAsMjIxNDA5NTU5LC0xNjU4NDM0MTcyLC0xMT
+AwNzM0NDAxLC04NjE5NDI1NDYsMTUwMzUzNDc0OF19
 -->
