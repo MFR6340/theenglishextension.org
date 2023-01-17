@@ -66,16 +66,16 @@ In the rainforest, a man falls asleep, exhausted after trying to cut down a gian
 
 <img src="https://imgur.com/p7BPDMw.png" width="25%" />
 
-summary here.( Lexile 1020L)
+A classic.  The story of Mowgli, a boy abandoned in the jungle and saved by a wolf pack. ( Lexile 1020L)
 
 <a href="https://www.bookdepository.com/Jungle-Book-Rudyard-Kipling/9780141325293?ref=grid-view&qid=1665843348245&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTU1MDE1NCwtNzQxOTgzMTcwLC01OT
-Q1NTY4NzYsLTU0NDIxMTAyNCwxOTQ4NDE3OTQyLDQ3OTU0NjA5
-MiwtOTI2MzkwNTY1LDE4NTk3MjUwLDIyMTQwOTU1OSwtMTY1OD
-QzNDE3MiwtMTEwMDczNDQwMSwtODYxOTQyNTQ2LDE1MDM1MzQ3
-NDhdfQ==
+eyJoaXN0b3J5IjpbLTEzNzQ3NjE4NDgsLTc0MTk4MzE3MCwtNT
+k0NTU2ODc2LC01NDQyMTEwMjQsMTk0ODQxNzk0Miw0Nzk1NDYw
+OTIsLTkyNjM5MDU2NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NT
+g0MzQxNzIsLTExMDA3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0
+NzQ4XX0=
 -->
