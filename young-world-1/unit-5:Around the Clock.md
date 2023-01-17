@@ -1,7 +1,7 @@
 # Young World 1, Unit 5: Around the Clock
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-**This unit covers time zones, school days around the world, and events that happen throughout the day.  Here are some suggestions for Native English speakers to delve deeper into this theme:**
+**This unit covers time zones, school days around the world, and events that happen throughout the day.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 
 ## Non-Fiction Books 
 ### The Story of Clocks and Calendars, by Betsy Maestro
@@ -87,7 +87,7 @@ Switzerland, world-famous for its clocks and watches, has 7 public museums focus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTMxNTg4MywtMjk1OTM4MTgsLTQxOD
+eyJoaXN0b3J5IjpbMTc3OTM1MDQ3NSwtMjk1OTM4MTgsLTQxOD
 gzOTEzNCwxNjI4NjY2NjgwLC0xMTM1NDEwNDc0LDEzNDQzNDMw
 MCwtNTIxNTY1NzU5LDM1MjE1OTYzNCw0NjUzNDU3MywtMTYyMj
 gxMjIxLC03MTI4MjYxMjksMTMyNTkwMDEyMywyMTEyODExNjQz
