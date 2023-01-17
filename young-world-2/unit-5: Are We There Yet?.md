@@ -2,7 +2,7 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-**This unit covers Transportation including the reasons for transportation, logical transportation options, the history of the bicycle, and unusual means of transportation.**
+**This unit covers Transportation including the reasons for transportation, logical transportation options, the history of the bicycle, and unusual means of transportation.  Here are some suggestions for native English speakers to delve deeper into the transportation theme:**
 
 ## Carry On, Mr. Bowditch, by Jean Lee Latham
 
@@ -52,5 +52,5 @@ summary here. (Lexile )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1OTM4NTczMF19
+eyJoaXN0b3J5IjpbMTYxNjA3MjAzN119
 -->
