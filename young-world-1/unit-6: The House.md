@@ -13,7 +13,9 @@ summary here. (Lexile level)
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059707722" rel="nofollow"> Buy on Orell Füssli</a>
 
 
+## Supplemental Activities
 
+There is no better place than Ballenberg Open-Air Museum to see houses from 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDE5MTUzOSwtODkxODg0ODkzXX0=
+eyJoaXN0b3J5IjpbMjA4NDg1NDE0MywtODkxODg0ODkzXX0=
 -->
