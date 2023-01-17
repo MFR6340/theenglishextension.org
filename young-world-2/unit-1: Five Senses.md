@@ -26,11 +26,11 @@ A poor Turkish boy was born totally blind, yet learned how to paint, including u
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038137025" rel="nofollow">Buy on Orell Füssli</a>
 
 
-##  The Magic School Bus Explores the Senses, by Joanna Cole 
+###  The Magic School Bus Explores the Senses, by Joanna Cole 
 
 <img src="https://i.imgur.com/kiJ2NaN.png" width="35%" />
 
-Quirky Ms. Frizzle takes her class on a trip on the Magic School Bus through an eye, a dog's nose, an ear a tongue.   (Lexile AD690L)
+Quirky Ms. Frizzle takes her class on a trip on the Magic School Bus through an eye, a dog's nose, an ear a tongue.  Presented in a fun story while learning more about both human and animal senses.  Also available as an animated show on Netflix.  (Lexile AD690L)
 
 <a href="https://www.bookdepository.com/Magic-School-Bus-Explores-Senses-Joanna-Cole/9780590446983?ref=grid-view&qid=1673873471036&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1002436648?sq=The%20Magic%20School%20Bus%20Explores%20the%20Senses&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -99,7 +99,7 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjg0MzE2MCwzMzMwNjU2MDQsLTE4Mz
+eyJoaXN0b3J5IjpbMTIzNzUxNzcxMCwzMzMwNjU2MDQsLTE4Mz
 I1NjgzODQsMTkwMzc3NzAxNSwzODAxMDQ3OTIsLTEzNDU2NDE5
 NjgsNDczNzU2MzA1LC04MzU4OTM2OTMsLTY1NTc0MzM5NywxMT
 A3NjkzNzAwLDE4NjAwNDUxNzgsLTY4MDM5NzA1MSwxMTg4OTk1
