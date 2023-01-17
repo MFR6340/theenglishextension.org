@@ -12,7 +12,7 @@
 <a href="https://www.bookdepository.com/If-You-Lived-Here-Houses-of-the-World-Giles-Laroche/9780547238920" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690154" rel="nofollow"> Buy on Orell Füssli</a>
 
-### Little House on the Prairie, by Laura Ingalls Wilder 
+###  Wonderful Houses Around the World, by Yoshio Komatsu
 
 <img src="https://i.imgur.com/S2EMoZM.png" width="35%" />
 
@@ -36,7 +36,7 @@
 There is no better place than Ballenberg Open-Air Museum which has over 100 different traditional buildings from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial and crafting buildings which are still used for demonstrations.  Listed as a heritage site of national significance, it is a wonderful way to spend a day. 
 https://www.ballenberg.ch/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTI3NTg3NDAsMTE5NTI2Mjc2LC0xMT
-Q0Mjg2OTgxLC0xMjAxNzE2MDksMTIzNjYzOTQ0LC0xNjQ2MTQz
-MzcwLDIxMTY1OTUyMTksLTg5MTg4NDg5M119
+eyJoaXN0b3J5IjpbLTg5NTY5NTU4OCwxMTk1MjYyNzYsLTExND
+QyODY5ODEsLTEyMDE3MTYwOSwxMjM2NjM5NDQsLTE2NDYxNDMz
+NzAsMjExNjU5NTIxOSwtODkxODg0ODkzXX0=
 -->
