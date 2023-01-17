@@ -30,7 +30,7 @@ A poor Turkish boy was born totally blind, yet learned how to paint, including u
 
 <img src="https://i.imgur.com/kiJ2NaN.png" width="35%" />
 
-Ms. Frizzle takes her class onSummary here.  (Lexile AD690L)
+Quirky Ms. Frizzle takes her class on a trip on the Magic School Bus through an eye, a dog's nose, an ear a tongue.   (Lexile AD690L)
 
 <a href="https://www.bookdepository.com/Magic-School-Bus-Explores-Senses-Joanna-Cole/9780590446983?ref=grid-view&qid=1673873471036&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1002436648?sq=The%20Magic%20School%20Bus%20Explores%20the%20Senses&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -99,11 +99,11 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODEwMDY1OTcsMzMzMDY1NjA0LC0xOD
-MyNTY4Mzg0LDE5MDM3NzcwMTUsMzgwMTA0NzkyLC0xMzQ1NjQx
-OTY4LDQ3Mzc1NjMwNSwtODM1ODkzNjkzLC02NTU3NDMzOTcsMT
-EwNzY5MzcwMCwxODYwMDQ1MTc4LC02ODAzOTcwNTEsMTE4ODk5
-NTEzNSwtNTAzOTY5NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1ND
-csMjk1NTE5MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQz
-OTA1XX0=
+eyJoaXN0b3J5IjpbMTQwMjg0MzE2MCwzMzMwNjU2MDQsLTE4Mz
+I1NjgzODQsMTkwMzc3NzAxNSwzODAxMDQ3OTIsLTEzNDU2NDE5
+NjgsNDczNzU2MzA1LC04MzU4OTM2OTMsLTY1NTc0MzM5NywxMT
+A3NjkzNzAwLDE4NjAwNDUxNzgsLTY4MDM5NzA1MSwxMTg4OTk1
+MTM1LC01MDM5Njk0ODksLTE5Mjk1NDE4MSwtMTc5NTI1MzU0Ny
+wyOTU1MTkzNDQsMjEwMTAzMTA0MywxMzc3MDUwMjA3LDY2NDM5
+MDVdfQ==
 -->
