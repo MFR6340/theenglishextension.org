@@ -27,11 +27,10 @@ summary here.(no Lexile level available)
 <a href="https://www.amazon.com/Justin-Codys-Race-to-Survival/dp/0997476834/ref=sr_1_1?adid=082VK13VJJCZTQYGWWCZ&campaign=211041&creative=374001&keywords=Race+to+Survival&qid=1673878233&s=books&sr=1-1" rel="nofollow"> Buy on Amazon</a>  
 
 ### Guts, by Gary Paulsen
-<img src="https://i.imgur.com/iPL74ef.png" width="25%" />
+<img src="https://i.imgur.com/iPL74ef.png" width="35%" />
 
-summary here.( Lexile NC1230L)
-
-At some point during Oberstufe, there's a huge chance that your child will be required to read "Hatchet",  a fictional book by Gary Paulsen.  "Guts" are the no <a href="https://www.bookdepository.com/Guts-Gary-Paulsen/9780440407126?ref=grid-view&qid=1673879187868&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+At some point during Oberstufe (Swiss Middle School), there's a huge chance your child will be required to read "Hatchet",  a fictional book by Gary Paulsen.  "Guts" are the real stories behind "Hatchet" of surviving in the woods.  ( Lexile NC1230L) 
+<a href="https://www.bookdepository.com/Guts-Gary-Paulsen/9780440407126?ref=grid-view&qid=1673879187868&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006227112" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Gone to the Woods,  A True Story of  Growing up in the Wild, by Gary Paulsen
@@ -74,8 +73,8 @@ summary here.( Lexile 1020L)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ3NTA0NDgsLTU5NDU1Njg3NiwtNT
-Q0MjExMDI0LDE5NDg0MTc5NDIsNDc5NTQ2MDkyLC05MjYzOTA1
-NjUsMTg1OTcyNTAsMjIxNDA5NTU5LC0xNjU4NDM0MTcyLC0xMT
-AwNzM0NDAxLC04NjE5NDI1NDYsMTUwMzUzNDc0OF19
+eyJoaXN0b3J5IjpbMTIzMDE5MzY3MCwtNTk0NTU2ODc2LC01ND
+QyMTEwMjQsMTk0ODQxNzk0Miw0Nzk1NDYwOTIsLTkyNjM5MDU2
+NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NTg0MzQxNzIsLTExMD
+A3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0NzQ4XX0=
 -->
