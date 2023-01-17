@@ -2,7 +2,7 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.* 
 
-This unit discusses school buildings, classrooms, school timetable, uniforms.
+This unit discusses school buildings, classrooms, school timetable, uniforms.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 
 
 
@@ -48,5 +48,6 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDE5MDc4LDE1NzMwMjYyMjVdfQ==
+eyJoaXN0b3J5IjpbLTE0MjU2NjgwMzIsMTEzNDE5MDc4LDE1Nz
+MwMjYyMjVdfQ==
 -->
