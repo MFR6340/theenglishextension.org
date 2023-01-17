@@ -18,7 +18,7 @@ summary here.(Lexile 930L)
 
 
 ## Non-Fiction
-### Race to Survival,by Cliff Jacobson
+### Race to Survival, by Cliff Jacobson
 
 <img src="https://i.imgur.com/NZ9mxjg.png" width="25%" />
 
@@ -39,7 +39,6 @@ summary here.( Lexile NC1230L)
 <img src="https://i.imgur.com/7ku9Sld.png" width="25%" />
 
 summary here.( Lexile 1030L)
-
 
 <a href="https://www.bookdepository.com/Gone-the-Woods-True-Story-of-Growing-Up-in-the-Wild-Gary-Paulsen/9781529047721" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059151245" rel="nofollow">Buy on Orell Füssli</a>
@@ -75,7 +74,7 @@ summary here.( Lexile 1020L)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTY1MDA2NSwtNTk0NTU2ODc2LC01ND
+eyJoaXN0b3J5IjpbLTM4MzUwODIzNSwtNTk0NTU2ODc2LC01ND
 QyMTEwMjQsMTk0ODQxNzk0Miw0Nzk1NDYwOTIsLTkyNjM5MDU2
 NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NTg0MzQxNzIsLTExMD
 A3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0NzQ4XX0=
