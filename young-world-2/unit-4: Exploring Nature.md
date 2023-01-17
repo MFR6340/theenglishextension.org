@@ -31,7 +31,7 @@ summary here.(no Lexile level available)
 
 summary here.( Lexile NC1230L)
 
-<a href="https://www.bookdepository.com/Guts-Gary-Paulsen/9780440407126?ref=grid-view&qid=1673879187868&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+At some point during Oberstufe, there's a huge chance that your child will be required to read "Hatchet",  a fictional book by Gary Paulsen.  "Guts" are the no <a href="https://www.bookdepository.com/Guts-Gary-Paulsen/9780440407126?ref=grid-view&qid=1673879187868&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006227112" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Gone to the Woods,  A True Story of  Growing up in the Wild, by Gary Paulsen
@@ -74,8 +74,8 @@ summary here.( Lexile 1020L)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MzUwODIzNSwtNTk0NTU2ODc2LC01ND
-QyMTEwMjQsMTk0ODQxNzk0Miw0Nzk1NDYwOTIsLTkyNjM5MDU2
-NSwxODU5NzI1MCwyMjE0MDk1NTksLTE2NTg0MzQxNzIsLTExMD
-A3MzQ0MDEsLTg2MTk0MjU0NiwxNTAzNTM0NzQ4XX0=
+eyJoaXN0b3J5IjpbLTEwNzQ3NTA0NDgsLTU5NDU1Njg3NiwtNT
+Q0MjExMDI0LDE5NDg0MTc5NDIsNDc5NTQ2MDkyLC05MjYzOTA1
+NjUsMTg1OTcyNTAsMjIxNDA5NTU5LC0xNjU4NDM0MTcyLC0xMT
+AwNzM0NDAxLC04NjE5NDI1NDYsMTUwMzUzNDc0OF19
 -->
