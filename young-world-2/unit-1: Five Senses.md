@@ -8,7 +8,8 @@ This unit is about human senses and comparing them to animal senses.
 ### Animal Senses: How Animals See, Hear, Taste, Smell and Feel by, Pamela Hickman
 
 <img src="https://i.imgur.com/rGB3XMj.png" width="45%" />
-Learn more about how various animals see, hear and smell and how it compares to our human senses.  Has ideas for experiments to better understand the differences.  (Lexile 920L)
+
+Learn more about how various animals see, hear and smell and how it compares to our human senses.  Has ideas for experiments to better understand the differences.  (Lexile 930L)
 
 <a href="https://www.bookdepository.com/Animal-Senses-Pamela-M-Hickman/9781550744231?ref=grid-view&qid=1673948141511&sr=1-7" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1005948597?sq=Animal%20Senses:%20How%20Animals%20See,%20Hear,%20Taste,%20Smell%20and%20Feel&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -29,7 +30,7 @@ A poor Turkish boy was born totally blind, yet learned how to paint, including u
 
 <img src="https://i.imgur.com/kiJ2NaN.png" width="35%" />
 
-Summary here.  (Lexile AD690L)
+Ms. Frizzle takes her class onSummary here.  (Lexile AD690L)
 
 <a href="https://www.bookdepository.com/Magic-School-Bus-Explores-Senses-Joanna-Cole/9780590446983?ref=grid-view&qid=1673873471036&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1002436648?sq=The%20Magic%20School%20Bus%20Explores%20the%20Senses&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -98,11 +99,11 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYxNDU3Njg2LDMzMzA2NTYwNCwtMTgzMj
-U2ODM4NCwxOTAzNzc3MDE1LDM4MDEwNDc5MiwtMTM0NTY0MTk2
-OCw0NzM3NTYzMDUsLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMD
-c2OTM3MDAsMTg2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUx
-MzUsLTUwMzk2OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LD
-I5NTUxOTM0NCwyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0Mzkw
-NV19
+eyJoaXN0b3J5IjpbLTExODEwMDY1OTcsMzMzMDY1NjA0LC0xOD
+MyNTY4Mzg0LDE5MDM3NzcwMTUsMzgwMTA0NzkyLC0xMzQ1NjQx
+OTY4LDQ3Mzc1NjMwNSwtODM1ODkzNjkzLC02NTU3NDMzOTcsMT
+EwNzY5MzcwMCwxODYwMDQ1MTc4LC02ODAzOTcwNTEsMTE4ODk5
+NTEzNSwtNTAzOTY5NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1ND
+csMjk1NTE5MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQz
+OTA1XX0=
 -->
