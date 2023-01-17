@@ -5,7 +5,16 @@ This unit is about human senses and comparing them to animal senses.
 
 ## Non-Fiction
 
-### Animal Senses: How Animals See, Hear, Taste, Smell and Feel by, 
+### Animal Senses: How Animals See, Hear, Taste, Smell and Feel by, Pamela Hickman
+
+<img src="https://imgur.com/E3qFwW0.png" width="35%" />
+
+A poor Turkish boy was born totally blind, yet learned how to paint, including using perspective and shadow.  (Lexile 920L)
+
+<a href="https://www.bookdepository.com/Painting-Dark-Rachelle-Burk/9781943431151?ref=grid-view&qid=1665840447877&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038137025" rel="nofollow">Buy on Orell Füssli</a>
+
+
 
 ### Painting in the Dark, by Rachelle Burke
 
@@ -90,11 +99,11 @@ Donate an audio book or make an appointment to visit the remarkable SBS Schweize
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNTA4MjkxLDMzMzA2NTYwNCwtMTgzMj
-U2ODM4NCwxOTAzNzc3MDE1LDM4MDEwNDc5MiwtMTM0NTY0MTk2
-OCw0NzM3NTYzMDUsLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMD
-c2OTM3MDAsMTg2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUx
-MzUsLTUwMzk2OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LD
-I5NTUxOTM0NCwyMTAxMDMxMDQzLDEzNzcwNTAyMDcsNjY0Mzkw
-NV19
+eyJoaXN0b3J5IjpbODMwODI2OTUsMzMzMDY1NjA0LC0xODMyNT
+Y4Mzg0LDE5MDM3NzcwMTUsMzgwMTA0NzkyLC0xMzQ1NjQxOTY4
+LDQ3Mzc1NjMwNSwtODM1ODkzNjkzLC02NTU3NDMzOTcsMTEwNz
+Y5MzcwMCwxODYwMDQ1MTc4LC02ODAzOTcwNTEsMTE4ODk5NTEz
+NSwtNTAzOTY5NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1NDcsMj
+k1NTE5MzQ0LDIxMDEwMzEwNDMsMTM3NzA1MDIwNyw2NjQzOTA1
+XX0=
 -->
