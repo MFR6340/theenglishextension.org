@@ -16,7 +16,7 @@
 
 <img src="https://i.imgur.com/jvkWz2c.png" width="35%" />
 
-This book contains photos and illustrations of  houses from ten sub-cultures around the world.  Shows the yurt in Mongolia, the Chinese tulou and the underground homes of Tunisia built from natural materials from the region.  A fascinating book for any age.  ( No Lexile level available)
+While essentially a picture book, the story of Mr. Plumbean house is much more than that.  It is a story of nonconformity and creativity and remaining true to yourself.  It's hard to believe this book isn't more wellThis book contains photos and illustrations of  houses from ten sub-cultures around the world.  Shows the yurt in Mongolia, the Chinese tulou and the underground homes of Tunisia built from natural materials from the region.  A fascinating book for any age.  ( No Lexile level available)
 
 <a href="https://www.bookdepository.com/The-Big-Orange-Splot-Daniel-Manus-Pinkwater/9780590445108" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1006324946?sq=The%20Big%20Orange%20Splot&stype=productName" rel="nofollow"> Buy on Orell Füssli</a>
@@ -38,8 +38,8 @@ This book contains photos and illustrations of  houses from ten sub-cultures aro
 There is no better place than Ballenberg Open-Air Museum which has over 100 different traditional buildings from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial and crafting buildings which are still used for demonstrations.  Listed as a heritage site of national significance, it is a wonderful way to spend a day. 
 https://www.ballenberg.ch/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQ0NjkxODgsMjA0Nzg3MzAxNSw5OT
-UyMDY3MDQsMTE5NTI2Mjc2LC0xMTQ0Mjg2OTgxLC0xMjAxNzE2
-MDksMTIzNjYzOTQ0LC0xNjQ2MTQzMzcwLDIxMTY1OTUyMTksLT
-g5MTg4NDg5M119
+eyJoaXN0b3J5IjpbMTA1NzgyMzM2NywtMTQ4NDQ2OTE4OCwyMD
+Q3ODczMDE1LDk5NTIwNjcwNCwxMTk1MjYyNzYsLTExNDQyODY5
+ODEsLTEyMDE3MTYwOSwxMjM2NjM5NDQsLTE2NDYxNDMzNzAsMj
+ExNjU5NTIxOSwtODkxODg0ODkzXX0=
 -->
