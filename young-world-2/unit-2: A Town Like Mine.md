@@ -39,7 +39,7 @@ summary here. (lexile 1000L)
 
 <img src="https://i.imgur.com/XFBCugf.png" width="25%" />
 
-summary here.( Lexile 760L)
+Carrie and her brother Nick are evacuted from London .( Lexile 760L)
 
 <a href="https://www.bookdepository.com/Carrie-s-War/9780349009162" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -47,7 +47,7 @@ summary here.( Lexile 760L)
 
 <img src="https://i.imgur.com/7hoyUhH.png" width="25%" />
 
-Like, Carrie's War, children in world war II are forced to leave the city of London and evacuated to the country.  Three siblings are sent to Dorset, where they are happy with their new surroundings. A turn of events brings them back to London to find their parents where the see the changes that have been wrought.   A ( no Lexile level available)
+Like, Carrie's War, children in world war II are forced to leave the city of London and evacuated to the country.  Three siblings are sent to Dorset, where they are happy with their new surroundings. A turn of events brings them back to London to find their parents where the see the changes that have been wrought.   A classic adventure story based on the author's real experiences.  ( no Lexile level available)
 
 <a href="https://www.bookdepository.com/When-Siren-Wailed-Noel-Streatfeild/9781510109902?ref=grid-view&qid=1673535364933&sr=1-2
 " rel="nofollow"> Buy on BookDepository</a>  
@@ -56,8 +56,8 @@ Like, Carrie's War, children in world war II are forced to leave the city of Lon
 # Supplemental Activities
 Sometimes we learn more about other cities when we are traveling than the ones that are right at our doorstep.  It doesn't have to be so! Learn more about the cities that are nearby and learn the stories behind the buildings you walk past every day.  Free Walk offers free tours in 13 cities in Switzerland.  If you like what you learned, give your tour guide a nice tip at the end.  https://www.freewalk.ch/swiss/#cities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwOTk4MTU1MywtOTE3NjQ0OTQ2LDE4OD
-YyNzMyMjgsLTEzODAyOTcyOTUsODM2NTQ0OTA5LC0yNTUwMDcz
-MzMsLTE4OTY0MjQzNjYsLTE1NTE2MzE5OTksNTU5OTUwMDM3LC
-0xODc1MzQzOTEsLTMxMDYyMTQyMl19
+eyJoaXN0b3J5IjpbMTc0MzkwNjI1LC05MTc2NDQ5NDYsMTg4Nj
+I3MzIyOCwtMTM4MDI5NzI5NSw4MzY1NDQ5MDksLTI1NTAwNzMz
+MywtMTg5NjQyNDM2NiwtMTU1MTYzMTk5OSw1NTk5NTAwMzcsLT
+E4NzUzNDM5MSwtMzEwNjIxNDIyXX0=
 -->
