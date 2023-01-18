@@ -67,6 +67,10 @@ summary here.
 <a href=https://www.orellfuessli.ch/shop/home/artikeldetails/A1043683097" rel="nofollow">Buy on Orell Füssli</a>
 
 
+## Supplemental Activities
+Who would imagine that there would be a museum exhibition on friendship.  But for a short time only, there it!  Seriously!  
+https://migrosmuseum.ch/en/exhibitions/acts-of-friendship?lang=en
+
 International Friendship Day is the first Sunday of August, in 2023 it's August 6th.  Do something special for and with a friend.  Like the Mad Hatter and March Hare in Alice in Wonderland, have a tea party, or like Charlotte in Charlotte's Web, write something special about your friend. 
 
 
@@ -74,6 +78,6 @@ International Friendship Day is the first Sunday of August, in 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODU3NDcwOSwzMTg2MTA3MjMsMTE0Nj
-A3MzI0N119
+eyJoaXN0b3J5IjpbMjAwOTYxODc0MywxMzY4NTc0NzA5LDMxOD
+YxMDcyMywxMTQ2MDczMjQ3XX0=
 -->
