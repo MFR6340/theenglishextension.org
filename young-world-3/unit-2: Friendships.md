@@ -95,7 +95,7 @@ summary here.  (Lexile )
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
 
 ## LIar and Spy, by Rebecca Stead
-<img src="https://imgur.com/naCrhxz.png" width="25%" />
+<img src="https://i.imgur.com/EpgD5sN.png" width="25%" />
 
 summary here.  (Lexile )  
 
@@ -124,8 +124,8 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NzMwMzgsLTE1NzQ4MzQ2MjQsLTEzMD
-AzNzEyNDQsLTEyNDYyMTM4NzMsMTA4MjUyNTg5NSwtMTI3NDk5
-MDY2MiwtMTc4ODY0NzA0OSwxMzY4NTc0NzA5LDMxODYxMDcyMy
-wxMTQ2MDczMjQ3XX0=
+eyJoaXN0b3J5IjpbLTQ0OTgxNjg0NSwtMTU3NDgzNDYyNCwtMT
+MwMDM3MTI0NCwtMTI0NjIxMzg3MywxMDgyNTI1ODk1LC0xMjc0
+OTkwNjYyLC0xNzg4NjQ3MDQ5LDEzNjg1NzQ3MDksMzE4NjEwNz
+IzLDExNDYwNzMyNDddfQ==
 -->
