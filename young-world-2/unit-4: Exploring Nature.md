@@ -71,11 +71,12 @@ An essential classic.  Set in central India, this famous story tells the tale of
 <a href="https://www.bookdepository.com/Jungle-Book-Rudyard-Kipling/9780141325293?ref=grid-view&qid=1665843348245&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
 
-
+Jungle Trek 
+https://www.papiliorama.ch/en/our-live-exhibits/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDgzMzI2NiwtNzQxOTgzMTcwLC01OT
-Q1NTY4NzYsLTU0NDIxMTAyNCwxOTQ4NDE3OTQyLDQ3OTU0NjA5
-MiwtOTI2MzkwNTY1LDE4NTk3MjUwLDIyMTQwOTU1OSwtMTY1OD
-QzNDE3MiwtMTEwMDczNDQwMSwtODYxOTQyNTQ2LDE1MDM1MzQ3
-NDhdfQ==
+eyJoaXN0b3J5IjpbMTgyODYyNDQxLC03NDE5ODMxNzAsLTU5ND
+U1Njg3NiwtNTQ0MjExMDI0LDE5NDg0MTc5NDIsNDc5NTQ2MDky
+LC05MjYzOTA1NjUsMTg1OTcyNTAsMjIxNDA5NTU5LC0xNjU4ND
+M0MTcyLC0xMTAwNzM0NDAxLC04NjE5NDI1NDYsMTUwMzUzNDc0
+OF19
 -->
