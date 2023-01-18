@@ -33,11 +33,11 @@ summary here.
 <a href="https://www.bookdepository.com/Boy-Who-Harnessed-Wind-William-Kamkwamba/9780147510426?ref=grid-view&qid=1665854100400&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 
-## Harry Potter and the philosopher's stone, by J. K. Rowling
+## Harry Potter and the Philosopher's Stone, by J. K. Rowling
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
-summary here.
+summary here.  (Lexile )  
 
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
@@ -48,6 +48,7 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3MDU3NjA4LDExODU2MjU3MjgsLTE0Mj
-U2NjgwMzIsMTEzNDE5MDc4LDE1NzMwMjYyMjVdfQ==
+eyJoaXN0b3J5IjpbLTE2MTY0NjM1ODAsNTE3MDU3NjA4LDExOD
+U2MjU3MjgsLTE0MjU2NjgwMzIsMTEzNDE5MDc4LDE1NzMwMjYy
+MjVdfQ==
 -->
