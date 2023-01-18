@@ -60,11 +60,11 @@ Summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1065204796
 " rel="nofollow">Buy on Orell Füssli</a>
 
-## Linked, by Gordon Korman
-<img src="https://i.imgur.com/U0OkMM1.png" width="25%" />
+## If I Built a School, by Chris Van Dusen
+<img src="https://i.imgur.com/UfgxKWA.png" width="25%" />
 
 Summary here.
-( Lexile 750L)
+(Lexile AD610L)
 <a href="https://www.bookdepository.com/Linked-Gordon-Korman/9781338629132?ref=grid-view&qid=1674046322823&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1065204796
 " rel="nofollow">Buy on Orell Füssli</a>
@@ -79,7 +79,7 @@ Summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODU2MTIxNiw3MDg1MjU1ODcsMTYzMz
+eyJoaXN0b3J5IjpbMTc1Mzg4MzYxMSw3MDg1MjU1ODcsMTYzMz
 UxMzI5MSwtMTYxNjQ2MzU4MCw1MTcwNTc2MDgsMTE4NTYyNTcy
 OCwtMTQyNTY2ODAzMiwxMTM0MTkwNzgsMTU3MzAyNjIyNV19
 -->
