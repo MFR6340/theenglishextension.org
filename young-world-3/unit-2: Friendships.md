@@ -104,10 +104,10 @@ summary here.  (Lexile )
 
 ## The Song from Somewhere Else, by AF Harrold
 
+<img src="https://i.imgur.com/JH1m5Xw.png" width="25%" />
 
-<img src="https://i.imgur.com/EpgD5sN.png" width="25%" />
 summary here.
-  (Lexile )  
+  (Lexile  690L)  
 
 <a href="https://www.bookdepository.com/Song-from-Somewhere-Else-F-Harrold/9781408884751?ref=grid-view&qid=1674049448289&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1045131642" rel="nofollow">Buy on Orell Füssli</a>
@@ -125,7 +125,7 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzM4MDQ3NiwxOTA5NTQ1MDI4LC00ND
+eyJoaXN0b3J5IjpbMTgyOTE3OTE1MSwxOTA5NTQ1MDI4LC00ND
 k4MTY4NDUsLTE1NzQ4MzQ2MjQsLTEzMDAzNzEyNDQsLTEyNDYy
 MTM4NzMsMTA4MjUyNTg5NSwtMTI3NDk5MDY2MiwtMTc4ODY0Nz
 A0OSwxMzY4NTc0NzA5LDMxODYxMDcyMywxMTQ2MDczMjQ3XX0=
