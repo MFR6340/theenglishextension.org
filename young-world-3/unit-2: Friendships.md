@@ -14,7 +14,7 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036138534" rel="nofollow">Buy on Orell Füssli</a>
 
 
-## Winnie-the-Pooh, by
+## Winnie-the-Pooh, by A.A. Milne
 <img src="https://i.imgur.com/inJU72d.png" width="25%" />
 
 One is never too old to read these classic tales of a hungry bear and his friends in the forest. (Lexile: 790L)
@@ -23,7 +23,7 @@ One is never too old to read these classic tales of a hungry bear and his friend
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039078115" rel="nofollow">Buy on Orell Füssli</a>
 
 
-## The Yearling
+## The Yearling, by
 <img src="https://i.imgur.com/9byDLFn.png" width="25%" />
 
 A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn. (Lexile 750L)
@@ -80,6 +80,6 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1NDM4NzI5LC0xNzg4NjQ3MDQ5LDEzNj
-g1NzQ3MDksMzE4NjEwNzIzLDExNDYwNzMyNDddfQ==
+eyJoaXN0b3J5IjpbLTIwMzA0MTkzNjcsLTE3ODg2NDcwNDksMT
+M2ODU3NDcwOSwzMTg2MTA3MjMsMTE0NjA3MzI0N119
 -->
