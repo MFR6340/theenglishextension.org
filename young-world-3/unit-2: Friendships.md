@@ -66,6 +66,15 @@ summary here.
 <a href="https://www.bookdepository.com/Bridge-Terabithia-Katherine-Paterson/9780061227288?ref=grid-view&qid=1665855943316&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href=https://www.orellfuessli.ch/shop/home/artikeldetails/A1043683097" rel="nofollow">Buy on Orell Füssli</a>
 
+## Cricket in Times Square, by George Selden
+
+<img src="https://i.imgur.com/VmP0bSZ.png" width="25%" />
+
+summary here.
+
+<a href="https://www.bookdepository.com/Hundred-Dresses-Eleanor-Estes/9780152052607?ref=grid-view&qid=1665855691211&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006423614" rel="nofollow">Buy on Orell Füssli</a>
+
 
 ## Supplemental Activities
 Who would imagine that there would be a museum exhibition on friendship?  But for a short time only, there it!  Seriously!  From January 28 to September 17 2023 the Migros Museum für Gegenwartskunst (Museum of Contemporary Art) in Zurich is holding an exhibition in multiple parts with 30 different works representing various aspects of friendship.  (Part 1: Jan. 28-Apr. 2, Part 2: Apr. 5-May 28, Part 3: 10. June -Sept. 17)  Contemporary art can be quite bold, so this should be an interesting medium to discuss what friendship really.  Even better, on Thursdays from 5-8 pm there's free admission. 
@@ -80,6 +89,7 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ5OTA2NjIsLTE3ODg2NDcwNDksMT
-M2ODU3NDcwOSwzMTg2MTA3MjMsMTE0NjA3MzI0N119
+eyJoaXN0b3J5IjpbMTA4MjUyNTg5NSwtMTI3NDk5MDY2MiwtMT
+c4ODY0NzA0OSwxMzY4NTc0NzA5LDMxODYxMDcyMywxMTQ2MDcz
+MjQ3XX0=
 -->
