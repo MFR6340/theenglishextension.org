@@ -6,7 +6,7 @@
 
 
 ## Supplemental Activities
-While this unit focuses on ocean lifeAquatis focuses on learning more about freshwater ecosystems on five continents.  hahttps://www.aquatis.ch/en/ 
+While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting extension.  Compare animals that live in salt-water vs fresh-water and the obstacles they face.  Aquatis focuses on learning more about freshwater ecosystems on five continents.  hahttps://www.aquatis.ch/en/ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODEzMDE5MSwzMzM0MjgyMTVdfQ==
+eyJoaXN0b3J5IjpbMTk4MjEwMzA1MywzMzM0MjgyMTVdfQ==
 -->
