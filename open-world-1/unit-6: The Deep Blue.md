@@ -6,7 +6,8 @@
 
 
 ## Supplemental Activities
-While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting and useful extension.  Try visiting <a href="https://www.sbs.ch/english/" rel="nofollow">Aquatis</a> Aquatis which focuses on freshwater ecosystems on five continents. Compare animals that live in salt-water vs fresh-water and the obstacles they face.   hahttps://www.aquatis.ch/en/ 
+
+While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting and useful extension.  Try visiting <a href="https://www.aquatis.ch/en/ " rel="nofollow">Aquatis </a> in Lausanne which focuses on freshwater ecosystems on five continents. Compare animals that live in salt-water vs fresh-water , their survival techniques and the obstacles they face.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDExNzkzNDUsMzMzNDI4MjE1XX0=
+eyJoaXN0b3J5IjpbLTIwMTcwOTk4NzgsMzMzNDI4MjE1XX0=
 -->
