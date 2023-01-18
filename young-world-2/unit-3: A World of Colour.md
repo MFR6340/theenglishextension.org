@@ -1,7 +1,7 @@
 # Young World 2, Unit 3: A World of Colour
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-**This unit covers artists, famous paintings, working with colour, museums, optical illusions, and mentions a few Swiss artists.  Here are some suggestions for native English speakers to delve deeper into this theme:**
+**This unit covers artists, famous paintings, working with colour, museums, optical illusions, and mentions a few Swiss artists.  Here are some suggestions for native English speakers to delve deeper into the themes of colour and art:**
 
 
 ## Ish, by Peter H. Reynolds
@@ -66,7 +66,10 @@ This museum in Lucern has works by Swiss artist Paul Klee, as well as other Clas
 On page 27, is a sculpture by Swiss artist Claire Ochsner which can be seen in person in Zug near Metalli and the train station.  She has many more sculptures all over Switzerland.  She also has a sculpture garden in Frenkendorf, ten minutes from Basel, which is open from 16.00-18.00 every Friday.  http://www.claire-ochsner.ch/skulpturgarten/
 
 ### Visit a Church
-	In the 1970s, Artist Marc Chagall created a five-part stained-glass window series and a rosette for the <a href="https://www.fraumuenster.ch/4.php?read_category=2770" rel="nofollow">Fraumünster Church</a>  in Zurich.  These colorful windows are by visitors from all over the world.  
+
+In the 1970s, Artist Marc Chagall created a five-part stained-glass window series and a rosette for the <a href="https://www.fraumuenster.ch/4.php?read_category=2770" rel="nofollow">Fraumünster Church</a>  in Zurich.  These colorful windows are by visitors from all over the world.  
+	
+
 
 <img src="https://i.imgur.com/gTD7QYj.png" width="45%" />
 
@@ -86,6 +89,6 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMDM0NDQ3LDU4MDkzMzA1NiwtMzIwNz
+eyJoaXN0b3J5IjpbLTQ3OTg5NzQ0LDU4MDkzMzA1NiwtMzIwNz
 MzNTU0LDE2Mzg5Njk1MTddfQ==
 -->
