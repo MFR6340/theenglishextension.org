@@ -94,6 +94,22 @@ summary here.  (Lexile )
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
 
+## LIar and Spy, by Rebecca Stead
+<img src="https://imgur.com/naCrhxz.png" width="25%" />
+
+summary here.  (Lexile )  
+
+<a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
+
+## Harry Potter and the Philosopher's Stone, by J. K. Rowling
+
+<img src="https://imgur.com/naCrhxz.png" width="25%" />
+
+summary here.  (Lexile )  
+
+<a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Supplemental Activities
 Who would imagine that there would be a museum exhibition on friendship?  But for a short time only, there it!  Seriously!  From January 28 to September 17 2023 the Migros Museum für Gegenwartskunst (Museum of Contemporary Art) in Zurich is holding an exhibition in multiple parts with 30 different works representing various aspects of friendship.  (Part 1: Jan. 28-Apr. 2, Part 2: Apr. 5-May 28, Part 3: 10. June -Sept. 17)  Contemporary art can be quite bold, so this should be an interesting medium to discuss what friendship really.  Even better, on Thursdays from 5-8 pm there's free admission. 
@@ -108,8 +124,8 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ4MzQ2MjQsLTEzMDAzNzEyNDQsLT
-EyNDYyMTM4NzMsMTA4MjUyNTg5NSwtMTI3NDk5MDY2MiwtMTc4
-ODY0NzA0OSwxMzY4NTc0NzA5LDMxODYxMDcyMywxMTQ2MDczMj
-Q3XX0=
+eyJoaXN0b3J5IjpbMjk4NzMwMzgsLTE1NzQ4MzQ2MjQsLTEzMD
+AzNzEyNDQsLTEyNDYyMTM4NzMsMTA4MjUyNTg5NSwtMTI3NDk5
+MDY2MiwtMTc4ODY0NzA0OSwxMzY4NTc0NzA5LDMxODYxMDcyMy
+wxMTQ2MDczMjQ3XX0=
 -->
