@@ -73,7 +73,7 @@ summary here.
 summary here.
 (Lexile 780L)
 
-<a href="https://www.bookdepository.com/Hundred-Dresses-Eleanor-Estes/9780152052607?ref=grid-view&qid=1665855691211&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Cricket-Times-Square-George-Selden/9780374390402?ref=grid-view&qid=1674047470378&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063464927" rel="nofollow">Buy on Orell Füssli</a>
 
 
@@ -90,7 +90,7 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NTYwMTM1LDEwODI1MjU4OTUsLTEyNz
-Q5OTA2NjIsLTE3ODg2NDcwNDksMTM2ODU3NDcwOSwzMTg2MTA3
-MjMsMTE0NjA3MzI0N119
+eyJoaXN0b3J5IjpbLTE2NzAwNzUwNTgsMTA4MjUyNTg5NSwtMT
+I3NDk5MDY2MiwtMTc4ODY0NzA0OSwxMzY4NTc0NzA5LDMxODYx
+MDcyMywxMTQ2MDczMjQ3XX0=
 -->
