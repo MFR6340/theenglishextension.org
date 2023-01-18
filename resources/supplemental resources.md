@@ -23,12 +23,21 @@ TEEO provides supplemental booklets to be used in the classroom in conjunction w
 [Fifth Grade, Primary School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 [Sixth Grade, Primary School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-## Oberstufe
+## Audio Book recommendations
+**Audio Books**
 
-[1st Year, Oberstufe](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-[2nd Year, Oberstufe](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-[3rd Year, Oberstufe](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+  
+  
+
+ - The Adventures of Huckleberry Finn, Mark Twain. Read by Patrick
+   Fraley 
+ - Winnie the Pooh, by A.A. Milne, Read by Peter Dennis The
+   Cricket in Times Square, by George Selden, Read by Tony Shalhoub 
+ - The
+   Phantom Tollbooth, by Norton Juster, Read by David Hyde Pierce
+   Charlie and the Chocolate Factory/Charlie and the Great Glass
+   Elevator, by Roald Dahl, Read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NzUxMjc2Ml19
+eyJoaXN0b3J5IjpbLTE3MjU2MTg1ODQsMTQ1NzUxMjc2Ml19
 -->
