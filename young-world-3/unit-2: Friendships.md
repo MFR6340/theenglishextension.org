@@ -67,11 +67,13 @@ summary here.
 <a href=https://www.orellfuessli.ch/shop/home/artikeldetails/A1043683097" rel="nofollow">Buy on Orell Füssli</a>
 
 
+International Friendship Day is the first Sunday of August, in 2023 it's August 6th.  Do something special for and with a friend.  Like the Mad Hatter and March Hare in Alice in Wonderland, have a tea party, or like Charlotte in Charlott
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNTcxMzEwMSwzMTg2MTA3MjMsMTE0Nj
-A3MzI0N119
+eyJoaXN0b3J5IjpbLTE3ODA4NTEzNjgsMzE4NjEwNzIzLDExND
+YwNzMyNDddfQ==
 -->
