@@ -68,16 +68,16 @@ summary here.
 
 
 ## Supplemental Activities
-Who would imagine that there would be a museum exhibition on friendship.  But for a short time only, there it!  Seriously!  From Januaray 28 to May 28 2023 the Migros Museum of Contemporary Art in Zurich is holding an exhibition with 30 different works representing various aspects of friendship.  It should be an interesting way to discuss what friendship really is.  Even better,
+Who would imagine that there would be a museum exhibition on friendship?  But for a short time only, there it!  Seriously!  From Januaray 28 to May 28 2023 the Migros Museum für Gegenwartskunst (Museum of Contemporary Art) in Zurich is holding an exhibition with 30 different works representing various aspects of friendship.  It should be an interesting way to discuss what friendship really is.  Even better, on Thursdays from 5-8 pm, there's free admission.
 https://migrosmuseum.ch/en/exhibitions/acts-of-friendship?lang=en
 
-International Friendship Day is the first Sunday of August, in 2023 it's August 6th.  Do something special for and with a friend.  Like the Mad Hatter and March Hare in Alice in Wonderland, have a tea party, or like Charlotte in Charlotte's Web, write something special about your friend. 
+International Friendship Day is the first Sunday of August. In 2023 it's August 6th.  Do something special for and with a friend.  Like the Mad Hatter and March Hare in Alice in Wonderland, have a tea party, or like Charlotte in Charlotte's Web, write something special about your friend. 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTQyNjIxOSwxMzY4NTc0NzA5LDMxOD
+eyJoaXN0b3J5IjpbMTYyMjkzNjc3NSwxMzY4NTc0NzA5LDMxOD
 YxMDcyMywxMTQ2MDczMjQ3XX0=
 -->
