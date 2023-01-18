@@ -76,6 +76,15 @@ summary here.
 <a href="https://www.bookdepository.com/Cricket-Times-Square-George-Selden/9780374390402?ref=grid-view&qid=1674047470378&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063464927" rel="nofollow">Buy on Orell Füssli</a>
 
+## The Mouse and the Motorcycle, by Beverly Cleary
+<img src="https://i.imgur.com/VmP0bSZ.png" width="25%" />
+
+summary here.
+(Lexile 780L)
+
+<a href="https://www.bookdepository.com/Cricket-Times-Square-George-Selden/9780374390402?ref=grid-view&qid=1674047470378&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063464927" rel="nofollow">Buy on Orell Füssli</a>
+
 
 ## Supplemental Activities
 Who would imagine that there would be a museum exhibition on friendship?  But for a short time only, there it!  Seriously!  From January 28 to September 17 2023 the Migros Museum für Gegenwartskunst (Museum of Contemporary Art) in Zurich is holding an exhibition in multiple parts with 30 different works representing various aspects of friendship.  (Part 1: Jan. 28-Apr. 2, Part 2: Apr. 5-May 28, Part 3: 10. June -Sept. 17)  Contemporary art can be quite bold, so this should be an interesting medium to discuss what friendship really.  Even better, on Thursdays from 5-8 pm there's free admission. 
@@ -90,7 +99,7 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzAwNzUwNTgsMTA4MjUyNTg5NSwtMT
+eyJoaXN0b3J5IjpbLTEyNDYyMTM4NzMsMTA4MjUyNTg5NSwtMT
 I3NDk5MDY2MiwtMTc4ODY0NzA0OSwxMzY4NTc0NzA5LDMxODYx
 MDcyMywxMTQ2MDczMjQ3XX0=
 -->
