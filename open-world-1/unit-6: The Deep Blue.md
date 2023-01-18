@@ -6,7 +6,7 @@
 
 
 ## Supplemental Activities
-Aquatis focuses on https://www.aquatis.ch/en/ 
+While this unit focuses on ocean lifeAquatis focuses on learning more about freshwater ecosystems on five continents.  hahttps://www.aquatis.ch/en/ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzUzMjYzOCwzMzM0MjgyMTVdfQ==
+eyJoaXN0b3J5IjpbLTg4ODEzMDE5MSwzMzM0MjgyMTVdfQ==
 -->
