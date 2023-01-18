@@ -42,13 +42,21 @@ summary here.  (Lexile )
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
 
+## Off to Class: Incredible and Unusual Schools Around the World, by Susan Hughes
 
+<img src="https://imgur.com/3sxCIqX.png" width="25%" />
+
+Children across the globe go to school, but they don't all look the same.  See schools that are in caves, on a train platform and other creative locations in countries around the world.  Originally published in 2011, note that an updated edition was released in 2022. (Lexile 950L)
+
+<a href="https://www.bookdepository.com/Off-to-Class/9781926818863https://www.bookdepository.com/Off-Class-Updated-Edition-Susan-Hughes/9781771475792?ref=grid-view&qid=1664201519246&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063548862
+" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTY0NjM1ODAsNTE3MDU3NjA4LDExOD
-U2MjU3MjgsLTE0MjU2NjgwMzIsMTEzNDE5MDc4LDE1NzMwMjYy
-MjVdfQ==
+eyJoaXN0b3J5IjpbMTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MT
+cwNTc2MDgsMTE4NTYyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkw
+NzgsMTU3MzAyNjIyNV19
 -->
