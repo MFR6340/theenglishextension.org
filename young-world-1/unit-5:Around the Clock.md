@@ -91,15 +91,17 @@ There are some amazing and fascinating clock towers in Switzerland.
 Visit a Clock Museum
 Switzerland, world-famous for its clocks and watches, has 7 public museums focused on time-pieces and even more private ones! 
 
+https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-the-vallee-de-joux/
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Nzg4NjM1MywxMDY4MTUxNDEyLC0yOT
-U5MzgxOCwtNDE4ODM5MTM0LDE2Mjg2NjY2ODAsLTExMzU0MTA0
-NzQsMTM0NDM0MzAwLC01MjE1NjU3NTksMzUyMTU5NjM0LDQ2NT
-M0NTczLC0xNjIyODEyMjEsLTcxMjgyNjEyOSwxMzI1OTAwMTIz
-LDIxMTI4MTE2NDMsLTE1ODk0OTA3NDUsMTg4OTM3NzI2MywxMT
-AzNTEwMTkzXX0=
+eyJoaXN0b3J5IjpbMTU5NzQ2MTQ5MywtNzc3ODg2MzUzLDEwNj
+gxNTE0MTIsLTI5NTkzODE4LC00MTg4MzkxMzQsMTYyODY2NjY4
+MCwtMTEzNTQxMDQ3NCwxMzQ0MzQzMDAsLTUyMTU2NTc1OSwzNT
+IxNTk2MzQsNDY1MzQ1NzMsLTE2MjI4MTIyMSwtNzEyODI2MTI5
+LDEzMjU5MDAxMjMsMjExMjgxMTY0MywtMTU4OTQ5MDc0NSwxOD
+g5Mzc3MjYzLDExMDM1MTAxOTNdfQ==
 -->
