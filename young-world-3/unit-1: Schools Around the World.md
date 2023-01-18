@@ -51,11 +51,11 @@ Summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052836436
 " rel="nofollow">Buy on Orell Füssli</a>
 
-## The Whistling Schoolboy and Other Stories of School Life, by Ruskin Bond
+## Linked, by Gordon Korman
 <img src="https://i.imgur.com/OZjUkIb.png" width="25%" />
 
 Summary here.
-(no Lexile level available)
+( Lexile 750L)
 <a href="https://www.bookdepository.com/Whistling-Schoolboy-Other-Stories-School-Life-Ruskin-Bond/9788129135797?ref=grid-view&qid=1674045705891&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052836436
 " rel="nofollow">Buy on Orell Füssli</a>
@@ -66,7 +66,7 @@ Summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MzU5Njk0MCw3MDg1MjU1ODcsMTYzMz
+eyJoaXN0b3J5IjpbMTg4NTYwMTQ2NCw3MDg1MjU1ODcsMTYzMz
 UxMzI5MSwtMTYxNjQ2MzU4MCw1MTcwNTc2MDgsMTE4NTYyNTcy
 OCwtMTQyNTY2ODAzMiwxMTM0MTkwNzgsMTU3MzAyNjIyNV19
 -->
