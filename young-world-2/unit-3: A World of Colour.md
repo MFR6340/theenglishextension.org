@@ -65,10 +65,11 @@ This museum in Lucern has works by Swiss artist Paul Klee, as well as other Clas
  - Claire Ochsner Museum and Sculpture Garden
 On page 27, is a sculpture by Swiss artist Claire Ochsner which can be seen in person in Zug near Metalli and the train station.  She has many more sculptures all over Switzerland.  She also has a sculpture garden in Frenkendorf, ten minutes from Basel, which is open from 16.00-18.00 every Friday.  http://www.claire-ochsner.ch/skulpturgarten/
 
-Visit a Church
-	In the 1970s, Artist Marc Chagall created a five-part stained-glass window series and a rosette for the <a href="https://www.fraumuenster.ch/4.php?read_category=2770" rel="nofollow">Fraumünster Church</a>  in Zurich.  These windows are world-famous and full of color.  
+### Visit a Church
+	In the 1970s, Artist Marc Chagall created a five-part stained-glass window series and a rosette for the <a href="https://www.fraumuenster.ch/4.php?read_category=2770" rel="nofollow">Fraumünster Church</a>  in Zurich.  These colorful windows are by visitors from all over the world.  
 
-https://i.imgur.com/gTD7QYj.png
+<img src="https://i.imgur.com/gTD7QYj.png" width="45%" />
+
 
 
 
@@ -85,6 +86,6 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxMDQ4OTk0LDU4MDkzMzA1NiwtMzIwNz
+eyJoaXN0b3J5IjpbNTkzMDM0NDQ3LDU4MDkzMzA1NiwtMzIwNz
 MzNTU0LDE2Mzg5Njk1MTddfQ==
 -->
