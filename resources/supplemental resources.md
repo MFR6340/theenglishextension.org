@@ -27,17 +27,16 @@ TEEO provides supplemental booklets to be used in the classroom in conjunction w
 **Audio Books**
 
   
-  
+  Audio books are a great way to pass the time on a long car ride.  The reader of the story makes all the difference.  Here's some suggestions. 
 
  - The Adventures of Huckleberry Finn, Mark Twain. Read by Patrick
    Fraley 
  - Winnie the Pooh, by A.A. Milne, Read by Peter Dennis The
    Cricket in Times Square, by George Selden, Read by Tony Shalhoub 
- - The
-   Phantom Tollbooth, by Norton Juster, Read by David Hyde Pierce
-   Charlie and the Chocolate Factory/Charlie and the Great Glass
+ - The Phantom Tollbooth, by Norton Juster, Read by David Hyde Pierce 
+ - Charlie and the Chocolate Factory/Charlie and the Great Glass
    Elevator, by Roald Dahl, Read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU2MTg1ODQsMTQ1NzUxMjc2Ml19
+eyJoaXN0b3J5IjpbLTIwMzUwNDY4OTAsMTQ1NzUxMjc2Ml19
 -->
