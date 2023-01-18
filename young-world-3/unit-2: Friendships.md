@@ -35,7 +35,7 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 <img src="https://imgur.com/VDv5kTJ.png" width="25%" />
 
-summary here. (680L)
+There are realsummary here. (680L)
 
 <a href="https://www.bookdepository.com/Charlottes-Web-E-B-White/9780141354828?ref=grid-view&qid=1665855328386&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -72,5 +72,6 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NjEwNzIzLDExNDYwNzMyNDddfQ==
+eyJoaXN0b3J5IjpbMjE0NjAyODEzNywzMTg2MTA3MjMsMTE0Nj
+A3MzI0N119
 -->
