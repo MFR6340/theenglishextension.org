@@ -7,10 +7,10 @@
 
 ## Supplemental Activities
 
-In the past, Sea Life Konstanz, just across the border in Germany, hasn't been particularly noteworthy for older kids.  However, it is under renovations with plans to open in Spring of 2023 as a bigger better facility.   https://www.visitsealife.com/konstanz/en/
+In the past, Sea Life Konstanz, just across the border in Germany, hasn't been particularly noteworthy for older kids.  However, it is under renovations with plans to open in Spring of 2023 as a bigger better facility.  This might liven up one of those "what-should-we-do-today?" days.  https://www.visitsealife.com/konstanz/en/
 
 
 While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting and useful extension.  Try visiting <a href="https://www.aquatis.ch/en/ " rel="nofollow">Aquatis Aquarium </a> in Lausanne which focuses on freshwater ecosystems on five continents. Compare animals that live in salt-water vs fresh-water , their survival techniques and the obstacles they face.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDYyOTA4MDEsMzMzNDI4MjE1XX0=
+eyJoaXN0b3J5IjpbNTQ2NzQyNTE2LDMzMzQyODIxNV19
 -->
