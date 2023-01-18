@@ -45,8 +45,8 @@ summary here.  (Lexile )
 ## The Whistling Schoolboy and Other Stories of School Life, by Ruskin Bond
 <img src="https://imgur.com/3sxCIqX.png" width="25%" />
 
-Children across the globe go to school, but they don't all look the same.  See schools that are in caves, on a train platform and other creative locations in countries around the world.  Originally published in 2011, note that an updated edition was released in 2022. (Lexile 950L)
-
+Summary here.
+(no Lexile level available)
 <a href="https://www.bookdepository.com/Off-to-Class/9781926818863https://www.bookdepository.com/Off-Class-Updated-Edition-Susan-Hughes/9781771475792?ref=grid-view&qid=1664201519246&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063548862
 " rel="nofollow">Buy on Orell Füssli</a>
@@ -55,7 +55,7 @@ Children across the globe go to school, but they don't all look the same.  See s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4NTI1NTg3LDE2MzM1MTMyOTEsLTE2MT
-Y0NjM1ODAsNTE3MDU3NjA4LDExODU2MjU3MjgsLTE0MjU2Njgw
-MzIsMTEzNDE5MDc4LDE1NzMwMjYyMjVdfQ==
+eyJoaXN0b3J5IjpbMTA4MjIzNzc2Myw3MDg1MjU1ODcsMTYzMz
+UxMzI5MSwtMTYxNjQ2MzU4MCw1MTcwNTc2MDgsMTE4NTYyNTcy
+OCwtMTQyNTY2ODAzMiwxMTM0MTkwNzgsMTU3MzAyNjIyNV19
 -->
