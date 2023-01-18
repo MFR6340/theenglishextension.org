@@ -102,14 +102,14 @@ summary here.  (Lexile )
 <a href="https://www.bookdepository.com/Liar-Spy-Rebecca-Stead/9780375850875?ref=grid-view&qid=1674048861048&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1030255728" rel="nofollow">Buy on Orell Füssli</a>
 
-## Harry Potter and the Philosopher's Stone, by J. K. Rowling
+## The Song from Somewhere Else, by AF Harrold
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
 summary here.  (Lexile )  
 
-<a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Song-from-Somewhere-Else-F-Harrold/9781408884751?ref=grid-view&qid=1674049448289&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1045131642" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Supplemental Activities
 Who would imagine that there would be a museum exhibition on friendship?  But for a short time only, there it!  Seriously!  From January 28 to September 17 2023 the Migros Museum für Gegenwartskunst (Museum of Contemporary Art) in Zurich is holding an exhibition in multiple parts with 30 different works representing various aspects of friendship.  (Part 1: Jan. 28-Apr. 2, Part 2: Apr. 5-May 28, Part 3: 10. June -Sept. 17)  Contemporary art can be quite bold, so this should be an interesting medium to discuss what friendship really.  Even better, on Thursdays from 5-8 pm there's free admission. 
@@ -124,9 +124,9 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDM4NDAzLDE5MDk1NDUwMjgsLTQ0OT
-gxNjg0NSwtMTU3NDgzNDYyNCwtMTMwMDM3MTI0NCwtMTI0NjIx
-Mzg3MywxMDgyNTI1ODk1LC0xMjc0OTkwNjYyLC0xNzg4NjQ3MD
-Q5LDEzNjg1NzQ3MDksMzE4NjEwNzIzLDExNDYwNzMyNDddfQ==
+eyJoaXN0b3J5IjpbLTE1OTYwNDI5MjUsMTkwOTU0NTAyOCwtND
+Q5ODE2ODQ1LC0xNTc0ODM0NjI0LC0xMzAwMzcxMjQ0LC0xMjQ2
+MjEzODczLDEwODI1MjU4OTUsLTEyNzQ5OTA2NjIsLTE3ODg2ND
+cwNDksMTM2ODU3NDcwOSwzMTg2MTA3MjMsMTE0NjA3MzI0N119
 
 -->
