@@ -77,10 +77,10 @@ summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063464927" rel="nofollow">Buy on Orell Füssli</a>
 
 ## The Mouse and the Motorcycle, by Beverly Cleary
-<img src="https://i.imgur.com/VmP0bSZ.png" width="25%" />
+<img src="https://i.imgur.com/OgQl0CA.png" width="25%" />
 
 summary here.
-(Lexile 780L)
+(Lexile 860L)
 
 <a href="https://www.bookdepository.com/Mouse-Motorcycle-Beverly-Cleary/9780380709243?ref=grid-view&qid=1674048077748&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003100657" rel="nofollow">Buy on Orell Füssli</a>
@@ -99,7 +99,7 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA5OTYwMzgsLTEyNDYyMTM4NzMsMT
+eyJoaXN0b3J5IjpbLTEzMDAzNzEyNDQsLTEyNDYyMTM4NzMsMT
 A4MjUyNTg5NSwtMTI3NDk5MDY2MiwtMTc4ODY0NzA0OSwxMzY4
 NTc0NzA5LDMxODYxMDcyMywxMTQ2MDczMjQ3XX0=
 -->
