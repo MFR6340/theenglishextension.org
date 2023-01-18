@@ -99,7 +99,7 @@ summary here.  (Lexile )
 
 summary here.  (Lexile )  
 
-<a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Liar-Spy-Rebecca-Stead/9780375850875?ref=grid-view&qid=1674048861048&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Harry Potter and the Philosopher's Stone, by J. K. Rowling
@@ -124,8 +124,8 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTgxNjg0NSwtMTU3NDgzNDYyNCwtMT
-MwMDM3MTI0NCwtMTI0NjIxMzg3MywxMDgyNTI1ODk1LC0xMjc0
-OTkwNjYyLC0xNzg4NjQ3MDQ5LDEzNjg1NzQ3MDksMzE4NjEwNz
-IzLDExNDYwNzMyNDddfQ==
+eyJoaXN0b3J5IjpbMTkwOTU0NTAyOCwtNDQ5ODE2ODQ1LC0xNT
+c0ODM0NjI0LC0xMzAwMzcxMjQ0LC0xMjQ2MjEzODczLDEwODI1
+MjU4OTUsLTEyNzQ5OTA2NjIsLTE3ODg2NDcwNDksMTM2ODU3ND
+cwOSwzMTg2MTA3MjMsMTE0NjA3MzI0N119
 -->
