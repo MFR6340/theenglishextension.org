@@ -57,7 +57,7 @@ Summary here.
 Summary here.
 ( Lexile 750L)
 <a href="https://www.bookdepository.com/Linked-Gordon-Korman/9781338629132?ref=grid-view&qid=1674046322823&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052836436
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1065204796
 " rel="nofollow">Buy on Orell Füssli</a>
 
 
@@ -66,7 +66,7 @@ Summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTU5ODY3Niw3MDg1MjU1ODcsMTYzMz
-UxMzI5MSwtMTYxNjQ2MzU4MCw1MTcwNTc2MDgsMTE4NTYyNTcy
-OCwtMTQyNTY2ODAzMiwxMTM0MTkwNzgsMTU3MzAyNjIyNV19
+eyJoaXN0b3J5IjpbNjEyNDA3ODg4LDcwODUyNTU4NywxNjMzNT
+EzMjkxLC0xNjE2NDYzNTgwLDUxNzA1NzYwOCwxMTg1NjI1NzI4
+LC0xNDI1NjY4MDMyLDExMzQxOTA3OCwxNTczMDI2MjI1XX0=
 -->
