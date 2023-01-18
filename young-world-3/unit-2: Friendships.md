@@ -4,7 +4,7 @@
 
 **This unit covers the attributes of a good friend.  It also discusses emotions and feelings.  Here are some suggestions for native English speakers for literature that is related to this theme:**
 
-## A Bear Called Paddington
+## A Bear Called Paddington, by Michael Bond
 
 <img src="https://i.imgur.com/wMmaATw.png" width="25%" />
 
@@ -14,7 +14,7 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036138534" rel="nofollow">Buy on Orell Füssli</a>
 
 
-## Winnie-the-Pooh
+## Winnie-the-Pooh, by
 <img src="https://i.imgur.com/inJU72d.png" width="25%" />
 
 One is never too old to read these classic tales of a hungry bear and his friends in the forest. (Lexile: 790L)
@@ -80,6 +80,6 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTg4Mjg2NywtMTc4ODY0NzA0OSwxMz
-Y4NTc0NzA5LDMxODYxMDcyMywxMTQ2MDczMjQ3XX0=
+eyJoaXN0b3J5IjpbMjM1NDM4NzI5LC0xNzg4NjQ3MDQ5LDEzNj
+g1NzQ3MDksMzE4NjEwNzIzLDExNDYwNzMyNDddfQ==
 -->
