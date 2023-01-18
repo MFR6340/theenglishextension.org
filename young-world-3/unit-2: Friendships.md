@@ -23,12 +23,12 @@ One is never too old to read these classic tales of a hungry bear and his friend
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039078115" rel="nofollow">Buy on Orell Füssli</a>
 
 
-## The Yearling, by Marjorie
+## The Yearling, by Marjorie Kinnan Rawlings
 <img src="https://i.imgur.com/9byDLFn.png" width="25%" />
 
 A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn. (Lexile 750L)
 
-<a href="https://www.bookdepository.com/Yearling-Marjorie-Ki-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001523331" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Charlotte’s Web, by E.B. White
@@ -80,6 +80,6 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg5MTIzNDksLTE3ODg2NDcwNDksMT
+eyJoaXN0b3J5IjpbLTEyNzQ5OTA2NjIsLTE3ODg2NDcwNDksMT
 M2ODU3NDcwOSwzMTg2MTA3MjMsMTE0NjA3MzI0N119
 -->
