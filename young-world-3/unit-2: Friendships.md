@@ -68,17 +68,8 @@ summary here.
 
 
 ## Supplemental Activities
-Who would imagine that there would be a museum exhibition on friendship?  But for a short time only, there it!  Seriously!  From January 28 to September 17 2023 the Migros Museum für Gegenwartskunst (Museum of Contemporary Art) in Zurich is holding an exhibition in multiple parts with 30 different works representing various aspects of friendship.  (Part 1: Jan. 28-Apr. 2, Part 2: Apr. 5-May 28, Part 3: 10. June -Sept. 17)  Contemporary art can be quite bold, so this should be an interesting medium to discuss what friendship really is.  Even better, on Thursdays from 5-8 pm, there's free admission. 
+Who would imagine that there would be a museum exhibition on friendship?  But for a short time only, there it!  Seriously!  From January 28 to September 17 2023 the Migros Museum für Gegenwartskunst (Museum of Contemporary Art) in Zurich is holding an exhibition in multiple parts with 30 different works representing various aspects of friendship.  (Part 1: Jan. 28-Apr. 2, Part 2: Apr. 5-May 28, Part 3: 10. June -Sept. 17)  Contemporary art can be quite bold, so this should be an interesting medium to discuss what friendship really.  Even better, on Thursdays from 5-8 pm there's free admission. 
  <a href="https://migrosmuseum.ch/en/exhibitions/acts-of-friendship?lang=en" rel="nofollow">Migros Museum</a>
-VERNISSAGE 3. AKT: FREITAG, 9. JUNI 2023
-
-3. Akt – 10. Juni bis 17. September 2023
-
-Vernissage 1. & 2. Akt: Freitag, 27. Januar 2023
-
-1. Akt – 28. Januar bis 2. April 2023
-
-2. Akt – 5. April bis 28. Mai 2023
 
 
 
@@ -89,6 +80,6 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTkzNzIwNywtMTc4ODY0NzA0OSwxMz
+eyJoaXN0b3J5IjpbMjAwMTg4Mjg2NywtMTc4ODY0NzA0OSwxMz
 Y4NTc0NzA5LDMxODYxMDcyMywxMTQ2MDczMjQ3XX0=
 -->
