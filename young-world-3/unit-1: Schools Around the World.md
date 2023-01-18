@@ -42,8 +42,7 @@ summary here.  (Lexile )
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
 
-## Off to Class: Incredible and Unusual Schools Around the World, by Susan Hughes
-
+## The Whistling Schoolboy and Other Stories of School Life, by Ruskin Bond
 <img src="https://imgur.com/3sxCIqX.png" width="25%" />
 
 Children across the globe go to school, but they don't all look the same.  See schools that are in caves, on a train platform and other creative locations in countries around the world.  Originally published in 2011, note that an updated edition was released in 2022. (Lexile 950L)
@@ -56,7 +55,7 @@ Children across the globe go to school, but they don't all look the same.  See s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MT
-cwNTc2MDgsMTE4NTYyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkw
-NzgsMTU3MzAyNjIyNV19
+eyJoaXN0b3J5IjpbNzA4NTI1NTg3LDE2MzM1MTMyOTEsLTE2MT
+Y0NjM1ODAsNTE3MDU3NjA4LDExODU2MjU3MjgsLTE0MjU2Njgw
+MzIsMTEzNDE5MDc4LDE1NzMwMjYyMjVdfQ==
 -->
