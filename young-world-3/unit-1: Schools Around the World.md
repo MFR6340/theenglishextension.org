@@ -43,7 +43,7 @@ summary here.  (Lexile )
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
 
 ## The Whistling Schoolboy and Other Stories of School Life, by Ruskin Bond
-<img src="https://imgur.com/3sxCIqX.png" width="25%" />
+<img src="blob:https://imgur.com/df61b6bc-f070-4a9c-977e-b34f611dd418" width="25%" />
 
 Summary here.
 (no Lexile level available)
@@ -55,7 +55,7 @@ Summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MjIzNzc2Myw3MDg1MjU1ODcsMTYzMz
-UxMzI5MSwtMTYxNjQ2MzU4MCw1MTcwNTc2MDgsMTE4NTYyNTcy
-OCwtMTQyNTY2ODAzMiwxMTM0MTkwNzgsMTU3MzAyNjIyNV19
+eyJoaXN0b3J5IjpbLTUwNjY1NDQ4LDcwODUyNTU4NywxNjMzNT
+EzMjkxLC0xNjE2NDYzNTgwLDUxNzA1NzYwOCwxMTg1NjI1NzI4
+LC0xNDI1NjY4MDMyLDExMzQxOTA3OCwxNTczMDI2MjI1XX0=
 -->
