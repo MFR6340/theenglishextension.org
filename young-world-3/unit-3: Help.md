@@ -6,10 +6,10 @@
 
 # Supplemental Activities
 
-There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> it is interactive and tells the history and shows artifacts.  https://www.redcrossmuseum.ch/exhibitions/fragile-balance/
+There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODYwMjA0MCw5ODE5MDg1NzAsMTYyMz
-I4MDU1MiwtMzA3MTgxOTQ0LDcxNDYwNzAyMSwzMDQ0MzYxMjhd
-fQ==
+eyJoaXN0b3J5IjpbLTk4MzAzMDEwLDk4MTkwODU3MCwxNjIzMj
+gwNTUyLC0zMDcxODE5NDQsNzE0NjA3MDIxLDMwNDQzNjEyOF19
+
 -->
