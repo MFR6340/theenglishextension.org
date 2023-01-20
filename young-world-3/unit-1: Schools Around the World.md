@@ -69,6 +69,11 @@ Summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052959597
 " rel="nofollow">Buy on Orell Füssli</a>
 
+## Supplemental Activities
+
+Visit the School Museum in Bern.  Founded in 
+
+
 
 
 
@@ -79,7 +84,8 @@ Summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzMTc4NTk5LDcwODUyNTU4NywxNjMzNT
-EzMjkxLC0xNjE2NDYzNTgwLDUxNzA1NzYwOCwxMTg1NjI1NzI4
-LC0xNDI1NjY4MDMyLDExMzQxOTA3OCwxNTczMDI2MjI1XX0=
+eyJoaXN0b3J5IjpbMTMyNDY1MDA1MCwyODMxNzg1OTksNzA4NT
+I1NTg3LDE2MzM1MTMyOTEsLTE2MTY0NjM1ODAsNTE3MDU3NjA4
+LDExODU2MjU3MjgsLTE0MjU2NjgwMzIsMTEzNDE5MDc4LDE1Nz
+MwMjYyMjVdfQ==
 -->
