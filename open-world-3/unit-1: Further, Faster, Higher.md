@@ -20,10 +20,12 @@ https://www.myswitzerland.com/en-ch/experiences/events/swiss-epic-2023/
 
 Rock climbing is a great example of a sport where boundaries are constantly being pushed.  What wasn't recognized for a long time was how many women have participated in this amazing sport.  Through October 2023, the Swiss Alpine Museum at the Gotthard is hosting the exhibit <a href="https://www.alpinesmuseum.ch/en/exhibitions/lost-and-found-memories-office" rel="nofollow">"Women on the Mountain" </a> focusing on the fearlessness of forty female alpinists.  
 
+https://alpstein-crossing.ch/en/
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMjM2NDU5MywxMTYxOTUxNzAsMTAwMT
+eyJoaXN0b3J5IjpbLTkzNTgxNjYxMSwxMTYxOTUxNzAsMTAwMT
 QzNjg1M119
 -->
