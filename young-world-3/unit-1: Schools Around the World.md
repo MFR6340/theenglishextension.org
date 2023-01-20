@@ -71,7 +71,7 @@ Summary here.
 
 ## Supplemental Activities
 
-Visit the School Museum in Bern.   A key exhibition historical schoolroom.  It also has temporary exhibitions and projects.  It is also possible to borrow old books and even furniture from the large collection.  Teachers can check out museum boxes.   from the Founded in 
+Visit the School Museum in Bern.   A key exhibition historical schoolroom.  It also has temporary exhibitions and projects.  It is also possible to borrow old books and even furniture from the large collection.  Teachers can check out museum boxes.   Adult 5CHF, children are free.   
 
 
 
@@ -84,8 +84,8 @@ Visit the School Museum in Bern.   A key exhibition historical schoolroom.  It a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTM1MTc5NDIsMjgzMTc4NTk5LDcwOD
-UyNTU4NywxNjMzNTEzMjkxLC0xNjE2NDYzNTgwLDUxNzA1NzYw
-OCwxMTg1NjI1NzI4LC0xNDI1NjY4MDMyLDExMzQxOTA3OCwxNT
-czMDI2MjI1XX0=
+eyJoaXN0b3J5IjpbNTU1NTkwMDE4LDI4MzE3ODU5OSw3MDg1Mj
+U1ODcsMTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MTcwNTc2MDgs
+MTE4NTYyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkwNzgsMTU3Mz
+AyNjIyNV19
 -->
