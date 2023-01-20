@@ -12,12 +12,15 @@ summary here.
  
 # Supplemental Activities
 
-Rock climbing is a great example of a sport where boundaries are constantly being pushed.  What wasn't recognized for a long time was how many women have participated in this amazing sport.  Through October 2023, the Swiss Alpine Museum at the Gotthard is hosting the exhibit "Women on the Mountain" focusing on the fearlessness of forty female alpinists.  https://www.alpinesmuseum.ch/en/exhibitions/lost-and-found-memories-office
+Rock climbing is a great example of a sport where boundaries are constantly being pushed.  What wasn't recognized for a long time was how many women have participated in this amazing sport.  Through October 2023, the Swiss Alpine Museum at the Gotthard is hosting the exhibit <a href="https://www.alpinesmuseum.ch/en/exhibitions/lost-and-found-memories-office" rel="nofollow">"Women on the Mountain" </a> focusing on the fearlessness of forty female alpinists.  
 
-Ice climbing is definitely an extreme sport, and of course Switzerland is hosting the **Ice Climbing World Cup.**  If you happen to be in Saas Fee in January, it could be great fun to watch.  Held in a car park, so weather isn't an issue.  https://www.saas-fee.ch/en/events/top-events-in-winter/ice-climbing-worldcup
+Ice climbing is definitely an extreme sport, and of course Switzerland is hosting the <a href="https://www.sbs.ch/english/" rel="nofollow">SBS Library</a>**Ice Climbing World Cup.**  If you happen to be in Saas Fee in January, it could be great fun to watch.  Held in a car park, so weather isn't an issue.  https://www.saas-fee.ch/en/events/top-events-in-winter/ice-climbing-worldcup
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzI1MDExNiwxMDAxNDM2ODUzXX0=
+eyJoaXN0b3J5IjpbLTE2NjgyNzIxMzgsMTAwMTQzNjg1M119
 -->
