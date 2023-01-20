@@ -71,7 +71,7 @@ Summary here.
 
 ## Supplemental Activities
 
-Visit the School Museum in Bern.  Founded in 
+Visit the School Museum in Bern.   A key exhibition historical schoolroom.  It also has temporary exhibitions and Founded in 
 
 
 
@@ -84,8 +84,8 @@ Visit the School Museum in Bern.  Founded in
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNDY1MDA1MCwyODMxNzg1OTksNzA4NT
-I1NTg3LDE2MzM1MTMyOTEsLTE2MTY0NjM1ODAsNTE3MDU3NjA4
-LDExODU2MjU3MjgsLTE0MjU2NjgwMzIsMTEzNDE5MDc4LDE1Nz
-MwMjYyMjVdfQ==
+eyJoaXN0b3J5IjpbLTE2NTA5MDkwNjIsMjgzMTc4NTk5LDcwOD
+UyNTU4NywxNjMzNTEzMjkxLC0xNjE2NDYzNTgwLDUxNzA1NzYw
+OCwxMTg1NjI1NzI4LC0xNDI1NjY4MDMyLDExMzQxOTA3OCwxNT
+czMDI2MjI1XX0=
 -->
