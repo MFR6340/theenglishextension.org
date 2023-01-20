@@ -71,9 +71,9 @@ Summary here.
 
 ## Supplemental Activities
 
-Visit the School Museum in Bern.   Visit the historical schoolroom and see old photos from school days gone by as well as temporary exhibitions and projects.  It is also possible to borrow old books and even furniture from the large collection (80,000 objects covering 400 years)     Adults are only 5CHF. children are free.   
+Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Schulmuseum </a> School Museum in Bern.   Visit the historical schoolroom and see old photos from school days gone by as well as temporary exhibitions and projects.  It is also possible to borrow old books and even furniture from the large collection (80,000 objects covering 400 years)     Adults are only 5CHF. children are free.   
 
-https://www.schulmuseumbern.ch/angebote
+
 
 
 
@@ -86,8 +86,8 @@ https://www.schulmuseumbern.ch/angebote
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4OTA5MjMyLDI4MzE3ODU5OSw3MDg1Mj
-U1ODcsMTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MTcwNTc2MDgs
-MTE4NTYyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkwNzgsMTU3Mz
-AyNjIyNV19
+eyJoaXN0b3J5IjpbLTQ2MzQwODk4NiwyODMxNzg1OTksNzA4NT
+I1NTg3LDE2MzM1MTMyOTEsLTE2MTY0NjM1ODAsNTE3MDU3NjA4
+LDExODU2MjU3MjgsLTE0MjU2NjgwMzIsMTEzNDE5MDc4LDE1Nz
+MwMjYyMjVdfQ==
 -->
