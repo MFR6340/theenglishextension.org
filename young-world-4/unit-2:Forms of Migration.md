@@ -14,11 +14,11 @@ summary here. (lexile 1150L)
 <a href="https://www.bookdepository.com/Moonbird-Phillip-Hoose/9780374304683?ref=grid-view&qid=1665929598174&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018908390" rel="nofollow">Buy on Orell Füssli</a>
 
-### Adam of the Road, by Elizabeth Janet Gray
+### Follow Those Zebras, by Sandra Markle
 
 <img src="https://imgur.com/0Yih5hU.png" width="25%" />
 
-summary here.
+summary here. (Lexile 1050L)
 
 <a href="https://www.bookdepository.com/Adam-Road-Elizabeth-Janet-Gray/9780140324648?ref=grid-view&qid=1665930041706&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354191" rel="nofollow">Buy on Orell Füssli</a>
@@ -50,6 +50,6 @@ summary here.
 <a href="https://www.bookdepository.com/Adam-Road-Elizabeth-Janet-Gray/9780140324648?ref=grid-view&qid=1665930041706&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354191" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQyNjI1NCwxNDAzODk3NjcxLC0xMz
+eyJoaXN0b3J5IjpbMTAyOTcxNzgzMiwxNDAzODk3NjcxLC0xMz
 M0MTgyNTcxLDE4Mzk2NjgxNTNdfQ==
 -->
