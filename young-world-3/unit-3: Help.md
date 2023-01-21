@@ -11,7 +11,7 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 <a href="https://www.bookdepository.com/Dog-Heroes-Mary-Pope-Osborne/9780375860126?ref=grid-view&qid=1674318040257&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016423966" rel="nofollow">Buy on Orell Füssli</a>
 
-### A Bear Called Paddington, by Michael Bond
+### First Aid Techniques for Kids
 
 <img src="https://i.imgur.com/wMmaATw.png" width="25%" />
 
@@ -70,7 +70,7 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM2Nzg3MCwtMTg3ODUzNzI5NCwtOT
-gzMDMwMTAsOTgxOTA4NTcwLDE2MjMyODA1NTIsLTMwNzE4MTk0
-NCw3MTQ2MDcwMjEsMzA0NDM2MTI4XX0=
+eyJoaXN0b3J5IjpbLTExNDI1NTg5ODYsLTE4Nzg1MzcyOTQsLT
+k4MzAzMDEwLDk4MTkwODU3MCwxNjIzMjgwNTUyLC0zMDcxODE5
+NDQsNzE0NjA3MDIxLDMwNDQzNjEyOF19
 -->
