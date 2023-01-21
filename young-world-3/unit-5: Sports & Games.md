@@ -31,11 +31,11 @@ summary here.
 
 ### World’s Greatest Clubs
 
-<img src="https://imgur.com/fZ4PdHh.png" width="25%" />
+<img src="https://imgur.com/9m2g6xM.png" width="25%" />
 
 
-<a href="https://www.bookdepository.com/Kids-Around-World-Celebrate-Best-Feasts-Festivals-from-Many-Lands-L-Jones/9780471345275?ref=grid-view&qid=1674321111991&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005087127" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Worlds-Greatest-Clubs-Illugi-Joekulsson/9780789213532?ref=grid-view&qid=1674321446699&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053561733" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Paradise on Fire, Jewell Parker Rhodes
 
@@ -55,6 +55,6 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUwNTA4NjAsLTE1NTM4OTYzNDMsLT
-E0MDY5NjU4OTUsLTcxNjg5NzkyM119
+eyJoaXN0b3J5IjpbMjIzMjY1NzAxLC0xNTUzODk2MzQzLC0xND
+A2OTY1ODk1LC03MTY4OTc5MjNdfQ==
 -->
