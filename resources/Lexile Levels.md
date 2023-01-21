@@ -19,7 +19,7 @@ Students are tested and given a lexile score based on the difficulty of the text
 Lexile measure are given from 200L for beginning readers and text to 1600L for advanced readers and text.
 
 They should be independently reading books that are at an appropriate lexile level, or between 100 points below or 50 points above their designated reading level.
-
+ 
   
 
 The objective with reading levels is to find a books that are the correct INDEPENDENT reading level for your child.
@@ -38,5 +38,6 @@ Parents should not worry as much about what level a child is currently at, but r
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTM3Mjg5Niw5MzUyNTkwNDRdfQ==
+eyJoaXN0b3J5IjpbODIyMTkzNDQ0LDE3NTUzNzI4OTYsOTM1Mj
+U5MDQ0XX0=
 -->
