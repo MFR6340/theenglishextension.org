@@ -129,12 +129,12 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001321590" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Jungle book, by Rudyard Kipling
-<img src="https://imgur.com/lnzlXDB.png" width="25%" />
+<img src="https://imgur.com/GGwF3Zo.png" width="25%" />
 
-Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station. Their home becomes more lively with his adventures. (Lexile 750L) 
 
-<a href="https://www.bookdepository.com/Beatryce-Prophecy-Kate-DiCamillo/9781529503623?ref=grid-view&qid=1674317393158&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064479198" rel="nofollow">Buy on Orell Füssli</a>
+
+<a href="https://www.bookdepository.com/Jungle-Book-by-Rudyard-Kipling-Rudyard-Kipling/9781940177595?ref=grid-view&qid=1674317834532&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058487689" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Supplemental Activities
 Who would imagine that there would be a museum exhibition on friendship?  But for a short time only, there it!  Seriously!  From January 28 to September 17 2023 the Migros Museum für Gegenwartskunst (Museum of Contemporary Art) in Zurich is holding an exhibition in multiple parts with 30 different works representing various aspects of friendship.  (Part 1: Jan. 28-Apr. 2, Part 2: Apr. 5-May 28, Part 3: 10. June -Sept. 17)  Contemporary art can be quite bold, so this should be an interesting medium to promote some great discussions on friendship.  Even better, on Thursdays from 5-8 pm there's free admission. 
@@ -149,7 +149,7 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzI4MjQ5NDksMTQ5NTc1MDYwNSw2Nj
+eyJoaXN0b3J5IjpbLTE2NTEwMTcyNTAsMTQ5NTc1MDYwNSw2Nj
 UxMjUxMjEsMTgyOTE3OTE1MSwxOTA5NTQ1MDI4LC00NDk4MTY4
 NDUsLTE1NzQ4MzQ2MjQsLTEzMDAzNzEyNDQsLTEyNDYyMTM4Nz
 MsMTA4MjUyNTg5NSwtMTI3NDk5MDY2MiwtMTc4ODY0NzA0OSwx
