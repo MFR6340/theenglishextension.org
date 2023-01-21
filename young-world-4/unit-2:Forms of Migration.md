@@ -40,13 +40,13 @@ summary here.
 <a href="https://www.bookdepository.com/Book-Eels-Patrik-Svensson/9780062968821?ref=grid-view&qid=1674322447078&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Wow in the Wild, Amazing World of Animals
-<img src="https://imgur.com/0Yih5hU.png" width="25%" />
+<img src="https://imgur.com/FRZofnU.png" width="25%" />
 
 summary here.
 
-<a href="https://www.bookdepository.com/Adam-Road-Elizabeth-Janet-Gray/9780140324648?ref=grid-view&qid=1665930041706&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354191" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Wow-World-Wow-Wild-Mindy-Thomas/9780358306894?ref=grid-view&qid=1674322543937&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061635944" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQyOTQ3MSwxNDAzODk3NjcxLC0xMz
-M0MTgyNTcxLDE4Mzk2NjgxNTNdfQ==
+eyJoaXN0b3J5IjpbLTE3MjY2Mzk5MjMsMTQwMzg5NzY3MSwtMT
+MzNDE4MjU3MSwxODM5NjY4MTUzXX0=
 -->
