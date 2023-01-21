@@ -1,6 +1,6 @@
 # Young World 4, Unit 4: The Call of the Alps
 
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 
 ## Festivals and Traditions in Switzerland, by Barbara Piatti & Yvonne Rogenmoser
@@ -55,8 +55,8 @@ https://www.myswitzerland.com/en-ch/experiences/events/unspunnenschwinget/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDA3NjIzMCwtNzUyNjczOTQ4LDc4Nj
-Q3MDAxMCwtNjc0MTYzMTg4LC0xMzU0ODczNzY5LC03Nzk1ODM2
-MTUsLTk4NjkwOTk4NywxMzg3MzE5NjMzLC0xOTU1OTQ0NzA0LC
-03MzI2NjM5MjhdfQ==
+eyJoaXN0b3J5IjpbLTEzMzk0NzA0OTgsMTU5MDA3NjIzMCwtNz
+UyNjczOTQ4LDc4NjQ3MDAxMCwtNjc0MTYzMTg4LC0xMzU0ODcz
+NzY5LC03Nzk1ODM2MTUsLTk4NjkwOTk4NywxMzg3MzE5NjMzLC
+0xOTU1OTQ0NzA0LC03MzI2NjM5MjhdfQ==
 -->
