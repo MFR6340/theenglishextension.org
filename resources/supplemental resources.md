@@ -1,7 +1,11 @@
 ---
 layout: dir-index
 ---
+
 # Supplemental Resources
+
+## Reading Instruction
+What are Lexile Levels? 
 
 ### Listening Comprehension
 [https://learnenglishteens.britishcouncil.org/](https://learnenglishteens.britishcouncil.org/) A useful website to work on listening comprehension, which despite being natives, many kids still often struggle with. Goes up to C1
@@ -38,5 +42,6 @@ TEEO provides supplemental booklets to be used in the classroom in conjunction w
    Elevator, by Roald Dahl, Read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzUwNDY4OTAsMTQ1NzUxMjc2Ml19
+eyJoaXN0b3J5IjpbMjM2ODgyNDYxLC0yMDM1MDQ2ODkwLDE0NT
+c1MTI3NjJdfQ==
 -->
