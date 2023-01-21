@@ -14,7 +14,8 @@ summary here.
 
 
 
-Ice climbing is definitely an extreme sport, and Switzerland is hosting the <a href="https://www.saas-fee.ch/en/events/top-events-in-winter/ice-climbing-worldcup" rel="nofollow">Ice Climbing World Cup </a>  If you happen to be in Saas Fee in January, it could be great fun to watch.  Held in a car park, so weather isn't an excuse not to go.
+Ice climbing is definitely an extreme sport, and Switzerland is hosting the <a href="https://www.saas-fee.ch/en/events/top-events-in-winter/ice-climbing-worldcup" rel="nofollow">Ice Climbing World Cup </a>  If you happen to be in Saas Fee in January, it could be great fun to watch.  Held in a car park, so weather isn't an excuse not to go.  Catch a video here to see what it's like: https://www.youtube.com/watch?v=dpLqDgWKLhc
+
 
 https://www.myswitzerland.com/en-ch/experiences/events/swiss-epic-2023/
 
@@ -26,6 +27,6 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTgxNjYxMSwxMTYxOTUxNzAsMTAwMT
-QzNjg1M119
+eyJoaXN0b3J5IjpbLTIwNzk3MDY5MTcsLTkzNTgxNjYxMSwxMT
+YxOTUxNzAsMTAwMTQzNjg1M119
 -->
