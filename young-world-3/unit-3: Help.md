@@ -35,23 +35,13 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 
 
 
-<a href="https://www.bookdepository.com/Bear-Called-Paddington-Michael-Bond/9780007174164?ref=grid-view&qid=1654274489374&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/All-Thirteen-Incredible-Cave-Rescue-Thai-Boys-Soccer-Team-Christina-Soontornvat/9781536209457?ref=grid-view&qid=1674320517745&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1057582425" rel="nofollow">Buy on Orell Füssli</a>
 
-### A Bear Called Paddington, by Michael Bond
+### Paradise on Fire, Jewell Parker Rhodes
 
 <img src="https://i.imgur.com/wMmaATw.png" width="25%" />
 
-Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station. Their home becomes more lively with his adventures. (Lexile 750L) 
-
-<a href="https://www.bookdepository.com/Bear-Called-Paddington-Michael-Bond/9780007174164?ref=grid-view&qid=1654274489374&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036138534" rel="nofollow">Buy on Orell Füssli</a>
-
-### A Bear Called Paddington, by Michael Bond
-
-<img src="https://i.imgur.com/wMmaATw.png" width="25%" />
-
-Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station. Their home becomes more lively with his adventures. (Lexile 750L) 
 
 <a href="https://www.bookdepository.com/Bear-Called-Paddington-Michael-Bond/9780007174164?ref=grid-view&qid=1654274489374&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036138534" rel="nofollow">Buy on Orell Füssli</a>
@@ -61,7 +51,7 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjExMjc1MTgsLTExNDI1NTg5ODYsLT
-E4Nzg1MzcyOTQsLTk4MzAzMDEwLDk4MTkwODU3MCwxNjIzMjgw
-NTUyLC0zMDcxODE5NDQsNzE0NjA3MDIxLDMwNDQzNjEyOF19
+eyJoaXN0b3J5IjpbLTEwMzI2NDcxMCwtMTE0MjU1ODk4NiwtMT
+g3ODUzNzI5NCwtOTgzMDMwMTAsOTgxOTA4NTcwLDE2MjMyODA1
+NTIsLTMwNzE4MTk0NCw3MTQ2MDcwMjEsMzA0NDM2MTI4XX0=
 -->
