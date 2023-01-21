@@ -11,12 +11,12 @@
 
 ### Paradise on Fire, Jewell Parker Rhodes
 
-<img src="https://imgur.com/0L23But.png" width="25%" />
+<img src="https://imgur.com/fZ4PdHh.png" width="25%" />
 
 
 <a href="https://www.bookdepository.com/Paradise-on-Fire-Jewell-Parker-Rhodes/9781510109858?ref=grid-view&qid=1674320724874&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href=https://www.orellfuessli.ch/shop/home/artikeldetails/A1060308419" rel="nofollow">Buy on Orell Füssli</a>
+<a href = https://www.orellfuessli.ch/shop/home/artikeldetails/A1060308419" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MTc4MzQ0LDI2NDk2ODk0NiwtMTEzMT
-gwMzE1Nl19
+eyJoaXN0b3J5IjpbLTEyNjg0OTYzMDYsMjY0OTY4OTQ2LC0xMT
+MxODAzMTU2XX0=
 -->
