@@ -6,7 +6,7 @@
 
 
 
-## Off to Class: Incredible and Unusual Schools Around the World, by Susan Hughes
+### Off to Class: Incredible and Unusual Schools Around the World, by Susan Hughes
 
 <img src="https://imgur.com/3sxCIqX.png" width="25%" />
 
@@ -25,7 +25,7 @@ This 2016 updated version of a DK classic shows children from Botswana to Turkey
 <a href="https://www.bookdepository.com/Children-Just-Like-Me-School-Like-Mine-Dk/9781465451002?ref=grid-view&qid=1664202276483&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038917790" rel="nofollow">Buy on Orell Füssli</a>
 
-## The Boy Who Harnessed the Wind, by William Kampwamba
+### The Boy Who Harnessed the Wind, by William Kampwamba
 <img src="https://imgur.com/XF93Hnq.png" width="25%" />
 
 summary here.
@@ -33,7 +33,7 @@ summary here.
 <a href="https://www.bookdepository.com/Boy-Who-Harnessed-Wind-William-Kamkwamba/9780147510426?ref=grid-view&qid=1665854100400&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 
-## Harry Potter and the Philosopher's Stone, by J. K. Rowling
+### Harry Potter and the Philosopher's Stone, by J. K. Rowling
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
@@ -42,7 +42,7 @@ summary here.  (Lexile )
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
 
-## The Whistling Schoolboy and Other Stories of School Life, by Ruskin Bond
+### The Whistling Schoolboy and Other Stories of School Life, by Ruskin Bond
 <img src="https://i.imgur.com/OZjUkIb.png" width="25%" />
 
 Summary here.
@@ -51,7 +51,7 @@ Summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052836436
 " rel="nofollow">Buy on Orell Füssli</a>
 
-## Linked, by Gordon Korman
+### Linked, by Gordon Korman
 <img src="https://i.imgur.com/U0OkMM1.png" width="25%" />
 
 Summary here.
@@ -60,7 +60,7 @@ Summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1065204796
 " rel="nofollow">Buy on Orell Füssli</a>
 
-## If I Built a School, by Chris Van Dusen
+### If I Built a School, by Chris Van Dusen
 <img src="https://i.imgur.com/UfgxKWA.png" width="25%" />
 
 Summary here.
@@ -86,8 +86,8 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE5MDgwODEsMjgzMTc4NTk5LDcwOD
-UyNTU4NywxNjMzNTEzMjkxLC0xNjE2NDYzNTgwLDUxNzA1NzYw
-OCwxMTg1NjI1NzI4LC0xNDI1NjY4MDMyLDExMzQxOTA3OCwxNT
-czMDI2MjI1XX0=
+eyJoaXN0b3J5IjpbMjM1MjcwNzAxLDI4MzE3ODU5OSw3MDg1Mj
+U1ODcsMTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MTcwNTc2MDgs
+MTE4NTYyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkwNzgsMTU3Mz
+AyNjIyNV19
 -->
