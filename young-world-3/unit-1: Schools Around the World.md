@@ -2,7 +2,7 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.* 
 
-**This unit discusses school buildings, classrooms, school timetable, uniforms.  Here are some suggestions for native English speakers to find out more about what happen different types of schools:**
+**This unit discusses school buildings, classrooms, school timetable, uniforms.  Here are some suggestions for native English speakers to find out more about what happens in other schools:**
 
 
 ## Literature
@@ -86,8 +86,8 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQzNzUyODUsMjgzMTc4NTk5LDcwOD
-UyNTU4NywxNjMzNTEzMjkxLC0xNjE2NDYzNTgwLDUxNzA1NzYw
-OCwxMTg1NjI1NzI4LC0xNDI1NjY4MDMyLDExMzQxOTA3OCwxNT
-czMDI2MjI1XX0=
+eyJoaXN0b3J5IjpbOTAzMjIzMjY4LDI4MzE3ODU5OSw3MDg1Mj
+U1ODcsMTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MTcwNTc2MDgs
+MTE4NTYyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkwNzgsMTU3Mz
+AyNjIyNV19
 -->
