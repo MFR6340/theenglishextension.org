@@ -4,12 +4,10 @@
 
 # The Diplomat’s Travel Guide to Festivals, Holidays, and Celebrations in India
 
-<img src="https://imgur.com/0L23But.png" width="25%" />
+<img src="https://imgur.com/7xZJf2L.png" width="25%" />
 
 
 <a href="https://www.bookdepository.com/Diplomats-Travel-Guide-Festivals-Holidays-Celebrations-India-Mohan-Pandey/9798615530456?ref=grid-view&qid=1674320907383&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href=https://www.orellfuessli.ch/shop/home/artikeldetails/A1060308419" rel="nofollow">Buy on Orell Füssli</a>
-
 
 ### Paradise on Fire, Jewell Parker Rhodes
 
@@ -19,6 +17,6 @@
 <a href="https://www.bookdepository.com/Paradise-on-Fire-Jewell-Parker-Rhodes/9781510109858?ref=grid-view&qid=1674320724874&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href=https://www.orellfuessli.ch/shop/home/artikeldetails/A1060308419" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjU0OTM1MTAsMjY0OTY4OTQ2LC0xMT
-MxODAzMTU2XX0=
+eyJoaXN0b3J5IjpbLTY0MTc4MzQ0LDI2NDk2ODk0NiwtMTEzMT
+gwMzE1Nl19
 -->
