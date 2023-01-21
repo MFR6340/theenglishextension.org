@@ -2,7 +2,7 @@
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 
-# The Diplomat’s Travel Guide to Festivals, Holidays, and Celebrations in India
+### The Diplomat’s Travel Guide to Festivals, Holidays, and Celebrations in India
 
 <img src="https://imgur.com/7xZJf2L.png" width="25%" />
 
@@ -17,6 +17,6 @@
 <a href="https://www.bookdepository.com/Kids-Around-World-Celebrate-Best-Feasts-Festivals-from-Many-Lands-L-Jones/9780471345275?ref=grid-view&qid=1674321111991&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005087127" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MTExMDg3LDI2NDk2ODk0NiwtMTEzMT
-gwMzE1Nl19
+eyJoaXN0b3J5IjpbLTEyMTY0NDA4MTcsMjY0OTY4OTQ2LC0xMT
+MxODAzMTU2XX0=
 -->
