@@ -44,14 +44,14 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 
 
 <a href="https://www.bookdepository.com/Paradise-on-Fire-Jewell-Parker-Rhodes/9781510109858?ref=grid-view&qid=1674320724874&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href=https://www.orellfuessli.ch/shop/home/artikeldetails/A1060308419" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1060308419" rel="nofollow">Buy on Orell Füssli</a>
 
 # Supplemental Activities
 
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Mjk1ODM4NywtMTE0MjU1ODk4NiwtMT
-g3ODUzNzI5NCwtOTgzMDMwMTAsOTgxOTA4NTcwLDE2MjMyODA1
-NTIsLTMwNzE4MTk0NCw3MTQ2MDcwMjEsMzA0NDM2MTI4XX0=
+eyJoaXN0b3J5IjpbLTE5Mjc4NTY2MjEsLTExNDI1NTg5ODYsLT
+E4Nzg1MzcyOTQsLTk4MzAzMDEwLDk4MTkwODU3MCwxNjIzMjgw
+NTUyLC0zMDcxODE5NDQsNzE0NjA3MDIxLDMwNDQzNjEyOF19
 -->
