@@ -4,7 +4,7 @@
 
 **This unit covers the attributes of a good friend.  It also discusses emotions and feelings.  Here are some suggestions for native English speakers for literature that is related to this theme:**
 
-## A Bear Called Paddington, by Michael Bond
+### A Bear Called Paddington, by Michael Bond
 
 <img src="https://i.imgur.com/wMmaATw.png" width="25%" />
 
@@ -125,9 +125,9 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY1MTI1MTIxLDE4MjkxNzkxNTEsMTkwOT
-U0NTAyOCwtNDQ5ODE2ODQ1LC0xNTc0ODM0NjI0LC0xMzAwMzcx
-MjQ0LC0xMjQ2MjEzODczLDEwODI1MjU4OTUsLTEyNzQ5OTA2Nj
-IsLTE3ODg2NDcwNDksMTM2ODU3NDcwOSwzMTg2MTA3MjMsMTE0
-NjA3MzI0N119
+eyJoaXN0b3J5IjpbLTE2MTEwNzE2MzIsNjY1MTI1MTIxLDE4Mj
+kxNzkxNTEsMTkwOTU0NTAyOCwtNDQ5ODE2ODQ1LC0xNTc0ODM0
+NjI0LC0xMzAwMzcxMjQ0LC0xMjQ2MjEzODczLDEwODI1MjU4OT
+UsLTEyNzQ5OTA2NjIsLTE3ODg2NDcwNDksMTM2ODU3NDcwOSwz
+MTg2MTA3MjMsMTE0NjA3MzI0N119
 -->
