@@ -11,7 +11,7 @@
 
 Learn more about how various animals see, hear and smell and how it compares to our human senses.  Has ideas for experiments to better understand the differences.  (Lexile 930L) <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
-<span style="text-color: red;">asdf</span>
+<span style="color: red !important;">asdf</span>
 
 <a href="https://www.bookdepository.com/Animal-Senses-Pamela-M-Hickman/9781550744231?ref=grid-view&qid=1673948141511&sr=1-7" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1005948597?sq=Animal%20Senses:%20How%20Animals%20See,%20Hear,%20Taste,%20Smell%20and%20Feel&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -101,11 +101,11 @@ Donate an audio book or make an appointment to visit the SBS Schweizerische Bibl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5NTAwMzAsLTgzMzM1NTQ5NCwxOTU3Nj
-k5MDM5LC0xNDQ5MjczNjk3LDMzMzA2NTYwNCwtMTgzMjU2ODM4
-NCwxOTAzNzc3MDE1LDM4MDEwNDc5MiwtMTM0NTY0MTk2OCw0Nz
-M3NTYzMDUsLTgzNTg5MzY5MywtNjU1NzQzMzk3LDExMDc2OTM3
-MDAsMTg2MDA0NTE3OCwtNjgwMzk3MDUxLDExODg5OTUxMzUsLT
-UwMzk2OTQ4OSwtMTkyOTU0MTgxLC0xNzk1MjUzNTQ3LDI5NTUx
-OTM0NF19
+eyJoaXN0b3J5IjpbLTI0MTI5NjE2MywtODMzMzU1NDk0LDE5NT
+c2OTkwMzksLTE0NDkyNzM2OTcsMzMzMDY1NjA0LC0xODMyNTY4
+Mzg0LDE5MDM3NzcwMTUsMzgwMTA0NzkyLC0xMzQ1NjQxOTY4LD
+Q3Mzc1NjMwNSwtODM1ODkzNjkzLC02NTU3NDMzOTcsMTEwNzY5
+MzcwMCwxODYwMDQ1MTc4LC02ODAzOTcwNTEsMTE4ODk5NTEzNS
+wtNTAzOTY5NDg5LC0xOTI5NTQxODEsLTE3OTUyNTM1NDcsMjk1
+NTE5MzQ0XX0=
 -->
