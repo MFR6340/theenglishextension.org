@@ -112,6 +112,14 @@ summary here.
 <a href="https://www.bookdepository.com/Song-from-Somewhere-Else-F-Harrold/9781408884751?ref=grid-view&qid=1674049448289&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1045131642" rel="nofollow">Buy on Orell Füssli</a>
 
+### The Beatryce Prophecy, Kate DiCamillo
+<img src="https://i.imgur.com/wMmaATw.png" width="25%" />
+
+Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station. Their home becomes more lively with his adventures. (Lexile 750L) 
+
+<a href="https://www.bookdepository.com/Bear-Called-Paddington-Michael-Bond/9780007174164?ref=grid-view&qid=1654274489374&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036138534" rel="nofollow">Buy on Orell Füssli</a>
+
 ## Supplemental Activities
 Who would imagine that there would be a museum exhibition on friendship?  But for a short time only, there it!  Seriously!  From January 28 to September 17 2023 the Migros Museum für Gegenwartskunst (Museum of Contemporary Art) in Zurich is holding an exhibition in multiple parts with 30 different works representing various aspects of friendship.  (Part 1: Jan. 28-Apr. 2, Part 2: Apr. 5-May 28, Part 3: 10. June -Sept. 17)  Contemporary art can be quite bold, so this should be an interesting medium to promote some great discussions on friendship.  Even better, on Thursdays from 5-8 pm there's free admission. 
  <a href="https://migrosmuseum.ch/en/exhibitions/acts-of-friendship?lang=en" rel="nofollow">Migros Museum</a>
@@ -125,9 +133,9 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTEwNzE2MzIsNjY1MTI1MTIxLDE4Mj
-kxNzkxNTEsMTkwOTU0NTAyOCwtNDQ5ODE2ODQ1LC0xNTc0ODM0
-NjI0LC0xMzAwMzcxMjQ0LC0xMjQ2MjEzODczLDEwODI1MjU4OT
-UsLTEyNzQ5OTA2NjIsLTE3ODg2NDcwNDksMTM2ODU3NDcwOSwz
-MTg2MTA3MjMsMTE0NjA3MzI0N119
+eyJoaXN0b3J5IjpbMTQ5NTc1MDYwNSw2NjUxMjUxMjEsMTgyOT
+E3OTE1MSwxOTA5NTQ1MDI4LC00NDk4MTY4NDUsLTE1NzQ4MzQ2
+MjQsLTEzMDAzNzEyNDQsLTEyNDYyMTM4NzMsMTA4MjUyNTg5NS
+wtMTI3NDk5MDY2MiwtMTc4ODY0NzA0OSwxMzY4NTc0NzA5LDMx
+ODYxMDcyMywxMTQ2MDczMjQ3XX0=
 -->
