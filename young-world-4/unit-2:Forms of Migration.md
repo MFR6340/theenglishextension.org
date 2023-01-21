@@ -4,7 +4,7 @@
 
 
 
-## Moonbird, a Year on the Wind. By Philip Hoose
+### Moonbird, a Year on the Wind. By Philip Hoose
 
 <img src="https://imgur.com/0oemAkn.png" width="25%" />
 
@@ -13,16 +13,7 @@ summary here. (lexile 1150L)
 
 <a href="https://www.bookdepository.com/Moonbird-Phillip-Hoose/9780374304683?ref=grid-view&qid=1665929598174&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018908390" rel="nofollow">Buy on Orell Füssli</a>
-
-
-## Stuart Little, by EB White
-
-<img src="https://imgur.com/iIhYxmk.png" width="25%" />
-
-summary here.
-
-<a href="https://www.bookdepository.com/Stuart-Little-E-B-White/9780064400565?ref=grid-view&qid=1665929853040&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMzg5NzY3MSwtMTMzNDE4MjU3MSwxOD
-M5NjY4MTUzXX0=
+eyJoaXN0b3J5IjpbLTExNjgwNjEzNDIsMTQwMzg5NzY3MSwtMT
+MzNDE4MjU3MSwxODM5NjY4MTUzXX0=
 -->
