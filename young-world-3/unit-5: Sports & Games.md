@@ -39,12 +39,13 @@ summary here.
 
 ### Daisy and the Trouble with Sports Day by Kes Gray
 
-<img src="https://imgur.com/fZ4PdHh.png" width="25%" />
+<img src="https://imgur.com/HtiLUsi.png" width="25%" />
 
  (960L)
  
-<a href="https://www.bookdepository.com/Kids-Around-World-Celebrate-Best-Feasts-Festivals-from-Many-Lands-L-Jones/9780471345275?ref=grid-view&qid=1674321111991&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005087127" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Daisy-Trouble-with-Sports-Day-Kes-Gray/9781782959700?ref=grid-view&qid=1674321575322&sr=1-15" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056801675" rel="nofollow">Buy on Orell Füssli</a>
+
 # Supplemental Activities
 
 There really can't be a discussion about sports without it eventually turning to the Olympics.  And what better place to go to learn about this amazing event than the Olympic Museum in Lausanne!
@@ -56,6 +57,6 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTQ1MDc1NywtMTU1Mzg5NjM0MywtMT
+eyJoaXN0b3J5IjpbLTk1ODYzMDIxNSwtMTU1Mzg5NjM0MywtMT
 QwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
 -->
