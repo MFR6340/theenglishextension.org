@@ -120,7 +120,7 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 <a href="https://www.bookdepository.com/Beatryce-Prophecy-Kate-DiCamillo/9781529503623?ref=grid-view&qid=1674317393158&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064479198" rel="nofollow">Buy on Orell Füssli</a>
 
-### The Beatryce Prophecy, Kate DiCamillo
+### Tale of Despereaux, by Kate DiCamillo
 <img src="https://imgur.com/lnzlXDB.png" width="25%" />
 
 Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station. Their home becomes more lively with his adventures. (Lexile 750L) 
@@ -149,7 +149,7 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTU0NDkwLDE0OTU3NTA2MDUsNjY1MT
+eyJoaXN0b3J5IjpbODM2MDI2Njk0LDE0OTU3NTA2MDUsNjY1MT
 I1MTIxLDE4MjkxNzkxNTEsMTkwOTU0NTAyOCwtNDQ5ODE2ODQ1
 LC0xNTc0ODM0NjI0LC0xMzAwMzcxMjQ0LC0xMjQ2MjEzODczLD
 EwODI1MjU4OTUsLTEyNzQ5OTA2NjIsLTE3ODg2NDcwNDksMTM2
