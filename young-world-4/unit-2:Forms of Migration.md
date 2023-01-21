@@ -25,12 +25,12 @@ summary here. (Lexile 1050L)
 
 ### Belle’s Journey, an Osprey Takes Flight. by Rob Bierregaard
 
-<img src="https://imgur.com/0Yih5hU.png" width="25%" />
+<img src="https://imgur.com/ikhqKuw.png" width="25%" />
 
 summary here.
 
 <a href="https://www.bookdepository.com/Adam-Road-Elizabeth-Janet-Gray/9780140324648?ref=grid-view&qid=1665930041706&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354191" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046449432" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Adam of the Road, by Elizabeth Janet Gray
 
@@ -50,6 +50,6 @@ summary here.
 <a href="https://www.bookdepository.com/Adam-Road-Elizabeth-Janet-Gray/9780140324648?ref=grid-view&qid=1665930041706&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354191" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwMTQ5NjM0LDE0MDM4OTc2NzEsLTEzMz
+eyJoaXN0b3J5IjpbMjgyNjE4MTkyLDE0MDM4OTc2NzEsLTEzMz
 QxODI1NzEsMTgzOTY2ODE1M119
 -->
