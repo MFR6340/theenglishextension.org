@@ -125,10 +125,10 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 
 Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station. Their home becomes more lively with his adventures. (Lexile 750L) 
 
-<a href="https://www.bookdepository.com/Beatryce-Prophecy-Kate-DiCamillo/9781529503623?ref=grid-view&qid=1674317393158&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Tale-Despereaux-Kate-DiCamillo/9780763680893?ref=grid-view&qid=1674317662193&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001321590" rel="nofollow">Buy on Orell Füssli</a>
 
-### The Beatryce Prophecy, Kate DiCamillo
+### Jungle book, by Rudyard Kipling
 <img src="https://imgur.com/lnzlXDB.png" width="25%" />
 
 Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station. Their home becomes more lively with his adventures. (Lexile 750L) 
@@ -149,9 +149,9 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTc3NzQ2NCwxNDk1NzUwNjA1LDY2NT
-EyNTEyMSwxODI5MTc5MTUxLDE5MDk1NDUwMjgsLTQ0OTgxNjg0
-NSwtMTU3NDgzNDYyNCwtMTMwMDM3MTI0NCwtMTI0NjIxMzg3My
-wxMDgyNTI1ODk1LC0xMjc0OTkwNjYyLC0xNzg4NjQ3MDQ5LDEz
-Njg1NzQ3MDksMzE4NjEwNzIzLDExNDYwNzMyNDddfQ==
+eyJoaXN0b3J5IjpbLTE4NzI4MjQ5NDksMTQ5NTc1MDYwNSw2Nj
+UxMjUxMjEsMTgyOTE3OTE1MSwxOTA5NTQ1MDI4LC00NDk4MTY4
+NDUsLTE1NzQ4MzQ2MjQsLTEzMDAzNzEyNDQsLTEyNDYyMTM4Nz
+MsMTA4MjUyNTg5NSwtMTI3NDk5MDY2MiwtMTc4ODY0NzA0OSwx
+MzY4NTc0NzA5LDMxODYxMDcyMywxMTQ2MDczMjQ3XX0=
 -->
