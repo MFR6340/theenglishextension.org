@@ -37,11 +37,12 @@ summary here.
 <a href="https://www.bookdepository.com/Worlds-Greatest-Clubs-Illugi-Joekulsson/9780789213532?ref=grid-view&qid=1674321446699&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053561733" rel="nofollow">Buy on Orell Füssli</a>
 
-### Paradise on Fire, Jewell Parker Rhodes
+### Daisy and the Trouble with Sports Day by Kes Gray
 
 <img src="https://imgur.com/fZ4PdHh.png" width="25%" />
 
-
+ (960L)
+ 
 <a href="https://www.bookdepository.com/Kids-Around-World-Celebrate-Best-Feasts-Festivals-from-Many-Lands-L-Jones/9780471345275?ref=grid-view&qid=1674321111991&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005087127" rel="nofollow">Buy on Orell Füssli</a>
 # Supplemental Activities
@@ -55,6 +56,6 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIzMjY1NzAxLC0xNTUzODk2MzQzLC0xND
-A2OTY1ODk1LC03MTY4OTc5MjNdfQ==
+eyJoaXN0b3J5IjpbLTUzMTQ1MDc1NywtMTU1Mzg5NjM0MywtMT
+QwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
 -->
