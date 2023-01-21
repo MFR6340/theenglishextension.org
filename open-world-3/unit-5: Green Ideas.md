@@ -1,6 +1,7 @@
-# Open World 3, Unit 5: Green Ideas
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+
+# Open WorldW 3, Unit 5: Green Ideas
+*This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY3NTM3MDFdfQ==
+eyJoaXN0b3J5IjpbODc5NzEwNDI2LC0xMDk2NzUzNzAxXX0=
 -->
