@@ -95,7 +95,7 @@ summary here.
  Summary here (590L)
  
 <a href="https://www.bookdepository.com/Million-Dollar-Race-Matthew-Ross-Smith/9781534420281?ref=grid-view&qid=1674391451966&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1060524135" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -111,8 +111,9 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczNDQxNjkzLDIwOTIwNzA2MTMsLTgyNj
-I2OTg3NSwtNDcwNzE3MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1
-LC0xMjk3NjEyNjc4LC0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLT
-E1NTM4OTYzNDMsLTE0MDY5NjU4OTUsLTcxNjg5NzkyM119
+eyJoaXN0b3J5IjpbLTE0ODQxNDM2NzcsMjA5MjA3MDYxMywtOD
+I2MjY5ODc1LC00NzA3MTcxNjQsOTg1Mzg1OTgsLTEyMDUxOTM0
+MjUsLTEyOTc2MTI2NzgsLTE2MDk0OTkxNTQsLTk1ODYzMDIxNS
+wtMTU1Mzg5NjM0MywtMTQwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
+
 -->
