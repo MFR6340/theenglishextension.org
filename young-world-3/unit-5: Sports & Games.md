@@ -64,6 +64,15 @@ Summary here.
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033698504" rel="nofollow">Buy on Orell Füssli</a>
 
+### Daisy and the Trouble with Sports Day by Kes Gray
+
+<img src="https://imgur.com/HtiLUsi.png" width="25%" />
+
+ Summary here (950L)
+ 
+<a href="https://www.bookdepository.com/Mighty-Moe-Rachel-Swaby/9780374311605?ref=grid-view&qid=1674390756973&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052970723" rel="nofollow">Buy on Orell Füssli</a>
+
 
 # Supplemental Activities
 
@@ -76,8 +85,9 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxNDkyNDU1LDIwOTIwNzA2MTMsLTgyNj
-I2OTg3NSwtNDcwNzE3MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1
-LC0xMjk3NjEyNjc4LC0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLT
-E1NTM4OTYzNDMsLTE0MDY5NjU4OTUsLTcxNjg5NzkyM119
+eyJoaXN0b3J5IjpbMTkzNjQzNzA4OSwyMDkyMDcwNjEzLC04Mj
+YyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQy
+NSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC
+0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
+
 -->
