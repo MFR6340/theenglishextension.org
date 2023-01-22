@@ -51,10 +51,18 @@ Summary here.
 ### Sports Day: Sam Kerr: Kicking Goals by Sam Kerr
 <img src="https://i.imgur.com/AAXVe1F.png" width="25%" />
 
- Summary here (960L)
+ Summary here (No Lexile Level available)
  
 <a href="https://www.bookdepository.com/Sports-Day-Sam-Kerr-Kicking-Goals-3-Sam-Kerr/9781761100918?ref=grid-view&qid=1674389793792&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
+### Daisy and the Trouble with Sports Day by Kes Gray
+
+<img src="https://imgur.com/HtiLUsi.png" width="25%" />
+
+ Summary here (960L)
+ 
+<a href="https://www.bookdepository.com/Daisy-Trouble-with-Sports-Day-Kes-Gray/9781782959700?ref=grid-view&qid=1674321575322&sr=1-15" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056801675" rel="nofollow">Buy on Orell Füssli</a>
 
 # Supplemental Activities
 
@@ -67,8 +75,8 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc4NTEwMDAsLTQ3MDcxNzE2NCw5OD
-UzODU5OCwtMTIwNTE5MzQyNSwtMTI5NzYxMjY3OCwtMTYwOTQ5
-OTE1NCwtOTU4NjMwMjE1LC0xNTUzODk2MzQzLC0xNDA2OTY1OD
-k1LC03MTY4OTc5MjNdfQ==
+eyJoaXN0b3J5IjpbLTgyNjI2OTg3NSwtNDcwNzE3MTY0LDk4NT
+M4NTk4LC0xMjA1MTkzNDI1LC0xMjk3NjEyNjc4LC0xNjA5NDk5
+MTU0LC05NTg2MzAyMTUsLTE1NTM4OTYzNDMsLTE0MDY5NjU4OT
+UsLTcxNjg5NzkyM119
 -->
