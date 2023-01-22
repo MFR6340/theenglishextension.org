@@ -64,7 +64,7 @@ Summary here.
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033698504" rel="nofollow">Buy on Orell Füssli</a>
 
-### # Mighty Moe: The True Story of a Thirteen-Year-Old Women's Running Revolutionary by Rachel Swaby(https://www.bookdepository.com/author/Rachel+Swaby)
+### # Mighty Moe: The True Story of a Thirteen-Year-Old Women's Running Revolutionary by Rachel Swaby
 
 <img src="https://i.imgur.com/2cuSvsV.jpg" width="25%" />
 
@@ -85,7 +85,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzAxODI3MCwyMDkyMDcwNjEzLC04Mj
+eyJoaXN0b3J5IjpbLTMxMTA3NTQzNiwyMDkyMDcwNjEzLC04Mj
 YyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQy
 NSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC
 0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
