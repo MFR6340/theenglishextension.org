@@ -1,8 +1,9 @@
 # Young World 3, Unit 5: Sports & Games
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
-**This unit covers the theme of Sports Day /Field Day at school including relay races, running, and winners and losers.  It also touches upon the weather.  This is not an easy unit to in which to find supplemental literature that is age appropriate.  The books below have therefore expanded on the Field Day theme to include information on famous athletes.** 
+**This unit covers Sports Day (also called Field Day), a traditional competition that schools celebrate the end of the year by school including relay races, running, and winners and losers.  It also touches upon the weather.  This is not an easy unit to in which to find supplemental literature that is age appropriate.  The books below have therefore expanded on the Field Day theme to include information on famous athletes.** 
 
+Field Day is a popular tradition at many elementary schools across the country. It is a fun way for kids to celebrate the end of the school year. The day traditionally consists of a variety of outdoor games and activities for children,
 
 
 
@@ -60,6 +61,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk0OTkxNTQsLTk1ODYzMDIxNSwtMT
-U1Mzg5NjM0MywtMTQwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
+eyJoaXN0b3J5IjpbMTMwOTg5MDczOSwtMTYwOTQ5OTE1NCwtOT
+U4NjMwMjE1LC0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4
+OTc5MjNdfQ==
 -->
