@@ -55,9 +55,9 @@ Summary here.
  
 <a href="https://www.bookdepository.com/Sports-Day-Sam-Kerr-Kicking-Goals-3-Sam-Kerr/9781761100918?ref=grid-view&qid=1674389793792&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-### Daisy and the Trouble with Sports Day by Kes Gray
+### Inspirational Lives: Mo Farah by Simon H
 
-<img src="https://imgur.com/HtiLUsi.png" width="25%" />
+<img src="https://i.imgur.com/81Ous6G.png" width="25%" />
 
  Summary here (960L)
  
@@ -75,8 +75,8 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk4Njk5MjYsLTgyNjI2OTg3NSwtND
-cwNzE3MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1LC0xMjk3NjEy
-Njc4LC0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLTE1NTM4OTYzND
-MsLTE0MDY5NjU4OTUsLTcxNjg5NzkyM119
+eyJoaXN0b3J5IjpbMTA4NTkzODAzMiwtODI2MjY5ODc1LC00Nz
+A3MTcxNjQsOTg1Mzg1OTgsLTEyMDUxOTM0MjUsLTEyOTc2MTI2
+NzgsLTE2MDk0OTkxNTQsLTk1ODYzMDIxNSwtMTU1Mzg5NjM0My
+wtMTQwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
 -->
