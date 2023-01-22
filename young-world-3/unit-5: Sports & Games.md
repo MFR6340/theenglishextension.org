@@ -73,13 +73,13 @@ summary here.
 <a href="https://www.bookdepository.com/Million-Dollar-Race-Matthew-Ross-Smith/9781534420281?ref=grid-view&qid=1674391451966&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
 
-###  Ultimate Sports Heroes - Usain Bolt by
+###  Ultimate Sports Heroes - Usain Bolt by John Murray
 <img src="https://i.imgur.com/xnuHoBK.png" width="25%" />
 
  Summary here (590L)
  
-<a href="https://www.bookdepository.com/Million-Dollar-Race-Matthew-Ross-Smith/9781534420281?ref=grid-view&qid=1674391451966&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Ultimate-Sports-Heroes---Usain-Bolt-John-Murray/9781786064677" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1044360908" rel="nofollow">Buy on Orell Füssli</a>
 
 ###  She Persisted: Florence Griffith Joyner by  Rita Williams Garcia
 <img src="https://i.imgur.com/xtu4jEh.png" width="25%" />
@@ -111,7 +111,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDMxMzIxMCwtMTc1MDk3NDE0MiwxNz
+eyJoaXN0b3J5IjpbMTY4MzI2MTAwOCwtMTc1MDk3NDE0MiwxNz
 Q3MTcxMTUxLDIwOTIwNzA2MTMsLTgyNjI2OTg3NSwtNDcwNzE3
 MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1LC0xMjk3NjEyNjc4LC
 0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLTE1NTM4OTYzNDMsLTE0
