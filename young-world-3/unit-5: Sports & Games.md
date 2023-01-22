@@ -53,7 +53,7 @@ Summary here.
 
  Summary here (960L)
  
-<a href="https://www.bookdepository.com/Daisy-Trouble-with-Sports-Day-Kes-Gray/9781782959700?ref=grid-view&qid=1674321575322&sr=1-15" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Sports-Day-Sam-Kerr-Kicking-Goals-3-Sam-Kerr/9781761100918?ref=grid-view&qid=1674389793792&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056801675" rel="nofollow">Buy on Orell Füssli</a>
 
 # Supplemental Activities
@@ -67,8 +67,8 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNT
-E5MzQyNSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMw
-MjE1LC0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5Mj
-NdfQ==
+eyJoaXN0b3J5IjpbMTgwNDAxNDY1MCwtNDcwNzE3MTY0LDk4NT
+M4NTk4LC0xMjA1MTkzNDI1LC0xMjk3NjEyNjc4LC0xNjA5NDk5
+MTU0LC05NTg2MzAyMTUsLTE1NTM4OTYzNDMsLTE0MDY5NjU4OT
+UsLTcxNjg5NzkyM119
 -->
