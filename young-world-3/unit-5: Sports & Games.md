@@ -1,7 +1,7 @@
 # Young World 3, Unit 5: Sports & Games
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
-**This unit covers Sports Day (also called Field Day), a popular tradition in schools to celebrate the end of the year.  The day usually consists in a variety of outdoor games including relay races, running, and other activities.   This is not an easy unit to in which to find supplemental literature.  The books below have therefore expanded on the Field Day theme to include information on famous athletes.** 
+**This unit covers Sports Day (also called Field Day), a popular tradition in schools to celebrate the end of the year.  The day usually consists in a variety of outdoor games including relay races, running, and other activities.   This is not an easy unit to find supplemental literature.  The books below have therefore expanded on the Field Day theme to include information on famous athletes.** 
 
 
 ## Kid Athletes: True Tales of Childhood from Sports Legends, by David Stabler
@@ -58,7 +58,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc2MTI2NzgsLTE2MDk0OTkxNTQsLT
-k1ODYzMDIxNSwtMTU1Mzg5NjM0MywtMTQwNjk2NTg5NSwtNzE2
-ODk3OTIzXX0=
+eyJoaXN0b3J5IjpbLTc0MzM4NDMzMywtMTI5NzYxMjY3OCwtMT
+YwOTQ5OTE1NCwtOTU4NjMwMjE1LC0xNTUzODk2MzQzLC0xNDA2
+OTY1ODk1LC03MTY4OTc5MjNdfQ==
 -->
