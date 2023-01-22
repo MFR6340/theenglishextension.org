@@ -73,7 +73,7 @@ summary here.
 <a href="https://www.bookdepository.com/Million-Dollar-Race-Matthew-Ross-Smith/9781534420281?ref=grid-view&qid=1674391451966&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
 
-### The Million Dollar Race by Matthew Ross Smith
+###  Ultimate Sports Heroes - Usain Bolt by
 <img src="https://i.imgur.com/xnuHoBK.png" width="25%" />
 
  Summary here (590L)
@@ -111,9 +111,9 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTA5NzQxNDIsMTc0NzE3MTE1MSwyMD
-kyMDcwNjEzLC04MjYyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5
-OCwtMTIwNTE5MzQyNSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NC
-wtOTU4NjMwMjE1LC0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03
-MTY4OTc5MjNdfQ==
+eyJoaXN0b3J5IjpbLTI1NDMxMzIxMCwtMTc1MDk3NDE0MiwxNz
+Q3MTcxMTUxLDIwOTIwNzA2MTMsLTgyNjI2OTg3NSwtNDcwNzE3
+MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1LC0xMjk3NjEyNjc4LC
+0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLTE1NTM4OTYzNDMsLTE0
+MDY5NjU4OTUsLTcxNjg5NzkyM119
 -->
