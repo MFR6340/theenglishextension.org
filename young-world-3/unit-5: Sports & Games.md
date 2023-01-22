@@ -1,6 +1,9 @@
 # Young World 3, Unit 5: Sports & Games
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+This unit covers the theme of Sports Day /Field Day at school including relay races, running, and winners and losers.  Sports Day at school, winners and losers. Relay racing, running, etc. Weather forecast for the day.
+
+
 
 
 ## Kid Athletes: True Tales of Childhood from Sports Legends, by David Stabler
@@ -57,6 +60,6 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODYzMDIxNSwtMTU1Mzg5NjM0MywtMT
-QwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
+eyJoaXN0b3J5IjpbMTk1MDE0MzIxMCwtOTU4NjMwMjE1LC0xNT
+UzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
 -->
