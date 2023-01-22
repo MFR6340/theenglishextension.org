@@ -48,8 +48,7 @@ Summary here.
 <a href="https://www.bookdepository.com/Daisy-Trouble-with-Sports-Day-Kes-Gray/9781782959700?ref=grid-view&qid=1674321575322&sr=1-15" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056801675" rel="nofollow">Buy on Orell Füssli</a>
 
-### Daisy and the Trouble with Sports Day by Kes Gray
-
+### Sports Day: Sam Kerr: Kicking Goals by Sam Kerr
 <img src="https://imgur.com/HtiLUsi.png" width="25%" />
 
  Summary here (960L)
@@ -68,7 +67,8 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1Mzg1OTgsLTEyMDUxOTM0MjUsLTEyOT
-c2MTI2NzgsLTE2MDk0OTkxNTQsLTk1ODYzMDIxNSwtMTU1Mzg5
-NjM0MywtMTQwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
+eyJoaXN0b3J5IjpbLTMyNDE0Nzc4Myw5ODUzODU5OCwtMTIwNT
+E5MzQyNSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMw
+MjE1LC0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5Mj
+NdfQ==
 -->
