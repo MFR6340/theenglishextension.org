@@ -49,7 +49,7 @@ Summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056801675" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Sports Day: Sam Kerr: Kicking Goals by Sam Kerr
-<img src="https://i.imgur.com/wgZDnry.png" width="25%" />
+<img src="https://i.imgur.com/AAXVe1F.png" width="25%" />
 
  Summary here (960L)
  
@@ -67,8 +67,8 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0NTUyNDY3LDk4NTM4NTk4LC0xMjA1MT
-kzNDI1LC0xMjk3NjEyNjc4LC0xNjA5NDk5MTU0LC05NTg2MzAy
-MTUsLTE1NTM4OTYzNDMsLTE0MDY5NjU4OTUsLTcxNjg5NzkyM1
-19
+eyJoaXN0b3J5IjpbLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNT
+E5MzQyNSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMw
+MjE1LC0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5Mj
+NdfQ==
 -->
