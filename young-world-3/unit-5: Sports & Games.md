@@ -82,12 +82,12 @@ summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
 
 ### The Million Dollar Race by Matthew Ross Smith
-<img src="https://i.imgur.com/xnuHoBK.png" width="25%" />
+<img src="https://i.imgur.com/xtu4jEh.png" width="25%" />
 
  Summary here (590L)
  
-<a href="https://www.bookdepository.com/Million-Dollar-Race-Matthew-Ross-Smith/9781534420281?ref=grid-view&qid=1674391451966&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/She-Persisted-Florence-Griffith-Joyner-Rita-Williams-Garcia/9780593115961?ref=grid-view&qid=1674392379232&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059479770" rel="nofollow">Buy on Orell Füssli</a>
 
 ### The Race of the Century: The Battle to Break the Four-Minute Mile by Neal Bascomb
 <img src="https://i.imgur.com/fOLrBmZ.png" width="25%" />
@@ -111,9 +111,9 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzE3MTE1MSwyMDkyMDcwNjEzLC04Mj
-YyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQy
-NSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC
-0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
-
+eyJoaXN0b3J5IjpbMTY2MjAwMTg1LDE3NDcxNzExNTEsMjA5Mj
+A3MDYxMywtODI2MjY5ODc1LC00NzA3MTcxNjQsOTg1Mzg1OTgs
+LTEyMDUxOTM0MjUsLTEyOTc2MTI2NzgsLTE2MDk0OTkxNTQsLT
+k1ODYzMDIxNSwtMTU1Mzg5NjM0MywtMTQwNjk2NTg5NSwtNzE2
+ODk3OTIzXX0=
 -->
