@@ -65,13 +65,38 @@ summary here.
 <a href="https://www.bookdepository.com/Mighty-Moe-Rachel-Swaby/9780374311605?ref=grid-view&qid=1674390756973&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052970723" rel="nofollow">Buy on Orell Füssli</a>
 
-### The illion dollar race by Matthew Ross Smith
+### The Million Dollar Race by Matthew Ross Smith
 <img src="https://i.imgur.com/xnuHoBK.png" width="25%" />
 
  Summary here (590L)
  
 <a href="https://www.bookdepository.com/Million-Dollar-Race-Matthew-Ross-Smith/9781534420281?ref=grid-view&qid=1674391451966&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
+
+### The Million Dollar Race by Matthew Ross Smith
+<img src="https://i.imgur.com/xnuHoBK.png" width="25%" />
+
+ Summary here (590L)
+ 
+<a href="https://www.bookdepository.com/Million-Dollar-Race-Matthew-Ross-Smith/9781534420281?ref=grid-view&qid=1674391451966&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
+
+### The Million Dollar Race by Matthew Ross Smith
+<img src="https://i.imgur.com/xnuHoBK.png" width="25%" />
+
+ Summary here (590L)
+ 
+<a href="https://www.bookdepository.com/Million-Dollar-Race-Matthew-Ross-Smith/9781534420281?ref=grid-view&qid=1674391451966&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
+
+### The Million Dollar Race by Matthew Ross Smith
+<img src="https://i.imgur.com/xnuHoBK.png" width="25%" />
+
+ Summary here (590L)
+ 
+<a href="https://www.bookdepository.com/Million-Dollar-Race-Matthew-Ross-Smith/9781534420281?ref=grid-view&qid=1674391451966&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
+
 
 
 
@@ -86,9 +111,8 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzA1NTg2OSwyMDkyMDcwNjEzLC04Mj
-YyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQy
-NSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC
-0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
-
+eyJoaXN0b3J5IjpbNzczNDQxNjkzLDIwOTIwNzA2MTMsLTgyNj
+I2OTg3NSwtNDcwNzE3MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1
+LC0xMjk3NjEyNjc4LC0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLT
+E1NTM4OTYzNDMsLTE0MDY5NjU4OTUsLTcxNjg5NzkyM119
 -->
