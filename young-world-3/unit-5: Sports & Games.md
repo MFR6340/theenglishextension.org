@@ -30,14 +30,6 @@ summary here.
 <a href="https://www.bookdepository.com/Sportopedia-Adam-Skinner/9781786030849?ref=grid-view&qid=1665928910005&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1048100234" rel="nofollow">Buy on Orell Füssli</a>
 
-### World’s Greatest Clubs
-
-<img src="https://imgur.com/9m2g6xM.png" width="25%" />
-
-Summary here.
-
-<a href="https://www.bookdepository.com/Worlds-Greatest-Clubs-Illugi-Joekulsson/9780789213532?ref=grid-view&qid=1674321446699&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053561733" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Daisy and the Trouble with Sports Day by Kes Gray
 
@@ -85,7 +77,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMTA3NTQzNiwyMDkyMDcwNjEzLC04Mj
+eyJoaXN0b3J5IjpbLTE1NDM1NTg0NywyMDkyMDcwNjEzLC04Mj
 YyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQy
 NSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC
 0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
