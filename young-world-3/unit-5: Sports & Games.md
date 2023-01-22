@@ -34,6 +34,7 @@ summary here.
 
 <img src="https://imgur.com/9m2g6xM.png" width="25%" />
 
+Summary here.
 
 <a href="https://www.bookdepository.com/Worlds-Greatest-Clubs-Illugi-Joekulsson/9780789213532?ref=grid-view&qid=1674321446699&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053561733" rel="nofollow">Buy on Orell Füssli</a>
@@ -58,7 +59,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MzM4NDMzMywtMTI5NzYxMjY3OCwtMT
-YwOTQ5OTE1NCwtOTU4NjMwMjE1LC0xNTUzODk2MzQzLC0xNDA2
-OTY1ODk1LC03MTY4OTc5MjNdfQ==
+eyJoaXN0b3J5IjpbLTEyMDUxOTM0MjUsLTEyOTc2MTI2NzgsLT
+E2MDk0OTkxNTQsLTk1ODYzMDIxNSwtMTU1Mzg5NjM0MywtMTQw
+Njk2NTg5NSwtNzE2ODk3OTIzXX0=
 -->
