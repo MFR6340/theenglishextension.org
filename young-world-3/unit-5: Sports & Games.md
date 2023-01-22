@@ -56,7 +56,7 @@ summary here.
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033698504" rel="nofollow">Buy on Orell Füssli</a>
 
-### # Mighty Moe: The True Story of a Thirteen-Year-Old Women's Running Revolutionary by Rachel Swaby
+### # Mighty Moe: The True Story of a Thirteen-Year-Old Women's Running Revolutionary by Rachel Swaby and Kit Fox
 
 <img src="https://i.imgur.com/2cuSvsV.jpg" width="25%" />
 
@@ -66,7 +66,7 @@ summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052970723" rel="nofollow">Buy on Orell Füssli</a>
 
 ### The million dollar race by Matthew Ross Smith
-<img src="https://imgur.com/HtiLUsi.png" width="25%" />
+<img src="https://i.imgur.com/xnuHoBK.png" width="25%" />
 
  Summary here (960L)
  
@@ -86,9 +86,8 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMDAyOTYzNiwyMDkyMDcwNjEzLC04Mj
-YyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQy
-NSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC
-0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
-
+eyJoaXN0b3J5IjpbMTc5MTc1NzkwLDIwOTIwNzA2MTMsLTgyNj
+I2OTg3NSwtNDcwNzE3MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1
+LC0xMjk3NjEyNjc4LC0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLT
+E1NTM4OTYzNDMsLTE0MDY5NjU4OTUsLTcxNjg5NzkyM119
 -->
