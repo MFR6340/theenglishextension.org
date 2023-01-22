@@ -81,10 +81,10 @@ summary here.
 <a href="https://www.bookdepository.com/Million-Dollar-Race-Matthew-Ross-Smith/9781534420281?ref=grid-view&qid=1674391451966&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
 
-### The Million Dollar Race by Matthew Ross Smith
+###  She Persisted: Florence Griffith Joyner by  Rita Williams Garcia
 <img src="https://i.imgur.com/xtu4jEh.png" width="25%" />
 
- Summary here (590L)
+ Summary here (No Lexile Level available)
  
 <a href="https://www.bookdepository.com/She-Persisted-Florence-Griffith-Joyner-Rita-Williams-Garcia/9780593115961?ref=grid-view&qid=1674392379232&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059479770" rel="nofollow">Buy on Orell Füssli</a>
@@ -111,9 +111,9 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjAwMTg1LDE3NDcxNzExNTEsMjA5Mj
-A3MDYxMywtODI2MjY5ODc1LC00NzA3MTcxNjQsOTg1Mzg1OTgs
-LTEyMDUxOTM0MjUsLTEyOTc2MTI2NzgsLTE2MDk0OTkxNTQsLT
-k1ODYzMDIxNSwtMTU1Mzg5NjM0MywtMTQwNjk2NTg5NSwtNzE2
-ODk3OTIzXX0=
+eyJoaXN0b3J5IjpbLTE3NTA5NzQxNDIsMTc0NzE3MTE1MSwyMD
+kyMDcwNjEzLC04MjYyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5
+OCwtMTIwNTE5MzQyNSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NC
+wtOTU4NjMwMjE1LC0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03
+MTY4OTc5MjNdfQ==
 -->
