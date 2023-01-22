@@ -64,6 +64,7 @@ Summary here.
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033698504" rel="nofollow">Buy on Orell Füssli</a>
 
+
 # Supplemental Activities
 
 There really can't be a discussion about sports without it eventually turning to the Olympics.  And what better place to go to learn about this amazing event than the Olympic Museum in Lausanne!
@@ -75,8 +76,8 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjA3MDYxMywtODI2MjY5ODc1LC00Nz
-A3MTcxNjQsOTg1Mzg1OTgsLTEyMDUxOTM0MjUsLTEyOTc2MTI2
-NzgsLTE2MDk0OTkxNTQsLTk1ODYzMDIxNSwtMTU1Mzg5NjM0My
-wtMTQwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
+eyJoaXN0b3J5IjpbNTIxNDkyNDU1LDIwOTIwNzA2MTMsLTgyNj
+I2OTg3NSwtNDcwNzE3MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1
+LC0xMjk3NjEyNjc4LC0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLT
+E1NTM4OTYzNDMsLTE0MDY5NjU4OTUsLTcxNjg5NzkyM119
 -->
