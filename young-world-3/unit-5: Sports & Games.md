@@ -1,7 +1,7 @@
 # Young World 3, Unit 5: Sports & Games
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
-This unit covers the theme of Sports Day /Field Day at school including relay races, running, and winners and losers.  Sports Day at school, winners and losers. Relay racing, running, etc. Weather forecast for the day.
+This unit covers the theme of Sports Day /Field Day at school including relay races, running, and winners and losers.  It also touches upon the weather.  This is not an easy unit to in which to find supplemental literature that is age appropriate.  There is books that cover field day, including Diary of the Wimpy Kid and 
 
 
 
@@ -60,6 +60,6 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDE0MzIxMCwtOTU4NjMwMjE1LC0xNT
-UzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
+eyJoaXN0b3J5IjpbNTczMzUwNjEyLC05NTg2MzAyMTUsLTE1NT
+M4OTYzNDMsLTE0MDY5NjU4OTUsLTcxNjg5NzkyM119
 -->
