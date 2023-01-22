@@ -54,7 +54,7 @@ Summary here.
  Summary here (960L)
  
 <a href="https://www.bookdepository.com/Sports-Day-Sam-Kerr-Kicking-Goals-3-Sam-Kerr/9781761100918?ref=grid-view&qid=1674389793792&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056801675" rel="nofollow">Buy on Orell Füssli</a>
+
 
 # Supplemental Activities
 
@@ -67,8 +67,8 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNDAxNDY1MCwtNDcwNzE3MTY0LDk4NT
-M4NTk4LC0xMjA1MTkzNDI1LC0xMjk3NjEyNjc4LC0xNjA5NDk5
-MTU0LC05NTg2MzAyMTUsLTE1NTM4OTYzNDMsLTE0MDY5NjU4OT
-UsLTcxNjg5NzkyM119
+eyJoaXN0b3J5IjpbLTIxMDc4NTEwMDAsLTQ3MDcxNzE2NCw5OD
+UzODU5OCwtMTIwNTE5MzQyNSwtMTI5NzYxMjY3OCwtMTYwOTQ5
+OTE1NCwtOTU4NjMwMjE1LC0xNTUzODk2MzQzLC0xNDA2OTY1OD
+k1LC03MTY4OTc5MjNdfQ==
 -->
