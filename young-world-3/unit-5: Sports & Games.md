@@ -74,9 +74,9 @@ summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
 
 ###  Ultimate Sports Heroes - Usain Bolt by John Murray
-<img src="https://i.imgur.com/xnuHoBK.png" width="25%" />
+<img src="https://i.imgur.com/UtiteCV.png" width="25%" />
 
- Summary here (590L)
+ Summary here (No Lexile Level available)
  
 <a href="https://www.bookdepository.com/Ultimate-Sports-Heroes---Usain-Bolt-John-Murray/9781786064677" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1044360908" rel="nofollow">Buy on Orell Füssli</a>
@@ -111,9 +111,9 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzI2MTAwOCwtMTc1MDk3NDE0MiwxNz
-Q3MTcxMTUxLDIwOTIwNzA2MTMsLTgyNjI2OTg3NSwtNDcwNzE3
-MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1LC0xMjk3NjEyNjc4LC
-0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLTE1NTM4OTYzNDMsLTE0
-MDY5NjU4OTUsLTcxNjg5NzkyM119
+eyJoaXN0b3J5IjpbNDU4MDUxNjgwLC0xNzUwOTc0MTQyLDE3ND
+cxNzExNTEsMjA5MjA3MDYxMywtODI2MjY5ODc1LC00NzA3MTcx
+NjQsOTg1Mzg1OTgsLTEyMDUxOTM0MjUsLTEyOTc2MTI2NzgsLT
+E2MDk0OTkxNTQsLTk1ODYzMDIxNSwtMTU1Mzg5NjM0MywtMTQw
+Njk2NTg5NSwtNzE2ODk3OTIzXX0=
 -->
