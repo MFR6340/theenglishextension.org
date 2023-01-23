@@ -40,6 +40,15 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 <a href="https://www.bookdepository.com/Mary-Poppins-P-L-Travers/9780007286416?ref=grid-view&qid=1665930949367&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.youtube.com/watch?v=os9J0QXo2AE" rel="nofollow">Buy on  Amazon</a>
+
+### Mary Poppins, by Pamela L. Travers
+
+<img src="https://imgur.com/Nak0fBU.png" width="25%" />
+
+The chimney sweep is a job from times gone by.  For those who prefer fiction to non-fiction, this is a fun book to read and compare to the more familiar movie.
+
+<a href="https://www.bookdepository.com/Mary-Poppins-P-L-Travers/9780007286416?ref=grid-view&qid=1665930949367&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.youtube.com/watch?v=os9J0QXo2AE" rel="nofollow">Buy on  Amazon</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwMzgzMF19
+eyJoaXN0b3J5IjpbLTMwNTgwNDkwOSw3ODAzODMwXX0=
 -->
