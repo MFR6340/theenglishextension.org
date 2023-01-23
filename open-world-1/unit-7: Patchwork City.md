@@ -9,8 +9,8 @@
 
 summary here.  (Lexile level       )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Jonathan-Cleaned-Up-Then-He-Heard-Sound-Robert-Munsch/9781773210889?ref=grid-view&qid=1674500497806&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005972253" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -48,7 +48,7 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzE2NzE2ODMsLTc5NDE2MDYsLTMyMj
+eyJoaXN0b3J5IjpbLTEyMjcxMzU5NjQsLTc5NDE2MDYsLTMyMj
 k3NDI2MSwtMTI1NzgwMDk2MywtNTkxOTcyNTg0LDEwNDM2NjQw
 OTZdfQ==
 -->
