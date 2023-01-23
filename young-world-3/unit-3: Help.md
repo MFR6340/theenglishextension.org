@@ -55,7 +55,7 @@ This biography of Florence Nightingale provides more extensive details than the 
 
 <img src="https://imgur.com/jVslJ4O.png" width="25%" />
 
-This biography of Florence Nightingale provides more extensive details than the one above about how she permanently changed the field of medicine by improving hospital conditions.  (Lexile 1030L)
+On This biography of Florence Nightingale provides more extensive details than the one above about how she permanently changed the field of medicine by improving hospital conditions.  (Lexile 1140L)
 
 <a href="https://www.bookdepository.com/DK-Life-Stories-Florence-Nightingale-Kitson-Jazynka/9781465478436?ref=grid-view&qid=1674318648336&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.bookdepository.com/DK-Life-Stories-Florence-Nightingale-Kitson-Jazynka/9781465478436?ref=grid-view&qid=1674318648336&sr=1-2" rel="nofollow">Buy on Orell Füssli</a>
@@ -67,7 +67,7 @@ This biography of Florence Nightingale provides more extensive details than the 
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3MzI5NDEzLDE3Mzg4NjE3ODUsLTM3NT
+eyJoaXN0b3J5IjpbMjkyMzgwMzA2LDE3Mzg4NjE3ODUsLTM3NT
 I4NzgyNSwtMTI5NjQ2ODYxLC0zNjg4ODA4MzcsLTE5Mjc4NTY2
 MjEsLTExNDI1NTg5ODYsLTE4Nzg1MzcyOTQsLTk4MzAzMDEwLD
 k4MTkwODU3MCwxNjIzMjgwNTUyLC0zMDcxODE5NDQsNzE0NjA3
