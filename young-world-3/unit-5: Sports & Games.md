@@ -21,7 +21,7 @@
 <a href="https://www.bookdepository.com/Sports-Day-Sam-Kerr-Kicking-Goals-3-Sam-Kerr/9781761100918?ref=grid-view&qid=1674389793792&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 
-## Great Runners
+## Great Runners and Track Events
 ###  DK: Life Stories Jesse Owens
 
 <img src="https://i.imgur.com/dPMlj0k.png" width="25%" />
@@ -30,41 +30,6 @@ Jesse Owens is the most famous athlete in Track and Field history despite many o
 
 <a href="https://www.bookdepository.com/DK-Life-Stories-Jesse-Owens-James-Buckley-Jr/9780241413845?ref=grid-view&qid=1674463840502&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1057224613?sq=DK%20Life%20Stories%20Jesse%20Owens:%20Amazing%20People%20Who%20Have%20Shaped%20Our%20World&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
-
-
-## Sports in General 
-
-
-
-### Kid Athletes: True Tales of Childhood from Sports Legends, by David Stabler
-
-<img src="https://imgur.com/ovWMRrl.png" width="25%" />
-
-summary here.
-
-<a href="https://www.bookdepository.com/Kid-Athletes-David-Stabler/9781594748028?ref=grid-view&qid=1665928260307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035793246" rel="nofollow">Buy on Orell Füssli</a>
-
-## DK: Children’s book of Sports
-
-<img src="https://imgur.com/COT8oyE.png" width="25%" />
-
-summary here.
-
-<a href="https://www.bookdepository.com/Childrens-Book-Sport-DK/9781405368506?ref=grid-view&qid=1665929123129&sr=1-4" rel="nofollow"> Buy on BookDepository</a>  
-
-## Sportopedia, by Adam Skinner
-
-<img src="https://imgur.com/4TlTy00.png" width="25%" />
-
-summary here.
-
-<a href="https://www.bookdepository.com/Sportopedia-Adam-Skinner/9781786030849?ref=grid-view&qid=1665928910005&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1048100234" rel="nofollow">Buy on Orell Füssli</a>
-
-
-
-
 
 ### Inspirational Lives: Mo Farah by Simon Hart
 
@@ -119,6 +84,42 @@ summary here.
 
 
 
+## Sports in General 
+
+### Kid Athletes: True Tales of Childhood from Sports Legends, by David Stabler
+
+<img src="https://imgur.com/ovWMRrl.png" width="25%" />
+
+summary here.
+
+<a href="https://www.bookdepository.com/Kid-Athletes-David-Stabler/9781594748028?ref=grid-view&qid=1665928260307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035793246" rel="nofollow">Buy on Orell Füssli</a>
+
+### DK: Children’s book of Sports
+
+<img src="https://imgur.com/COT8oyE.png" width="25%" />
+
+summary here.
+
+<a href="https://www.bookdepository.com/Childrens-Book-Sport-DK/9781405368506?ref=grid-view&qid=1665929123129&sr=1-4" rel="nofollow"> Buy on BookDepository</a>  
+
+### Sportopedia, by Adam Skinner
+
+<img src="https://imgur.com/4TlTy00.png" width="25%" />
+
+summary here.
+
+<a href="https://www.bookdepository.com/Sportopedia-Adam-Skinner/9781786030849?ref=grid-view&qid=1665928910005&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1048100234" rel="nofollow">Buy on Orell Füssli</a>
+
+
+
+
+
+
+
+
+
 # Supplemental Activities
 
 There really can't be a discussion about sports without it eventually turning to the Olympics.  And what better place to go to learn about this amazing event than the Olympic Museum in Lausanne!
@@ -130,9 +131,9 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODYyNTM0NSw0NTgwNTE2ODAsLTE3NT
-A5NzQxNDIsMTc0NzE3MTE1MSwyMDkyMDcwNjEzLC04MjYyNjk4
-NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQyNSwtMT
-I5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC0xNTUz
-ODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
+eyJoaXN0b3J5IjpbLTE0NjgyMjU0MjAsNDU4MDUxNjgwLC0xNz
+UwOTc0MTQyLDE3NDcxNzExNTEsMjA5MjA3MDYxMywtODI2MjY5
+ODc1LC00NzA3MTcxNjQsOTg1Mzg1OTgsLTEyMDUxOTM0MjUsLT
+EyOTc2MTI2NzgsLTE2MDk0OTkxNTQsLTk1ODYzMDIxNSwtMTU1
+Mzg5NjM0MywtMTQwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
 -->
