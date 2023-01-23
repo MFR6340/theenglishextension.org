@@ -1,6 +1,6 @@
 # Young World 3, Unit 3: Help
 
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit covers what to do in a accident, First Aid, and how to call for Emergency services.  To expand on this unit, the books below give examples of both animals and people who have provided assistance in various emergencies.** 
 
@@ -72,10 +72,10 @@ This book is the first in a series on fictional Search and Rescue dogs.  For tho
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjM5MzUzOSwtNDM1NDQ4NDAyLDI5Mj
-M4MDMwNiwxNzM4ODYxNzg1LC0zNzUyODc4MjUsLTEyOTY0Njg2
-MSwtMzY4ODgwODM3LC0xOTI3ODU2NjIxLC0xMTQyNTU4OTg2LC
-0xODc4NTM3Mjk0LC05ODMwMzAxMCw5ODE5MDg1NzAsMTYyMzI4
-MDU1MiwtMzA3MTgxOTQ0LDcxNDYwNzAyMSwzMDQ0MzYxMjhdfQ
-==
+eyJoaXN0b3J5IjpbNDAxNTk1NzY3LDEwMzIzOTM1MzksLTQzNT
+Q0ODQwMiwyOTIzODAzMDYsMTczODg2MTc4NSwtMzc1Mjg3ODI1
+LC0xMjk2NDY4NjEsLTM2ODg4MDgzNywtMTkyNzg1NjYyMSwtMT
+E0MjU1ODk4NiwtMTg3ODUzNzI5NCwtOTgzMDMwMTAsOTgxOTA4
+NTcwLDE2MjMyODA1NTIsLTMwNzE4MTk0NCw3MTQ2MDcwMjEsMz
+A0NDM2MTI4XX0=
 -->
