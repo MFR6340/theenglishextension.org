@@ -1,6 +1,6 @@
 # Open World 1, Unit 2: Without Words
 
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.* 
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit covers how animals communicate, with emphasis on ants, bees, whales, chimpanzees and apes.** 
 
@@ -23,5 +23,6 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODI0Mjg2MSwtMTAyMzA2NzY0Nl19
+eyJoaXN0b3J5IjpbODIxNTIwNzkzLDE3ODgyNDI4NjEsLTEwMj
+MwNjc2NDZdfQ==
 -->
