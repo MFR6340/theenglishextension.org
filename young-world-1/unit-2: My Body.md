@@ -1,5 +1,5 @@
 # Young World 1, Unit 2: My Body
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **In this Klett unit, students learn vocabulary related to parts of the body, the skeleton, skin, and muscles.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 
@@ -68,9 +68,10 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 The exhibition BodyWorlds is not currently showing in Switzerland, but one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2OTg4ODU4LDE1NzgxNTg0NzYsLTU5MT
-I5MDMxMiwtMjgwMjQ4MzcsLTE1NjY5Mjk3NTQsMzI1MTg0NTEy
-LC0xNjI0NDA3NTIwLDEzODYwNjUxNjAsMjEwODk1NTc3OCwtMj
-Y5MzIwNzIzLDgxMzEzNDUyLC0yMzgxNDIyMDgsMTMzOTI2Nzg5
-MiwtMjA5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1Mzk4NDEzM119
+eyJoaXN0b3J5IjpbLTIwMDgwOTU4OTAsMTU3ODE1ODQ3NiwtNT
+kxMjkwMzEyLC0yODAyNDgzNywtMTU2NjkyOTc1NCwzMjUxODQ1
+MTIsLTE2MjQ0MDc1MjAsMTM4NjA2NTE2MCwyMTA4OTU1Nzc4LC
+0yNjkzMjA3MjMsODEzMTM0NTIsLTIzODE0MjIwOCwxMzM5MjY3
+ODkyLC0yMDkzMTQ4MTY0LDE0NzI2ODk2OTQsNDUzOTg0MTMzXX
+0=
 -->
