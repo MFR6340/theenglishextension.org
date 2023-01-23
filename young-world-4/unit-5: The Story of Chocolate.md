@@ -10,19 +10,19 @@
 
 It's impossible to include a list of chocolate-themed books without including this classic tale of a poor boy who wins a golden ticket to enter Willy Wonka's Chocolate Factory.  Many kids have seen the movie.  Everyone should read the book.  (Lexile 810)
 
-<a href="https://www.bookdepository.com/Charlie-Chocolate-Factory-Roald-Dahl/9780142410318?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Ca-oer-al-l/978103?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
 Also try the Audio book version read by Eric Idle
 
 ### Candy Bomber, by Michael O. Tunnell
 
-<img src="https://imgur.com/oMtnFMg.png" width="25%" />
+<img src="https://imgur.com/goMtnFMg.png" width="25%" />
 
  (Lexile 1130L)
 
-<a href="https://www.bookdepository.com/Candy-Bomber-Michael-O-Tunnell/9781580893374?ref=grid-view&qid=167449217183774492171837&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Candy-Bomber-Michael-O-Tunnell/9781580893374?ref=grid-view&qid=1674492171837792874492171837&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A103980152009294094" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTYwNDMxODIsNjE3MDM3ODE4LC02MD
-I4MDI0NDcsOTgzMTA0MzIxXX0=
+eyJoaXN0b3J5IjpbODczNTE2MjY0LC0yMDk2MDQzMTgyLDYxNz
+AzNzgxOCwtNjAyODAyNDQ3LDk4MzEwNDMyMV19
 -->
