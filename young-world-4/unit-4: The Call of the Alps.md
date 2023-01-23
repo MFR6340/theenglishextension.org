@@ -1,6 +1,6 @@
 # Young World 4, Unit 4: The Call of the Alps
 
-*This post contains links. If you make a purchase through these links, The English Extension Organization will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links, The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit is about planning a trip in the various regions of Switzerland. It discusses things to do in the mountains, including information about the first male and female to climb the Matterhorn.  Kids growing up in Switzerland and enrolled in the local schools may have a great foundation from which to build on this theme.  Here are some ideas for both added knowledge and pleasure reading:**
 
@@ -68,7 +68,7 @@ nspunnenchwinget/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTYwNTUxNywxMDg0MDkzMzQ5LDEzNj
-M2NjE1OTEsLTYwNDc0Nzc2Miw0MzIwNjIxNzYsLTE4OTQ2MDA4
-NTMsMTg0ODg1NDEyMiw0NTkxODMwNTVdfQ==
+eyJoaXN0b3J5IjpbLTIwOTc5ODY2ODMsMTA4NDA5MzM0OSwxMz
+YzNjYxNTkxLC02MDQ3NDc3NjIsNDMyMDYyMTc2LC0xODk0NjAw
+ODUzLDE4NDg4NTQxMjIsNDU5MTgzMDU1XX0=
 -->
