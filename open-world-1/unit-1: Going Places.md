@@ -1,6 +1,8 @@
 # Open World 1, Unit 1: Going Places
  *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.**
 
+This unit covers visiting Edinburgh, Scotland. Trip to Glasgow. Comparing the two cities.
+
 ## Title here, by author here
 
 <img src="imgurlinkhere.png" width="25%" />
@@ -20,5 +22,5 @@ You don't need to leave Switzerland to see **Highland Dancing** or to learn how 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjkzMDYwNDldfQ==
+eyJoaXN0b3J5IjpbLTI0NzM2Njk3MCwtMTcyOTMwNjA0OV19
 -->
