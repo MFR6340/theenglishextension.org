@@ -9,15 +9,8 @@
 
 Jesse Owens is the most famous athlete in Track and Field history despite many odds.  His grandparents had been slaves, his parents were poor sharecroppers.  He set multiple world- records, including three in less than an hour, considered to be the "greatest 45 minutes in sport."  In 1936, he won 4 Gold medals in the Berlin Olympics, disrupting Hitler's plan to show Aryan superiority.  It's worthwhile reading about this truly inspirational athlete.  (Lexile 920L)
 
-<a href="https://www.bookdepository.com/Kid-Athletes-David-Stabler/9781594748028?ref=grid-view&qid=1665928260307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035793246" rel="nofollow">Buy on Orell Füssli</a>
-
-<img src="https://imgur.com/ovWMRrl.png" width="25%" />
-
-summary here.
-
 <a href="https://www.bookdepository.com/DK-Life-Stories-Jesse-Owens-James-Buckley-Jr/9780241413845?ref=grid-view&qid=1674463840502&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035793246" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1057224613?sq=DK%20Life%20Stories%20Jesse%20Owens:%20Amazing%20People%20Who%20Have%20Shaped%20Our%20World&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 ### Kid Athletes: True Tales of Childhood from Sports Legends, by David Stabler
 
 <img src="https://imgur.com/ovWMRrl.png" width="25%" />
@@ -125,7 +118,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYwMzYyMTk3LDQ1ODA1MTY4MCwtMTc1MD
+eyJoaXN0b3J5IjpbOTk3OTEwNzMzLDQ1ODA1MTY4MCwtMTc1MD
 k3NDE0MiwxNzQ3MTcxMTUxLDIwOTIwNzA2MTMsLTgyNjI2OTg3
 NSwtNDcwNzE3MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1LC0xMj
 k3NjEyNjc4LC0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLTE1NTM4
