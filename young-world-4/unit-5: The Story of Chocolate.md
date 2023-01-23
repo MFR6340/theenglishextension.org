@@ -14,15 +14,16 @@ It's impossible to include a list of chocolate-themed books without including th
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801520" rel="nofollow">Buy on Orell Füssli</a>
 Also try the Audio book version read by Eric Idle
 
-### The Candy Bomber, by Michael O. Tunnell 
+### ThCharlie Candy Bomber, by Michael O. Tunnell  the Chocolate Factory, by Roald Dahl
+
 <img src="https://imgur.com/gSBaQBZ.png" width="25%" />
 
-(Lexile 1130)
+It's impossible to include a list of chocolate-themed books without including this classic tale of a poor boy who wins a golden ticket to enter Willy Wonka's Chocolate Factory.  Many kids have seen the movie.  Everyone should read the book.  (Lexile 81130)
 
 
 <a href="https://www.bookdepository.com/Charlie-Chocolate-Factory-Roald-Dahl/9780142410318?ref=grid-view&qid=1665931796298&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801520" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzUwNzI2MSwtNjAyODAyNDQ3LDk4Mz
-EwNDMyMV19
+eyJoaXN0b3J5IjpbNjE3MDM3ODE4LC04MDM1MDcyNjEsLTYwMj
+gwMjQ0Nyw5ODMxMDQzMjFdfQ==
 -->
