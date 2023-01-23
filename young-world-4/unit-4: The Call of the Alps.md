@@ -26,7 +26,7 @@ Newberry Honor Book.  The story of William Tell, who shot an apple of the head o
 ### Heidi, by Johanna Spyri
 <img src="https://imgur.com/XPkX05Y.png" width="25%" />
 
-The classic children's novel, originally published in German, about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  Originally published in 1880-81 in two parts.  As it is now out of copyright there are quite a few English translations available including for free on<a href="http://www.gutenberg.org/ebooks/1448" rel="nofollow">  re[tutenberg/.  Lexile level varies based on translation. 
+The classic children's novel, originally published in German, about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  Originally published in 1880-81 in two parts.  As it is now out of copyright there are quite a few English translations available including for free on<a href="http://www.gutenberg.org/ebooks/1448" rel="nofollow">  re[tutenberg .  Lexile level varies based on translation. 
 
 <a href="https://www.bookdepository.com/Heidi-Johanna-Spyri/9780141322568?ref=grid-view&qid=1665931270781&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005226950" rel="nofollow">Buy on Orell Füssli</a>
@@ -56,7 +56,9 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri grew up.  Come visit and learn all about the author who wrote the world-famous book, Heidi. https://spyri-museum.ch/en/
 
 Keeping along the Heidi theme, visit the Heidi Dorf.
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005226950" rel="nofollow" Visiting HeidBuy on Orell Füssli</a> https://www.ourswissexperience.com/en/2021/09/23/heididorf-heidis-village-maienfeld-visiting-the-worlds-most-famous-swiss-girl/
+<a href="" rel="nofollow" Visiting Heidi's village </a> 
+
+<a href="https://www.ourswissexperience.com/en/2021/09/23/heididorf-heidis-village-maienfeld-visiting-the-worlds-most-famous-swiss-girl/ " rel="nofollow">Buy on Orell Füssli</a>
 
 The majestic Alps have always called people to both work play on their slopes.   There are plenty of ways of playing, from skiing, to sledding, to bobsledding.  The Ski Museum in Davos has a lovely collection of  Alpine sports artifacts which will definitely to react with "Wow, they really used THAT?"  https://www.wintersportmuseum.ch
 
@@ -65,6 +67,6 @@ https://www.myswitzerland.com/en-ch/experiences/events/unspunnenschwinget/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyMDYyMTc2LC02Nzk4Mzg2MTEsLTE4OT
-Q2MDA4NTMsMTg0ODg1NDEyMiw0NTkxODMwNTVdfQ==
+eyJoaXN0b3J5IjpbLTEwMzcxODQ4NTcsNDMyMDYyMTc2LC0xOD
+k0NjAwODUzLDE4NDg4NTQxMjIsNDU5MTgzMDU1XX0=
 -->
