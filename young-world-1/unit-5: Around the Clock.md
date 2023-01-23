@@ -53,7 +53,7 @@ This book is more fantasy, word-play and adventure than clock related, but it's 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441194" rel="nofollow">Buy on Orell Füssli</a>
 
 
-### Time Villains, Victor Pineiro
+### Time Villains, by Victor Pineiro
 
 <img src="https://imgur.com/pV4cOFG.png" width="25%" />
 
@@ -98,5 +98,5 @@ https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3Mjk3ODIyMywyMjc2Mzk4MTldfQ==
+eyJoaXN0b3J5IjpbMjA0NTIwMTM2LDE5NzI5NzgyMjNdfQ==
 -->
