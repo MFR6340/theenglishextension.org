@@ -58,7 +58,7 @@ summary here. (exile 600)
 <a href="https://www.bookdepository.com/Magic-School-Bus-inside-Hurricane-Joanna-Cole/9780590446877?ref=grid-view&qid=1665847708965&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003335907" rel="nofollow">Buy on Orell Füssli</a>
 
-## The Ox Cart Man, by Donald Hall
+### The Ox Cart Man, by Donald Hall
 
 <img src="https://imgur.com/I.png" width="25%" />
 
@@ -69,9 +69,9 @@ summary here. (Lexile AD 1130L)
 
 ### The Big Snow, by Berta and Elmer Hader
 
-<img src="https://i.imgur.com/EZCP59wldsbZbT.png" width="25%" />
+<img src="https://i.imgur.com/EZCP59w.png" width="25%" />
 
-summary here. (Llexile 710L)
+summary here. (Lexile 710L)
 
 <a href="https://www.bookdepository.com/Big-Snow-Berta-Hader/9780689717574?ref=grid-view&qid=1673794354298&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354526" rel="nofollow"> Buy on Orell Füssli</a>
@@ -94,10 +94,10 @@ summary here. (Lexile AD620L)
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051788134" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxMTg1MTksOTgwMzk0MDc1LDkyMjU2ND
-E0MSwxMzM4MjQ2OTc4LDEzMDQ0MDU3MzYsMzUwMTYwNzk0LC0z
-MjYxMzA3NDcsLTMwODM4OTgyOSwxMjY3Mzk0MTEzLDM0NjM5OD
-Q5MSwtMjE5MjgzMzE0LC04NzE4MTM3MDMsMTg5MDU1MTAxOCwx
-Nzg0MDczODg1LDg5OTM1Nzc3OSwtNzcyMzI0NDA1LDEzMTUwMT
-A5MjgsMTMwNDY2MjI4OV19
+eyJoaXN0b3J5IjpbMzE3NzczODgxLDk4MDM5NDA3NSw5MjI1Nj
+QxNDEsMTMzODI0Njk3OCwxMzA0NDA1NzM2LDM1MDE2MDc5NCwt
+MzI2MTMwNzQ3LC0zMDgzODk4MjksMTI2NzM5NDExMywzNDYzOT
+g0OTEsLTIxOTI4MzMxNCwtODcxODEzNzAzLDE4OTA1NTEwMTgs
+MTc4NDA3Mzg4NSw4OTkzNTc3NzksLTc3MjMyNDQwNSwxMzE1MD
+EwOTI4LDEzMDQ2NjIyODldfQ==
 -->
