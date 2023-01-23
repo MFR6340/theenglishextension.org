@@ -21,7 +21,7 @@ summary here.
 
 <img src="https://imgur.com/66AhGbV.png" width="25%" />
 
-Search and Rescue Dogs are asummary here. (Lexile 750L) 
+Search and Rescue Dogs are an important part of the providing help during an accident or emergency.  In this non-fiction book, the various roles of dogs as helper are explained in detail.  (Lexile 750L) 
 
 <a href="https://www.bookdepository.com/Dog-Heroes-Mary-Pope-Osborne/9780375860126?ref=grid-view&qid=1674318040257&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016423966" rel="nofollow">Buy on Orell Füssli</a>
@@ -66,9 +66,9 @@ summary here.
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyMDY5MTc1LC0zNzUyODc4MjUsLTEyOT
-Y0Njg2MSwtMzY4ODgwODM3LC0xOTI3ODU2NjIxLC0xMTQyNTU4
-OTg2LC0xODc4NTM3Mjk0LC05ODMwMzAxMCw5ODE5MDg1NzAsMT
-YyMzI4MDU1MiwtMzA3MTgxOTQ0LDcxNDYwNzAyMSwzMDQ0MzYx
-MjhdfQ==
+eyJoaXN0b3J5IjpbMTczODg2MTc4NSwtMzc1Mjg3ODI1LC0xMj
+k2NDY4NjEsLTM2ODg4MDgzNywtMTkyNzg1NjYyMSwtMTE0MjU1
+ODk4NiwtMTg3ODUzNzI5NCwtOTgzMDMwMTAsOTgxOTA4NTcwLD
+E2MjMyODA1NTIsLTMwNzE4MTk0NCw3MTQ2MDcwMjEsMzA0NDM2
+MTI4XX0=
 -->
