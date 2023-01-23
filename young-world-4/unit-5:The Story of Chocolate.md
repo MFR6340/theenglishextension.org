@@ -2,7 +2,7 @@
 
  *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-This unit on chocolate from platations to production is usually also covered in primary school as part of the NMG (Natur, Mensch, Gesellscunit.  How chocolate is made. Plantation, Production, Trade/Fair Trade. Recipes with Chocolate.
+This unit on chocolate from platations to production is usually also covered in primary school as part of the NMG (Natur, Mensch, Gesellschaft) unit.  How chocolate is made. Plantation, Production, Trade/Fair Trade. Recipes with Chocolate.
 
 ## Charlie and the Chocolate Factory, by Roald Dahl
 
@@ -15,7 +15,7 @@ The fantastic tale of a poor boy who wins a golden ticket to enter Willy Wonka's
 Also try the Audio book version read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1ODAzNTM0MywtMTQ1OTc3MTE5MywxNj
-YxNzIxOTI3LC0xNTU3Mzg2Nzk0LDg2ODc2ODMwLDkyMjAzNTY2
-NCwxNzI0OTIyNzQxLC0xMjg2NDAzNjA3XX0=
+eyJoaXN0b3J5IjpbLTEzNjI1MDg5NzcsLTE0NTk3NzExOTMsMT
+Y2MTcyMTkyNywtMTU1NzM4Njc5NCw4Njg3NjgzMCw5MjIwMzU2
+NjQsMTcyNDkyMjc0MSwtMTI4NjQwMzYwN119
 -->
