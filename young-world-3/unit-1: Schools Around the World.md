@@ -1,6 +1,6 @@
 # Young World 3, Unit 1: Schools Around the World
 
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.* 
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO)will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.* 
 
 **This unit discusses school buildings, classrooms, school timetable, uniforms.  Here are some suggestions for native English speakers to find out more about other schools and what happens there:**
 
@@ -86,7 +86,7 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDAxNzYyLDkwMzIyMzI2OCwyODMxNz
+eyJoaXN0b3J5IjpbMzM0MjMwNTEwLDkwMzIyMzI2OCwyODMxNz
 g1OTksNzA4NTI1NTg3LDE2MzM1MTMyOTEsLTE2MTY0NjM1ODAs
 NTE3MDU3NjA4LDExODU2MjU3MjgsLTE0MjU2NjgwMzIsMTEzND
 E5MDc4LDE1NzMwMjYyMjVdfQ==
