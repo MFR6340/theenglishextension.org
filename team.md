@@ -4,7 +4,7 @@
 Megan has a M.Ed. Language and Literacy from Harvard, a M.Ed. in Elementary Education from UCLA, and a BA in Classical Studies.  She taught primary school and was a Curriculum Coordinator in Burbank, California. She has also been an Education Officer for the Massachusetts Department of Education and an Education Policy Analyst in Washington DC.  She lives in Baar (ZG) and her five children are current enrolled in five different Swiss schools from primary to university.
 
 **Theresa Jäger**
-Theresa lives in Rotkreuz, ZG with her husband and 2 children.  She holds a BEd, Diploma as a Primary Teacher as well as CELTA Certification.  She is a private English tutor.  She has taught all levels of primary school in New Zealand, the UK (both private & public), & Switzerland (Four Forest & International School of Zug & Luzern).  
+Theresa lives in Rotkreuz  (ZG )with her husband and 2 children. She holds a BEd, Diploma as a Primary Teacher from New Zealand as well as CELTA Certification. She is a private English tutor and has taught all levels of primary school in New Zealand, the UK (both private & public), & Switzerland (Four Forest & International School of Zug & Luzern).
 
 **Sylvia Nadig**
 Sylvia has been the Head of the Department of Foreign Languages and a Lecturer for English Methodology at the Pädagogische Hochschule Zug since 2004. She has also years of experience as a teacher of English and French. Sylvia is focusing on the topic of supporting English-speaking students during their English lessons at the local primary schools and knows the coursebook Young World inside out. She has also had the opportunity to compare other education systems and has been a visiting scholar at the University of Pennsylvania in Philadelphia, USA, the University of Washington in Seattle, USA as well as at Deakin University in Melbourne, Australia. She lives with her family in Cham (ZG).
@@ -35,7 +35,7 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMxNjc0NDY0LC0yMDUwMTkxODA4LC0xMD
-I0MjY0NTIyLC0xMDc0NzQ2MjEzLC0xMDM3NDAzOTU0LDEzODQz
-NTQwNjUsMTEzMTQ4NDI4M119
+eyJoaXN0b3J5IjpbMzQxMDYzNTgxLDIzMTY3NDQ2NCwtMjA1MD
+E5MTgwOCwtMTAyNDI2NDUyMiwtMTA3NDc0NjIxMywtMTAzNzQw
+Mzk1NCwxMzg0MzU0MDY1LDExMzE0ODQyODNdfQ==
 -->
