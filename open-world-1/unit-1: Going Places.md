@@ -12,6 +12,26 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
  
+ 
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile level       )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile level       )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
 # Supplemental Activities
 What can more Scottish than the **Highland Games**?  Without even having to leave Switzerland, you have a chance to go see one of these amazing events.  The Highland Games Verband Schweiz organizes events every year.  For the program for this year.  https://www.hgvs.ch/saison-2023
 
@@ -22,5 +42,6 @@ You don't need to leave Switzerland to see **Highland Dancing** or to learn how 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4MDE3Nzg5LC0xNzI5MzA2MDQ5XX0=
+eyJoaXN0b3J5IjpbLTI3MzkyOTA0Nyw3ODgwMTc3ODksLTE3Mj
+kzMDYwNDldfQ==
 -->
