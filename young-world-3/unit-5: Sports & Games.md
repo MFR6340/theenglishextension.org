@@ -3,8 +3,22 @@
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 **This unit covers Sports Day (also called Field Day), a popular tradition in schools to celebrate the end of the year.  The day usually consists in a variety of outdoor games including relay races, running, and other activities.   This is not an easy unit to find supplemental literature.  The books below have therefore expanded on the Field Day theme to include information on famous athletes.** 
 
+###  DK: Life Stories Jesse Owens
 
-## Kid Athletes: True Tales of Childhood from Sports Legends, by David Stabler
+<img src="https://imgur.com/ovWMRrl.png" width="25%" />
+
+summary here.
+
+<a href="https://www.bookdepository.com/Kid-Athletes-David-Stabler/9781594748028?ref=grid-view&qid=1665928260307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035793246" rel="nofollow">Buy on Orell Füssli</a>
+
+<img src="https://imgur.com/ovWMRrl.png" width="25%" />
+
+summary here.
+
+<a href="https://www.bookdepository.com/Kid-Athletes-David-Stabler/9781594748028?ref=grid-view&qid=1665928260307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035793246" rel="nofollow">Buy on Orell Füssli</a>
+### Kid Athletes: True Tales of Childhood from Sports Legends, by David Stabler
 
 <img src="https://imgur.com/ovWMRrl.png" width="25%" />
 
@@ -111,9 +125,9 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4MDUxNjgwLC0xNzUwOTc0MTQyLDE3ND
-cxNzExNTEsMjA5MjA3MDYxMywtODI2MjY5ODc1LC00NzA3MTcx
-NjQsOTg1Mzg1OTgsLTEyMDUxOTM0MjUsLTEyOTc2MTI2NzgsLT
-E2MDk0OTkxNTQsLTk1ODYzMDIxNSwtMTU1Mzg5NjM0MywtMTQw
-Njk2NTg5NSwtNzE2ODk3OTIzXX0=
+eyJoaXN0b3J5IjpbMjEyOTU1OTg5Miw0NTgwNTE2ODAsLTE3NT
+A5NzQxNDIsMTc0NzE3MTE1MSwyMDkyMDcwNjEzLC04MjYyNjk4
+NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQyNSwtMT
+I5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC0xNTUz
+ODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
 -->
