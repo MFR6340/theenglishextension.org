@@ -1,5 +1,5 @@
 # Young World 2, Unit 4: Exploring Nature
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **The unit is about forests, forest animals, parts of the tree and what they do, and what you can do and should not do in the woods.  Here are some suggestions for native English speakers to delve deeper into this forest theme:**
 
@@ -74,5 +74,5 @@ An essential classic.  Set in central India, this famous story tells the tale of
 Jungle Trek 
 https://www.papiliorama.ch/en/our-live-exhibits/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODYyNDQxXX0=
+eyJoaXN0b3J5IjpbMjA2NTI4ODYyOV19
 -->
