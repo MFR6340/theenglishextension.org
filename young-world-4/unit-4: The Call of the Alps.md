@@ -49,7 +49,7 @@ Summary here.  (Lexile level     )
 
 
 <a href="https://www.bookdepository.com/Banner-Sky-Ramsey-Ullman/9780064470483?ref=grid-view&qid=1674491497317&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003099423" rel="nofollow">Buy on  Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003099423" rel="nofollow"></a>
 
 
 
@@ -57,19 +57,18 @@ Summary here.  (Lexile level     )
 
 Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri grew up.  Come visit and learn all about the author who wrote the world-famous book, Heidi. <a href="https://spyri-museum.ch/en/" rel="nofollow">Spyri m </a>
 
-Keeping along the Heidi theme, visit <af= enolo it Heidi  Hs via spot which is designed to look like the area where Heidi lived. <a href="https://www.ourswissexperience.com/en/2021/09/23/heididorf-heidis-village-maienfeld-visiting-the-worlds-most-famous-swiss-girl/ " rel="nofollow">Visiting Heidi's village</a>
+Keeping along the Heidi theme, visit <af= enolo it Heidi  via spot which is designed to look like the area where Heidi lived. <a href="https://www.ourswissexperience.com/en/2021/09/23/heididorf-heidis-village-maienfeld-visiting-the-worlds-most-famous-swiss-girl/ " rel="nofollow">Visiting Heidi's village</a>
 
 The majestic Alps have always called people to both work play on their slopes.   There are plenty of ways of playing, from skiing, to sledding, to bobsledding.  The Ski Museum in Davos has a lovely collection of  Alpine sports artifacts which will definitely to react with "Wow, they really used THAT?"  https://www.wintersportmuseum.ch
 
-Attend a traditional Schwingfest.  Schwingen is only for the biggest and toughest. Pairs compete to see which lands on the sawdust first.  The Unspunnen-Schwinget takes place only every six years and will be happening on 27. August 2023.   <a href="https://unspunnen-schwinget.ch/" rel="nofollow">Unspunnen Schwingfest</a>
-
-
-
+Attend a traditional Schwingfest.  Schwingen is only for the biggest and toughest. Pairs compete to see which lands on the sawdust first.  The Unspunnen-Schwinget takes place only every six years and will be happening on 27. August 2023.   
+<a href="https://unspunnen-schwinget.ch/" rel="nofollow">Unspunnen Schwingfest</a>
+nspunnenchwinget/
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2ODQ1ODQ1LDEzNjM2NjE1OTEsLTYwND
-c0Nzc2Miw0MzIwNjIxNzYsLTE4OTQ2MDA4NTMsMTg0ODg1NDEy
-Miw0NTkxODMwNTVdfQ==
+eyJoaXN0b3J5IjpbMTA4NDA5MzM0OSw4NjY4NDU4NDUsMTM2Mz
+Y2MTU5MSwtNjA0NzQ3NzYyLDQzMjA2MjE3NiwtMTg5NDYwMDg1
+MywxODQ4ODU0MTIyLDQ1OTE4MzA1NV19
 -->
