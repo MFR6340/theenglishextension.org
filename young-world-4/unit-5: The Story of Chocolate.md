@@ -32,7 +32,7 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.bookdepository.com/Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=167449"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
 
-### The Great Chocoplot, by Chris Callaghanell
+### The Whizz Pop Chocolate Shop, by Kate Saunders
 
 <img src="https://imgur.com/PvuDfbY.png" width="25%" />
 
@@ -41,7 +41,7 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.bookdepository.com/Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=1674492&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTE1NzUzLC0xNTQ0NTQ3MTA3LC0xNT
-c0NTk5MTEyLC01OTI2Njk0NTYsODkxNzgxMzMwLDg3MzUxNjI2
-NCw2MTcwMzc4MTgsLTYwMjgwMjQ0Nyw5ODMxMDQzMjFdfQ==
+eyJoaXN0b3J5IjpbLTM3Njk4MTgzMSwtMTU0NDU0NzEwNywtMT
+U3NDU5OTExMiwtNTkyNjY5NDU2LDg5MTc4MTMzMCw4NzM1MTYy
+NjQsNjE3MDM3ODE4LC02MDI4MDI0NDcsOTgzMTA0MzIxXX0=
 -->
