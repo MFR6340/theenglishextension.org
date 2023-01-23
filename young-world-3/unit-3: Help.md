@@ -57,6 +57,14 @@ Strongly recommend the movie by the same name.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034069963" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Fiction
+### Rescue Dogs, Ember (first in a series on Search and Rescue dogs) by Jane B. Mason
+
+<img src="https://i.imgur.com/1vNX6Ux.jpg" width="25%" />
+
+This book is the first in a series on fictional Search and Rescue dogs.  For those who are love dogs or are interested in how dogs help in search and rescue missions, these are enjoyable reading.  
+
+<a href="https://www.bookdepository.com/Finest-Hours-Young-Readers-Edition-Michael-J-Tougias/9780805097641?ref=grid-view&qid=1674482601270&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034069963" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -65,9 +73,9 @@ Strongly recommend the movie by the same name.
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODg0MzU1MSwyOTIzODAzMDYsMTczOD
-g2MTc4NSwtMzc1Mjg3ODI1LC0xMjk2NDY4NjEsLTM2ODg4MDgz
-NywtMTkyNzg1NjYyMSwtMTE0MjU1ODk4NiwtMTg3ODUzNzI5NC
-wtOTgzMDMwMTAsOTgxOTA4NTcwLDE2MjMyODA1NTIsLTMwNzE4
-MTk0NCw3MTQ2MDcwMjEsMzA0NDM2MTI4XX0=
+eyJoaXN0b3J5IjpbLTIwMjY0NzkwMDMsMjkyMzgwMzA2LDE3Mz
+g4NjE3ODUsLTM3NTI4NzgyNSwtMTI5NjQ2ODYxLC0zNjg4ODA4
+MzcsLTE5Mjc4NTY2MjEsLTExNDI1NTg5ODYsLTE4Nzg1MzcyOT
+QsLTk4MzAzMDEwLDk4MTkwODU3MCwxNjIzMjgwNTUyLC0zMDcx
+ODE5NDQsNzE0NjA3MDIxLDMwNDQzNjEyOF19
 -->
