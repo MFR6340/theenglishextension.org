@@ -23,13 +23,13 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.bookdepository.com/Candy-Bomber-Michael-O-Tunnell/9781580893374?ref=grid-view&qid=1674493085238&sr=1-12&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009294094" rel="nofollow">Buy on Orell Füssli</a>
 
-### The 
-<img src="https://imgur.com/.png" width="25%" />
+### The Great Chocoplot, by Chris Callaghan
+<img src="https://imgur.com/PvuDfbY.png" width="25%" />
 
 
 
-<a href="https://www.bookdepository.com/?ref=grid-view&qid=167449"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=1674493914769&sr=1-1"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038196486" rel="nofollow">Buy on Orell Füssli</a>
 
 ### The Whizz Pop Chocolate Shop, by Kate Saunders
 <img src="https://imgur.com/O9Uy0I3.png" width="25%" />
@@ -48,9 +48,9 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033680556" rel="nofollow">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTk3NDE5Myw2Njg2MDk0NzUsMTE5NT
-k4NjI5LC0xNDcxNDMwMDEsLTM3Njk4MTgzMSwtMTU0NDU0NzEw
-NywtMTU3NDU5OTExMiwtNTkyNjY5NDU2LDg5MTc4MTMzMCw4Nz
-M1MTYyNjQsNjE3MDM3ODE4LC02MDI4MDI0NDcsOTgzMTA0MzIx
-XX0=
+eyJoaXN0b3J5IjpbLTEzNzc1NjI4MjMsNjY4NjA5NDc1LDExOT
+U5ODYyOSwtMTQ3MTQzMDAxLC0zNzY5ODE4MzEsLTE1NDQ1NDcx
+MDcsLTE1NzQ1OTkxMTIsLTU5MjY2OTQ1Niw4OTE3ODEzMzAsOD
+czNTE2MjY0LDYxNzAzNzgxOCwtNjAyODAyNDQ3LDk4MzEwNDMy
+MV19
 -->
