@@ -23,7 +23,7 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.bookdepository.com/Candy-Bomber-Michael-O-Tunnell/9781580893374?ref=grid-view&qid=1674492171837792874492171837&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009294094" rel="nofollow">Buy on Orell Füssli</a>
 
-### The Chocoplot, by Chris Callaghan
+### The Great Chocoplot, by Chris Callaghan
 
 <img src="https://imgur.com/oMtnFMg.png" width="25%" />
 
@@ -32,7 +32,7 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.bookdepository.com/Candy-Bomber-Michael-O-Tunnell/9781580893374?ref=grid-view&qid=167449217183774492171837&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009294094" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2MDkyOTk4LDg5MTc4MTMzMCw4NzM1MT
+eyJoaXN0b3J5IjpbLTgzODMwNzY1LDg5MTc4MTMzMCw4NzM1MT
 YyNjQsNjE3MDM3ODE4LC02MDI4MDI0NDcsOTgzMTA0MzIxXX0=
 
 -->
