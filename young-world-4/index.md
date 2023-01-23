@@ -6,10 +6,10 @@ layout: dir-index
 
 On the following pages, you will find English literature which is related to the themes of the Young World program published by Klett and used in primary schools in Kantons in German-speaking Switzerland. These books are intended to supplement what is being taught in the classroom and can be used by both teachers and parents.
 
-<img src="https://i.imgur.com/ZBUJicZ.png" width="25%" style="display:block;margin-left:auto;margin-right:auto;" />
+<img src="https://i.imgur.com/ZBUJicZ.png" width="20%" style="display:block;margin-left:auto;margin-right:auto;" />
 
 The literature lists found here are dynamic. Books will be regularly added or replaced. We welcome your suggestions.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTk3NjkyOSwtNTMxNDc0ODY3LDMzMD
-Y3OTMzM119
+eyJoaXN0b3J5IjpbLTMzMzI5NjU3MiwtMzY5OTc2OTI5LC01Mz
+E0NzQ4NjcsMzMwNjc5MzMzXX0=
 -->
