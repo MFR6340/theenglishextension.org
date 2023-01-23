@@ -1,7 +1,7 @@
 
 
 # Open World 2, Unit 2: Weird and Wonderful Games
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **Highland Games in Scotland, games at Village Fête, cheese rolling game**
 
@@ -19,5 +19,6 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTc4NzUzNywtMTEzNTQ2MDUwN119
+eyJoaXN0b3J5IjpbMzQxMzQ2MTQxLDExOTk3ODc1MzcsLTExMz
+U0NjA1MDddfQ==
 -->
