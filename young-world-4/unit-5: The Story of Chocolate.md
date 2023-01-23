@@ -14,7 +14,7 @@ It's impossible to include a list of chocolate-themed books without including th
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
 Also try the Audio book version read by Eric Idle
 
-### Candy Bomber, by Michael O. Tunnell
+### Co, by haln
 
 <img src="https://imgur.com/goMtnFMg.png" width="25%" />
 
@@ -32,7 +32,7 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.bookdepository.com/Candy-Bomber-Michael-O-Tunnell/9781580893374?ref=grid-view&qid=167449217183774492171837&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009294094" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODMwNzY1LDg5MTc4MTMzMCw4NzM1MT
-YyNjQsNjE3MDM3ODE4LC02MDI4MDI0NDcsOTgzMTA0MzIxXX0=
-
+eyJoaXN0b3J5IjpbLTU5MjY2OTQ1NiwtODM4MzA3NjUsODkxNz
+gxMzMwLDg3MzUxNjI2NCw2MTcwMzc4MTgsLTYwMjgwMjQ0Nyw5
+ODMxMDQzMjFdfQ==
 -->
