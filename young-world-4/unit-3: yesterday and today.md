@@ -38,8 +38,8 @@ summary here. Funny haha
 
 The chimney sweep is a job from times gone by.  For those who prefer fiction to non-fiction, this is a fun book to read and compare to the more familiar movie.
 
-<a href="https://www.bookdepository.com/Mary-Poppins-P-L-Travers/9780007286416?ref=grid-view&qid=1665930949367&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.youtube.com/watch?v=os9J0QXo2AE" rel="nofollow">Buy on  Amazon</a>
+<a href="https://www.bookdepository.com/Mary-Poppins-P-L-Travers/9780007286416?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+
 
 ### The Door in the Wall, by Marguerite de Angeli
 
@@ -47,9 +47,9 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 
 
-<a href="https://www.bookdepository.com/Mary-Poppins-P-L-Travers/9780007286416?ref=grid-view&qid=1665930949367&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.youtube.com/watch?v=os9J0QXo2AE" rel="nofollow">Buy on  Amazon</a>
+<a href="https://www.bookdepository.com/Door-Wall-Marguerite-de-Angeli/9780440402831?ref=grid-view&qid=166593094936774489174439&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006455515" rel="nofollow">Buy on  Orell füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyOTI4Mjk3LDIwMjM2MTEyNDgsNzgwMz
+eyJoaXN0b3J5IjpbMTcxNTYxMTYzNiw4MjI5MjgyOTcsNzgwMz
 gzMF19
 -->
