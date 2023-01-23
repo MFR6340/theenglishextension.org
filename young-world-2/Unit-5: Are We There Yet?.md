@@ -24,7 +24,7 @@ Currently not available on Book Depository.
 
 ### Crossing on Time, by Douglas Evans
 
-<img src="https://i.imgur.com/E3SCIve.png" width="45%" />
+<img src="https://i.imgur.com/E3SCIve.png" width="25%" />
 
 summary here.  (Lexile here)
 
@@ -34,7 +34,7 @@ summary here.  (Lexile here)
 
 ### Family Stories Series: Are We There Yet?, by Enid Blyton
 
-<img src="https://i.imgur.com/61EpL2l.png" width="35%" />
+<img src="https://i.imgur.com/61EpL2l.png" width="25%" />
 
 summary here.(Lexile 570L)
 
@@ -43,7 +43,7 @@ summary here.(Lexile 570L)
 
 ### Survivor Titanic, by Stephen Davies
 
-<img src="https://i.imgur.com/Cgf8KU8.png" width="35%" />
+<img src="https://i.imgur.com/Cgf8KU8.png" width="25%" />
 
 summary here. (Lexile )
 
@@ -52,6 +52,6 @@ summary here. (Lexile )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzIxMDQwNywtNTIxMTcwNTg3LDE2MT
-YwNzIwMzcsLTUyMTE3MDU4N119
+eyJoaXN0b3J5IjpbLTEyODcwMTI1OTksLTUyMTE3MDU4NywxNj
+E2MDcyMDM3LC01MjExNzA1ODddfQ==
 -->
