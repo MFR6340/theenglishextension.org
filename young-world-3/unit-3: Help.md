@@ -35,7 +35,7 @@ summary here. (Lexile 750L)
 
 <img src="https://imgur.com/LIZS01T.png" width="25%" />
 
-Florence Nightingale was famous for  (Lexile 560L)
+An easy biography of Florence Nightingale, who was famous for her desire to help others and for her skills as a nurse.  (Lexile 560L)
 
 
 
@@ -46,7 +46,7 @@ Florence Nightingale was famous for  (Lexile 560L)
 
 <img src="https://imgur.com/jVslJ4O.png" width="25%" />
 
-summary here. 
+This biography of Flor
 
 
 
@@ -68,8 +68,8 @@ summary here.
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2NTc5OTcyLC0xMjk2NDY4NjEsLTM2OD
-g4MDgzNywtMTkyNzg1NjYyMSwtMTE0MjU1ODk4NiwtMTg3ODUz
-NzI5NCwtOTgzMDMwMTAsOTgxOTA4NTcwLDE2MjMyODA1NTIsLT
-MwNzE4MTk0NCw3MTQ2MDcwMjEsMzA0NDM2MTI4XX0=
+eyJoaXN0b3J5IjpbLTExMjY1NzgzMDMsLTEyOTY0Njg2MSwtMz
+Y4ODgwODM3LC0xOTI3ODU2NjIxLC0xMTQyNTU4OTg2LC0xODc4
+NTM3Mjk0LC05ODMwMzAxMCw5ODE5MDg1NzAsMTYyMzI4MDU1Mi
+wtMzA3MTgxOTQ0LDcxNDYwNzAyMSwzMDQ0MzYxMjhdfQ==
 -->
