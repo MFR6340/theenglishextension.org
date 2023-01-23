@@ -1,6 +1,8 @@
 
 # Open World 1, Unit 4: Exploring
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms..* 
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.* 
+
+This unit covers exploration from Captain Cook to George 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzM5MjI2MzVdfQ==
+eyJoaXN0b3J5IjpbNjE0NTcxOTQ2LC0yMDczOTIyNjM1XX0=
 -->
