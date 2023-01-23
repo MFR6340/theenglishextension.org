@@ -2,7 +2,7 @@
 # Open World 2, Unit 1: Dreams of Flying
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
-This unit covers flying and the pioneers in flight. Airports.
+**This unit covers flying and the pioneers in flight.  Here is a list of supplemental literature related to flying:** 
 
 ### Title here, by author here
 
@@ -19,6 +19,6 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4NjczMjU0LC0xMDIyODE0NjQ0LDIwOT
-g5MTMzNiwtMTQyNTAzNTg2Ml19
+eyJoaXN0b3J5IjpbMTI2MjU1NjY1MCwtMTAyMjgxNDY0NCwyMD
+k4OTEzMzYsLTE0MjUwMzU4NjJdfQ==
 -->
