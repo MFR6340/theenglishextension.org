@@ -1,5 +1,5 @@
 # Young World 1, Unit 3: Apples and Crisps
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **This Klett unit covers food, shopping and writing a list.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 
@@ -93,5 +93,5 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3OTM0Mjg0XX0=
+eyJoaXN0b3J5IjpbMTE0MTA1Nzg1Nl19
 -->
