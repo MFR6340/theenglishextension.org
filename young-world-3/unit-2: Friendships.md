@@ -1,6 +1,6 @@
 # Young World 3, Unit 2: Friendships
 
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit covers the attributes of a good friend.  It also discusses emotions and feelings.  Here are some suggestions for native English speakers for literature that is related to this theme:**
 
@@ -149,10 +149,10 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTA5NjM1NywtMTY1MTAxNzI1MCwxND
-k1NzUwNjA1LDY2NTEyNTEyMSwxODI5MTc5MTUxLDE5MDk1NDUw
-MjgsLTQ0OTgxNjg0NSwtMTU3NDgzNDYyNCwtMTMwMDM3MTI0NC
-wtMTI0NjIxMzg3MywxMDgyNTI1ODk1LC0xMjc0OTkwNjYyLC0x
-Nzg4NjQ3MDQ5LDEzNjg1NzQ3MDksMzE4NjEwNzIzLDExNDYwNz
-MyNDddfQ==
+eyJoaXN0b3J5IjpbLTUxMjEyOTUxMSwyMTMxMDk2MzU3LC0xNj
+UxMDE3MjUwLDE0OTU3NTA2MDUsNjY1MTI1MTIxLDE4MjkxNzkx
+NTEsMTkwOTU0NTAyOCwtNDQ5ODE2ODQ1LC0xNTc0ODM0NjI0LC
+0xMzAwMzcxMjQ0LC0xMjQ2MjEzODczLDEwODI1MjU4OTUsLTEy
+NzQ5OTA2NjIsLTE3ODg2NDcwNDksMTM2ODU3NDcwOSwzMTg2MT
+A3MjMsMTE0NjA3MzI0N119
 -->
