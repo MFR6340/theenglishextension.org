@@ -37,11 +37,11 @@ Also try the Audio book version read by Eric Idle
 
 
 
-<a href="https://www.bookdepository.com/Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=1674492&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Whizz-Pop-Chocolate-Shop-Kate-Saunders/9780385743020?ref=grid-view&qid=1674493221942&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033680556" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTQxNDI1MSwtMTQ3MTQzMDAxLC0zNz
-Y5ODE4MzEsLTE1NDQ1NDcxMDcsLTE1NzQ1OTkxMTIsLTU5MjY2
-OTQ1Niw4OTE3ODEzMzAsODczNTE2MjY0LDYxNzAzNzgxOCwtNj
-AyODAyNDQ3LDk4MzEwNDMyMV19
+eyJoaXN0b3J5IjpbMTE5NTk4NjI5LC0xNDcxNDMwMDEsLTM3Nj
+k4MTgzMSwtMTU0NDU0NzEwNywtMTU3NDU5OTExMiwtNTkyNjY5
+NDU2LDg5MTc4MTMzMCw4NzM1MTYyNjQsNjE3MDM3ODE4LC02MD
+I4MDI0NDcsOTgzMTA0MzIxXX0=
 -->
