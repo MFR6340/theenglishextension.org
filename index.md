@@ -7,15 +7,13 @@ exclude_from_sidebar: true
 
 The English Extension Organization (TEEO) is a collaboration of experienced teachers from various English-speaking countries who all have children in Swiss state schools. The group is producing materials to provide language development support for English-speaking students which can be used both at school and at home.  
 
-<img src="https://i.imgur.com/msRysTK.png" width="675%" style="display:block;margin-left:auto;margin-right:auto;"/>
-
-
+<img src="https://i.imgur.com/msRysTK.png" width="65%" style="display:block;margin-left:auto;margin-right:auto;"/>
 
 We believe that literacy is essential and that every child can become a better reader.  We hope this website provides useful information, book lists and resources to help provide English support in the local Swiss schools.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTMzOTc0MDEsLTE2MjQ3NDYyNzAsNz
-MwNTI4ODI4LC05NTM4NTQyNzUsLTk1Mzg1NDI3NSwtMjkzODA1
-NjAwLDE0NzU0Njk1MDgsLTE3Njc2NDc4MjgsLTExNzA3MDM1Nj
-ZdfQ==
+eyJoaXN0b3J5IjpbLTE2MjQ3NDYyNzAsLTEwNTMzOTc0MDEsLT
+E2MjQ3NDYyNzAsNzMwNTI4ODI4LC05NTM4NTQyNzUsLTk1Mzg1
+NDI3NSwtMjkzODA1NjAwLDE0NzU0Njk1MDgsLTE3Njc2NDc4Mj
+gsLTExNzA3MDM1NjZdfQ==
 -->
