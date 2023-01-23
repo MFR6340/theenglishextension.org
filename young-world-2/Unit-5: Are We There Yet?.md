@@ -15,7 +15,7 @@ summary here.(Lexile 570L)
 
 ### MVP*: Magellan Voyage Project, by Douglas Evans
 
-<img src="https://i.imgur.com/n6FEYvP.png" width="25%" />
+<img src="https://i.imgur.com/n6FEYvP.png" width="5%" />
 
 Adam is competing against others for a four million dollar prize to be the first around the world in forty days without flying.  Lots of action and adventure, and of course, an evil Baron.  (Lexile 690L)
 
@@ -52,6 +52,6 @@ summary here. (Lexile )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODcwMTI1OTksLTUyMTE3MDU4NywxNj
-E2MDcyMDM3LC01MjExNzA1ODddfQ==
+eyJoaXN0b3J5IjpbLTExODE5NzM5NTMsLTEyODcwMTI1OTksLT
+UyMTE3MDU4NywxNjE2MDcyMDM3LC01MjExNzA1ODddfQ==
 -->
