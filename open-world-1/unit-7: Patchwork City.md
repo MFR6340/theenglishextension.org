@@ -13,7 +13,7 @@ summary here.  (Lexile level       )
 
 ### Lucy Maud and Me, by Mary Francis Coady
 
-<img src="imgurl.png" width="25%" />
+<img src="https://i.imgur.com/oCT9zRZ.png" width="25%" />
 
 summary here.  (Lexile level       )
 
@@ -47,8 +47,8 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNTAzNDM1NCwtMTI2Mzg2NTEyMiwtOD
-IwMTI0MDQ5LC03NTU5ODczOTAsLTEyMjcxMzU5NjQsLTc5NDE2
-MDYsLTMyMjk3NDI2MSwtMTI1NzgwMDk2MywtNTkxOTcyNTg0LD
-EwNDM2NjQwOTZdfQ==
+eyJoaXN0b3J5IjpbNzIyNDYyMTczLC0xMjYzODY1MTIyLC04Mj
+AxMjQwNDksLTc1NTk4NzM5MCwtMTIyNzEzNTk2NCwtNzk0MTYw
+NiwtMzIyOTc0MjYxLC0xMjU3ODAwOTYzLC01OTE5NzI1ODQsMT
+A0MzY2NDA5Nl19
 -->
