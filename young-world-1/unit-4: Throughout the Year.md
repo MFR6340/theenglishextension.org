@@ -7,7 +7,7 @@ Caldecott Medal Winner
 
 <img src="https://imgur.com/CCxAtjQ.png" width="25%" />
 
-The fascinating story of Wilson Bentley who patiently persevered to find a way to photograph snowflakes and to ultimately show their beauty and uniqueness.  (Lexile 830L)
+The fascinating true story of Wilson Bentley who patiently persevered to find a way to photograph snowflakes and to ultimately show their beauty and uniqueness.  (Lexile 830L)
 
 <a href="https://www.bookdepository.com/Snowflake-Bentley-Jacqueline-Briggs-Martin/9780547248295?ref=grid-view&qid=1656000835734&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1008254739" rel="nofollow">Buy on Orell Füssli</a>
@@ -59,7 +59,6 @@ summary here. (exile 600)
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003335907" rel="nofollow">Buy on Orell Füssli</a>
 
 
-
 ### Next Time you See a Cloud, by Emily Morgan
 
 <img src="https://i.imgur.com/ZTKoXb8.png" width="25%" />
@@ -69,7 +68,7 @@ summary here.  (Lexile 980L)
 <a href="https://www.bookdepository.com/Next-Time-You-See-Cloud-Emily-Morgan/9781938946363?ref=grid-view&qid=1673794600197&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059305713" rel="nofollow"> Buy on Orell Füssli</a>
 
-## The Reasons for Seasons, Gail Gibbons
+### The Reasons for Seasons, Gail Gibbons
 
 <img src="https://imgur.com/02ldsWl.png" width="25%" />
 
@@ -78,10 +77,10 @@ summary here. (Lexile AD620L)
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051788134" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3NzQyNzgzLDUzMjIwOTIzMCw5ODAzOT
-QwNzUsOTIyNTY0MTQxLDEzMzgyNDY5NzgsMTMwNDQwNTczNiwz
-NTAxNjA3OTQsLTMyNjEzMDc0NywtMzA4Mzg5ODI5LDEyNjczOT
-QxMTMsMzQ2Mzk4NDkxLC0yMTkyODMzMTQsLTg3MTgxMzcwMywx
-ODkwNTUxMDE4LDE3ODQwNzM4ODUsODk5MzU3Nzc5LC03NzIzMj
-Q0MDUsMTMxNTAxMDkyOCwxMzA0NjYyMjg5XX0=
+eyJoaXN0b3J5IjpbMTQwOTc4OTYyNiw1MzIyMDkyMzAsOTgwMz
+k0MDc1LDkyMjU2NDE0MSwxMzM4MjQ2OTc4LDEzMDQ0MDU3MzYs
+MzUwMTYwNzk0LC0zMjYxMzA3NDcsLTMwODM4OTgyOSwxMjY3Mz
+k0MTEzLDM0NjM5ODQ5MSwtMjE5MjgzMzE0LC04NzE4MTM3MDMs
+MTg5MDU1MTAxOCwxNzg0MDczODg1LDg5OTM1Nzc3OSwtNzcyMz
+I0NDA1LDEzMTUwMTA5MjgsMTMwNDY2MjI4OV19
 -->
