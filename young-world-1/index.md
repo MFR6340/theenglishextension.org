@@ -10,9 +10,9 @@ On the following pages, you will find English literature which is related to the
 <img src="https://i.imgur.com/wcZAOPx.png" width="15%" />
 
 
-The literature lists found here are dynamic.  Books will be regularly added or replaced.  We welcome your suggestions.  
+The literature lists found here are dynamic.  Books will be regularly added or replaced.  We warmly welcome your suggestions.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg5NTcyNzYsODA4MzAzMTg2LC0xMD
-g0MzgxNDI0LC0xODkwNTQwMTM4LC02OTM3NzAyODYsLTQ4MTg3
-MjkxMF19
+eyJoaXN0b3J5IjpbMTc0MTYxMTY4MiwtMTg0ODk1NzI3Niw4MD
+gzMDMxODYsLTEwODQzODE0MjQsLTE4OTA1NDAxMzgsLTY5Mzc3
+MDI4NiwtNDgxODcyOTEwXX0=
 -->
