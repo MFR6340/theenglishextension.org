@@ -72,7 +72,7 @@ summary here. (Lexile AD 1130L)
 
 <img src="https://i.imgur.com/EZCP59w.png" width="25%" />
 
-summary here. (lexile 710)
+summary here. (Lexile 710L)
 
 <a href="https://www.bookdepository.com/Big-Snow-Berta-Hader/9780689717574?ref=grid-view&qid=1673794354298&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354526" rel="nofollow"> Buy on Orell Füssli</a>
@@ -81,7 +81,7 @@ summary here. (lexile 710)
 
 <img src="https://imgur.com/I4YxRyY.png" width="25%" />
 
-summary here.
+summary here.  (Lexile 980L)
 
 <a href="https://www.bookdepository.com/Next-Time-You-See-Cloud-Emily-Morgan/9781938946363?ref=grid-view&qid=1673794600197&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059305713" rel="nofollow"> Buy on Orell Füssli</a>
@@ -94,7 +94,7 @@ summary here.
 
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTc3Njg3NywxMzM4MjQ2OTc4LDEzMD
+eyJoaXN0b3J5IjpbMTk4OTU0NTk1NiwxMzM4MjQ2OTc4LDEzMD
 Q0MDU3MzYsMzUwMTYwNzk0LC0zMjYxMzA3NDcsLTMwODM4OTgy
 OSwxMjY3Mzk0MTEzLDM0NjM5ODQ5MSwtMjE5MjgzMzE0LC04Nz
 E4MTM3MDMsMTg5MDU1MTAxOCwxNzg0MDczODg1LDg5OTM1Nzc3
