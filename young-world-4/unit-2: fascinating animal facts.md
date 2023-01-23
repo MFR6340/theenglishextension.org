@@ -57,7 +57,7 @@ In this anthology, stunning animal photos by National Geographic photographers a
 ### Fantastic Beasts and Where to Find Them, by J.K. Rowling
 <img src="https://i.imgur.com/zjVSzGy.png" width="25%" />
 
-We all need to learn more about animals, and this books, required reading at Hogwarts, has a few that aren't very familiar.  
+We all need to learn more about animals, and this book, required reading at Hogwarts, has a few animals that aren't very familiar.  
 
 <a href="https://www.bookdepository.com/Fantastic-Beasts-Where-Find-Them-J-K-Rowling/9781408896945?ref=grid-view&qid=1674500301753&sr=1-4#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046755968" rel="nofollow">Buy on Orell Füssli</a>
@@ -65,24 +65,6 @@ We all need to learn more about animals, and this books, required reading at Hog
 
 
 
-, by J. Lewis
-<img src="https://i.imgur.com/t5qgfVv.png  " width="25%" />
-
-In this anthology, stunning animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors.  192 pages.   (No lexile level)
-
-<a href="https://www.bookdepository.com/National-Geographic-Kids-Book-Animal-Poetry-J-Patrick-Lewis/9781426310096?ref=grid-view&qid=1674484467571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1020533197?sq=National%20Geographic%20Kids%20Book%20of%20Animal%20Poetry&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
-
-
-
-
-, by J. Lewis
-<img src="https://i.imgur.com/t5qgfVv.png  " width="25%" />
-
-In this anthology, stunning animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors.  192 pages.   (No lexile level)
-
-<a href="https://www.bookdepository.com/National-Geographic-Kids-Book-Animal-Poetry-J-Patrick-Lewis/9781426310096?ref=grid-view&qid=1674484467571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1020533197?sq=National%20Geographic%20Kids%20Book%20of%20Animal%20Poetry&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -94,6 +76,6 @@ In this anthology, stunning animal photos by National Geographic photographers a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTczOTY1OSwxOTk5OTg3MjMyLDE4MD
+eyJoaXN0b3J5IjpbLTMxMjY0OTcyMywxOTk5OTg3MjMyLDE4MD
 Y5MDkwMDZdfQ==
 -->
