@@ -52,14 +52,6 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 <a href="https://www.bookdepository.com/Banner-Sky-Ramsey-Ullman/9780064470483?ref=grid-view&qid=1674491497317&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003099423" rel="nofollow">Buy on  Orell Füssli</a>
 
-### The Silent Bells, by Ted Lewin
-
-<img src="https://imgur.com/biY69Qr.png" width="25%" />
-
-
-
-<a href="https://www.bookdepository.com/Banner-Sky-Ramsey-Ullman/9780064470483?ref=grid-view&qid=1674491497317&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003099423" rel="nofollow">Buy on  Orell Füssli</a>
 
 
 # Supplemental Activities
@@ -76,5 +68,6 @@ https://www.myswitzerland.com/en-ch/experiences/events/unspunnenschwinget/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODg1NDEyMiw0NTkxODMwNTVdfQ==
+eyJoaXN0b3J5IjpbLTE4OTQ2MDA4NTMsMTg0ODg1NDEyMiw0NT
+kxODMwNTVdfQ==
 -->
