@@ -1,6 +1,6 @@
 # Young World 4, Unit 5: The Story of Chocolate
 
- *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+ *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit covers chocolate from plantations to production.  Included in this list are some fun fictional books related to chocolate:**
 
@@ -48,10 +48,10 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1010873165" rel="nofollow">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExNzQ1MzY2LDExNzAxMzgzMDUsLTg2MT
-Q0NjEsLTU1NzI2NDM4MywtMTk0NDY1ODA0Nyw2Nzc3Mzc2MDgs
-NjY4NjA5NDc1LDExOTU5ODYyOSwtMTQ3MTQzMDAxLC0zNzY5OD
-E4MzEsLTE1NDQ1NDcxMDcsLTE1NzQ1OTkxMTIsLTU5MjY2OTQ1
-Niw4OTE3ODEzMzAsODczNTE2MjY0LDYxNzAzNzgxOCwtNjAyOD
-AyNDQ3LDk4MzEwNDMyMV19
+eyJoaXN0b3J5IjpbLTUwNjI3ODcxMCw3MTE3NDUzNjYsMTE3MD
+EzODMwNSwtODYxNDQ2MSwtNTU3MjY0MzgzLC0xOTQ0NjU4MDQ3
+LDY3NzczNzYwOCw2Njg2MDk0NzUsMTE5NTk4NjI5LC0xNDcxND
+MwMDEsLTM3Njk4MTgzMSwtMTU0NDU0NzEwNywtMTU3NDU5OTEx
+MiwtNTkyNjY5NDU2LDg5MTc4MTMzMCw4NzM1MTYyNjQsNjE3MD
+M3ODE4LC02MDI4MDI0NDcsOTgzMTA0MzIxXX0=
 -->
