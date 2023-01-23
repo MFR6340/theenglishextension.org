@@ -17,6 +17,8 @@ summary here. (Lexile 750L)
 
 <img src="https://imgur.com/LIZS01T.png" width="25%" />
 
+sm
+
 
 
 <a href="https://www.bookdepository.com/Florence-Nightingale-Shannon-Zemlicka/9780876141021?ref=grid-view&qid=1674318452166&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -53,8 +55,8 @@ summary here. (Lexile 750L)
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODg4MDgzNywtMTkyNzg1NjYyMSwtMT
-E0MjU1ODk4NiwtMTg3ODUzNzI5NCwtOTgzMDMwMTAsOTgxOTA4
-NTcwLDE2MjMyODA1NTIsLTMwNzE4MTk0NCw3MTQ2MDcwMjEsMz
-A0NDM2MTI4XX0=
+eyJoaXN0b3J5IjpbLTE3MDY4NDA1MTksLTM2ODg4MDgzNywtMT
+kyNzg1NjYyMSwtMTE0MjU1ODk4NiwtMTg3ODUzNzI5NCwtOTgz
+MDMwMTAsOTgxOTA4NTcwLDE2MjMyODA1NTIsLTMwNzE4MTk0NC
+w3MTQ2MDcwMjEsMzA0NDM2MTI4XX0=
 -->
