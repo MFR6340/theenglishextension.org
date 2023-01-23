@@ -54,12 +54,12 @@ summary here.
 
 In this anthology, stunning animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors.  192 pages.   (No lexile level)
 
-<a href="https://www.bookdepository.com/Wow-World-Wow-Wild-Mindy-Thomas/9780358306894?ref=grid-view&qid=1674322543937&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061635944" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/National-Geographic-Kids-Book-Animal-Poetry-J-Patrick-Lewis/9781426310096?ref=grid-view&qid=1674484467571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1020533197?sq=National%20Geographic%20Kids%20Book%20of%20Animal%20Poetry&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NzE4OTI2XX0=
+eyJoaXN0b3J5IjpbMTU3MzAyNjk0NV19
 -->
