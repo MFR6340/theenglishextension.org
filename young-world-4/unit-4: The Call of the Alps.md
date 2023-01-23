@@ -26,7 +26,7 @@ Newberry Honor Book.  The story of William Tell, who shot an apple of the head o
 ### Heidi, by Johanna Spyri
 <img src="https://imgur.com/XPkX05Y.png" width="25%" />
 
-The classic children's novel, originally published in German, about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  Originally published in 1880-81 in two parts.  As it is now out of copyright there are quite a few English translations available including for free on<a href="http://www.gutenberg.org/ebooks/1448" rel="nofollow">  re[tutenberg.  Lexile level varies based on translation. 
+The classic children's novel, originally published in German, is about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  Originally published in 1880-81 in two parts.  As it is now out of copyright there are quite a few English translations available including for free on<a href="http://www.gutenberg.org/ebooks/1448" rel="nofollow">  re[tutenberg.  Lexile level varies based on translation. 
 
 <a href="https://www.bookdepository.com/Heidi-Johanna-Spyri/9780141322568?ref=grid-view&qid=1665931270781&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005226950" rel="nofollow">Buy on Orell Füssli</a>
@@ -44,7 +44,7 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 <img src="https://imgur.com/biY69Qr.png" width="25%" />
 
-Summary here.  (Lexile level     )
+Summary here.  (Lexile 680L )
 
 
 
@@ -68,7 +68,7 @@ nspunnenchwinget/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDA5MzM0OSw4NjY4NDU4NDUsMTM2Mz
-Y2MTU5MSwtNjA0NzQ3NzYyLDQzMjA2MjE3NiwtMTg5NDYwMDg1
-MywxODQ4ODU0MTIyLDQ1OTE4MzA1NV19
+eyJoaXN0b3J5IjpbLTE2MTU4ODQyMTMsMTA4NDA5MzM0OSwxMz
+YzNjYxNTkxLC02MDQ3NDc3NjIsNDMyMDYyMTc2LC0xODk0NjAw
+ODUzLDE4NDg4NTQxMjIsNDU5MTgzMDU1XX0=
 -->
