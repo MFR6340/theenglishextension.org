@@ -2,7 +2,7 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-This unit covers what to do in a traffic accident, First Aid, and calling Emergency.  To expand on this unit, the books below give
+This unit covers what to do in a traffic accident, First Aid, and calling Emergency.  To expand on this unit, the books below give examples of both animals and people who provided assistance in various emergencies. 
 
 ### Magic Treehouse Fact Tracker: Dog Heroes, by Mary Pope Osbourne
 
@@ -53,7 +53,7 @@ summary here. (Lexile 750L)
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDU5ODI5MywtMTkyNzg1NjYyMSwtMT
+eyJoaXN0b3J5IjpbLTM2ODg4MDgzNywtMTkyNzg1NjYyMSwtMT
 E0MjU1ODk4NiwtMTg3ODUzNzI5NCwtOTgzMDMwMTAsOTgxOTA4
 NTcwLDE2MjMyODA1NTIsLTMwNzE4MTk0NCw3MTQ2MDcwMjEsMz
 A0NDM2MTI4XX0=
