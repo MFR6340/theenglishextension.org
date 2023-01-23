@@ -1,6 +1,6 @@
 # Young World 4, Unit 3: Yesterday & Today
 
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit discusses the differences in life between long ago and today, including job differences, changes in communication and the invention of railway.  There is brief information on important events including the Great Fire of London, the discovery of New Zealand, the sinking of Titanic, and the landing on the Moon.  This theme has limitless suggestions for supplemental reading.  Here is just the tip of the iceberg:**
 
@@ -93,7 +93,8 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzE4Mjc3OCwtMTgwNDEzMDU0LC0yMT
-IxMTQ3Mjk5LC0xMzgzMTU1MTA1LC0xMDE5OTQxNzkxLDU1ODI5
-ODMwLC01NjYxNTg1MTAsODIyOTI4Mjk3LDc4MDM4MzBdfQ==
+eyJoaXN0b3J5IjpbMTEyMzgyNjc1OCwxMjczMTgyNzc4LC0xOD
+A0MTMwNTQsLTIxMjExNDcyOTksLTEzODMxNTUxMDUsLTEwMTk5
+NDE3OTEsNTU4Mjk4MzAsLTU2NjE1ODUxMCw4MjI5MjgyOTcsNz
+gwMzgzMF19
 -->
