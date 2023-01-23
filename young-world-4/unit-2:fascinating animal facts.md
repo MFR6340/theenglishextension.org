@@ -50,9 +50,9 @@ summary here.
 
 
 ### National Geographic Book of Animal Poetry, by J. Lewis
-<img src="https://imgur.com/FRZofnU.png" width="25%" />
+<img src="![National Geographic Book of Animal Poetry: 200 Poems with Photographs ...](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.p0npUKLTztpu_vd5T-7BkgAAAA%26pid%3DApi&f=1&ipt=c75c111756f312ceee255ac6a6607f83530ad36aef909e6f041acb42e4920cc4&ipo=images" width="25%" />
 
-In  thisantastic animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors.  192 pages.  
+In this anthology, stunning animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors.  192 pages.   (No lexile level)
 
 <a href="https://www.bookdepository.com/Wow-World-Wow-Wild-Mindy-Thomas/9780358306894?ref=grid-view&qid=1674322543937&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061635944" rel="nofollow">Buy on Orell Füssli</a>
@@ -61,5 +61,5 @@ In  thisantastic animal photos by National Geographic photographers are paired w
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjAxOTc2NV19
+eyJoaXN0b3J5IjpbLTQ2NTIwNzIxNl19
 -->
