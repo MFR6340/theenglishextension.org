@@ -2,7 +2,7 @@
 
 *This post contains links. If you make a purchase through these links, at no additional cost to you, The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-**This unit is about planning a trip in the various regions of Switzerland,It discusses things to do in the mountains, including information about the first male and female to climb the Matterhorn.  Kids growning up in Switzerland and enrolled in the local schools may have a great foundation from which to build on this theme.  Here are some ideas for both added knowledge and pleasure reading:**
+**This unit is about planning a trip in the various regions of Switzerland. It discusses things to do in the mountains, including information about the first male and female to climb the Matterhorn.  Kids growing up in Switzerland and enrolled in the local schools may have a great foundation from which to build on this theme.  Here are some ideas for both added knowledge and pleasure reading:**
 
 
 ## Festivals and Traditions in Switzerland, by Barbara Piatti & Yvonne Rogenmoser
@@ -57,5 +57,5 @@ https://www.myswitzerland.com/en-ch/experiences/events/unspunnenschwinget/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjY2MjE3NV19
+eyJoaXN0b3J5IjpbNDU5MTgzMDU1XX0=
 -->
