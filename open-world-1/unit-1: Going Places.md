@@ -7,7 +7,7 @@
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.
+summary here.  (Lexile level       )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -22,5 +22,5 @@ You don't need to leave Switzerland to see **Highland Dancing** or to learn how 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTY3NjA5MSwtMTcyOTMwNjA0OV19
+eyJoaXN0b3J5IjpbNzg4MDE3Nzg5LC0xNzI5MzA2MDQ5XX0=
 -->
