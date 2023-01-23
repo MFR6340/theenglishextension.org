@@ -51,7 +51,7 @@ This biography of Florence Nightingale provides more extensive details than the 
 <a href="https://www.bookdepository.com/DK-Life-Stories-Florence-Nightingale-Kitson-Jazynka/9781465478436?ref=grid-view&qid=1674318648336&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.bookdepository.com/DK-Life-Stories-Florence-Nightingale-Kitson-Jazynka/9781465478436?ref=grid-view&qid=1674318648336&sr=1-2" rel="nofollow">Buy on Orell Füssli</a>
 
-### DK Life Stories – Florence Nightingale
+### The Finest Hours (Young Readers Edition): The True Story of a Heroic Sea Rescue, by Michael Tougias
 
 <img src="https://imgur.com/jVslJ4O.png" width="25%" />
 
@@ -67,9 +67,9 @@ This biography of Florence Nightingale provides more extensive details than the 
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU0MzMyNTIsMTczODg2MTc4NSwtMz
-c1Mjg3ODI1LC0xMjk2NDY4NjEsLTM2ODg4MDgzNywtMTkyNzg1
-NjYyMSwtMTE0MjU1ODk4NiwtMTg3ODUzNzI5NCwtOTgzMDMwMT
-AsOTgxOTA4NTcwLDE2MjMyODA1NTIsLTMwNzE4MTk0NCw3MTQ2
-MDcwMjEsMzA0NDM2MTI4XX0=
+eyJoaXN0b3J5IjpbNjc3MzI5NDEzLDE3Mzg4NjE3ODUsLTM3NT
+I4NzgyNSwtMTI5NjQ2ODYxLC0zNjg4ODA4MzcsLTE5Mjc4NTY2
+MjEsLTExNDI1NTg5ODYsLTE4Nzg1MzcyOTQsLTk4MzAzMDEwLD
+k4MTkwODU3MCwxNjIzMjgwNTUyLC0zMDcxODE5NDQsNzE0NjA3
+MDIxLDMwNDQzNjEyOF19
 -->
