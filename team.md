@@ -1,7 +1,7 @@
 # Team Members
 
 **Megan Farnsworth Rabil**
-Megan has a M.Ed. Language and Literacy from Harvard, a M.Ed. in Elementary Education from UCLA, and a BA in Classical Studies.  She taught primary school and was a Curriculum Coordinator in Burbank, California. She has also been an Education Officer for the Massachusetts Department of Education and an Education Policy Analyst in Washington DC.  She lives in Baar (ZG) and her five children are current enrolled in five different Swiss schools from primary to university.
+Megan has a M.Ed. Language and Literacy from Harvard, a M.Ed. in Elementary Education from UCLA, and a BA in Classical Studies.  She taught primary school and was a Curriculum Coordinator in Burbank, California. She has also been an Education Officer for the Massachusetts Department of Education and an Education Policy Analyst in Washington DC.  She lives in Baar (ZG) with her five children who are all currently enrolled in five different Swiss schools from primary to university.
 
 **Theresa Jäger**
 Theresa lives in Rotkreuz  (ZG )with her husband and 2 children. She holds a BEd, Diploma as a Primary Teacher from New Zealand as well as CELTA Certification. She is a private English tutor and has taught all levels of primary school in New Zealand, the UK (both private & public), & Switzerland (Four Forest & International School of Zug & Luzern).
@@ -35,7 +35,7 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMDYzNTgxLDIzMTY3NDQ2NCwtMjA1MD
-E5MTgwOCwtMTAyNDI2NDUyMiwtMTA3NDc0NjIxMywtMTAzNzQw
-Mzk1NCwxMzg0MzU0MDY1LDExMzE0ODQyODNdfQ==
+eyJoaXN0b3J5IjpbMjExNTMzMjM5NiwyMzE2NzQ0NjQsLTIwNT
+AxOTE4MDgsLTEwMjQyNjQ1MjIsLTEwNzQ3NDYyMTMsLTEwMzc0
+MDM5NTQsMTM4NDM1NDA2NSwxMTMxNDg0MjgzXX0=
 -->
