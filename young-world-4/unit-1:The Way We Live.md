@@ -8,11 +8,11 @@
 
 <img src="https://i.imgur.com/g0kZ505.png" width="25%" />
 
-This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who was trained in some of the finest kitchens in Europe.  As a child in Ethiopia, his mother died and he was adopted by a loving family in Sweden who gave him a love for cooking.    (1080L)
+This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who was trained in some of the finest kitchens in Europe.  As a child in Ethiopia, his mother died and he was adopted by a loving family in Sweden who gave him a love for cooking.  He wanted to become a soccer player but instead has become one of the "great chefs of the world".  (1080L)
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034596066" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3OTcwMDk2LC00MDcwNjgxNzEsLTE2ND
-k2NDc0ODQsNzg3MTI3OTM4LDE1NjQ0MzM3NDAsLTkzMTkzNDY0
-OCwtMTM3MTIzOTI0Ml19
+eyJoaXN0b3J5IjpbMTMwNjA3NjA5NywtNDA3MDY4MTcxLC0xNj
+Q5NjQ3NDg0LDc4NzEyNzkzOCwxNTY0NDMzNzQwLC05MzE5MzQ2
+NDgsLTEzNzEyMzkyNDJdfQ==
 -->
