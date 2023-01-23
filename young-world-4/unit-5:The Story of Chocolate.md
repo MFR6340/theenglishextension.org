@@ -2,7 +2,7 @@
 
  *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-**This unit on chocolate from plantations to production is usually also covered in primary school as part of the NMG (Natur, Mensch, Gesellschaft) unit, so students enrolled in the local schools should already have a good concept of this topic.  Included here are some fun and interesting books related to chocolate:**
+**This unit covers chocolate from plantations to production  Included here are also some fun fictional books related to chocolate:**
 
 ## Charlie and the Chocolate Factory, by Roald Dahl
 
@@ -15,7 +15,7 @@ It's impossible to include a list of chocolate-themed books without including th
 Also try the Audio book version read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDU4ODQwOSwtMTQ1OTc3MTE5MywxNj
-YxNzIxOTI3LC0xNTU3Mzg2Nzk0LDg2ODc2ODMwLDkyMjAzNTY2
-NCwxNzI0OTIyNzQxLC0xMjg2NDAzNjA3XX0=
+eyJoaXN0b3J5IjpbOTgzMTA0MzIxLC05OTA1ODg0MDksLTE0NT
+k3NzExOTMsMTY2MTcyMTkyNywtMTU1NzM4Njc5NCw4Njg3Njgz
+MCw5MjIwMzU2NjQsMTcyNDkyMjc0MSwtMTI4NjQwMzYwN119
 -->
