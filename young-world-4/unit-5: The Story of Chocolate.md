@@ -36,21 +36,21 @@ Also try the Audio book version read by Eric Idle
 
 
 
-<a href="https://www.bookdepository.com/Whizz-Pop-Chocolate-Shop-Kate-Saunders/9780385743020Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=1674493221942&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/hi3?ref=grid-view&qid=167449&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033680556" rel="nofollow">Buy on Orell Füssli</a>
 
-### This Book is Not Good For You, by Pseudonymoue Boschrsche
-<img src="https://imgur.com/.png" width="25%" />
+### This Book is Not Good For You, by Pseudonymoue Boscho
+<img src="https://imgur.com/USP4SsA.png" width="25%" />
 
 
 
-<a href="https://www.bookdepository.com/This-Book-Is-Not-Good-For-You-Pseudonymous-Bosch/9780316040853?ref=grid-view&qid=1674494081491&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/TWhis-Book-Is-Not-Good-For-You-Pseudonymous-Bosch/978031604085zz-Pop-Chocolate-Shop-Kate-Saunders/9780385743020Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=16744940814913221942&sr=1-21" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033680556" rel="nofollow">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzNjMwNzMwLDY3NzczNzYwOCw2Njg2MD
-k0NzUsMTE5NTk4NjI5LC0xNDcxNDMwMDEsLTM3Njk4MTgzMSwt
-MTU0NDU0NzEwNywtMTU3NDU5OTExMiwtNTkyNjY5NDU2LDg5MT
-c4MTMzMCw4NzM1MTYyNjQsNjE3MDM3ODE4LC02MDI4MDI0NDcs
-OTgzMTA0MzIxXX0=
+eyJoaXN0b3J5IjpbLTE5NDQ2NTgwNDcsNjIzNjMwNzMwLDY3Nz
+czNzYwOCw2Njg2MDk0NzUsMTE5NTk4NjI5LC0xNDcxNDMwMDEs
+LTM3Njk4MTgzMSwtMTU0NDU0NzEwNywtMTU3NDU5OTExMiwtNT
+kyNjY5NDU2LDg5MTc4MTMzMCw4NzM1MTYyNjQsNjE3MDM3ODE4
+LC02MDI4MDI0NDcsOTgzMTA0MzIxXX0=
 -->
