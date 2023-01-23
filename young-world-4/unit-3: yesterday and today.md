@@ -57,15 +57,16 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=1674489597087&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuerit e nelissli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
 
-### Sarah Plain and Tall, by Patricia MacLachlan
+### The Telegram, by Philippa Werry
 
 <img src="S.png" width="25%" />
 
 
 
-<a href="https://www.bookdepository.com/?ref=grid-view&qid=167448Door-Wall-Marguerite-de-Angeli/9780440402831Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=166593094936774489174439597087&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A100645551529807823" rel="nofollow">Buy on  Orell Füssli</a>
+<a href="https://www.bookdepository.com/The-Telegram-Philippa-Werry/9780473462826" rel="nofollow"> Buy on BookDepository</a>  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyMzU0NCwtMTAxOTk0MTc5MSw1NTgyOT
-gzMCwtNTY2MTU4NTEwLDgyMjkyODI5Nyw3ODAzODMwXX0=
+eyJoaXN0b3J5IjpbLTMyOTEwNzAxMiwtMTAxOTk0MTc5MSw1NT
+gyOTgzMCwtNTY2MTU4NTEwLDgyMjkyODI5Nyw3ODAzODMwXX0=
+
 -->
