@@ -56,8 +56,9 @@ This biography of Florence Nightingale provides more extensive details than the 
 <img src="https://imgur.com/jVslJ4O.png" width="25%" />
 
 In one of the worst storms that ever hit the coast of Massachusetts (USA), two oil tankers split in half.  This book is the young readers edition telling the story of one of the most dangerous rescues in US Coast Guard history.  (Lexile 1140L)
+Strongly recommend the movie by the same name. 
 
-<a href="https://www.bookdepository.com/DK-Life-Stories-Florence-Nightingale-Kitson-Jazynka/9781465478436?ref=grid-view&qid=1674318648336&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Finest-Hours-Young-Readers-Edition-Michael-J-Tougias/9780805097641?ref=grid-view&qid=1674482601270&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.bookdepository.com/DK-Life-Stories-Florence-Nightingale-Kitson-Jazynka/9781465478436?ref=grid-view&qid=1674318648336&sr=1-2" rel="nofollow">Buy on Orell Füssli</a>
 
 
@@ -67,7 +68,7 @@ In one of the worst storms that ever hit the coast of Massachusetts (USA), two o
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODk5NDMwOSwyOTIzODAzMDYsMTczOD
+eyJoaXN0b3J5IjpbLTg5NDU3NDYyMiwyOTIzODAzMDYsMTczOD
 g2MTc4NSwtMzc1Mjg3ODI1LC0xMjk2NDY4NjEsLTM2ODg4MDgz
 NywtMTkyNzg1NjYyMSwtMTE0MjU1ODk4NiwtMTg3ODUzNzI5NC
 wtOTgzMDMwMTAsOTgxOTA4NTcwLDE2MjMyODA1NTIsLTMwNzE4
