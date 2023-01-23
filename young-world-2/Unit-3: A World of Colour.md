@@ -1,5 +1,5 @@
 # Young World 2, Unit 3: A World of Colour
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit covers artists, famous paintings, working with colour, museums, optical illusions, and mentions a few Swiss artists.  Here are some suggestions for native English speakers to delve deeper into the themes of colour and art:**
 
@@ -89,5 +89,5 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3OTg5NzQ0XX0=
+eyJoaXN0b3J5IjpbLTk5OTYxNDg4NCwtNDc5ODk3NDRdfQ==
 -->
