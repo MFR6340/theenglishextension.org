@@ -50,15 +50,15 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/Door-Wall-Marguerite-de-Angeli/9780440402831?ref=grid-view&qid=166593094936774489174439&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006455515" rel="nofollow">Buy on  Orell Füssli</a>
 
-### The Door in the Wall, by Marguerite de Angeli
+### Sarah Plain and Tall, by Patricia MacLachlan
 
-<img src="https://imgur.com/z9a1nk1.png" width="25%" />
+<img src="https://imgur.com/53YvdAS.png" width="25%" />
 
 
 
 <a href="https://www.bookdepository.com/Door-Wall-Marguerite-de-Angeli/9780440402831?ref=grid-view&qid=166593094936774489174439&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006455515" rel="nofollow">Buy on  Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDc1MjQyLDgyMjkyODI5Nyw3ODAzOD
-MwXX0=
+eyJoaXN0b3J5IjpbLTExNTE4NzQxNTksODIyOTI4Mjk3LDc4MD
+M4MzBdfQ==
 -->
