@@ -46,7 +46,7 @@ An easy biography of Florence Nightingale, who was famous for her desire to help
 
 <img src="https://imgur.com/jVslJ4O.png" width="25%" />
 
-This biography of Flor
+This biography of Florence Nightingale provides more extensive details than the one above.  
 
 
 
@@ -68,7 +68,7 @@ summary here.
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjY1NzgzMDMsLTEyOTY0Njg2MSwtMz
+eyJoaXN0b3J5IjpbLTExNTczMTk4MTUsLTEyOTY0Njg2MSwtMz
 Y4ODgwODM3LC0xOTI3ODU2NjIxLC0xMTQyNTU4OTg2LC0xODc4
 NTM3Mjk0LC05ODMwMzAxMCw5ODE5MDg1NzAsMTYyMzI4MDU1Mi
 wtMzA3MTgxOTQ0LDcxNDYwNzAyMSwzMDQ0MzYxMjhdfQ==
