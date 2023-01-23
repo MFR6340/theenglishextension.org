@@ -2,17 +2,17 @@
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 **This unit covers seasons, weather, and appropriate clothing.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 
-## Snowflake Bentley, by Jacqueline Briggs Martin
+### Snowflake Bentley, by Jacqueline Briggs Martin
 Caldecott Medal Winner
 
 <img src="https://imgur.com/CCxAtjQ.png" width="25%" />
 
-The fascinating story of Wilson Bentley who patiently persevered to find a way to photograph snowflakes ultimately showing their beauty and uniqueness.  (Lexile 830L)
+The fascinating story of Wilson Bentley who patiently persevered to find a way to photograph snowflakes and to ultimately show their beauty and uniqueness.  (Lexile 830L)
 
 <a href="https://www.bookdepository.com/Snowflake-Bentley-Jacqueline-Briggs-Martin/9780547248295?ref=grid-view&qid=1656000835734&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1008254739" rel="nofollow">Buy on Orell Füssli</a>
 
-## The Long Winter, by Laura Ingalls Wilder
+### The Long Winter, by Laura Ingalls Wilder
 Newbery Honor Award
 
 <img src="https://imgur.com/.png" width="25%" />
@@ -22,7 +22,7 @@ Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dak
 <a href="https://www.bookdepository.com/Long-Winter-Laura-Ingalls-Wilder/9780064400060?ref=grid-view&qid=1656000948255&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036075756" rel="nofollow">Buy on Orell Füssli</a>
 
-## On the Same Day in March: A Tour of the World’s Weather, by Marilyn Singer
+### On the Same Day in March: A Tour of the World’s Weather, by Marilyn Singer
 
 
 <img src="https://imgur.com/G7PcSRf.png" width="25%" />
@@ -94,10 +94,10 @@ summary here. (Lexile AD620L)
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051788134" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzNTM5NTAzLDk4MDM5NDA3NSw5MjI1Nj
-QxNDEsMTMzODI0Njk3OCwxMzA0NDA1NzM2LDM1MDE2MDc5NCwt
-MzI2MTMwNzQ3LC0zMDgzODk4MjksMTI2NzM5NDExMywzNDYzOT
-g0OTEsLTIxOTI4MzMxNCwtODcxODEzNzAzLDE4OTA1NTEwMTgs
-MTc4NDA3Mzg4NSw4OTkzNTc3NzksLTc3MjMyNDQwNSwxMzE1MD
-EwOTI4LDEzMDQ2NjIyODldfQ==
+eyJoaXN0b3J5IjpbLTIxMTQ1OTY1OTQsOTgwMzk0MDc1LDkyMj
+U2NDE0MSwxMzM4MjQ2OTc4LDEzMDQ0MDU3MzYsMzUwMTYwNzk0
+LC0zMjYxMzA3NDcsLTMwODM4OTgyOSwxMjY3Mzk0MTEzLDM0Nj
+M5ODQ5MSwtMjE5MjgzMzE0LC04NzE4MTM3MDMsMTg5MDU1MTAx
+OCwxNzg0MDczODg1LDg5OTM1Nzc3OSwtNzcyMzI0NDA1LDEzMT
+UwMTA5MjgsMTMwNDY2MjI4OV19
 -->
