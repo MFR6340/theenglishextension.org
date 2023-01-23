@@ -59,8 +59,9 @@ In this anthology, stunning animal photos by National Geographic photographers a
 
 We all need to learn more about animals, and this books, required reading at Hogwarts, has a few that aren't very familiar.  
 
-<a href="https://www.bookdepository.com/National-Geographic-Kids-Book-Animal-Poetry-J-Patrick-Lewis/9781426310096?ref=grid-view&qid=1674484467571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1020533197?sq=National%20Geographic%20Kids%20Book%20of%20Animal%20Poetry&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Fantastic-Beasts-Where-Find-Them-J-K-Rowling/9781408896945?ref=grid-view&qid=1674500301753&sr=1-4#" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046755968
+e" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -94,6 +95,6 @@ In this anthology, stunning animal photos by National Geographic photographers a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU4NDE0OTMsMTk5OTk4NzIzMiwxOD
-A2OTA5MDA2XX0=
+eyJoaXN0b3J5IjpbMjI3ODExNjk2LDE5OTk5ODcyMzIsMTgwNj
+kwOTAwNl19
 -->
