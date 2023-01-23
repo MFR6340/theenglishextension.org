@@ -7,7 +7,7 @@
 
 <img src="https://i.imgur.com/dPMlj0k.png" width="25%" />
 
-Jesse Owens is the most famous athlete in Track and Field history despite many odds.  His grandparents had been slaves, his parents were poor sharecroppers and  In 1936, he won 4 
+Jesse Owens is the most famous athlete in Track and Field history despite many odds.  His grandparents had been slaves, his parents were poor sharecroppers.  He set multiple world- records, including three in less than an hour, considered to be the "greatest 45 minutes in sport."  In 1936, he won 4 Gold medals in the Berlin Olympics, 
 
 <a href="https://www.bookdepository.com/Kid-Athletes-David-Stabler/9781594748028?ref=grid-view&qid=1665928260307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035793246" rel="nofollow">Buy on Orell Füssli</a>
@@ -125,7 +125,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDk1NDgwMyw0NTgwNTE2ODAsLTE3NT
+eyJoaXN0b3J5IjpbMTQzMTA5NDg1MCw0NTgwNTE2ODAsLTE3NT
 A5NzQxNDIsMTc0NzE3MTE1MSwyMDkyMDcwNjEzLC04MjYyNjk4
 NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQyNSwtMT
 I5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC0xNTUz
