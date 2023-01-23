@@ -67,14 +67,23 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
  
 ### Dangerous Days in Elizabethan England, by Terry Deary
 
-<img src="https://imgur.com/53YvdAS.png" width="25%" />
+<img src="https://imgur.com/qcFwwBW.png" width="25%" />
 
 
 
 <a href="https://www.bookdepository.com/Dangerous-Days-Elizabethan-England-Terry-Deary/9781780226378?ref=grid-view&qid=167448959708790745706&sr=1-13" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuerit e nelissli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036886384" rel="nofollow">Buy on  Orell Füssli</a>
+
+### Dangerous Days in Elizabethan England, by Terry Deary
+
+<img src="https://imgur.com/qcFwwBW.png" width="25%" />
+
+
+
+<a href="https://www.bookdepository.com/Dangerous-Days-Elizabethan-England-Terry-Deary/9781780226378?ref=grid-view&qid=167448959708790745706&sr=1-13" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036886384" rel="nofollow">Buy on  Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4NTc0MjUsLTE4MDQxMzA1NCwtMjEyMT
+eyJoaXN0b3J5IjpbOTQxMjMxNzksLTE4MDQxMzA1NCwtMjEyMT
 E0NzI5OSwtMTM4MzE1NTEwNSwtMTAxOTk0MTc5MSw1NTgyOTgz
 MCwtNTY2MTU4NTEwLDgyMjkyODI5Nyw3ODAzODMwXX0=
 -->
