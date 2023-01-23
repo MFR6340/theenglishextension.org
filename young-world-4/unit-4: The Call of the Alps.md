@@ -43,7 +43,14 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 <a href="https://www.bookdepository.com/Happy-Hollisters-Swiss-Echo-Mystery-Jerry-West/9781949436587?ref=grid-view&qid=1665931110999&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053696383" rel="nofollow">Buy on Orell Füssli</a>
 
+### Banner in the Sky, by James Ramsey Ullman
 
+<img src="https://imgur.com/biY69Qr.png" width="25%" />
+
+
+
+<a href="https://www.bookdepository.com/Dangerous-Days-on-Victorian-Railways-Terry-Deary/9781780226361?ref=grid-view&qid=1674491074938&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034790323" rel="nofollow">Buy on  Orell Füssli</a>
 
 # Supplemental Activities
 
@@ -59,5 +66,5 @@ https://www.myswitzerland.com/en-ch/experiences/events/unspunnenschwinget/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTM5NTUwNyw0NTkxODMwNTVdfQ==
+eyJoaXN0b3J5IjpbMTY1NjM3MTE2Niw0NTkxODMwNTVdfQ==
 -->
