@@ -3,7 +3,16 @@
 # Open World 2, Unit 2: Weird and Wonderful Games
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
-**This unit covers events that might not be familiar to kids growing up in Switzerland including the events at the Scottish Highland Games, games at a Village Fête.**
+**This unit covers events that might not be familiar to kids growing up in Switzerland including the events at the Scottish Highland Games and events at a Village Fête.  Here is some literature that goes with this unit:** 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 # Supplemental Activities
@@ -19,6 +28,6 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODI4Mjk5MywxMTk5Nzg3NTM3LC0xMT
+eyJoaXN0b3J5IjpbLTU4Nzc0NjYzOSwxMTk5Nzg3NTM3LC0xMT
 M1NDYwNTA3XX0=
 -->
