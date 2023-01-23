@@ -2,10 +2,7 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-This unit contains basic interesting information on animals including the Dung Beetle, Flying Squirrels, and Sardines.  It also discusses animal migrationWhat animals can do: dung beetle, flying squirrels, sardines. Animal migration: Green turtles, Artic Turn, Gray Whales, monarch butterfly. “Totem Animals”
-
-##### Limericks on Animals.
-
+This unit contains basic interesting information on animals including the Dung Beetle, Flying Squirrels, and Sardines.  It also discusses animal migration, especially of Green Turtles, the Arctic Turn, and Gray Whales.  
 
 
 ### Moonbird, a Year on the Wind. By Philip Hoose
@@ -51,5 +48,5 @@ summary here.
 <a href="https://www.bookdepository.com/Wow-World-Wow-Wild-Mindy-Thomas/9780358306894?ref=grid-view&qid=1674322543937&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061635944" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYwMDYwNDAyXX0=
+eyJoaXN0b3J5IjpbLTExNTUyNDcxNzhdfQ==
 -->
