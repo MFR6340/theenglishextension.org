@@ -74,7 +74,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/Dangerous-Days-Elizabethan-England-Terry-Deary/9781780226378?ref=grid-view&qid=167448959708790745706&sr=1-13" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036886384" rel="nofollow">Buy on  Orell Füssli</a>
 
-### Dangerous Days in Elizabethan England, by Terry Deary
+### Deaths, by Terry Deary
 
 <img src="https://imgur.com/qcFwwBW.png" width="25%" />
 
@@ -83,7 +83,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/Dangerous-Days-Elizabethan-England-Terry-Deary/9781780226378?ref=grid-view&qid=167448959708790745706&sr=1-13" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036886384" rel="nofollow">Buy on  Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQxMjMxNzksLTE4MDQxMzA1NCwtMjEyMT
-E0NzI5OSwtMTM4MzE1NTEwNSwtMTAxOTk0MTc5MSw1NTgyOTgz
-MCwtNTY2MTU4NTEwLDgyMjkyODI5Nyw3ODAzODMwXX0=
+eyJoaXN0b3J5IjpbLTIxMDM4MzY3MTIsLTE4MDQxMzA1NCwtMj
+EyMTE0NzI5OSwtMTM4MzE1NTEwNSwtMTAxOTk0MTc5MSw1NTgy
+OTgzMCwtNTY2MTU4NTEwLDgyMjkyODI5Nyw3ODAzODMwXX0=
 -->
