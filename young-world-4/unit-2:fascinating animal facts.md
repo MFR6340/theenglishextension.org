@@ -50,7 +50,7 @@ summary here.
 
 
 ### National Geographic Book of Animal Poetry, by J. Lewis
-<img src="![National Geographic Book of Animal Poetry: 200 Poems with Photographs ...](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.p0npUKLTztpu_vd5T-7BkgAAAA%26pid%3DApi&f=1&ipt=c75c111756f312ceee255ac6a6607f83530ad36aef909e6f041acb42e4920cc4&ipo=images" width="25%" />
+<img src="https://i.imgur.com/t5qgfVv.png  " width="25%" />
 
 In this anthology, stunning animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors.  192 pages.   (No lexile level)
 
@@ -61,5 +61,5 @@ In this anthology, stunning animal photos by National Geographic photographers a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTIwNzIxNl19
+eyJoaXN0b3J5IjpbMTI4NzE4OTI2XX0=
 -->
