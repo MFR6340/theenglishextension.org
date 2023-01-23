@@ -2,7 +2,7 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-This unit discusses the differences in life between long ago and today, including job differences, changes in communication and the invention of railway.  There is brief information on important events including the Great Fire of London, the discovery of New Zealand, the sinking of Titanic, and the landing on the Moon.  This theme has limitless suggestions for supplemental reading.  Here is just the tip of the iceberg:
+**This unit discusses the differences in life between long ago and today, including job differences, changes in communication and the invention of railway.  There is brief information on important events including the Great Fire of London, the discovery of New Zealand, the sinking of Titanic, and the landing on the Moon.  This theme has limitless suggestions for supplemental reading.  Here is just the tip of the iceberg:**
 
 
 ### Adam of the Road, by Elizabeth Janet Gray
@@ -41,5 +41,5 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/Mary-Poppins-P-L-Travers/9780007286416?ref=grid-view&qid=1665930949367&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.youtube.com/watch?v=os9J0QXo2AE" rel="nofollow">Buy on  Amazon</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTczNTc4XX0=
+eyJoaXN0b3J5IjpbNzgwMzgzMF19
 -->
