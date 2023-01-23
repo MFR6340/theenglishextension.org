@@ -86,17 +86,19 @@ summary here.  (Lexile 980L)
 <a href="https://www.bookdepository.com/Next-Time-You-See-Cloud-Emily-Morgan/9781938946363?ref=grid-view&qid=1673794600197&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059305713" rel="nofollow"> Buy on Orell Füssli</a>
 
-## The Reason for Seasons, Gail Gibbons
+## The Reasons for Seasons, Gail Gibbons
 
 <img src="https://imgur.com/02ldsWl.png" width="25%" />
 
-summary here.
+summary here. (Lexile AD620L)
 
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059305713" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTU0NTk1NiwxMzM4MjQ2OTc4LDEzMD
-Q0MDU3MzYsMzUwMTYwNzk0LC0zMjYxMzA3NDcsLTMwODM4OTgy
-OSwxMjY3Mzk0MTEzLDM0NjM5ODQ5MSwtMjE5MjgzMzE0LC04Nz
-E4MTM3MDMsMTg5MDU1MTAxOCwxNzg0MDczODg1LDg5OTM1Nzc3
-OSwtNzcyMzI0NDA1LDEzMTUwMTA5MjgsMTMwNDY2MjI4OV19
+eyJoaXN0b3J5IjpbLTE0MzM1NDg5OTMsMTMzODI0Njk3OCwxMz
+A0NDA1NzM2LDM1MDE2MDc5NCwtMzI2MTMwNzQ3LC0zMDgzODk4
+MjksMTI2NzM5NDExMywzNDYzOTg0OTEsLTIxOTI4MzMxNCwtOD
+cxODEzNzAzLDE4OTA1NTEwMTgsMTc4NDA3Mzg4NSw4OTkzNTc3
+NzksLTc3MjMyNDQwNSwxMzE1MDEwOTI4LDEzMDQ2NjIyODldfQ
+==
 -->
