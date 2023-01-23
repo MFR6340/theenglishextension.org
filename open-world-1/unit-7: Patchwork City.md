@@ -9,7 +9,7 @@
 summary here.  (Lexile level       )
 
 <a href="https://www.bookdepository.com/Jonathan-Cleaned-Up-Then-He-Heard-Sound-Robert-Munsch/9781773210889?ref=grid-view&qid=1674500497806&sr=1-2 link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1005972253 link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005972253" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Lucy Maud and Me, by Mary Francis Coady
 
@@ -47,8 +47,8 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM4NjUxMjIsLTgyMDEyNDA0OSwtNz
-U1OTg3MzkwLC0xMjI3MTM1OTY0LC03OTQxNjA2LC0zMjI5NzQy
-NjEsLTEyNTc4MDA5NjMsLTU5MTk3MjU4NCwxMDQzNjY0MDk2XX
-0=
+eyJoaXN0b3J5IjpbMTIwNTAzNDM1NCwtMTI2Mzg2NTEyMiwtOD
+IwMTI0MDQ5LC03NTU5ODczOTAsLTEyMjcxMzU5NjQsLTc5NDE2
+MDYsLTMyMjk3NDI2MSwtMTI1NzgwMDk2MywtNTkxOTcyNTg0LD
+EwNDM2NjQwOTZdfQ==
 -->
