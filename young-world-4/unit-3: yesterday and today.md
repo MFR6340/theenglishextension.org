@@ -14,7 +14,7 @@ summary here.
 <a href="https://www.bookdepository.com/Adam-Road-Elizabeth-Janet-Gray/9780140324648?ref=grid-view&qid=1665930041706&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354191" rel="nofollow">Buy on Orell Füssli</a>
 
-## Gold Rush Fever, the Story of the Klondike, by Barbara Greenwood
+### Gold Rush Fever, the Story of the Klondike, by Barbara Greenwood
 
 <img src="https://imgur.com/guWmras.png" width="25%" />
 
@@ -41,5 +41,5 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/Mary-Poppins-P-L-Travers/9780007286416?ref=grid-view&qid=1665930949367&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.youtube.com/watch?v=os9J0QXo2AE" rel="nofollow">Buy on  Amazon</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxNjQxMDAzXX0=
+eyJoaXN0b3J5IjpbLTUwMTczNTc4XX0=
 -->
