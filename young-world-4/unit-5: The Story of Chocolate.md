@@ -37,7 +37,7 @@ Also try the Audio book version read by Eric Idle
 
 
 <a href="https://www.bookdepository.com/Whizz-Pop-Chocolate-Shop-Kate-Saunders/9780385743020?ref=grid-view&qid=1674494349626&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033680556" rel="nofollow">Buy on Orell Füssli</a>
 
 ### This Book is Not Good For You, by Pseudonymoue Bosch
 <img src="https://imgur.com/USP4SsA.png" width="25%" />
@@ -45,12 +45,12 @@ Also try the Audio book version read by Eric Idle
 
 
 <a href="https://www.bookdepository.com/This-Book-Is-Not-Good-For-You-Pseudonymous-Bosch/9780316040853?ref=grid-view&qid=1674494&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10365610873165" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1010873165" rel="nofollow">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTI4MDcwNDEsLTU1NzI2NDM4MywtMT
-k0NDY1ODA0Nyw2Nzc3Mzc2MDgsNjY4NjA5NDc1LDExOTU5ODYy
-OSwtMTQ3MTQzMDAxLC0zNzY5ODE4MzEsLTE1NDQ1NDcxMDcsLT
-E1NzQ1OTkxMTIsLTU5MjY2OTQ1Niw4OTE3ODEzMzAsODczNTE2
-MjY0LDYxNzAzNzgxOCwtNjAyODAyNDQ3LDk4MzEwNDMyMV19
+eyJoaXN0b3J5IjpbLTg2MTQ0NjEsLTU1NzI2NDM4MywtMTk0ND
+Y1ODA0Nyw2Nzc3Mzc2MDgsNjY4NjA5NDc1LDExOTU5ODYyOSwt
+MTQ3MTQzMDAxLC0zNzY5ODE4MzEsLTE1NDQ1NDcxMDcsLTE1Nz
+Q1OTkxMTIsLTU5MjY2OTQ1Niw4OTE3ODEzMzAsODczNTE2MjY0
+LDYxNzAzNzgxOCwtNjAyODAyNDQ3LDk4MzEwNDMyMV19
 -->
