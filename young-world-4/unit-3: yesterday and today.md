@@ -38,8 +38,8 @@ summary here. Funny haha
 
 The chimney sweep is a job from times gone by.  For those who prefer fiction to non-fiction, this is a fun book to read and compare to the more familiar movie.
 
-<a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepoo</a>
- hin the Wall, by Marguerite de Angeli
+<a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepoosit</a>
+ hithe Wall, by Marguerite de Angeli
 
 <img src="https://imgur.com/.png" width="25%" />
 
@@ -56,7 +56,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=1674489597087&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuerit e nelissli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
 
-### https://imgur.com/53YvdASSarah Plain and Tall, by Patricia MacLachlan
+### hircSarah Plain and Tall, by Patricia MacLachlan
 
 <img src="https://imgur.com/53YvdAS.png" width="25%" />
 
@@ -65,6 +65,6 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/?ref=grid-view&qid=167448Door-Wall-Marguerite-de-Angeli/9780440402831Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=166593094936774489174439597087&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A100645551529807823" rel="nofollow">Buy on  Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4Mjk4MzAsLTkzMjg0NDkzNSwtNTY2MT
-U4NTEwLDgyMjkyODI5Nyw3ODAzODMwXX0=
+eyJoaXN0b3J5IjpbLTE5NTAyMjIxNTAsNTU4Mjk4MzAsLTU2Nj
+E1ODUxMCw4MjI5MjgyOTcsNzgwMzgzMF19
 -->
