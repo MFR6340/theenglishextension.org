@@ -55,18 +55,19 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri grew up.  Come visit and learn all about the author who wrote the world-famous book, Heidi. <a href="https://spyri-museum.ch/en/" rel="nofollow">Spyri Museum </a>
 
-Keeping along the Heidi theme, visit <a href="" rel="nofollow" Visiting Heidi's village </a> 
-
+Keeping along the Heidi theme, visit  Heidi's village </a> 
 a spot which is designed to look like the area where Heidi lived. <a href="https://www.ourswissexperience.com/en/2021/09/23/heididorf-heidis-village-maienfeld-visiting-the-worlds-most-famous-swiss-girl/ " rel="nofollow">Visiting Heidi's villageBuy on Orell Füssli</a>
 
 The majestic Alps have always called people to both work play on their slopes.   There are plenty of ways of playing, from skiing, to sledding, to bobsledding.  The Ski Museum in Davos has a lovely collection of  Alpine sports artifacts which will definitely to react with "Wow, they really used THAT?"  https://www.wintersportmuseum.ch
 
 Attend a traditional Schwingfest.  Schwingen is only for the biggest and toughest. Pairs compete to see which lands on the sawdust first.  The Unspunnen-Schwinget takes place only every six years and will be happening on 27. August 2023.  https://www.myswitzerland.com/en-ch/experiences/events/unspunnenschwinget/
 
+https://unspunnen-schwinget.ch/
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjA1MjAxOCwtNjA0NzQ3NzYyLDQzMj
-A2MjE3NiwtMTg5NDYwMDg1MywxODQ4ODU0MTIyLDQ1OTE4MzA1
-NV19
+eyJoaXN0b3J5IjpbLTE0MTE3Njg3NDIsLTYwNDc0Nzc2Miw0Mz
+IwNjIxNzYsLTE4OTQ2MDA4NTMsMTg0ODg1NDEyMiw0NTkxODMw
+NTVdfQ==
 -->
