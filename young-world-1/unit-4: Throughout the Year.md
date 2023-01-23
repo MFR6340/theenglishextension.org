@@ -93,12 +93,11 @@ summary here.  (Lexile 980L)
 summary here. (Lexile AD620L)
 
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059305713" rel="nofollow"> Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051788134" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM1NDg5OTMsMTMzODI0Njk3OCwxMz
-A0NDA1NzM2LDM1MDE2MDc5NCwtMzI2MTMwNzQ3LC0zMDgzODk4
-MjksMTI2NzM5NDExMywzNDYzOTg0OTEsLTIxOTI4MzMxNCwtOD
-cxODEzNzAzLDE4OTA1NTEwMTgsMTc4NDA3Mzg4NSw4OTkzNTc3
-NzksLTc3MjMyNDQwNSwxMzE1MDEwOTI4LDEzMDQ2NjIyODldfQ
-==
+eyJoaXN0b3J5IjpbOTIyNTY0MTQxLDEzMzgyNDY5NzgsMTMwND
+QwNTczNiwzNTAxNjA3OTQsLTMyNjEzMDc0NywtMzA4Mzg5ODI5
+LDEyNjczOTQxMTMsMzQ2Mzk4NDkxLC0yMTkyODMzMTQsLTg3MT
+gxMzcwMywxODkwNTUxMDE4LDE3ODQwNzM4ODUsODk5MzU3Nzc5
+LC03NzIzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYyMjg5XX0=
 -->
