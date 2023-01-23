@@ -1,5 +1,5 @@
 # Open World 3, Unit 1: Further, faster, higher
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 ## Title here, by author here
 
@@ -27,6 +27,6 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzk3MDY5MTcsLTkzNTgxNjYxMSwxMT
-YxOTUxNzAsMTAwMTQzNjg1M119
+eyJoaXN0b3J5IjpbLTkwMzA2NjAzMywtOTM1ODE2NjExLDExNj
+E5NTE3MCwxMDAxNDM2ODUzXX0=
 -->
