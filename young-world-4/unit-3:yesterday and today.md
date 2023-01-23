@@ -2,9 +2,7 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-This unit discusses the differences in life between long ago and today, including changes in communication and the invention of railway.  There is brief information on important events including the Great Fire of London, the discovery of New Zealand, the sinking of Titanic, and the landing on the Moon.  This theme has limitless suggestions for supplemental reading.  Here is 
-
-##### Life of a Chimney Sweep, Working as a maid.
+This unit discusses the differences in life between long ago and today, including job differences, changes in communication and the invention of railway.  There is brief information on important events including the Great Fire of London, the discovery of New Zealand, the sinking of Titanic, and the landing on the Moon.  This theme has limitless suggestions for supplemental reading.  Here is just the tip of the iceberg:
 
 
 ### Adam of the Road, by Elizabeth Janet Gray
@@ -24,7 +22,7 @@ summary here.
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005058189" rel="nofollow">Buy on Orell Füssli</a>
 
-## The Great Brain, by John D. Fitzgerald
+### The Great Brain, by John D. Fitzgerald
 
 <img src="https://imgur.com/njY8PTT.png" width="25%" />
 
@@ -33,22 +31,15 @@ summary here. Funny haha
 <a href="https://www.bookdepository.com/Great-Brain-John-D-Fitzgerald/9780142400586?ref=grid-view&qid=1665930318266&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003007318" rel="nofollow">Buy on Orell Füssli</a>
 
-## War Horse, Michael Morpurgo
-<img src="https://imgur.com/GBZ7U8o.png" width="25%" />
 
-summary here.
-
-<a href="https://www.bookdepository.com/War-Horse-Michael-Morpurgo/9780439796644?ref=grid-view&qid=1665930437324&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062788659" rel="nofollow">Buy on Orell Füssli</a>
-
-## Mary Poppins, by Pamela L. Travers
+##* Mary Poppins, by Pamela L. Travers
 
 <img src="https://imgur.com/Nak0fBU.png" width="25%" />
 
-summary here.
+It may seem summary here.
 
 <a href="https://www.bookdepository.com/Mary-Poppins-P-L-Travers/9780007286416?ref=grid-view&qid=1665930949367&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.youtube.com/watch?v=os9J0QXo2AE" rel="nofollow">Buy on  Amazon</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzY3Mjk5OSwtOTU4MTg4Mjk5XX0=
+eyJoaXN0b3J5IjpbLTE5OTU2Njk2NjMsLTk1ODE4ODI5OV19
 -->
