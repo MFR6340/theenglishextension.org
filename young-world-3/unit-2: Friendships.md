@@ -94,7 +94,7 @@ summary here.  (Lexile )
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
 
-## LIar and Spy, by Rebecca Stead
+### LIar and Spy, by Rebecca Stead
 <img src="https://i.imgur.com/EpgD5sN.png" width="25%" />
 
 summary here.  (Lexile )  
@@ -102,7 +102,7 @@ summary here.  (Lexile )
 <a href="https://www.bookdepository.com/Liar-Spy-Rebecca-Stead/9780375850875?ref=grid-view&qid=1674048861048&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1030255728" rel="nofollow">Buy on Orell Füssli</a>
 
-## The Song from Somewhere Else, by AF Harrold
+### The Song from Somewhere Else, by AF Harrold
 
 <img src="https://i.imgur.com/JH1m5Xw.png" width="25%" />
 
@@ -149,9 +149,10 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTEwMTcyNTAsMTQ5NTc1MDYwNSw2Nj
-UxMjUxMjEsMTgyOTE3OTE1MSwxOTA5NTQ1MDI4LC00NDk4MTY4
-NDUsLTE1NzQ4MzQ2MjQsLTEzMDAzNzEyNDQsLTEyNDYyMTM4Nz
-MsMTA4MjUyNTg5NSwtMTI3NDk5MDY2MiwtMTc4ODY0NzA0OSwx
-MzY4NTc0NzA5LDMxODYxMDcyMywxMTQ2MDczMjQ3XX0=
+eyJoaXN0b3J5IjpbNTU3Mjg0NDMwLC0xNjUxMDE3MjUwLDE0OT
+U3NTA2MDUsNjY1MTI1MTIxLDE4MjkxNzkxNTEsMTkwOTU0NTAy
+OCwtNDQ5ODE2ODQ1LC0xNTc0ODM0NjI0LC0xMzAwMzcxMjQ0LC
+0xMjQ2MjEzODczLDEwODI1MjU4OTUsLTEyNzQ5OTA2NjIsLTE3
+ODg2NDcwNDksMTM2ODU3NDcwOSwzMTg2MTA3MjMsMTE0NjA3Mz
+I0N119
 -->
