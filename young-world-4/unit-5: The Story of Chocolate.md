@@ -21,8 +21,17 @@ Also try the Audio book version read by Eric Idle
  (Lexile 1130L)
 
 <a href="https://www.bookdepository.com/Candy-Bomber-Michael-O-Tunnell/9781580893374?ref=grid-view&qid=1674492171837792874492171837&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A103980152009294094" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009294094" rel="nofollow">Buy on Orell Füssli</a>
+
+### Candy Bomber, by Michael O. Tunnell
+
+<img src="https://imgur.com/oMtnFMg.png" width="25%" />
+
+
+
+<a href="https://www.bookdepository.com/Candy-Bomber-Michael-O-Tunnell/9781580893374?ref=grid-view&qid=167449217183774492171837&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009294094" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczNTE2MjY0LC0yMDk2MDQzMTgyLDYxNz
-AzNzgxOCwtNjAyODAyNDQ3LDk4MzEwNDMyMV19
+eyJoaXN0b3J5IjpbODkxNzgxMzMwLDg3MzUxNjI2NCw2MTcwMz
+c4MTgsLTYwMjgwMjQ0Nyw5ODMxMDQzMjFdfQ==
 -->
