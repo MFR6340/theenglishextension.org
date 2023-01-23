@@ -49,10 +49,10 @@ summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061635944" rel="nofollow">Buy on Orell Füssli</a>
 
 
-### Wow in the Wild, Amazing World of Animals
+### National Geographic Book of Animal Poetry, by J. Lewis
 <img src="https://imgur.com/FRZofnU.png" width="25%" />
 
-summary here.
+192 page book with fantastic photos by National Geographic photographers, 
 
 <a href="https://www.bookdepository.com/Wow-World-Wow-Wild-Mindy-Thomas/9780358306894?ref=grid-view&qid=1674322543937&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061635944" rel="nofollow">Buy on Orell Füssli</a>
@@ -61,5 +61,5 @@ summary here.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkzNTQ1MDddfQ==
+eyJoaXN0b3J5IjpbLTE0ODEwOTkwMDJdfQ==
 -->
