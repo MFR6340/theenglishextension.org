@@ -1,5 +1,5 @@
 # Open World 1, Unit 1: Going Places
- *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.**
+ *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit covers visiting Edinburgh, Scotland with a side trip to Glasgow and comparing the two cities.  Books on this list include books set in Edinburgh, or ones written by Scottish authors.**  
 
@@ -43,6 +43,6 @@ You don't need to leave Switzerland to see **Highland Dancing** or to learn how 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTMxODIxMiw3ODgwMTc3ODksLTE3Mj
-kzMDYwNDldfQ==
+eyJoaXN0b3J5IjpbLTIzODIwNzYwNiwxNzk5MzE4MjEyLDc4OD
+AxNzc4OSwtMTcyOTMwNjA0OV19
 -->
