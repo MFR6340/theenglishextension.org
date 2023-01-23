@@ -11,7 +11,16 @@ summary here.  (Lexile level       )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile level       )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjk3NDI2MSwtMTI1NzgwMDk2MywtNT
-kxOTcyNTg0LDEwNDM2NjQwOTZdfQ==
+eyJoaXN0b3J5IjpbMTEzNTIzMDE5NCwtMzIyOTc0MjYxLC0xMj
+U3ODAwOTYzLC01OTE5NzI1ODQsMTA0MzY2NDA5Nl19
 -->
