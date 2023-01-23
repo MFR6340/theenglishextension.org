@@ -55,10 +55,9 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 
 <a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=1674489597087&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuerit e nelissli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
+<a href="https://www.orellfuelli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
 
 ### The Telegram, by Philippa Werry
-
 <img src="https://imgur.com/G2oI2PD.png" width="25%" />
 
 
@@ -73,7 +72,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/The-TelegSarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=1674489597087&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuerit e nelissli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMDA1ODI3LC0xMzgzMTU1MTA1LC0xMD
-E5OTQxNzkxLDU1ODI5ODMwLC01NjYxNTg1MTAsODIyOTI4Mjk3
-LDc4MDM4MzBdfQ==
+eyJoaXN0b3J5IjpbMjE0MTQxNTQwNywtMTM4MzE1NTEwNSwtMT
+AxOTk0MTc5MSw1NTgyOTgzMCwtNTY2MTU4NTEwLDgyMjkyODI5
+Nyw3ODAzODMwXX0=
 -->
