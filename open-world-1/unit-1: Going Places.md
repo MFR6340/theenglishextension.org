@@ -3,14 +3,13 @@
 
 **This unit covers visiting Edinburgh, Scotland with a side trip to Glasgow and comparing the two cities.  Books on this list include books set in Edinburgh, or ones written by Scottish authors.**  
 
-### Title here, by author here
-
-<img src="imgurlinkhere.png" width="25%" />
+### Grayfriars Bobby, by Eleanor Atkinson
+<img src="https://imgur.com/RRgkUnc.png" width="25%" />
 
 summary here.  (Lexile level       )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
  
  
 ### Title here, by author here
@@ -42,6 +41,6 @@ You don't need to leave Switzerland to see **Highland Dancing** or to learn how 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MzkyOTA0Nyw3ODgwMTc3ODksLTE3Mj
+eyJoaXN0b3J5IjpbLTIwMzAxOTkxMyw3ODgwMTc3ODksLTE3Mj
 kzMDYwNDldfQ==
 -->
