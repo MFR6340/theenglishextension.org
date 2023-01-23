@@ -2,13 +2,13 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-This unit covers what to do in a traffic accident, First Aid, and calling Emergency.  To expand on this us
+This unit covers what to do in a traffic accident, First Aid, and calling Emergency.  To expand on this unit, the books below give
 
-### Magic Treehouse Fact Tracker: Dog Heroes, Mary Pope Osbourne
+### Magic Treehouse Fact Tracker: Dog Heroes, by Mary Pope Osbourne
 
 <img src="https://imgur.com/66AhGbV.png" width="25%" />
 
-Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station. Their home becomes more lively with his adventures. (Lexile 750L) 
+summary here. (Lexile 750L) 
 
 <a href="https://www.bookdepository.com/Dog-Heroes-Mary-Pope-Osborne/9780375860126?ref=grid-view&qid=1674318040257&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016423966" rel="nofollow">Buy on Orell Füssli</a>
@@ -53,7 +53,7 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDYyMjg1OSwtMTkyNzg1NjYyMSwtMT
+eyJoaXN0b3J5IjpbLTQyNDU5ODI5MywtMTkyNzg1NjYyMSwtMT
 E0MjU1ODk4NiwtMTg3ODUzNzI5NCwtOTgzMDMwMTAsOTgxOTA4
 NTcwLDE2MjMyODA1NTIsLTMwNzE4MTk0NCw3MTQ2MDcwMjEsMz
 A0NDM2MTI4XX0=
