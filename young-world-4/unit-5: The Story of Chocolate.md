@@ -32,7 +32,7 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038196486" rel="nofollow">Buy on Orell Füssli</a>
 
 ### The Whizz Pop Chocolate Shop, by Kate Saunders
-<img src="https://imgur.com/O9Uy0I3.png" width="25%" />
+<img src="https://imgur.com/.png" width="25%" />
 
 
 
@@ -40,7 +40,7 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033680556" rel="nofollow">Buy on Orell Füssli</a>
 
 ### This Book is Not Good For You, by Pseudonymous Bosche Whizz Pop Chocolate Shop, by Kate Saunders
-<img src="https://imgur.com/O9Uy0I3.png" width="25%" />
+<img src="https://imgur.com/O9Uy0I3USP4SsA.png" width="25%" />
 
 
 
@@ -48,9 +48,9 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033680556" rel="nofollow">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NzM3NjA4LDg3MTIzNDI4Nyw2Njg2MD
-k0NzUsMTE5NTk4NjI5LC0xNDcxNDMwMDEsLTM3Njk4MTgzMSwt
-MTU0NDU0NzEwNywtMTU3NDU5OTExMiwtNTkyNjY5NDU2LDg5MT
-c4MTMzMCw4NzM1MTYyNjQsNjE3MDM3ODE4LC02MDI4MDI0NDcs
-OTgzMTA0MzIxXX0=
+eyJoaXN0b3J5IjpbMTE5OTY4ODM2Nyw2Nzc3Mzc2MDgsNjY4Nj
+A5NDc1LDExOTU5ODYyOSwtMTQ3MTQzMDAxLC0zNzY5ODE4MzEs
+LTE1NDQ1NDcxMDcsLTE1NzQ1OTkxMTIsLTU5MjY2OTQ1Niw4OT
+E3ODEzMzAsODczNTE2MjY0LDYxNzAzNzgxOCwtNjAyODAyNDQ3
+LDk4MzEwNDMyMV19
 -->
