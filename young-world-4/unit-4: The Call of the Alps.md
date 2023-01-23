@@ -5,7 +5,7 @@
 **This unit is about planning a trip in the various regions of Switzerland. It discusses things to do in the mountains, including information about the first male and female to climb the Matterhorn.  Kids growing up in Switzerland and enrolled in the local schools may have a great foundation from which to build on this theme.  Here are some ideas for both added knowledge and pleasure reading:**
 
 
-## Festivals and Traditions in Switzerland, by Barbara Piatti & Yvonne Rogenmoser
+### Festivals and Traditions in Switzerland, by Barbara Piatti & Yvonne Rogenmoser
 
 <img src="https://imgur.com/yF8ZSP4.png" width="25%" />
 
@@ -14,7 +14,7 @@ A lovely book that explains festivals and gatherings that take place throughout 
 <a href="https://www.bookdepository.com/Festivals-and-Traditions-in-Switzerland-Barbara-Piatti-Yvonne-Rogenmoser/9780735844162" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056567331" rel="nofollow">Buy on Orell Füssli</a>
 
-## The Apple and the Arrow, by Mary Buff
+### The Apple and the Arrow, by Mary Buff
 
 <img src="https://imgur.com/DsPI10e.png" width="25%" />
 
@@ -23,7 +23,7 @@ Newberry Honor Book.  The story of William Tell, who shot an apple of the head o
 <a href="https://www.bookdepository.com/Apple-Arrow-Buff-M/9780618128099?ref=grid-view&qid=1665931458861&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002594722" rel="nofollow">Buy on Orell Füssli</a>
 
-## Heidi, by Johanna Spyri
+### Heidi, by Johanna Spyri
 <img src="https://imgur.com/XPkX05Y.png" width="25%" />
 
 The classic children's novel, originally published in German, about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  Originally published in 1880-81 in two parts.  As it is now out of copyright there are quite a few English translations available including for free on Project Gutenberg.  [http://www.gutenberg.org/ebooks/1448](http://www.gutenberg.org/ebooks/1448).  Lexile level varies based on translation. 
@@ -34,7 +34,7 @@ The classic children's novel, originally published in German, about an charming 
 <a href="https://www.bookdepository.com/Heidi-Johanna-Spyri/9780141322568?ref=grid-view&qid=1665931270781&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005226950" rel="nofollow">Buy on Orell Füssli</a>
 
-## Happy Hollisters and the Swiss Echo Mystery, by Jerry West
+### Happy Hollisters and the Swiss Echo Mystery, by Jerry West
 
 <img src="https://imgur.com/dtqp6SI.png" width="25%" />
 
@@ -42,6 +42,8 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 <a href="https://www.bookdepository.com/Happy-Hollisters-Swiss-Echo-Mystery-Jerry-West/9781949436587?ref=grid-view&qid=1665931110999&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053696383" rel="nofollow">Buy on Orell Füssli</a>
+
+
 
 # Supplemental Activities
 
@@ -57,5 +59,5 @@ https://www.myswitzerland.com/en-ch/experiences/events/unspunnenschwinget/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MTgzMDU1XX0=
+eyJoaXN0b3J5IjpbLTk4NTM5NTUwNyw0NTkxODMwNTVdfQ==
 -->
