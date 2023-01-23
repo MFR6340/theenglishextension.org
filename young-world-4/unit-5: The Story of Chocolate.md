@@ -2,7 +2,7 @@
 
  *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-**This unit covers chocolate from plantations to production  Included here are also some fun fictional books related to chocolate:**
+**This unit covers chocolate from plantations to production.  Included in this list are some fun fictional books related to chocolate:**
 
 ## Charlie and the Chocolate Factory, by Roald Dahl
 
@@ -15,5 +15,5 @@ It's impossible to include a list of chocolate-themed books without including th
 Also try the Audio book version read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMTA0MzIxXX0=
+eyJoaXN0b3J5IjpbLTYwMjgwMjQ0Nyw5ODMxMDQzMjFdfQ==
 -->
