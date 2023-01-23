@@ -26,12 +26,12 @@ summary here.  (Lexile )
 ### Edinburgh, by Terry Deary
 
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/LquXPjQ.png" width="25%" />
 
 summary here.  (Lexile level       )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Gruesome-Guide-Edinburgh-newspaper-edition-Terry-Deary/9780702318122?ref=grid-view&qid=1674500219627&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+
 
 # Supplemental Activities
 What can more Scottish than the **Highland Games**?  Without even having to leave Switzerland, you have a chance to go see one of these amazing events.  The Highland Games Verband Schweiz organizes events every year.  For the program for this year.  https://www.hgvs.ch/saison-2023
@@ -43,6 +43,6 @@ You don't need to leave Switzerland to see **Highland Dancing** or to learn how 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NjA1MTEyMiw3ODgwMTc3ODksLTE3Mj
+eyJoaXN0b3J5IjpbMTc5OTMxODIxMiw3ODgwMTc3ODksLTE3Mj
 kzMDYwNDldfQ==
 -->
