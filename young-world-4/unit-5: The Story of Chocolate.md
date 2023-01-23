@@ -11,7 +11,7 @@
 It's impossible to include a list of chocolate-themed books without including this classic tale of a poor boy who wins a golden ticket to enter Willy Wonka's Chocolate Factory.  Many kids have seen the movie.  Everyone should read the book.  (Lexile 810)
 
 <a href="https://www.bookdepository.com/Charlie-Chocolate-Factory-Roald-Dahl/9780142410318?ref=grid-view&qid=1674499490062&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801520" rel="nofollow">Buy on Orell Füssli</a>
 Also try the Audio book version read by Eric Idle
 
 ### The Candy Bomber, by Michael O. Tunnell
@@ -37,7 +37,7 @@ Also try the Audio book version read by Eric Idle
 
 
 <a href="https://www.bookdepository.com/Whizz-Pop-Chocolate-Shop-Kate-Saunders/9780385743020?ref=grid-view&qid=1674494&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033680556" rel="nofollow">Buy on Orell Füssli</a>
 
 ### This Book is Not Good For You, by Pseudonymoue Bosch
 <img src="https://imgur.com/USP4SsA.png" width="25%" />
@@ -45,13 +45,13 @@ Also try the Audio book version read by Eric Idle
 
 
 <a href="https://www.bookdepository.com/This-Book-Is-Not-Good-For-You-Pseudonymous-Bosch/9780316040853?ref=grid-view&qid=1674494&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10365610873165" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1010873165" rel="nofollow">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzE4NjI1OCwxMTcwMTM4MzA1LC04Nj
-E0NDYxLC01NTcyNjQzODMsLTE5NDQ2NTgwNDcsNjc3NzM3NjA4
-LDY2ODYwOTQ3NSwxMTk1OTg2MjksLTE0NzE0MzAwMSwtMzc2OT
-gxODMxLC0xNTQ0NTQ3MTA3LC0xNTc0NTk5MTEyLC01OTI2Njk0
-NTYsODkxNzgxMzMwLDg3MzUxNjI2NCw2MTcwMzc4MTgsLTYwMj
-gwMjQ0Nyw5ODMxMDQzMjFdfQ==
+eyJoaXN0b3J5IjpbNzExNzQ1MzY2LDExNzAxMzgzMDUsLTg2MT
+Q0NjEsLTU1NzI2NDM4MywtMTk0NDY1ODA0Nyw2Nzc3Mzc2MDgs
+NjY4NjA5NDc1LDExOTU5ODYyOSwtMTQ3MTQzMDAxLC0zNzY5OD
+E4MzEsLTE1NDQ1NDcxMDcsLTE1NzQ1OTkxMTIsLTU5MjY2OTQ1
+Niw4OTE3ODEzMzAsODczNTE2MjY0LDYxNzAzNzgxOCwtNjAyOD
+AyNDQ3LDk4MzEwNDMyMV19
 -->
