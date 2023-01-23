@@ -26,11 +26,6 @@ Search and Rescue Dogs are an important part of the providing help during an acc
 <a href="https://www.bookdepository.com/Dog-Heroes-Mary-Pope-Osborne/9780375860126?ref=grid-view&qid=1674318040257&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016423966" rel="nofollow">Buy on Orell Füssli</a>
 
-
-
-
-
-
 ### # Florence Nightingale : On My Own Biographies, by Shannon Zemlicka
 
 <img src="https://imgur.com/LIZS01T.png" width="25%" />
@@ -55,11 +50,13 @@ This biography of Florence Nightingale provides more extensive details than the 
 
 <img src="https://i.imgur.com/1vNX6Ux.jpg" width="25%" />
 
-In one of the worst storms that ever hit the coast of Massachusetts (USA), two oil tankers split in half.  This book is the young readers edition of the story about one of the most dangerous rescues in US Coast Guard history.  (Lexile 1140L)
+In one of the worst storms that ever hit the coast of Massachusetts (USA), two oil tankers split in half.  This book is the young readers edition of the story one of the most dangerous rescues in US Coast Guard history.  (Lexile 1140L)
 Strongly recommend the movie by the same name. 
 
 <a href="https://www.bookdepository.com/Finest-Hours-Young-Readers-Edition-Michael-J-Tougias/9780805097641?ref=grid-view&qid=1674482601270&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034069963" rel="nofollow">Buy on Orell Füssli</a>
+
+## Fiction
 
 
 
@@ -68,7 +65,7 @@ Strongly recommend the movie by the same name.
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1ODUzNDk3NiwyOTIzODAzMDYsMTczOD
+eyJoaXN0b3J5IjpbLTM2ODg0MzU1MSwyOTIzODAzMDYsMTczOD
 g2MTc4NSwtMzc1Mjg3ODI1LC0xMjk2NDY4NjEsLTM2ODg4MDgz
 NywtMTkyNzg1NjYyMSwtMTE0MjU1ODk4NiwtMTg3ODUzNzI5NC
 wtOTgzMDMwMTAsOTgxOTA4NTcwLDE2MjMyODA1NTIsLTMwNzE4
