@@ -92,8 +92,16 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
+### Dangerous Days on the Victorian Railways, by Terry Deary
+
+<img src="https://imgur.com/Q0ARLiL.png" width="25%" />
+
+
+
+<a href="https://www.bookdepository.com/Dangerous-Days-on-Victorian-Railways-Terry-Deary/9781780226361?ref=grid-view&qid=1674491074938&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034790323" rel="nofollow">Buy on  Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzE4Mjc3OCwtMTgwNDEzMDU0LC0yMT
+eyJoaXN0b3J5IjpbMjA0MDUxOTY1NCwtMTgwNDEzMDU0LC0yMT
 IxMTQ3Mjk5LC0xMzgzMTU1MTA1LC0xMDE5OTQxNzkxLDU1ODI5
 ODMwLC01NjYxNTg1MTAsODIyOTI4Mjk3LDc4MDM4MzBdfQ==
 -->
