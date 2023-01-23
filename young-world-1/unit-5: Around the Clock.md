@@ -1,5 +1,5 @@
 # Young World 1, Unit 5: Around the Clock
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit covers time zones, school days around the world, and events that happen throughout the day.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 
@@ -98,5 +98,6 @@ https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTIwMTM2LDE5NzI5NzgyMjNdfQ==
+eyJoaXN0b3J5IjpbLTMxNDQ5NDkxNiwyMDQ1MjAxMzYsMTk3Mj
+k3ODIyM119
 -->
