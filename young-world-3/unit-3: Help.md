@@ -16,7 +16,6 @@ summary here.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1057582425" rel="nofollow">Buy on Orell Füssli</a>
 
 
-
 ### Magic Treehouse Fact Tracker: Dog Heroes, by Mary Pope Osbourne
 
 <img src="https://imgur.com/66AhGbV.png" width="25%" />
@@ -73,9 +72,10 @@ This book is the first in a series on fictional Search and Rescue dogs.  For tho
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4MTEzMjAxLC00MzU0NDg0MDIsMjkyMz
-gwMzA2LDE3Mzg4NjE3ODUsLTM3NTI4NzgyNSwtMTI5NjQ2ODYx
-LC0zNjg4ODA4MzcsLTE5Mjc4NTY2MjEsLTExNDI1NTg5ODYsLT
-E4Nzg1MzcyOTQsLTk4MzAzMDEwLDk4MTkwODU3MCwxNjIzMjgw
-NTUyLC0zMDcxODE5NDQsNzE0NjA3MDIxLDMwNDQzNjEyOF19
+eyJoaXN0b3J5IjpbMTAzMjM5MzUzOSwtNDM1NDQ4NDAyLDI5Mj
+M4MDMwNiwxNzM4ODYxNzg1LC0zNzUyODc4MjUsLTEyOTY0Njg2
+MSwtMzY4ODgwODM3LC0xOTI3ODU2NjIxLC0xMTQyNTU4OTg2LC
+0xODc4NTM3Mjk0LC05ODMwMzAxMCw5ODE5MDg1NzAsMTYyMzI4
+MDU1MiwtMzA3MTgxOTQ0LDcxNDYwNzAyMSwzMDQ0MzYxMjhdfQ
+==
 -->
