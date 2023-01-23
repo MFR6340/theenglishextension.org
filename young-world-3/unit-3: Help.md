@@ -46,9 +46,7 @@ An easy biography of Florence Nightingale, who was famous for her desire to help
 
 <img src="https://imgur.com/jVslJ4O.png" width="25%" />
 
-This biography of Florence Nightingale provides more extensive details than the one above about how she permanently changed the field of medicine by improving hospital conditions.  
-
-
+This biography of Florence Nightingale provides more extensive details than the one above about how she permanently changed the field of medicine by improving hospital conditions.  (Lexile 1030L)
 
 <a href="https://www.bookdepository.com/DK-Life-Stories-Florence-Nightingale-Kitson-Jazynka/9781465478436?ref=grid-view&qid=1674318648336&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.bookdepository.com/DK-Life-Stories-Florence-Nightingale-Kitson-Jazynka/9781465478436?ref=grid-view&qid=1674318648336&sr=1-2" rel="nofollow">Buy on Orell Füssli</a>
@@ -68,8 +66,8 @@ summary here.
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzcxODQ5MDMsLTEyOTY0Njg2MSwtMz
-Y4ODgwODM3LC0xOTI3ODU2NjIxLC0xMTQyNTU4OTg2LC0xODc4
-NTM3Mjk0LC05ODMwMzAxMCw5ODE5MDg1NzAsMTYyMzI4MDU1Mi
-wtMzA3MTgxOTQ0LDcxNDYwNzAyMSwzMDQ0MzYxMjhdfQ==
+eyJoaXN0b3J5IjpbLTM3NTI4NzgyNSwtMTI5NjQ2ODYxLC0zNj
+g4ODA4MzcsLTE5Mjc4NTY2MjEsLTExNDI1NTg5ODYsLTE4Nzg1
+MzcyOTQsLTk4MzAzMDEwLDk4MTkwODU3MCwxNjIzMjgwNTUyLC
+0zMDcxODE5NDQsNzE0NjA3MDIxLDMwNDQzNjEyOF19
 -->
