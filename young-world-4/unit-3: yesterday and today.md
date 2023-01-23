@@ -54,7 +54,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 
 
-<a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=1674489597087&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=16744&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfueli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
 
 ### The Telegram, by Philippa Werry
@@ -63,17 +63,18 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 
 
-<a href="https://www.bookdepository.com/The-Telegram-Philippa-Werry/9780473462826" rel="nofollow"> Buy on BookDepository</a> 
-### Sarah Plain and Tall, by Patricia MacLachlan
+<a href="https://www.bookdepository.com/The-Telegram-Philippa-Werry/9780473462826" rel="nofollow"> Buy on BookDepository</a>
+ 
+### Dangerous Days in Elizabethan England, by Terry Deary
 
 <img src="https://imgur.com/53YvdAS.png" width="25%" />
 
 
 
-<a href="https://www.bookdepository.com/The-TelegSarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=1674489597087&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Dangerous-Days-Elizabethan-England-Terry-Deary/9781780226378?ref=grid-view&qid=167448959708790745706&sr=1-13" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuerit e nelissli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQxMzA1NCwtMTgzNjUyMTA1NCwtMj
-EyMTE0NzI5OSwtMTM4MzE1NTEwNSwtMTAxOTk0MTc5MSw1NTgy
-OTgzMCwtNTY2MTU4NTEwLDgyMjkyODI5Nyw3ODAzODMwXX0=
+eyJoaXN0b3J5IjpbNjE4NTc0MjUsLTE4MDQxMzA1NCwtMjEyMT
+E0NzI5OSwtMTM4MzE1NTEwNSwtMTAxOTk0MTc5MSw1NTgyOTgz
+MCwtNTY2MTU4NTEwLDgyMjkyODI5Nyw3ODAzODMwXX0=
 -->
