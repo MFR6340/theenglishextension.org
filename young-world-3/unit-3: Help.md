@@ -55,7 +55,7 @@ This biography of Florence Nightingale provides more extensive details than the 
 
 <img src="https://imgur.com/jVslJ4O.png" width="25%" />
 
-In one of the worst storms that ever hit the cThis biography of Florence Nightingale provides more extensive details than the one above about how she permanently changed the field of medicine by improving hospital conditions.  (Lexile 1140L)
+In one of the worst storms that ever hit the coast of Massachusetts (USA), two oil tankers split in half.  This book is the youngThis biography of Florence Nightingale provides more extensive details than the one above about how she permanently changed the field of medicine by improving hospital conditions.  (Lexile 1140L)
 
 <a href="https://www.bookdepository.com/DK-Life-Stories-Florence-Nightingale-Kitson-Jazynka/9781465478436?ref=grid-view&qid=1674318648336&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.bookdepository.com/DK-Life-Stories-Florence-Nightingale-Kitson-Jazynka/9781465478436?ref=grid-view&qid=1674318648336&sr=1-2" rel="nofollow">Buy on Orell Füssli</a>
@@ -67,9 +67,9 @@ In one of the worst storms that ever hit the cThis biography of Florence Nightin
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2MDk5NzMsMjkyMzgwMzA2LDE3Mzg4Nj
-E3ODUsLTM3NTI4NzgyNSwtMTI5NjQ2ODYxLC0zNjg4ODA4Mzcs
-LTE5Mjc4NTY2MjEsLTExNDI1NTg5ODYsLTE4Nzg1MzcyOTQsLT
-k4MzAzMDEwLDk4MTkwODU3MCwxNjIzMjgwNTUyLC0zMDcxODE5
-NDQsNzE0NjA3MDIxLDMwNDQzNjEyOF19
+eyJoaXN0b3J5IjpbLTE4NjU4ODA0MDUsMjkyMzgwMzA2LDE3Mz
+g4NjE3ODUsLTM3NTI4NzgyNSwtMTI5NjQ2ODYxLC0zNjg4ODA4
+MzcsLTE5Mjc4NTY2MjEsLTExNDI1NTg5ODYsLTE4Nzg1MzcyOT
+QsLTk4MzAzMDEwLDk4MTkwODU3MCwxNjIzMjgwNTUyLC0zMDcx
+ODE5NDQsNzE0NjA3MDIxLDMwNDQzNjEyOF19
 -->
