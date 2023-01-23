@@ -14,7 +14,7 @@ It's impossible to include a list of chocolate-themed books without including th
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
 Also try the Audio book version read by Eric Idle
 
-### Co, by haln
+### The Candy Bomber, by Michael O. Tunnell
 
 <img src="https://imgur.com/g.png" width="25%" />
 
@@ -23,7 +23,7 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.bookdepository.com/?ref=grid-view&qid=1674492&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
 
-### The Chocoplot, by Chris Callaghanell
+### The Great Chocoplot, by Chris Callaghanell
 
 <img src="https://imgur.com/oMtnFMgPvuDfbY.png" width="25%" />
 
@@ -32,7 +32,7 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.bookdepository.com/Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=1674492&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ1OTkxMTIsMTk0NTQ2MzUzMCwtNT
-kyNjY5NDU2LDg5MTc4MTMzMCw4NzM1MTYyNjQsNjE3MDM3ODE4
-LC02MDI4MDI0NDcsOTgzMTA0MzIxXX0=
+eyJoaXN0b3J5IjpbLTIwNDQ4ODAzNTksLTE1NzQ1OTkxMTIsLT
+U5MjY2OTQ1Niw4OTE3ODEzMzAsODczNTE2MjY0LDYxNzAzNzgx
+OCwtNjAyODAyNDQ3LDk4MzEwNDMyMV19
 -->
