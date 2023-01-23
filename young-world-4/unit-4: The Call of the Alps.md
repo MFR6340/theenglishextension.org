@@ -52,6 +52,16 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 <a href="https://www.bookdepository.com/Banner-Sky-Ramsey-Ullman/9780064470483?ref=grid-view&qid=1674491497317&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003099423" rel="nofollow">Buy on  Orell Füssli</a>
 
+### The Silent Bells, by Ted Lewin
+
+<img src="https://imgur.com/biY69Qr.png" width="25%" />
+
+
+
+<a href="https://www.bookdepository.com/Banner-Sky-Ramsey-Ullman/9780064470483?ref=grid-view&qid=1674491497317&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003099423" rel="nofollow">Buy on  Orell Füssli</a>
+
+
 # Supplemental Activities
 
 Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri grew up.  Come visit and learn all about the author who wrote the world-famous book, Heidi. https://spyri-museum.ch/en/
@@ -66,5 +76,5 @@ https://www.myswitzerland.com/en-ch/experiences/events/unspunnenschwinget/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODA1NjM3NjksNDU5MTgzMDU1XX0=
+eyJoaXN0b3J5IjpbMTg0ODg1NDEyMiw0NTkxODMwNTVdfQ==
 -->
