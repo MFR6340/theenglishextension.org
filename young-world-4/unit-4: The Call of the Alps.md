@@ -61,12 +61,12 @@ a spot which is designed to look like the area where Heidi lived. <a href="https
 
 The majestic Alps have always called people to both work play on their slopes.   There are plenty of ways of playing, from skiing, to sledding, to bobsledding.  The Ski Museum in Davos has a lovely collection of  Alpine sports artifacts which will definitely to react with "Wow, they really used THAT?"  https://www.wintersportmuseum.ch
 
-Attend a traditional Schwingfest.  Schwihttps://www.myswitzerland.com/en-ch/experiences/events/unspunnenschwinget/
+Attend a traditional Schwingfest.  Schwingen is only for the biggest and toughest. Pairs compete to see which lands on the sawdust first.  The Unspunnen-Schwinget takes place only every six years and will be happening on 27. August 2023.  https://www.myswitzerland.com/en-ch/experiences/events/unspunnenschwinget/
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2OTM2NDQ3LC02MDQ3NDc3NjIsNDMyMD
-YyMTc2LC0xODk0NjAwODUzLDE4NDg4NTQxMjIsNDU5MTgzMDU1
-XX0=
+eyJoaXN0b3J5IjpbLTE2MjA1MjAxOCwtNjA0NzQ3NzYyLDQzMj
+A2MjE3NiwtMTg5NDYwMDg1MywxODQ4ODU0MTIyLDQ1OTE4MzA1
+NV19
 -->
