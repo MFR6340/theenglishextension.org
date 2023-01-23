@@ -1,5 +1,5 @@
 # Young World 2, Unit 1: Five Senses
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit is about human senses and comparing them to animal senses.  Here are some suggestions for native English speakers to delve deeper into this theme:****
 
@@ -99,5 +99,5 @@ Donate an audio book or make an appointment to visit the SBS Schweizerische Bibl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTY4ODY1MF19
+eyJoaXN0b3J5IjpbMjA0MjM0NDM2MiwtNzU5Njg4NjUwXX0=
 -->
