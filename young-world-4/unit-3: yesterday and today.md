@@ -38,25 +38,33 @@ summary here. Funny haha
 
 The chimney sweep is a job from times gone by.  For those who prefer fiction to non-fiction, this is a fun book to read and compare to the more familiar movie.
 
-<a href="https://www.bookdepository.com/Mari--e/978000281?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepoo</a>
+<a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepoo</a>
  hin the Wall, by Marguerite de Angeli
 
 <img src="https://imgur.com/.png" width="25%" />
 
 
-
 <a href="https://www.bookdepository.com/Door-Wall-Marguerite-de-Angeli/9780440402831?ref=grid-view&qid=166593094936774489174439&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006455515" rel="nofollow">Buy on  Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on  Orell Füssli</a>
 
-### Sarah Plain and Tall, by Patricia MacLachlanThe Dooorelluerit e neli
+### Sarah Plain and Tall, by Patricia MacLachlanThe Doo
+
+<img src="https://imgur.com/53YvdAS.png" width="25%" />
+
+
+
+<a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=1674489597087&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuerit e nelissli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
+
+### Sarah Plain and Tall, by Patricia MacLachlan
 
 <img src="https://imgur.com/53YvdASz9a1nk1.png" width="25%" />
 
 
 
-<a href="https://www.bookdepository.com/Door-Wall-Marguerite-de-Angeli/9780440402831?ref=grid-view&qid=166593094936774489174439&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006455515" rel="nofollow">Buy on  Orell Füssli</a>
+<a href="https://www.bookdepository.com/?ref=grid-view&qid=167448Door-Wall-Marguerite-de-Angeli/9780440402831Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=166593094936774489174439597087&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A100645551529807823" rel="nofollow">Buy on  Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjE1ODUxMCwtMTE1MTg3NDE1OSw4Mj
+eyJoaXN0b3J5IjpbLTExMjQ5NjgwMTksLTU2NjE1ODUxMCw4Mj
 I5MjgyOTcsNzgwMzgzMF19
 -->
