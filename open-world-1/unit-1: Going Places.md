@@ -12,17 +12,19 @@ summary here.  (Lexile level       )
 
  
  
-### Title here, by author here
 
-<img src="imgurlinkhere.png" width="25%" />
+### Harry Potter and the Philosopher's Stone, by J. K. Rowling
 
-summary here.  (Lexile level       )
+<img src="https://imgur.com/naCrhxz.png" width="25%" />
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+summary here.  (Lexile )  
+
+<a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-### Title here, by author here
+### Edinburgh, by Terry Deary
+
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -41,6 +43,6 @@ You don't need to leave Switzerland to see **Highland Dancing** or to learn how 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjE4NDQ3NjIsNzg4MDE3Nzg5LC0xNz
-I5MzA2MDQ5XX0=
+eyJoaXN0b3J5IjpbLTg5NjA1MTEyMiw3ODgwMTc3ODksLTE3Mj
+kzMDYwNDldfQ==
 -->
