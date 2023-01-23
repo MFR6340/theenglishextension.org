@@ -1,6 +1,6 @@
 # Open World 1, Unit 7: Patchwork City
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
-**This unit focuses on the city of Toronto the neighborhoods and Toronto, many languages spoken in the city.**  
+**This unit focuses on the city of Toronto, the various neighborhoods and the many languages spoken in the city. It's not easy to find, but here is some literature that goes with this theme:**  
 
 ### Jonathan Cleaned Up ... Then He Heard a Sound, by Robert Munsch
 
@@ -47,7 +47,7 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzYwMjY5NjcsLTgyMDEyNDA0OSwtNz
+eyJoaXN0b3J5IjpbLTEyNjM4NjUxMjIsLTgyMDEyNDA0OSwtNz
 U1OTg3MzkwLC0xMjI3MTM1OTY0LC03OTQxNjA2LC0zMjI5NzQy
 NjEsLTEyNTc4MDA5NjMsLTU5MTk3MjU4NCwxMDQzNjY0MDk2XX
 0=
