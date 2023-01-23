@@ -53,12 +53,12 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 # Supplemental Activities
 
-Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri grew up.  Come visit and learn all about the author who wrote the world-famous book, Heidi. https://spyri-museum.ch/en/
+Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri grew up.  Come visit and learn all about the author who wrote the world-famous book, Heidi. 
+
+<a href="https://spyri-museum.ch/en/" rel="nofollow">Spyri <m</a>
 
 Keeping along the Heidi theme, visit the Heidi Dorf.
-<a href="" rel="nofollow" Visiting Heidi's village </a> 
-
-<a href="https://www.ourswissexperience.com/en/2021/09/23/heididorf-heidis-village-maienfeld-visiting-the-worlds-most-famous-swiss-girl/ " rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.ourswissexperience.com/en/2021/09/23/heididorf-heidis-village-maienfeld-visiting-the-worlds-most-famous-swiss-girl/ " rel="nofollow">Visiting Heidi's village</a>
 
 The majestic Alps have always called people to both work play on their slopes.   There are plenty of ways of playing, from skiing, to sledding, to bobsledding.  The Ski Museum in Davos has a lovely collection of  Alpine sports artifacts which will definitely to react with "Wow, they really used THAT?"  https://www.wintersportmuseum.ch
 
@@ -67,6 +67,6 @@ https://www.myswitzerland.com/en-ch/experiences/events/unspunnenschwinget/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzcxODQ4NTcsNDMyMDYyMTc2LC0xOD
-k0NjAwODUzLDE4NDg4NTQxMjIsNDU5MTgzMDU1XX0=
+eyJoaXN0b3J5IjpbMTc2MjY1NzA4OSw0MzIwNjIxNzYsLTE4OT
+Q2MDA4NTMsMTg0ODg1NDEyMiw0NTkxODMwNTVdfQ==
 -->
