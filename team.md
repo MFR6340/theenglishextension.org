@@ -1,10 +1,10 @@
 # Team Members
 
 **Megan Farnsworth Rabil**
-Megan has a M.Ed. Language and Literacy from Harvard, a M.Ed. in Elementary Education from UCLA, and a BA in Classical Studies.  She taught primary school and was a Curriculum Coordinator in Burbank, California. She has also been an Education Officer for the Massachusetts Department of Education and an Education Policy Analyst in Washington DC.  She lives in Baar (ZG) with her five children who are all currently enrolled in five different Swiss schools from primary to university.
+Megan has a M.Ed. Language and Literacy from Harvard, a M.Ed. in Elementary Education from UCLA, and a BA in Classical Studies.  She taught primary school and was a Curriculum Coordinator in Burbank, California. She has also been an Education Officer for the Massachusetts Department of Education and an Education Policy Analyst in Washington DC.  She lives in Baar (ZG) with her husband and five children.
 
 **Theresa Jäger**
-Theresa lives in Rotkreuz  (ZG )with her husband and 2 children. She holds a BEd, Diploma as a Primary Teacher from New Zealand as well as CELTA Certification. She is a private English tutor and has taught all levels of primary school in New Zealand, the UK (both private & public), & Switzerland (Four Forest & International School of Zug & Luzern).  She has
+Theresa lives in Rotkreuz  (ZG )with her husband and two children. She holds a BEd, Diploma as a Primary Teacher from New Zealand as well as CELTA Certification. She is a private English tutor and has taught all levels of primary school in New Zealand, the UK (both private & public), & Switzerland (Four Forest & International School of Zug & Luzern).  
 
 **Sylvia Nadig**
 Sylvia has been the Head of the Department of Foreign Languages and a Lecturer for English Methodology at the Pädagogische Hochschule Zug since 2004. She has also years of experience as a teacher of English and French. Sylvia is focusing on the topic of supporting English-speaking students during their English lessons at the local primary schools and knows the coursebook Young World inside out. She has also had the opportunity to compare other education systems and has been a visiting scholar at the University of Pennsylvania in Philadelphia, USA, the University of Washington in Seattle, USA as well as at Deakin University in Melbourne, Australia. She lives with her family in Cham (ZG).
@@ -12,7 +12,7 @@ Sylvia has been the Head of the Department of Foreign Languages and a Lecturer f
 
 
 **Tina Hörning**
-Tina holds a BA in Early Childhood and Elementary Education from the University of Rhode Island (USA).  In the United States, she taught Kindergarten, 1st and 2nd Grades, and substituted in all primary school grades. She lives in Cham (ZG) with her husband and 3 children.  
+Tina holds a BA in Early Childhood and Elementary Education from the University of Rhode Island (USA).  In the United States, she taught Kindergarten, 1st and 2nd Grades, and substituted in all primary school grades. She lives in Cham (ZG) with her husband and three children.  
 
 
 **Paula Lüchinger**
@@ -35,8 +35,8 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE0ODU0MDIsMjExNTMzMjM5NiwyMz
-E2NzQ0NjQsLTIwNTAxOTE4MDgsLTEwMjQyNjQ1MjIsLTEwNzQ3
-NDYyMTMsLTEwMzc0MDM5NTQsMTM4NDM1NDA2NSwxMTMxNDg0Mj
-gzXX0=
+eyJoaXN0b3J5IjpbLTk3MzMyNzkwNiwyMTE1MzMyMzk2LDIzMT
+Y3NDQ2NCwtMjA1MDE5MTgwOCwtMTAyNDI2NDUyMiwtMTA3NDc0
+NjIxMywtMTAzNzQwMzk1NCwxMzg0MzU0MDY1LDExMzE0ODQyOD
+NdfQ==
 -->
