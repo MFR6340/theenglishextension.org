@@ -1,5 +1,5 @@
 # Young World 1, Unit 4: Throughout the Year
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
 
 **This unit covers seasons, weather, and appropriate clothing.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 
@@ -16,7 +16,7 @@ The fascinating story of Wilson Bentley who patiently persevered to find a way t
 ## The Long Winter, by Laura Ingalls Wilder
 Newbery Honor Award
 
-<img src="https://imgur.com/aEPHQ2g.png" width="25%" />
+<img src="https://imgur.com/.png" width="25%" />
 
 Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dakota Territory is covered is snow up to the rooftops and food supplies run dangerously low.  The sixth book in the beloved "Little House" Series.  (Lexile 790L)
 
@@ -54,14 +54,14 @@ summary here.  (Lexile 1090L)
 
 <img src="https://imgur.com/7xyuvRS.png" width="25%" />
 
-summary here. (lexile 600)
+summary here. (exile 600)
 
 <a href="https://www.bookdepository.com/Magic-School-Bus-inside-Hurricane-Joanna-Cole/9780590446877?ref=grid-view&qid=1665847708965&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003335907" rel="nofollow">Buy on Orell Füssli</a>
 
 ## The Ox Cart Man, by Donald Hall
 
-<img src="https://imgur.com/M9Qpynv.png" width="25%" />
+<img src="https://imgur.com/I.png" width="25%" />
 
 summary here. (Lexile AD 1130L)
 
@@ -70,16 +70,16 @@ summary here. (Lexile AD 1130L)
 
 ## The Big Snow, by Berta and Elmer Hader
 
-<img src="https://i.imgur.com/EZCP59w.png" width="25%" />
+<img src="https://i.imgur.com/EZCP59wldsbZbT.png" width="25%" />
 
-summary here. (Lexile 710L)
+summary here. (Llexile 710L)
 
 <a href="https://www.bookdepository.com/Big-Snow-Berta-Hader/9780689717574?ref=grid-view&qid=1673794354298&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354526" rel="nofollow"> Buy on Orell Füssli</a>
 
 ## Next Time you See a Cloud, by Emily Morgan
 
-<img src="https://imgur.com/I4YxRyY.png" width="25%" />
+<img src="https://imgur.com/0.png" width="25%" />
 
 summary here.  (Lexile 980L)
 
@@ -95,9 +95,10 @@ summary here. (Lexile AD620L)
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051788134" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIyNTY0MTQxLDEzMzgyNDY5NzgsMTMwND
-QwNTczNiwzNTAxNjA3OTQsLTMyNjEzMDc0NywtMzA4Mzg5ODI5
-LDEyNjczOTQxMTMsMzQ2Mzk4NDkxLC0yMTkyODMzMTQsLTg3MT
-gxMzcwMywxODkwNTUxMDE4LDE3ODQwNzM4ODUsODk5MzU3Nzc5
-LC03NzIzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYyMjg5XX0=
+eyJoaXN0b3J5IjpbOTgwMzk0MDc1LDkyMjU2NDE0MSwxMzM4Mj
+Q2OTc4LDEzMDQ0MDU3MzYsMzUwMTYwNzk0LC0zMjYxMzA3NDcs
+LTMwODM4OTgyOSwxMjY3Mzk0MTEzLDM0NjM5ODQ5MSwtMjE5Mj
+gzMzE0LC04NzE4MTM3MDMsMTg5MDU1MTAxOCwxNzg0MDczODg1
+LDg5OTM1Nzc3OSwtNzcyMzI0NDA1LDEzMTUwMTA5MjgsMTMwND
+Y2MjI4OV19
 -->
