@@ -3,7 +3,7 @@
 # Open World 2, Unit 2: Weird and Wonderful Games
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
-**Highland Games in Scotland, games at Village Fête, cheese rolling game**
+**This unit covers events that might not be familiar to kids growing up in Switzerland including the events at the Scottish Highland Games, games at a Village Fête.**
 
 
 # Supplemental Activities
@@ -19,6 +19,6 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMzQ2MTQxLDExOTk3ODc1MzcsLTExMz
-U0NjA1MDddfQ==
+eyJoaXN0b3J5IjpbLTUxODI4Mjk5MywxMTk5Nzg3NTM3LC0xMT
+M1NDYwNTA3XX0=
 -->
