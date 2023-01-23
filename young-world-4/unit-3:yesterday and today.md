@@ -32,14 +32,14 @@ summary here. Funny haha
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003007318" rel="nofollow">Buy on Orell Füssli</a>
 
 
-##* Mary Poppins, by Pamela L. Travers
+### Mary Poppins, by Pamela L. Travers
 
 <img src="https://imgur.com/Nak0fBU.png" width="25%" />
 
-It may seem summary here.
+The chimney sweep is a job from times gone by.  For those prefer fiction to non-fiction, this is a fun book to read and is .
 
 <a href="https://www.bookdepository.com/Mary-Poppins-P-L-Travers/9780007286416?ref=grid-view&qid=1665930949367&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.youtube.com/watch?v=os9J0QXo2AE" rel="nofollow">Buy on  Amazon</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU2Njk2NjMsLTk1ODE4ODI5OV19
+eyJoaXN0b3J5IjpbMTU1NjU4Mjg0NiwtOTU4MTg4Mjk5XX0=
 -->
