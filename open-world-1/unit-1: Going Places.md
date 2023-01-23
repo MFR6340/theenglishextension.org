@@ -8,7 +8,7 @@
 
 summary here.  (Lexile level       )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Greyfriars-Bobby-Eleanor-Atkinson/9780140367423?ref=grid-view&qid=1674499920738&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
  
  
@@ -41,6 +41,6 @@ You don't need to leave Switzerland to see **Highland Dancing** or to learn how 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzAxOTkxMyw3ODgwMTc3ODksLTE3Mj
-kzMDYwNDldfQ==
+eyJoaXN0b3J5IjpbLTE0NjE4NDQ3NjIsNzg4MDE3Nzg5LC0xNz
+I5MzA2MDQ5XX0=
 -->
