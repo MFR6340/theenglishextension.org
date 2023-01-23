@@ -6,17 +6,21 @@
 
 <img src="https://imgur.com/7xZJf2L.png" width="25%" />
 
+summary here.
+
 
 <a href="https://www.bookdepository.com/Diplomats-Travel-Guide-Festivals-Holidays-Celebrations-India-Mohan-Pandey/9798615530456?ref=grid-view&qid=1674320907383&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-### Paradise on Fire, Jewell Parker Rhodes
+### Paradise on Fire, by Jewell Parker Rhodes
 
 <img src="https://imgur.com/fZ4PdHh.png" width="25%" />
+
+summary here.
 
 
 <a href="https://www.bookdepository.com/Kids-Around-World-Celebrate-Best-Feasts-Festivals-from-Many-Lands-L-Jones/9780471345275?ref=grid-view&qid=1674321111991&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005087127" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTY0NDA4MTcsMjY0OTY4OTQ2LC0xMT
-MxODAzMTU2XX0=
+eyJoaXN0b3J5IjpbLTczMzE1NDA5NiwtMTIxNjQ0MDgxNywyNj
+Q5Njg5NDYsLTExMzE4MDMxNTZdfQ==
 -->
