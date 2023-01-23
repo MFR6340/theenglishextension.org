@@ -45,7 +45,7 @@ Lots of amazing National Geographic photos of fascinating weather.  (Lexile 950L
 ## Hurricane & Tornado, DK Eyewitness
 <img src="https://imgur.com/8wWCR3V.png" width="25%" />
 
-.  (Lexile 1090L)
+summary here.  (Lexile 1090L)
 
 <a href="https://www.bookdepository.com/DK-Eyewitness-Books-Hurricane-Tornado-Jack-Challoner/9781465420534?ref=grid-view&qid=1656442853663&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1032481893" rel="nofollow">Buy on Orell Füssli</a>
@@ -94,10 +94,9 @@ summary here.
 
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODgxMjQ1MjgsMTMzODI0Njk3OCwxMz
-A0NDA1NzM2LDM1MDE2MDc5NCwtMzI2MTMwNzQ3LC0zMDgzODk4
-MjksMTI2NzM5NDExMywzNDYzOTg0OTEsLTIxOTI4MzMxNCwtOD
-cxODEzNzAzLDE4OTA1NTEwMTgsMTc4NDA3Mzg4NSw4OTkzNTc3
-NzksLTc3MjMyNDQwNSwxMzE1MDEwOTI4LDEzMDQ2NjIyODldfQ
-==
+eyJoaXN0b3J5IjpbODc2MzA3ODk4LDEzMzgyNDY5NzgsMTMwND
+QwNTczNiwzNTAxNjA3OTQsLTMyNjEzMDc0NywtMzA4Mzg5ODI5
+LDEyNjczOTQxMTMsMzQ2Mzk4NDkxLC0yMTkyODMzMTQsLTg3MT
+gxMzcwMywxODkwNTUxMDE4LDE3ODQwNzM4ODUsODk5MzU3Nzc5
+LC03NzIzMjQ0MDUsMTMxNTAxMDkyOCwxMzA0NjYyMjg5XX0=
 -->
