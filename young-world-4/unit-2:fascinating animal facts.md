@@ -2,7 +2,7 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-This unit contains basic interesting animal behavior including the Dung Beetle and the Flying Squirrel. It also includes some animal limericks.  information on animals including the Dung Beetle, Flying Squirrels, and Sardines.  It also discusses animal migration, especially of Green Turtles, the Arctic Turn, and Gray Whales.  
+This unit discusses interesting animal behavior of animals like the Dung Beetle and the Flying Squirrel. It also covers animal migration, especially of the Green Turtle, the Arctic Turn and Gray Whales. Some 
 
 
 ### Moonbird, a Year on the Wind. By Philip Hoose
@@ -48,5 +48,5 @@ summary here.
 <a href="https://www.bookdepository.com/Wow-World-Wow-Wild-Mindy-Thomas/9780358306894?ref=grid-view&qid=1674322543937&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061635944" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDYxODYwN119
+eyJoaXN0b3J5IjpbLTk2NzU2NjA4Ml19
 -->
