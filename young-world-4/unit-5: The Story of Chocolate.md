@@ -6,24 +6,24 @@
 
 ### Charlie and the Chocolate Factory, by Roald Dahl
 
-<img src="https://imgur.com/gSBaQBZ.png" width="25%" />
+<img src="https://imgur.com/.png" width="25%" />
 
 It's impossible to include a list of chocolate-themed books without including this classic tale of a poor boy who wins a golden ticket to enter Willy Wonka's Chocolate Factory.  Many kids have seen the movie.  Everyone should read the book.  (Lexile 810)
 
-<a href="https://www.bookdepository.com/Charlie-Chocolate-Factory-Roald-Dahl/9780142410318?ref=grid-view&qid=1665931796298&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801520" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Charlie-Chocolate-Factory-Roald-Dahl/9780142410318?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
 Also try the Audio book version read by Eric Idle
 
 ### ThCharlie Candy Bomber, by Michael O. Tunnell  the Chocolate Factory, by Roald Dahl
 
-<img src="https://imgur.com/gSBaQBZ.png" width="25%" />
+<img src="https://imgur.com/gSBaQBZoMtnFMg.png" width="25%" />
 
-It's impossible to include a list of chocolate-themed books without including this classic tale of a poor boy who wins a golden ticket to enter Willy Wonka's Chocolate Factory.  Many kids have seen the movie.  Everyone should read the book.  (Lexile 81130)
+It's impossible to include a list of chocolate-themed books without including this classic tale of a poor boy who wins a golden ticket to enter Willy Wonka's Chocolate Factory.  Many kids have seen the movie.  Everyone should read the book.  (Lexile 81130L)
 
 
-<a href="https://www.bookdepository.com/Charlie-Chocolate-Factory-Roald-Dahl/9780142410318?ref=grid-view&qid=1665931796298&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801520" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Candy-Bomber-Michael-O-Tunnell/9781580893374?ref=grid-view&qid=166593179629874492171837&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A103980152009294094" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3MDM3ODE4LC04MDM1MDcyNjEsLTYwMj
-gwMjQ0Nyw5ODMxMDQzMjFdfQ==
+eyJoaXN0b3J5IjpbLTEzOTY5NjAzNzIsNjE3MDM3ODE4LC02MD
+I4MDI0NDcsOTgzMTA0MzIxXX0=
 -->
