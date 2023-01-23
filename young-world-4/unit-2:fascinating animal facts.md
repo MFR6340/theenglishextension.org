@@ -32,14 +32,6 @@ summary here.
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046449432" rel="nofollow">Buy on Orell Füssli</a>
 
-### The Book of Eels, by Patrik Svenson
-
-<img src="https://imgur.com/iKcWAhT.png" width="25%" />
-
-summary here.
-
-<a href="https://www.bookdepository.com/Book-Eels-Patrik-Svensson/9780062968821?ref=grid-view&qid=1674322447078&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-
 ### Wow in the Wild, Amazing World of Animals
 <img src="https://imgur.com/FRZofnU.png" width="25%" />
 
@@ -61,5 +53,5 @@ In this anthology, stunning animal photos by National Geographic photographers a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzAyNjk0NV19
+eyJoaXN0b3J5IjpbNjUxNTE0MjYxXX0=
 -->
