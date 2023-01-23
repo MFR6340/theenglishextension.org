@@ -1,6 +1,6 @@
 # Young World 4, Unit 2: Fascinating Animal Facts
 
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit discusses interesting animal behavior of animals like the Dung Beetle and the Flying Squirrel. It also covers animal migration, especially of the Green Turtle, the Arctic Turn and Gray Whales. Some animal limericks are included as well.   Here are some suggestions for native English speakers to read more about animals.** 
 
@@ -76,6 +76,6 @@ We all need to learn more about animals, and this book, required reading at Hogw
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjY0OTcyMywxOTk5OTg3MjMyLDE4MD
-Y5MDkwMDZdfQ==
+eyJoaXN0b3J5IjpbLTg0NzI0Mzc4MywtMzEyNjQ5NzIzLDE5OT
+k5ODcyMzIsMTgwNjkwOTAwNl19
 -->
