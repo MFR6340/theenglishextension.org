@@ -16,7 +16,7 @@ Tina holds a BA in Early Childhood and Elementary Education from the University 
 
 
 **Paula Lüchinger**
-Paula holds a BA as a QTS British Primary teacher. She currently teaches English to native speakers in the Birmensdorf(ZH) schools. She has been a private English tutor and has taught both in the UK and International school, Wallisellen. She lives in Birmensdorf (ZH) with her husband and 3 children.
+Paula holds a BA as a QTS (Qualified Teacher Status) British Primary teacher. She currently teaches English to native speakers in the Birmensdorf(ZH) schools. She has been a private English tutor and has taught both in the UK and International school, Wallisellen. She lives in Birmensdorf (ZH) with her husband and 3 children.
 
 
 **Stormy Berney**
@@ -35,7 +35,7 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzMyNzkwNiwyMTE1MzMyMzk2LDIzMT
+eyJoaXN0b3J5IjpbLTU3NDQ0MTkyNSwyMTE1MzMyMzk2LDIzMT
 Y3NDQ2NCwtMjA1MDE5MTgwOCwtMTAyNDI2NDUyMiwtMTA3NDc0
 NjIxMywtMTAzNzQwMzk1NCwxMzg0MzU0MDY1LDExMzE0ODQyOD
 NdfQ==
