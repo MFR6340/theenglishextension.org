@@ -59,18 +59,10 @@ summary here. (exile 600)
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003335907" rel="nofollow">Buy on Orell Füssli</a>
 
 
-### The Big Snow, by Berta and Elmer Hader
-
-<img src="https://i.imgur.com/EZCP59w.png" width="25%" />
-
-summary here. (Lexile 710L)
-
-<a href="https://www.bookdepository.com/Big-Snow-Berta-Hader/9780689717574?ref=grid-view&qid=1673794354298&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354526" rel="nofollow"> Buy on Orell Füssli</a>
 
 ### Next Time you See a Cloud, by Emily Morgan
 
-<img src="https://imgur.com/0.png" width="25%" />
+<img src="https://i.imgur.com/ZTKoXb8.png" width="25%" />
 
 summary here.  (Lexile 980L)
 
@@ -86,10 +78,10 @@ summary here. (Lexile AD620L)
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051788134" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMjA5MjMwLDk4MDM5NDA3NSw5MjI1Nj
-QxNDEsMTMzODI0Njk3OCwxMzA0NDA1NzM2LDM1MDE2MDc5NCwt
-MzI2MTMwNzQ3LC0zMDgzODk4MjksMTI2NzM5NDExMywzNDYzOT
-g0OTEsLTIxOTI4MzMxNCwtODcxODEzNzAzLDE4OTA1NTEwMTgs
-MTc4NDA3Mzg4NSw4OTkzNTc3NzksLTc3MjMyNDQwNSwxMzE1MD
-EwOTI4LDEzMDQ2NjIyODldfQ==
+eyJoaXN0b3J5IjpbMjQ3NzQyNzgzLDUzMjIwOTIzMCw5ODAzOT
+QwNzUsOTIyNTY0MTQxLDEzMzgyNDY5NzgsMTMwNDQwNTczNiwz
+NTAxNjA3OTQsLTMyNjEzMDc0NywtMzA4Mzg5ODI5LDEyNjczOT
+QxMTMsMzQ2Mzk4NDkxLC0yMTkyODMzMTQsLTg3MTgxMzcwMywx
+ODkwNTUxMDE4LDE3ODQwNzM4ODUsODk5MzU3Nzc5LC03NzIzMj
+Q0MDUsMTMxNTAxMDkyOCwxMzA0NjYyMjg5XX0=
 -->
