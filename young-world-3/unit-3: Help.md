@@ -17,7 +17,7 @@ summary here. (Lexile 750L)
 
 <img src="https://imgur.com/LIZS01T.png" width="25%" />
 
-sm
+summary here. 
 
 
 
@@ -28,6 +28,8 @@ sm
 
 <img src="https://imgur.com/jVslJ4O.png" width="25%" />
 
+summary here. 
+
 
 
 <a href="https://www.bookdepository.com/DK-Life-Stories-Florence-Nightingale-Kitson-Jazynka/9781465478436?ref=grid-view&qid=1674318648336&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
@@ -36,6 +38,8 @@ sm
 ### All Thirteen, The Incredible Cave Rescue of the Thai Boys Soccer Team, by Christina Soontornvat
 
 <img src="https://imgur.com/9G1xvHL.png" width="25%" />
+
+summary here.
 
 
 
@@ -46,6 +50,8 @@ sm
 
 <img src="https://imgur.com/0L23But.png" width="25%" />
 
+summary here. 
+
 
 <a href="https://www.bookdepository.com/Paradise-on-Fire-Jewell-Parker-Rhodes/9781510109858?ref=grid-view&qid=1674320724874&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1060308419" rel="nofollow">Buy on Orell Füssli</a>
@@ -55,8 +61,8 @@ sm
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDY4NDA1MTksLTM2ODg4MDgzNywtMT
-kyNzg1NjYyMSwtMTE0MjU1ODk4NiwtMTg3ODUzNzI5NCwtOTgz
-MDMwMTAsOTgxOTA4NTcwLDE2MjMyODA1NTIsLTMwNzE4MTk0NC
-w3MTQ2MDcwMjEsMzA0NDM2MTI4XX0=
+eyJoaXN0b3J5IjpbLTEyOTY0Njg2MSwtMzY4ODgwODM3LC0xOT
+I3ODU2NjIxLC0xMTQyNTU4OTg2LC0xODc4NTM3Mjk0LC05ODMw
+MzAxMCw5ODE5MDg1NzAsMTYyMzI4MDU1MiwtMzA3MTgxOTQ0LD
+cxNDYwNzAyMSwzMDQ0MzYxMjhdfQ==
 -->
