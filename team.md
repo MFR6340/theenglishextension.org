@@ -12,7 +12,7 @@ Sylvia has been the Head of the Department of Foreign Languages and a Lecturer f
 
 
 **Tina Hörning**
-Tina holds a BA in Early Childhood and Elementary Education from the University of Rhode Island (USA).  In the United States, she taught Kindergarten, 1st and 2nd Grades, and substituted in all primary school grades. She lives in Cham (ZG) with her husband and three children.  
+Tina holds a BA in Early Childhood and Elementary Education from the University of Rhode Island (USA).  In the United States, she taught Kindergarten, 1st and 2nd Grades, and substituted in all primary school grades.  She lives in Cham (ZG) with her husband and three children and works in the local Swiss schools providing support to native English speakers. 
 
 
 **Paula Lüchinger**
@@ -20,7 +20,7 @@ Paula holds a BA as a QTS (Qualified Teacher Status) British Primary teacher. Sh
 
 
 **Stormy Berney**
-Stormy is currently the English Mentor for the Zug public primary schools. Her teaching career spans 25 years and includes English, early childhood development, music appreciation, golf and American accent adoption. She has taught in Paris, Geneva and Zug. She is a published writer and was Managing Editor for _The Currier_ in Geneva and _Connect_ magazine in Zug. She holds a MA in Career Counseling and a B.Sc. in Psychology, early childhood development focus.
+Stormy currently runs the English Mentoring for the Zug public primary schools. Her teaching career spans 25 years and includes English, early childhood development, music appreciation, golf and American accent adoption. She has taught in Paris, Geneva and Zug. She is a published writer and was Managing Editor for _The Currier_ in Geneva and _Connect_ magazine in Zug. She holds a MA in Career Counseling and a B.Sc. in Psychology, early childhood development focus.
 
 
 
@@ -35,8 +35,8 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDQ0MTkyNSwyMTE1MzMyMzk2LDIzMT
-Y3NDQ2NCwtMjA1MDE5MTgwOCwtMTAyNDI2NDUyMiwtMTA3NDc0
-NjIxMywtMTAzNzQwMzk1NCwxMzg0MzU0MDY1LDExMzE0ODQyOD
-NdfQ==
+eyJoaXN0b3J5IjpbLTE5MDAzNDM5ODgsMjExNTMzMjM5NiwyMz
+E2NzQ0NjQsLTIwNTAxOTE4MDgsLTEwMjQyNjQ1MjIsLTEwNzQ3
+NDYyMTMsLTEwMzc0MDM5NTQsMTM4NDM1NDA2NSwxMTMxNDg0Mj
+gzXX0=
 -->
