@@ -12,7 +12,7 @@ Sylvia has been the Head of the Department of Foreign Languages and a Lecturer f
 
 
 **Tina Hörning**
-Tina holds a BA in Early Childhood and Elementary Education from the University of Rhode Island.  She has worked in the local Swiss schools providing support for native English speakers.  In the United States, she taught Kindergarten 1st and 2nd Grades, and substituted in all primary school grades. She lives in Cham (ZG) with her husband and 3 children.  
+Tina holds a BA in Early Childhood and Elementary Education from the University of Rhode Island (USA).  In the United States, she taught Kindergarten, 1st and 2nd Grades, and substituted in all primary school grades. She lives in Cham (ZG) with her husband and 3 children.  
 
 
 **Paula Lüchinger**
@@ -35,7 +35,8 @@ Stormy is currently the English Mentor for the Zug public primary schools. Her t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTMzMjM5NiwyMzE2NzQ0NjQsLTIwNT
-AxOTE4MDgsLTEwMjQyNjQ1MjIsLTEwNzQ3NDYyMTMsLTEwMzc0
-MDM5NTQsMTM4NDM1NDA2NSwxMTMxNDg0MjgzXX0=
+eyJoaXN0b3J5IjpbLTEwNDU3ODg4NTgsMjExNTMzMjM5NiwyMz
+E2NzQ0NjQsLTIwNTAxOTE4MDgsLTEwMjQyNjQ1MjIsLTEwNzQ3
+NDYyMTMsLTEwMzc0MDM5NTQsMTM4NDM1NDA2NSwxMTMxNDg0Mj
+gzXX0=
 -->
