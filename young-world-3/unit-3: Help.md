@@ -31,11 +31,11 @@ summary here. (Lexile 750L)
 
 
 
-### # Florence Nightingale : On My Own Biographies
+### # Florence Nightingale : On My Own Biographies, by Shannon Zemlicka
 
 <img src="https://imgur.com/LIZS01T.png" width="25%" />
 
-summary here. 
+Florence Nightingale was famous for  (Lexile 560L)
 
 
 
@@ -68,8 +68,8 @@ summary here.
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NTkwMzQxNiwtMTI5NjQ2ODYxLC0zNj
-g4ODA4MzcsLTE5Mjc4NTY2MjEsLTExNDI1NTg5ODYsLTE4Nzg1
-MzcyOTQsLTk4MzAzMDEwLDk4MTkwODU3MCwxNjIzMjgwNTUyLC
-0zMDcxODE5NDQsNzE0NjA3MDIxLDMwNDQzNjEyOF19
+eyJoaXN0b3J5IjpbOTA2NTc5OTcyLC0xMjk2NDY4NjEsLTM2OD
+g4MDgzNywtMTkyNzg1NjYyMSwtMTE0MjU1ODk4NiwtMTg3ODUz
+NzI5NCwtOTgzMDMwMTAsOTgxOTA4NTcwLDE2MjMyODA1NTIsLT
+MwNzE4MTk0NCw3MTQ2MDcwMjEsMzA0NDM2MTI4XX0=
 -->
