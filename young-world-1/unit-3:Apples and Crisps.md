@@ -2,6 +2,7 @@
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 **This Klett unit covers food, shopping and writing a list.  Here are some suggestions for native English speakers to delve deeper into this theme:**
+
 ## Apples, by Ken Robbins
 
 <img src="https://imgur.com/F78MUbL.png" width="25%"  />
@@ -92,10 +93,10 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMjY0Mzc3MCwtMTIwNjI4NjQ0NiwtMT
-A0NjU3NDM2NCwtMTA3NjIwNDA0MSwxNjI0MTM2MTAxLC0xNDEz
-MTQ1NDAzLC0xNDM1MTg3MiwtMTU3MTYwNDUsLTU3MzYxNjkyMC
-wtMTU5MzI4MTYxNCwyMjUzODM1MzksMTg5MDU3NjY4MCwtMTk0
-MTE4OTUsLTM4NTAwMzI0NiwxODg4NDgwMDcwLDE3MjI3MjQ2Mz
-MsMTE4NDE5MzY2NSwtNzMyOTMxOTU2XX0=
+eyJoaXN0b3J5IjpbMjM3OTM0Mjg0LC0xMjA2Mjg2NDQ2LC0xMD
+Q2NTc0MzY0LC0xMDc2MjA0MDQxLDE2MjQxMzYxMDEsLTE0MTMx
+NDU0MDMsLTE0MzUxODcyLC0xNTcxNjA0NSwtNTczNjE2OTIwLC
+0xNTkzMjgxNjE0LDIyNTM4MzUzOSwxODkwNTc2NjgwLC0xOTQx
+MTg5NSwtMzg1MDAzMjQ2LDE4ODg0ODAwNzAsMTcyMjcyNDYzMy
+wxMTg0MTkzNjY1LC03MzI5MzE5NTZdfQ==
 -->
