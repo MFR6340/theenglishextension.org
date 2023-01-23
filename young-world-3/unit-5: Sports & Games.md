@@ -5,7 +5,7 @@
 
 ###  DK: Life Stories Jesse Owens
 
-<img src="https://imgur.com/ovWMRrl.png" width="25%" />
+<img src="https://i.imgur.com/dPMlj0k.png" width="25%" />
 
 summary here.
 
@@ -125,7 +125,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTU1OTg5Miw0NTgwNTE2ODAsLTE3NT
+eyJoaXN0b3J5IjpbLTczNzM4Nzg1OCw0NTgwNTE2ODAsLTE3NT
 A5NzQxNDIsMTc0NzE3MTE1MSwyMDkyMDcwNjEzLC04MjYyNjk4
 NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQyNSwtMT
 I5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC0xNTUz
