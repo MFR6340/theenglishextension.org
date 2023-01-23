@@ -1,5 +1,5 @@
 # Young World 3, Unit 4: Festivals
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 
 ### The Diplomat’s Travel Guide to Festivals, Holidays, and Celebrations in India
@@ -21,6 +21,6 @@ summary here.
 <a href="https://www.bookdepository.com/Kids-Around-World-Celebrate-Best-Feasts-Festivals-from-Many-Lands-L-Jones/9780471345275?ref=grid-view&qid=1674321111991&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005087127" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MzI0NjUyLC03MzMxNTQwOTYsLTEyMT
-Y0NDA4MTcsMjY0OTY4OTQ2LC0xMTMxODAzMTU2XX0=
+eyJoaXN0b3J5IjpbLTExNzMxNTgxODAsLTczMzE1NDA5NiwtMT
+IxNjQ0MDgxNywyNjQ5Njg5NDYsLTExMzE4MDMxNTZdfQ==
 -->
