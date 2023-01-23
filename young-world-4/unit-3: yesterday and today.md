@@ -76,14 +76,24 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 ### Dangerous Days on the Victorian Railways, by Terry Deary
 
-<img src="https://imgur.com/qcFwwBW.png" width="25%" />
+<img src="https://imgur.com/Q0ARLiL.png" width="25%" />
 
 
 
-<a href="https://www.bookdepository.com/Dangerous-Days-Elizabethan-England-Terry-Deary/9781780226378?ref=grid-view&qid=167448959708790745706&sr=1-13" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036886384" rel="nofollow">Buy on  Orell Füssli</a>
+<a href="https://www.bookdepository.com/Dangerous-Days-on-Victorian-Railways-Terry-Deary/9781780226361?ref=grid-view&qid=1674491074938&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034790323" rel="nofollow">Buy on  Orell Füssli</a>
+
+
+### Dangerous Days on the Victorian Railways, by Terry Deary
+
+<img src="https://imgur.com/Q0ARLiL.png" width="25%" />
+
+
+
+<a href="https://www.bookdepository.com/Dangerous-Days-on-Victorian-Railways-Terry-Deary/9781780226361?ref=grid-view&qid=1674491074938&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034790323" rel="nofollow">Buy on  Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzMTk5NTA3LC0xODA0MTMwNTQsLTIxMj
-ExNDcyOTksLTEzODMxNTUxMDUsLTEwMTk5NDE3OTEsNTU4Mjk4
-MzAsLTU2NjE1ODUxMCw4MjI5MjgyOTcsNzgwMzgzMF19
+eyJoaXN0b3J5IjpbMTEzODgzODQ0NCwtMTgwNDEzMDU0LC0yMT
+IxMTQ3Mjk5LC0xMzgzMTU1MTA1LC0xMDE5OTQxNzkxLDU1ODI5
+ODMwLC01NjYxNTg1MTAsODIyOTI4Mjk3LDc4MDM4MzBdfQ==
 -->
