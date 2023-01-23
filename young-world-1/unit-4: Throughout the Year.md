@@ -1,6 +1,5 @@
 # Young World 1, Unit 4: Throughout the Year
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.*
-
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 **This unit covers seasons, weather, and appropriate clothing.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 
 ## Snowflake Bentley, by Jacqueline Briggs Martin
@@ -95,10 +94,10 @@ summary here. (Lexile AD620L)
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051788134" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgwMzk0MDc1LDkyMjU2NDE0MSwxMzM4Mj
-Q2OTc4LDEzMDQ0MDU3MzYsMzUwMTYwNzk0LC0zMjYxMzA3NDcs
-LTMwODM4OTgyOSwxMjY3Mzk0MTEzLDM0NjM5ODQ5MSwtMjE5Mj
-gzMzE0LC04NzE4MTM3MDMsMTg5MDU1MTAxOCwxNzg0MDczODg1
-LDg5OTM1Nzc3OSwtNzcyMzI0NDA1LDEzMTUwMTA5MjgsMTMwND
-Y2MjI4OV19
+eyJoaXN0b3J5IjpbNDIzNTM5NTAzLDk4MDM5NDA3NSw5MjI1Nj
+QxNDEsMTMzODI0Njk3OCwxMzA0NDA1NzM2LDM1MDE2MDc5NCwt
+MzI2MTMwNzQ3LC0zMDgzODk4MjksMTI2NzM5NDExMywzNDYzOT
+g0OTEsLTIxOTI4MzMxNCwtODcxODEzNzAzLDE4OTA1NTEwMTgs
+MTc4NDA3Mzg4NSw4OTkzNTc3NzksLTc3MjMyNDQwNSwxMzE1MD
+EwOTI4LDEzMDQ2NjIyODldfQ==
 -->
