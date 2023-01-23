@@ -49,8 +49,8 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 
 
-<a href="https://www.bookdepository.com/Dangerous-Days-on-Victorian-Railways-Terry-Deary/9781780226361?ref=grid-view&qid=1674491074938&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034790323" rel="nofollow">Buy on  Orell Füssli</a>
+<a href="https://www.bookdepository.com/Banner-Sky-Ramsey-Ullman/9780064470483?ref=grid-view&qid=1674491497317&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003099423" rel="nofollow">Buy on  Orell Füssli</a>
 
 # Supplemental Activities
 
@@ -66,5 +66,5 @@ https://www.myswitzerland.com/en-ch/experiences/events/unspunnenschwinget/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjM3MTE2Niw0NTkxODMwNTVdfQ==
+eyJoaXN0b3J5IjpbLTEwODA1NjM3NjksNDU5MTgzMDU1XX0=
 -->
