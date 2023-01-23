@@ -2,7 +2,7 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-**This unit covers: healthy eating, recipes, developing shopping lists, and what different families eat during a week.   Here are some suggestions for native English speakers to read more about cooking and baking, both fiction and non-fiction.**
+**This unit covers: healthy eating, recipes, developing shopping lists, and what different families eat during a week.   Here are some suggestions for native English speakers to read more about cooking and baking, both fiction and non-fiction.  There are also books in Young World 1, Unit 3, and Open World 1, Unit 3 that are appropriate for this theme.** 
 
 
 
@@ -14,7 +14,7 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034596066" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTE2MTI0MjQsLTQwNzA2ODE3MSwtMT
-Y0OTY0NzQ4NCw3ODcxMjc5MzgsMTU2NDQzMzc0MCwtOTMxOTM0
-NjQ4LC0xMzcxMjM5MjQyXX0=
+eyJoaXN0b3J5IjpbLTE2NDk4NTc0NzksLTEyMTE2MTI0MjQsLT
+QwNzA2ODE3MSwtMTY0OTY0NzQ4NCw3ODcxMjc5MzgsMTU2NDQz
+Mzc0MCwtOTMxOTM0NjQ4LC0xMzcxMjM5MjQyXX0=
 -->
