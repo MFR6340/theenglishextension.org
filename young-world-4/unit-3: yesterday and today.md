@@ -40,7 +40,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 <a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepoository</a>
 
- ### Door in hithe Wall, by Marguerite de Angeli
+ ### The Door in hithe Wall, by Marguerite de Angeli
 
 <img src="https://imgur.com/.png" width="25%" />
 
@@ -48,7 +48,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/Door-Wall-Marguerite-de-Angeli/9780440402831?ref=grid-view&qid=166593094936774489174439&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on  Orell Füssli</a>
 
-### Sarah Plain and Tall, by Patricia MacLachlanThe Doo
+### Sarah Plain and Tall, by Patricia MacLachlan
 
 <img src="https://imgur.com/53YvdAS.png" width="25%" />
 
@@ -66,7 +66,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/?ref=grid-view&qid=167448Door-Wall-Marguerite-de-Angeli/9780440402831Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=166593094936774489174439597087&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A100645551529807823" rel="nofollow">Buy on  Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTk5NDE3OTEsLTIwODI2NzQ2MDYsNT
+eyJoaXN0b3J5IjpbLTEwMDgyNTE3MzcsLTEwMTk5NDE3OTEsNT
 U4Mjk4MzAsLTU2NjE1ODUxMCw4MjI5MjgyOTcsNzgwMzgzMF19
 
 -->
