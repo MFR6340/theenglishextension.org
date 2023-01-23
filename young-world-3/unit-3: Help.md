@@ -2,16 +2,9 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-This unit covers what to do in a traffic accident, First Aid, and calling Emergency.  To expand on this unit, the books below give examples of both animals and people who provided assistance in various emergencies. 
+**This unit covers what to do in a accident, First Aid, and how to call for Emergency services.  To expand on this unit, the books below give examples of both animals and people who have provided assistance in various emergencies.** 
 
-### Magic Treehouse Fact Tracker: Dog Heroes, by Mary Pope Osbourne
-
-<img src="https://imgur.com/66AhGbV.png" width="25%" />
-
-summary here. (Lexile 750L) 
-
-<a href="https://www.bookdepository.com/Dog-Heroes-Mary-Pope-Osborne/9780375860126?ref=grid-view&qid=1674318040257&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016423966" rel="nofollow">Buy on Orell Füssli</a>
+## Non-Fiction
 
 ### # Florence Nightingale : On My Own Biographies
 
@@ -34,6 +27,17 @@ summary here.
 
 <a href="https://www.bookdepository.com/DK-Life-Stories-Florence-Nightingale-Kitson-Jazynka/9781465478436?ref=grid-view&qid=1674318648336&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.bookdepository.com/DK-Life-Stories-Florence-Nightingale-Kitson-Jazynka/9781465478436?ref=grid-view&qid=1674318648336&sr=1-2" rel="nofollow">Buy on Orell Füssli</a>
+### Magic Treehouse Fact Tracker: Dog Heroes, by Mary Pope Osbourne
+
+<img src="https://imgur.com/66AhGbV.png" width="25%" />
+
+summary here. (Lexile 750L) 
+
+<a href="https://www.bookdepository.com/Dog-Heroes-Mary-Pope-Osborne/9780375860126?ref=grid-view&qid=1674318040257&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016423966" rel="nofollow">Buy on Orell Füssli</a>
+
+
+
 
 ### All Thirteen, The Incredible Cave Rescue of the Thai Boys Soccer Team, by Christina Soontornvat
 
@@ -61,8 +65,8 @@ summary here.
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTY0Njg2MSwtMzY4ODgwODM3LC0xOT
-I3ODU2NjIxLC0xMTQyNTU4OTg2LC0xODc4NTM3Mjk0LC05ODMw
-MzAxMCw5ODE5MDg1NzAsMTYyMzI4MDU1MiwtMzA3MTgxOTQ0LD
-cxNDYwNzAyMSwzMDQ0MzYxMjhdfQ==
+eyJoaXN0b3J5IjpbLTE2MDQ5MDc4MDIsLTEyOTY0Njg2MSwtMz
+Y4ODgwODM3LC0xOTI3ODU2NjIxLC0xMTQyNTU4OTg2LC0xODc4
+NTM3Mjk0LC05ODMwMzAxMCw5ODE5MDg1NzAsMTYyMzI4MDU1Mi
+wtMzA3MTgxOTQ0LDcxNDYwNzAyMSwzMDQ0MzYxMjhdfQ==
 -->
