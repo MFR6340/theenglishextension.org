@@ -38,9 +38,19 @@ Also try the Audio book version read by Eric Idle
 
 <a href="https://www.bookdepository.com/Whizz-Pop-Chocolate-Shop-Kate-Saunders/9780385743020Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=1674493221942&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033680556" rel="nofollow">Buy on Orell Füssli</a>
+
+### The Whizz Pop Chocolate Shop, by Kate Saunders
+<img src="https://imgur.com/O9Uy0I3.png" width="25%" />
+
+
+
+<a href="https://www.bookdepository.com/Whizz-Pop-Chocolate-Shop-Kate-Saunders/9780385743020Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=1674493221942&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033680556" rel="nofollow">Buy on Orell Füssli</a>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4NjA5NDc1LDExOTU5ODYyOSwtMTQ3MT
-QzMDAxLC0zNzY5ODE4MzEsLTE1NDQ1NDcxMDcsLTE1NzQ1OTkx
-MTIsLTU5MjY2OTQ1Niw4OTE3ODEzMzAsODczNTE2MjY0LDYxNz
-AzNzgxOCwtNjAyODAyNDQ3LDk4MzEwNDMyMV19
+eyJoaXN0b3J5IjpbMjExMTk3NDE5Myw2Njg2MDk0NzUsMTE5NT
+k4NjI5LC0xNDcxNDMwMDEsLTM3Njk4MTgzMSwtMTU0NDU0NzEw
+NywtMTU3NDU5OTExMiwtNTkyNjY5NDU2LDg5MTc4MTMzMCw4Nz
+M1MTYyNjQsNjE3MDM3ODE4LC02MDI4MDI0NDcsOTgzMTA0MzIx
+XX0=
 -->
