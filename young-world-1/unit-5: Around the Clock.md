@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/c8geq4Z.png" width="25%"  />
 
-Description here (Lexile 1050L)
+Summary here (Lexile 1050L)
 
 <a href="https://www.bookdepository.com/Story-Clocks-Calendars-Betsy-Maestro/9780060589455?ref=grid-view&qid=1656422356224&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002848514" rel="nofollow">Buy on Orell Füssli</a>
@@ -98,5 +98,5 @@ https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzQ2MTQ5M119
+eyJoaXN0b3J5IjpbMjI3NjM5ODE5XX0=
 -->
