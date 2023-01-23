@@ -16,23 +16,23 @@ Also try the Audio book version read by Eric Idle
 
 ### The Candy Bomber, by Michael O. Tunnell
 
-<img src="https://imgur.com/g.png" width="25%" />
+<img src="https://imgur.com/oMtnFMg.png" width="25%" />
 
  (Lexile 1130L)
 
-<a href="https://www.bookdepository.com/?ref=grid-view&qid=1674492&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Candy-Bomber-Michael-O-Tunnell/9781580893374?ref=grid-view&qid=1674493085238&sr=1-1"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009294094" rel="nofollow">Buy on Orell Füssli</a>
 
 ### The Great Chocoplot, by Chris Callaghanell
 
-<img src="https://imgur.com/oMtnFMgPvuDfbY.png" width="25%" />
+<img src="https://imgur.com/PvuDfbY.png" width="25%" />
 
 
 
 <a href="https://www.bookdepository.com/Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=1674492&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQ4ODAzNTksLTE1NzQ1OTkxMTIsLT
-U5MjY2OTQ1Niw4OTE3ODEzMzAsODczNTE2MjY0LDYxNzAzNzgx
-OCwtNjAyODAyNDQ3LDk4MzEwNDMyMV19
+eyJoaXN0b3J5IjpbLTgzODI2MDUxMSwtMTU3NDU5OTExMiwtNT
+kyNjY5NDU2LDg5MTc4MTMzMCw4NzM1MTYyNjQsNjE3MDM3ODE4
+LC02MDI4MDI0NDcsOTgzMTA0MzIxXX0=
 -->
