@@ -1,5 +1,5 @@
 # Young World 1, Unit 1: You and Me
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **This is the first unit taught Klett program in the introductory year of learning English in third grade.  Due to the basic level, the unit covers only very general terms and ideas including:  families from around the world, English speaking countries, flags from other countries and descriptions of people.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 
@@ -114,5 +114,6 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwODYxNzAsLTU4MTQ3NzU5MF19
+eyJoaXN0b3J5IjpbMTg3NjcyMzQ2LC05MDg2MTcwLC01ODE0Nz
+c1OTBdfQ==
 -->
