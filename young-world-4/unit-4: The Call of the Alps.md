@@ -44,6 +44,8 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 <img src="https://imgur.com/biY69Qr.png" width="25%" />
 
+Summary here.  (Lexile level     )
+
 
 
 <a href="https://www.bookdepository.com/Banner-Sky-Ramsey-Ullman/9780064470483?ref=grid-view&qid=1674491497317&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -59,16 +61,15 @@ Keeping along the Heidi theme, visit <af= enolo it Heidi  Hs via spot which is d
 
 The majestic Alps have always called people to both work play on their slopes.   There are plenty of ways of playing, from skiing, to sledding, to bobsledding.  The Ski Museum in Davos has a lovely collection of  Alpine sports artifacts which will definitely to react with "Wow, they really used THAT?"  https://www.wintersportmuseum.ch
 
-Attend a traditional Schwingfest.  Schwingen is only for the biggest and toughest. Pairs compete to see which lands on the sawdust first.  The Unspunnen-Schwinget takes place only every six years and will be happening on 27. August 2023.  
-<a href="https://www.myswitzerland.com/en-ch/experiences/events/unspunnenschwinget/" rel="nofollow">Unspunnen Schwingfest</a>
+Attend a traditional Schwingfest.  Schwingen is only for the biggest and toughest. Pairs compete to see which lands on the sawdust first.  The Unspunnen-Schwinget takes place only every six years and will be happening on 27. August 2023.   <a href="https://unspunnen-schwinget.ch/" rel="nofollow">Unspunnen Schwingfest</a>
 
 
-https://unspunnen-schwinget.ch/
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjI2MDYwMSwxMzYzNjYxNTkxLC02MD
-Q3NDc3NjIsNDMyMDYyMTc2LC0xODk0NjAwODUzLDE4NDg4NTQx
-MjIsNDU5MTgzMDU1XX0=
+eyJoaXN0b3J5IjpbODY2ODQ1ODQ1LDEzNjM2NjE1OTEsLTYwND
+c0Nzc2Miw0MzIwNjIxNzYsLTE4OTQ2MDA4NTMsMTg0ODg1NDEy
+Miw0NTkxODMwNTVdfQ==
 -->
