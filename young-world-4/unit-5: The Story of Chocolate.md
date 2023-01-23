@@ -10,7 +10,7 @@
 
 It's impossible to include a list of chocolate-themed books without including this classic tale of a poor boy who wins a golden ticket to enter Willy Wonka's Chocolate Factory.  Many kids have seen the movie.  Everyone should read the book.  (Lexile 810)
 
-<a href="https://www.bookdepository.com/Ca-oer-al-l/978103?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Charlie-Chocolate-Factory-Roald-Dahl/9780142410318?ref=grid-view&qid=1674499490062&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
 Also try the Audio book version read by Eric Idle
 
@@ -48,10 +48,10 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10365610873165" rel="nofollow">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDEzODMwNSwtODYxNDQ2MSwtNTU3Mj
-Y0MzgzLC0xOTQ0NjU4MDQ3LDY3NzczNzYwOCw2Njg2MDk0NzUs
-MTE5NTk4NjI5LC0xNDcxNDMwMDEsLTM3Njk4MTgzMSwtMTU0ND
-U0NzEwNywtMTU3NDU5OTExMiwtNTkyNjY5NDU2LDg5MTc4MTMz
-MCw4NzM1MTYyNjQsNjE3MDM3ODE4LC02MDI4MDI0NDcsOTgzMT
-A0MzIxXX0=
+eyJoaXN0b3J5IjpbMTU2MzE4NjI1OCwxMTcwMTM4MzA1LC04Nj
+E0NDYxLC01NTcyNjQzODMsLTE5NDQ2NTgwNDcsNjc3NzM3NjA4
+LDY2ODYwOTQ3NSwxMTk1OTg2MjksLTE0NzE0MzAwMSwtMzc2OT
+gxODMxLC0xNTQ0NTQ3MTA3LC0xNTc0NTk5MTEyLC01OTI2Njk0
+NTYsODkxNzgxMzMwLDg3MzUxNjI2NCw2MTcwMzc4MTgsLTYwMj
+gwMjQ0Nyw5ODMxMDQzMjFdfQ==
 -->
