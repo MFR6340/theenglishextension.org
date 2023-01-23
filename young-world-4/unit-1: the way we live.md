@@ -1,6 +1,6 @@
 # Young World 4, Unit 1: The Way We Live
 
-*This post contains links. If you make a purchase through these links The English Extension Organization will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit covers: healthy eating, recipes, developing shopping lists, and what different families eat during a week.   Here are some suggestions for native English speakers to read more about cooking and baking, both fiction and non-fiction.  There are also books in Young World 1, Unit 3, and Open World 1, Unit 3 that are appropriate for this theme.** 
 
@@ -14,6 +14,6 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034596066" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI4ODg1NjEsLTE2NDk4NTc0NzldfQ
+eyJoaXN0b3J5IjpbLTE0ODM2NzkxMjMsLTE2NDk4NTc0NzldfQ
 ==
 -->
