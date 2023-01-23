@@ -8,11 +8,11 @@
 
 <img src="https://i.imgur.com/g0kZ505.png" width="25%" />
 
-summary here.
+This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who was  (1080L)
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034596066" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI3NDk0NjAsLTQwNzA2ODE3MSwtMT
-Y0OTY0NzQ4NCw3ODcxMjc5MzgsMTU2NDQzMzc0MCwtOTMxOTM0
-NjQ4LC0xMzcxMjM5MjQyXX0=
+eyJoaXN0b3J5IjpbLTUxOTYxOTIyMiwtNDA3MDY4MTcxLC0xNj
+Q5NjQ3NDg0LDc4NzEyNzkzOCwxNTY0NDMzNzQwLC05MzE5MzQ2
+NDgsLTEzNzEyMzkyNDJdfQ==
 -->
