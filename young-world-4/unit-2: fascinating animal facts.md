@@ -54,10 +54,10 @@ In this anthology, stunning animal photos by National Geographic photographers a
 <a href="https://www.bookdepository.com/National-Geographic-Kids-Book-Animal-Poetry-J-Patrick-Lewis/9781426310096?ref=grid-view&qid=1674484467571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1020533197?sq=National%20Geographic%20Kids%20Book%20of%20Animal%20Poetry&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
-### Fantastic Beasts and Where to Find Them, by J.K. Rowling### National Geographic Book of Animal Poetry, by J. Lewis
-<img src="https://i.imgur.com/t5qgfVv.png  " width="25%" />
+### Fantastic Beasts and Where to Find Them, by J.K. Rowling
+<img src="https://i.imgur.com/zjVSzGy.png" width="25%" />
 
-In this anthology, stunning animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors.  192 pages.   (No lexile level)
+We all need to learn more about animals, and this books, required reading at Hogwarts, has a few that aren't very familiar.  
 
 <a href="https://www.bookdepository.com/National-Geographic-Kids-Book-Animal-Poetry-J-Patrick-Lewis/9781426310096?ref=grid-view&qid=1674484467571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1020533197?sq=National%20Geographic%20Kids%20Book%20of%20Animal%20Poetry&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -94,5 +94,6 @@ In this anthology, stunning animal photos by National Geographic photographers a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTk4NzIzMiwxODA2OTA5MDA2XX0=
+eyJoaXN0b3J5IjpbLTEzMjU4NDE0OTMsMTk5OTk4NzIzMiwxOD
+A2OTA5MDA2XX0=
 -->
