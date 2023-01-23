@@ -14,7 +14,7 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036138534" rel="nofollow">Buy on Orell Füssli</a>
 
 
-## Winnie-the-Pooh, by A.A. Milne
+### Winnie-the-Pooh, by A.A. Milne
 <img src="https://i.imgur.com/inJU72d.png" width="25%" />
 
 One is never too old to read these classic tales of a hungry bear and his friends in the forest. (Lexile: 790L)
@@ -23,7 +23,7 @@ One is never too old to read these classic tales of a hungry bear and his friend
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039078115" rel="nofollow">Buy on Orell Füssli</a>
 
 
-## The Yearling, by Marjorie Kinnan Rawlings
+### The Yearling, by Marjorie Kinnan Rawlings
 <img src="https://i.imgur.com/9byDLFn.png" width="25%" />
 
 A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn. (Lexile 750L)
@@ -31,7 +31,7 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 <a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001523331" rel="nofollow">Buy on Orell Füssli</a>
 
-## Charlotte’s Web, by E.B. White
+### Charlotte’s Web, by E.B. White
 
 <img src="https://imgur.com/VDv5kTJ.png" width="25%" />
 
@@ -39,7 +39,7 @@ Who could ever imagine that a spider and a pig could hit it off?  But Charlotte'
 
 <a href="https://www.bookdepository.com/Charlottes-Web-E-B-White/9780141354828?ref=grid-view&qid=1665855328386&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
-## The BFG, by Roald Dahl
+### The BFG, by Roald Dahl
 
 <img src="https://imgur.com/FKsGdaK.png" width="25%" />
 
@@ -48,7 +48,7 @@ summary here.
 <a href="https://www.bookdepository.com/BFG-Roald-Dahl/9780141365428?ref=grid-view&qid=1665855539620&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801519" rel="nofollow">Buy on Orell Füssli</a>
 
-## One Hundred Dresses, by Eleanor Estes
+### One Hundred Dresses, by Eleanor Estes
 
 <img src="https://imgur.com/LpSxmOD.png" width="25%" />
 
@@ -57,7 +57,7 @@ summary here.
 <a href="https://www.bookdepository.com/Hundred-Dresses-Eleanor-Estes/9780152052607?ref=grid-view&qid=1665855691211&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006423614" rel="nofollow">Buy on Orell Füssli</a>
 
-## Bridge to Terabithia, by Katherine Paterson
+### Bridge to Terabithia, by Katherine Paterson
 
 <img src="https://imgur.com/w3OBZpN.png" width="25%" />
 
@@ -66,7 +66,7 @@ summary here.
 <a href="https://www.bookdepository.com/Bridge-Terabithia-Katherine-Paterson/9780061227288?ref=grid-view&qid=1665855943316&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href=https://www.orellfuessli.ch/shop/home/artikeldetails/A1043683097" rel="nofollow">Buy on Orell Füssli</a>
 
-## Cricket in Times Square, by George Selden
+### Cricket in Times Square, by George Selden
 
 <img src="https://i.imgur.com/VmP0bSZ.png" width="25%" />
 
@@ -76,7 +76,7 @@ summary here.
 <a href="https://www.bookdepository.com/Cricket-Times-Square-George-Selden/9780374390402?ref=grid-view&qid=1674047470378&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063464927" rel="nofollow">Buy on Orell Füssli</a>
 
-## The Mouse and the Motorcycle, by Beverly Cleary
+### The Mouse and the Motorcycle, by Beverly Cleary
 <img src="https://i.imgur.com/OgQl0CA.png" width="25%" />
 
 summary here.
@@ -85,7 +85,7 @@ summary here.
 <a href="https://www.bookdepository.com/Mouse-Motorcycle-Beverly-Cleary/9780380709243?ref=grid-view&qid=1674048077748&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003100657" rel="nofollow">Buy on Orell Füssli</a>
 
-## Harry Potter and the Philosopher's Stone, by J. K. Rowling
+### Harry Potter and the Philosopher's Stone, by J. K. Rowling
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
@@ -94,7 +94,7 @@ summary here.  (Lexile )
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
 
-### LIar and Spy, by Rebecca Stead
+### Liar and Spy, by Rebecca Stead
 <img src="https://i.imgur.com/EpgD5sN.png" width="25%" />
 
 summary here.  (Lexile )  
@@ -149,10 +149,10 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3Mjg0NDMwLC0xNjUxMDE3MjUwLDE0OT
-U3NTA2MDUsNjY1MTI1MTIxLDE4MjkxNzkxNTEsMTkwOTU0NTAy
-OCwtNDQ5ODE2ODQ1LC0xNTc0ODM0NjI0LC0xMzAwMzcxMjQ0LC
-0xMjQ2MjEzODczLDEwODI1MjU4OTUsLTEyNzQ5OTA2NjIsLTE3
-ODg2NDcwNDksMTM2ODU3NDcwOSwzMTg2MTA3MjMsMTE0NjA3Mz
-I0N119
+eyJoaXN0b3J5IjpbMjEzMTA5NjM1NywtMTY1MTAxNzI1MCwxND
+k1NzUwNjA1LDY2NTEyNTEyMSwxODI5MTc5MTUxLDE5MDk1NDUw
+MjgsLTQ0OTgxNjg0NSwtMTU3NDgzNDYyNCwtMTMwMDM3MTI0NC
+wtMTI0NjIxMzg3MywxMDgyNTI1ODk1LC0xMjc0OTkwNjYyLC0x
+Nzg4NjQ3MDQ5LDEzNjg1NzQ3MDksMzE4NjEwNzIzLDExNDYwNz
+MyNDddfQ==
 -->
