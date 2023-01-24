@@ -43,19 +43,19 @@ summary here.  (Lexile Level     )
 
 <img src="https://imgur.com/wNw0Jzo.png" width="25%" />
 
-summary here.  (Lexile Level     )
+summary here.  (Lexile 790L)
 
 <a href="https://www.bookdepository.com/Catcher-Rye-J-D-Salinger/9780316769488?ref=grid-view&qid=1674588767157&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001544993" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Some Places more than Others, by Renée Watson
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Le)
+summary here.  (Lexile Level L)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/search?searchTerm=Some+Places+more+than+Others%2C+by+Ren%C3%A9e+Watson&search=Find+book" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054837702" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -75,7 +75,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwOTg5NzQyLC0xNDc4MDMzNDc0LC0xNj
-U5NTQzMTc5LDEwOTU1MzAxNjcsLTEwNTc3ODQ1NzUsMjAxMjI2
-MTcxNl19
+eyJoaXN0b3J5IjpbLTE2OTU5NTc3OTksLTE0NzgwMzM0NzQsLT
+E2NTk1NDMxNzksMTA5NTUzMDE2NywtMTA1Nzc4NDU3NSwyMDEy
+MjYxNzE2XX0=
 -->
