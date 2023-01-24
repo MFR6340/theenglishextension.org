@@ -28,7 +28,7 @@ summary here.  (Lexile Level unavailable)
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061902668" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Be Unstoppable: The Art of Never Giving Up by Bethany Hamilton
-<img src="https://i.imgur.com/AkXg87B.png" width="35%" />
+<img src="https://i.imgur.com/K0y8ffg.png" width="25%" />
 
 summary here.  (Lexile 880L)
 
@@ -60,7 +60,7 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTAxMzMxOSw4MDgyMzQyMzcsMTgwNj
-c4ODUyOSwxODA2Nzg4NTI5LC05OTExODk5MDEsLTI3NzU4Mjc5
-OSwtOTM1ODE2NjExLDExNjE5NTE3MCwxMDAxNDM2ODUzXX0=
+eyJoaXN0b3J5IjpbLTIwOTA0MTExNjksODA4MjM0MjM3LDE4MD
+Y3ODg1MjksMTgwNjc4ODUyOSwtOTkxMTg5OTAxLC0yNzc1ODI3
+OTksLTkzNTgxNjYxMSwxMTYxOTUxNzAsMTAwMTQzNjg1M119
 -->
