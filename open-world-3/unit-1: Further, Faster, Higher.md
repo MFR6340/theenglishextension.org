@@ -20,7 +20,7 @@ summary here.  (Lexile 1060L)
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002615795" rel="nofollow">Buy on Orell Füssli</a> 
 
  ### The Impossible Climb (Young Readers Adaptation): Alex Honnold, El Capitan, and a Climber's Life, by Mark Synnott
-<img src="https://i.imgur.com/Zxuz7N8.png " width="25%" />
+<img src="https://i.imgur.com/Zxuz7N8.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
@@ -44,7 +44,7 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NTA4ODI3NSwxODA2Nzg4NTI5LC05OT
+eyJoaXN0b3J5IjpbMTgwNjc4ODUyOSwxODA2Nzg4NTI5LC05OT
 ExODk5MDEsLTI3NzU4Mjc5OSwtOTM1ODE2NjExLDExNjE5NTE3
 MCwxMDAxNDM2ODUzXX0=
 -->
