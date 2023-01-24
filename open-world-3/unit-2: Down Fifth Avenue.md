@@ -41,7 +41,7 @@ summary here.  (Lexile Level     )
 
 ### The Catcher in the Rye, by JD Salinger
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/wNw0Jzo.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
@@ -52,7 +52,7 @@ summary here.  (Lexile Level     )
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     )
+summary here.  (Le)
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -75,7 +75,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTMyOTc5NDIsLTE0NzgwMzM0NzQsLT
-E2NTk1NDMxNzksMTA5NTUzMDE2NywtMTA1Nzc4NDU3NSwyMDEy
-MjYxNzE2XX0=
+eyJoaXN0b3J5IjpbNjcwOTg5NzQyLC0xNDc4MDMzNDc0LC0xNj
+U5NTQzMTc5LDEwOTU1MzAxNjcsLTEwNTc3ODQ1NzUsMjAxMjI2
+MTcxNl19
 -->
