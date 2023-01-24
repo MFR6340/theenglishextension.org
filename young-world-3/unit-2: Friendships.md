@@ -12,7 +12,9 @@ A beautiful friendship between a New York City mouse, a cricket who accidentally
 (Lexile 780L)
 
 <a href="https://www.bookdepository.com/Cricket-Times-Square-George-Selden/9780374390402?ref=grid-view&qid=1674047470378&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063464927" rel="nofollow">Buy on Orell Füssli</a>### A Bear Called Paddington, by Michael Bond
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063464927" rel="nofollow">Buy on Orell Füssli</a>
+
+### A Bear Called Paddington, by Michael Bond
 
 <img src="https://i.imgur.com/wMmaATw.png" width="25%" />
 
@@ -150,7 +152,7 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyMTY2MTY3LDIxMzEwOTYzNTcsLTE2NT
+eyJoaXN0b3J5IjpbODA1NTY5NzIzLDIxMzEwOTYzNTcsLTE2NT
 EwMTcyNTAsMTQ5NTc1MDYwNSw2NjUxMjUxMjEsMTgyOTE3OTE1
 MSwxOTA5NTQ1MDI4LC00NDk4MTY4NDUsLTE1NzQ4MzQ2MjQsLT
 EzMDAzNzEyNDQsLTEyNDYyMTM4NzMsMTA4MjUyNTg5NSwtMTI3
