@@ -27,8 +27,8 @@ summary here.  (Lexile Level unavailable)
 <a href="https://www.bookdepository.com/Impossible-Climb-Young-Readers-Adaptation-Mark-Synnott/9780593203934?ref=grid-view&qid=1674577500528&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061902668" rel="nofollow">Buy on Orell Füssli</a> 
 
-### The Impossible Climb (Young Readers Adaptation): Alex Honnold, El Capitan, and a Climber's Life, by Mark Synnott
-<img src="https://i.imgur.com/Zxuz7N8.png" width="25%" />
+### Be Unstoppable: The Art of Never Giving Up by Bethany Hamilton
+<img src="https://i.imgur.com/AkXg87B.png" width="35%" />
 
 summary here.  (Lexile Level unavailable)
 
@@ -52,7 +52,7 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzIyMTA0NDcsODA4MjM0MjM3LDE4MD
-Y3ODg1MjksMTgwNjc4ODUyOSwtOTkxMTg5OTAxLC0yNzc1ODI3
-OTksLTkzNTgxNjYxMSwxMTYxOTUxNzAsMTAwMTQzNjg1M119
+eyJoaXN0b3J5IjpbODY2MTMxMDY3LDgwODIzNDIzNywxODA2Nz
+g4NTI5LDE4MDY3ODg1MjksLTk5MTE4OTkwMSwtMjc3NTgyNzk5
+LC05MzU4MTY2MTEsMTE2MTk1MTcwLDEwMDE0MzY4NTNdfQ==
 -->
