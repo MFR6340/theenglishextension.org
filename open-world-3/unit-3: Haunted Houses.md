@@ -14,9 +14,9 @@ summary here.  (Lexile Level     )
 
 <img src="imgurlinkhere.png" width="25%" />
 
-This shorter story by famous author Oscar Wilde is mentioned in this unit.  Here's a chance to read it in full.  An American family moves to England to a house that is said to be inhabited by a ghost.  It becomes clear that the house is indeed haunted, so they start teasing and bothering the ghost.  (Lexile Level 1360L )
+This story by famous author Oscar Wilde is mentioned in this unit.  Here's a chance to read it in full.  An American family moves to England to a house that is said to be inhabited by a ghost.  It becomes clear that the house is indeed haunted, so they start teasing and bothering the ghost until he's at his wits- end.  (Lexile Level 1360L )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Canterville-Ghost-Oscar-Wilde/9781911547709?ref=grid-view&qid=1674547296701&sr=1-3#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 Now in Public Domain.  Available for free on Project Gutenberg 
 https://www.gutenberg.org/ebooks/14522
@@ -25,5 +25,5 @@ https://www.gutenberg.org/ebooks/14522
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjMzMjU4OSwtMTIyMzYxMTAwOV19
+eyJoaXN0b3J5IjpbMzU1MDkwNjk1LC0xMjIzNjExMDA5XX0=
 -->
