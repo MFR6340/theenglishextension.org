@@ -18,13 +18,12 @@ This fun story by famous author Oscar Wilde is mentioned in this unit.  Here's a
 
 <a href="https://www.bookdepository.com/The-Canterville-Ghost-and-Other-Stories-Oscar-Wilde/9781847496126" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038959456" rel="nofollow">Buy on Orell Füssli</a> 
-The book is now in public domain.  Available for free on Project Gutenberg 
-https://www.gutenberg.org/ebooks/14522
+The book is now in public domain.  Available for free on Project Gutenberg https://www.gutenberg.org/ebooks/14522
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Mjg2NTczNiwzNTUwOTA2OTUsLTEyMj
-M2MTEwMDldfQ==
+eyJoaXN0b3J5IjpbLTIxNDUyNjgwNzAsMzU1MDkwNjk1LC0xMj
+IzNjExMDA5XX0=
 -->
