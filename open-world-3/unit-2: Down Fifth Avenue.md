@@ -50,11 +50,11 @@ summary here.  (Lexile 790L)
 
 ### Some Places more than Others, by Renée Watson
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/DaaW1jT.png" width="25%" />
 
 summary here.  (Lexile Level L)
 
-<a href="https://www.bookdepository.com/search?searchTerm=Some+Places+more+than+Others%2C+by+Ren%C3%A9e+Watson&search=Find+book" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Some-Places-More-Than-Others-Ren%C3%A9e-Watson/9781681191102?ref=grid-view&qid=1674589062511&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054837702" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
@@ -75,7 +75,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU5NTc3OTksLTE0NzgwMzM0NzQsLT
-E2NTk1NDMxNzksMTA5NTUzMDE2NywtMTA1Nzc4NDU3NSwyMDEy
-MjYxNzE2XX0=
+eyJoaXN0b3J5IjpbLTM2NTk2OTgwNiwtMTQ3ODAzMzQ3NCwtMT
+Y1OTU0MzE3OSwxMDk1NTMwMTY3LC0xMDU3Nzg0NTc1LDIwMTIy
+NjE3MTZdfQ==
 -->
