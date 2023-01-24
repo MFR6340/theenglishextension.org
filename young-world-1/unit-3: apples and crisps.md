@@ -3,7 +3,7 @@
 
 **This Klett unit covers food, shopping and writing a list.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 
-## Apples, by Ken Robbins
+### Apples, by Ken Robbins
 
 <img src="https://imgur.com/F78MUbL.png" width="25%"  />
 
@@ -13,7 +13,7 @@ From seeds to harvest to eating, this book has beautiful hand-colored photos is 
 <a href="https://www.bookdepository.com/Apples-Ken-Robbins/9781481401654?ref=grid-view&qid=1656344168590&sr=1-6" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1031141802" rel="nofollow">Buy on Orell Füssli</a>
 
-## How to Make an Apple Pie and See the World, by Marjorie Priceman
+### How to Make an Apple Pie and See the World, by Marjorie Priceman
 
 <img src="https://i.imgur.com/8QC2M6K.jpg" width="25%"  />
 
@@ -24,7 +24,7 @@ A little girl goes to the store to buy the things she needs to make an apple pie
 <a href="https://www.bookdepository.com/Apples-Ken-Robbins/9781481401654?ref=grid-view&qid=1656344168590&sr=1-6" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1031141802" rel="nofollow">Buy on Orell Füssli</a>
 
-## Cloudy with a Chance of Meatballs, by Judith Barrett
+### Cloudy with a Chance of Meatballs, by Judith Barrett
 
 <img src="https://imgur.com/fQL4dqI.png" width="25%" />
 
@@ -33,16 +33,16 @@ In the town of Chewandswallow, the inhabitants don’t grow food, they get their
 <a href="https://www.bookdepository.com/Cloudy-with-Chance-of-Meatballs-Judith-Barrett/9780590303842" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003420295" rel="nofollow">Buy on Orell Füssli</a>
 
-## Stone Soup, by Marcia Brown
+### Stone Soup, by Marcia Brown
 
 <img src="https://imgur.com/coj2LrO.png" width="25%" />
 
-Three hungry soldiers convince an unwilling town to make them soup. Based on a European folktale.  (Lexile 550L)
+A very easy read about three hungry soldiers convince an unwilling town to make them soup. Based on a European folktale.  (Lexile 550L)
 
 <a href="https://www.bookdepository.com/Stone-Soup-Marcia-Brown/9780689711039?ref=grid-view&qid=1654272719571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1028650164" rel="nofollow">Buy on Orell Füssli</a>
 
-## What's on Your Plate: Exploring the World of Food, by Whitney Stewart
+###  What's on Your Plate: Exploring the World of Food, by Whitney Stewart
 
 <img src="https://imgur.com/6jRsXaK.png" width="25%"  />
 
@@ -52,7 +52,7 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 <a href="https://www.bookdepository.com/Whats-on-Your-Plate-Whitney-Stewart/9781454926726?ref=grid-view&qid=1656000036768&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046425427" rel="nofollow">Buy on Orell Füssli</a>
 
-## Lunch will Never Be the Same, by Veera Hiranandani
+### Lunch will Never Be the Same, by Veera Hiranandani
 
 <img src="https://imgur.com/WQdtOmL.png" width="25%" />
 
@@ -93,5 +93,5 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTA1Nzg1Nl19
+eyJoaXN0b3J5IjpbLTE2NzkyMjc5MDRdfQ==
 -->
