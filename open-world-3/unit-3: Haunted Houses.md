@@ -14,16 +14,17 @@ summary here.  (Lexile Level     )
 
 <img src="imgurlinkhere.png" width="25%" />
 
-This story by famous author Oscar Wilde is mentioned in this unit.  Here's a chance to read it in full.  An American family moves to England to a house that is said to be inhabited by a ghost.  It becomes clear that the house is indeed haunted, so they start teasing and bothering the ghost until he's at his wits- end.  (Lexile Level 1360L )
+This fun story by famous author Oscar Wilde is mentioned in this unit.  Here's a chance to read it in full.  An American family moves to England to a house that is said to be inhabited by a ghost.  It becomes clear that the house is indeed haunted, so they start teasing and bothering the ghost until he's at his wits- end.  (Lexile Level 1360L )
 
-<a href="https://www.bookdepository.com/Canterville-Ghost-Oscar-Wilde/9781911547709?ref=grid-view&qid=1674547296701&sr=1-3#" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
-Now in Public Domain.  Available for free on Project Gutenberg 
+<a href="https://www.bookdepository.com/The-Canterville-Ghost-and-Other-Stories-Oscar-Wilde/9781847496126" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038959456" rel="nofollow">Buy on Orell Füssli</a> 
+The book is now in public domain.  Available for free on Project Gutenberg 
 https://www.gutenberg.org/ebooks/14522
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1MDkwNjk1LC0xMjIzNjExMDA5XX0=
+eyJoaXN0b3J5IjpbMjA3Mjg2NTczNiwzNTUwOTA2OTUsLTEyMj
+M2MTEwMDldfQ==
 -->
