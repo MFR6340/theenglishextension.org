@@ -4,7 +4,15 @@
 
 **This unit covers the attributes of a good friend.  It also discusses emotions and feelings.  Here are some suggestions for native English speakers for literature that is related to this theme:**
 
-### A Bear Called Paddington, by Michael Bond
+### Cricket in Times Square, by George Selden
+
+<img src="https://i.imgur.com/VmP0bSZ.png" width="25%" />
+
+A beautiful friendship between a New York City mouse, a cricket who accidentally arrived from a field in Connecticut, and a boy named Milo whose parents owned the news stand in the Subway station.
+(Lexile 780L)
+
+<a href="https://www.bookdepository.com/Cricket-Times-Square-George-Selden/9780374390402?ref=grid-view&qid=1674047470378&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063464927" rel="nofollow">Buy on Orell Füssli</a>### A Bear Called Paddington, by Michael Bond
 
 <img src="https://i.imgur.com/wMmaATw.png" width="25%" />
 
@@ -66,15 +74,8 @@ summary here.
 <a href="https://www.bookdepository.com/Bridge-Terabithia-Katherine-Paterson/9780061227288?ref=grid-view&qid=1665855943316&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href=https://www.orellfuessli.ch/shop/home/artikeldetails/A1043683097" rel="nofollow">Buy on Orell Füssli</a>
 
-### Cricket in Times Square, by George Selden
 
-<img src="https://i.imgur.com/VmP0bSZ.png" width="25%" />
 
-summary here.
-(Lexile 780L)
-
-<a href="https://www.bookdepository.com/Cricket-Times-Square-George-Selden/9780374390402?ref=grid-view&qid=1674047470378&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063464927" rel="nofollow">Buy on Orell Füssli</a>
 
 ### The Mouse and the Motorcycle, by Beverly Cleary
 <img src="https://i.imgur.com/OgQl0CA.png" width="25%" />
@@ -149,10 +150,10 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjEyOTUxMSwyMTMxMDk2MzU3LC0xNj
-UxMDE3MjUwLDE0OTU3NTA2MDUsNjY1MTI1MTIxLDE4MjkxNzkx
-NTEsMTkwOTU0NTAyOCwtNDQ5ODE2ODQ1LC0xNTc0ODM0NjI0LC
-0xMzAwMzcxMjQ0LC0xMjQ2MjEzODczLDEwODI1MjU4OTUsLTEy
-NzQ5OTA2NjIsLTE3ODg2NDcwNDksMTM2ODU3NDcwOSwzMTg2MT
-A3MjMsMTE0NjA3MzI0N119
+eyJoaXN0b3J5IjpbNzQyMTY2MTY3LDIxMzEwOTYzNTcsLTE2NT
+EwMTcyNTAsMTQ5NTc1MDYwNSw2NjUxMjUxMjEsMTgyOTE3OTE1
+MSwxOTA5NTQ1MDI4LC00NDk4MTY4NDUsLTE1NzQ4MzQ2MjQsLT
+EzMDAzNzEyNDQsLTEyNDYyMTM4NzMsMTA4MjUyNTg5NSwtMTI3
+NDk5MDY2MiwtMTc4ODY0NzA0OSwxMzY4NTc0NzA5LDMxODYxMD
+cyMywxMTQ2MDczMjQ3XX0=
 -->
