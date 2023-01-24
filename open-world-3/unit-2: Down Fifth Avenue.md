@@ -59,23 +59,23 @@ summary here.  (Lexile Level L)
 
 ### Nightfall in New York, by Katherine Woodfine
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/iSNHBmc.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
 <a href="https://www.bookdepository.com/Nightfall-New-York-Katherine-Woodfine/9781405293273?ref=grid-view&qid=1674589229049&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059792723" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### The Vanderbeekers of 141st Street, by Karina Yan Glaser
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     )
+summary here.  (Lexile 810L)
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTUxMTkyNjksLTE0NzgwMzM0NzQsLT
-E2NTk1NDMxNzksMTA5NTUzMDE2NywtMTA1Nzc4NDU3NSwyMDEy
-MjYxNzE2XX0=
+eyJoaXN0b3J5IjpbLTg1NzU2OTU2NywtMTQ3ODAzMzQ3NCwtMT
+Y1OTU0MzE3OSwxMDk1NTMwMTY3LC0xMDU3Nzg0NTc1LDIwMTIy
+NjE3MTZdfQ==
 -->
