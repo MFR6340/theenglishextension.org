@@ -9,7 +9,7 @@
 
 <img src="https://imgur.com/0oemAkn.png" width="25%" />
 
-This amazing bird flew 144,840km in his migration from Tierra del Fuego to the Canadian Arctic.  And he did it again and again, back and forth for 20 years, making his journey longer than the distance to the moon. (Lexile 1150L)
+This amazing bird flew 144,840km in his migration from Tierra del Fuego to the Canadian Arctic.  And he did it again and again, back and forth for 20 years, making his journey longer than the distance to the moonsummary here. (Llexile 1150L)
 ***Teachers: Lessons plans are available for this unit.  Please contact us to receive a copy.***
 
 <a href="https://www.bookdepository.com/Moonbird-Phillip-Hoose/9780374304683?ref=grid-view&qid=1665929598174&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -19,7 +19,7 @@ This amazing bird flew 144,840km in his migration from Tierra del Fuego to the C
 
 <img src="https://imgur.com/bncKSt9.png" width="25%" />
 
-summary here. (Lexile 1050L)
+. (exile 1050L)
 
 <a href="https://www.bookdepository.com/Follow-Those-Zebras-Sandra-Markle/9781541538375" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1055579035" rel="nofollow">Buy on Orell Füssli</a>
@@ -46,21 +46,24 @@ summary here.
 
 ## For Fun
 
-### National Geographic Book of Animal Poetry, by J. Lewis
+y J. Lewis
+<img src="https://i.imgur.com/V.png" width="25%" />
+
+ all ne to earn more aout animals n thisooreqired reading at oarts has a fe that arent ery familiar.  
+
+<a href="https://www.bookdepository.com/?ref=grid-view&qid=1674500301753484467571&sr=1-4#1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046755968suggestartikel/A1020533197?sq=National%20Geographic%20Kids%20Book%20of%20Animal%20Poetry&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
+
+
+
+
+, by J. Lewis
 <img src="https://i.imgur.com/t5qgfVv.png  " width="25%" />
 
 In this anthology, stunning animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors.  192 pages.   (No lexile level)
 
-<a href="https://www.bookdepository.com/National-Geographic-Kids-Book-Animal-Poetry-J-Patrick-Lewis/9781426310096?ref=grid-view&qid=1674484467571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1020533197?sq=National%20Geographic%20Kids%20Book%20of%20Animal%20Poetry&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
-
-### Fantastic Beasts and Where to Find Them, by J.K. Rowling
-<img src="https://i.imgur.com/zjVSzGy.png" width="25%" />
-
-We all need to learn more about animals, and this book, required reading at Hogwarts, has a few animals that aren't very familiar.  
-
-<a href="https://www.bookdepository.com/Fantastic-Beasts-Where-Find-Them-J-K-Rowling/9781408896945?ref=grid-view&qid=1674500301753&sr=1-4#" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046755968" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/National-Geographic-Kids-Book-Animal-Poetry-J-Patrick-Lewis/9781426310096?ref=grid-view&qid=1674&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -76,6 +79,6 @@ We all need to learn more about animals, and this book, required reading at Hogw
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4MDUwNjc5LC0zMTI2NDk3MjMsMTk5OT
-k4NzIzMiwxODA2OTA5MDA2XX0=
+eyJoaXN0b3J5IjpbLTE4Nzg5NjE5ODUsODU4MDUwNjc5LC0zMT
+I2NDk3MjMsMTk5OTk4NzIzMiwxODA2OTA5MDA2XX0=
 -->
