@@ -9,7 +9,7 @@
 
 <img src="https://imgur.com/0oemAkn.png" width="25%" />
 
-summary here. (lexile 1150L)
+This amazing bird flies 9,000 miles in his migrating from Tierra del Fuego to the Canadian Arctic and then back again. He continued his flight back and forth and back and forth for 20 years, making his journey longer than the distance to the moon. (Lexile 1150L)
 ***Teachers: Lessons plans are available for this unit.  Please contact us to receive a copy.***
 
 <a href="https://www.bookdepository.com/Moonbird-Phillip-Hoose/9780374304683?ref=grid-view&qid=1665929598174&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -76,6 +76,6 @@ We all need to learn more about animals, and this book, required reading at Hogw
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NzI0Mzc4MywtMzEyNjQ5NzIzLDE5OT
-k5ODcyMzIsMTgwNjkwOTAwNl19
+eyJoaXN0b3J5IjpbLTE2NDA2NTQ4OTgsLTMxMjY0OTcyMywxOT
+k5OTg3MjMyLDE4MDY5MDkwMDZdfQ==
 -->
