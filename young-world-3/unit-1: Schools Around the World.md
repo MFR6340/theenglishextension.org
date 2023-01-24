@@ -28,7 +28,7 @@ This 2016 updated version of a DK classic shows children from Botswana to Turkey
 ### The Boy Who Harnessed the Wind, by William Kampwamba
 <img src="https://imgur.com/XF93Hnq.png" width="25%" />
 
-summary here.
+Retold for a younger audience. This inspirational true story is about a boy from Africa who uses items around him to build a pump to get water to grow crops. The story has been made into a film which can be seen on Netflix. 
 
 <a href="https://www.bookdepository.com/Boy-Who-Harnessed-Wind-William-Kamkwamba/9780147510426?ref=grid-view&qid=1665854100400&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -86,7 +86,7 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0MjMwNTEwLDkwMzIyMzI2OCwyODMxNz
+eyJoaXN0b3J5IjpbNTM4MTMyNjMzLDkwMzIyMzI2OCwyODMxNz
 g1OTksNzA4NTI1NTg3LDE2MzM1MTMyOTEsLTE2MTY0NjM1ODAs
 NTE3MDU3NjA4LDExODU2MjU3MjgsLTE0MjU2NjgwMzIsMTEzND
 E5MDc4LDE1NzMwMjYyMjVdfQ==
