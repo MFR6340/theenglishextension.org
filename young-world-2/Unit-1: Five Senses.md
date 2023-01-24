@@ -77,10 +77,12 @@ A deaf girl named Iris learns about a whale who cannot communicate with other wh
 
 <img src="https://imgur.com/kZ3HTR1.png" width="25%" />
 
-The cute, little, fearless dog really wants to become a guard dog, but no one wants him because his bark is so awful.  Nice twist at the end when a hard -of-hearing man comes along.  (Lexile NC810L)
+A very little dog with awful ear-splitting bark has ambitions to be a guard dog and is ridiculed by his pedigree peers. Ultimately, he gets his comeuppance thanks to the poor hearing of the man who adopts him. (Lexile NC810L)
 
 <a href="https://www.bookdepository.com/Guard-Dog-Dick-King-Smith/9780552554336?ref=grid-view&qid=1665840171795&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002714171" rel="nofollow">Buy on Orell Füssli</a>
+
+
 
 
 
@@ -99,5 +101,6 @@ Donate an audio book or make an appointment to visit the SBS Schweizerische Bibl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjM0NDM2MiwtNzU5Njg4NjUwXX0=
+eyJoaXN0b3J5IjpbMjQ1NTgwODI3LDIwNDIzNDQzNjIsLTc1OT
+Y4ODY1MF19
 -->
