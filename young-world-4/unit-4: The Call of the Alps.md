@@ -18,7 +18,7 @@ A lovely book that explains festivals and gatherings that take place throughout 
 
 <img src="https://imgur.com/DsPI10e.png" width="25%" />
 
-Newberry Honor Book.  The story of William Tell, who shot an apple of the head of his son in 1291.  Written from the viewpoint of his son Walter.  (Lexile level 750L) 
+Newberry Honor Book.  The story of William Tell, who shot an apple of the head of his son in 1291.  Written from the viewpoint of his son Walter.  (Lexile 750L) 
 
 <a href="https://www.bookdepository.com/Apple-Arrow-Buff-M/9780618128099?ref=grid-view&qid=1665931458861&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002594722" rel="nofollow">Buy on Orell Füssli</a>
@@ -68,7 +68,7 @@ nspunnenchwinget/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQyMjI4ODg4LDEwODQwOTMzNDksMTM2Mz
-Y2MTU5MSwtNjA0NzQ3NzYyLDQzMjA2MjE3NiwtMTg5NDYwMDg1
-MywxODQ4ODU0MTIyLDQ1OTE4MzA1NV19
+eyJoaXN0b3J5IjpbLTExNjA0NTkwMjAsMjQyMjI4ODg4LDEwOD
+QwOTMzNDksMTM2MzY2MTU5MSwtNjA0NzQ3NzYyLDQzMjA2MjE3
+NiwtMTg5NDYwMDg1MywxODQ4ODU0MTIyLDQ1OTE4MzA1NV19
 -->
