@@ -68,14 +68,14 @@ summary here.  (Lexile Level     )
 
 ### The Vanderbeekers of 141st Street, by Karina Yan Glaser
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/4gmrEE9.png" width="25%" />
 
 summary here.  (Lexile 810L)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059792723" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Vanderbeekers-Hidden-Garden-Karina-Yan-Glaser/9780358117346?ref=grid-view&qid=1674589448653&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1049694429" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwMTYzMzY0LC0xNDc4MDMzNDc0LC0xNj
-U5NTQzMTc5LDEwOTU1MzAxNjcsLTEwNTc3ODQ1NzUsMjAxMjI2
-MTcxNl19
+eyJoaXN0b3J5IjpbLTE3MjgyOTQ1ODUsLTE0NzgwMzM0NzQsLT
+E2NTk1NDMxNzksMTA5NTUzMDE2NywtMTA1Nzc4NDU3NSwyMDEy
+MjYxNzE2XX0=
 -->
