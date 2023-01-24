@@ -1,5 +1,5 @@
 # Open World 3, Unit 3: Haunted houses
-*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit covers ghosts and haunted houses, using the famous Oscar Wilde story, The Canterville Ghost as a basis.   Here are some haunted stories, none too gruesome, for your reading pleasure:** 
 
@@ -28,6 +28,6 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTUwMDQwMzMsLTIwNjk4NDI4NSwzNT
-UwOTA2OTUsLTEyMjM2MTEwMDldfQ==
+eyJoaXN0b3J5IjpbLTEyMjE3MDY2NzMsLTE3NTUwMDQwMzMsLT
+IwNjk4NDI4NSwzNTUwOTA2OTUsLTEyMjM2MTEwMDldfQ==
 -->
