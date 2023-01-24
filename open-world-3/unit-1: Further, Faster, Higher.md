@@ -1,5 +1,5 @@
 # Open World 3, Unit 1: Further, faster, higher
-*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit is on extreme sports.  There is a lot of literature that covers this theme.  Here are some suggestions to get you started:** 
 
@@ -43,13 +43,21 @@ summary here.  (Lexile 850L)
 <a href="https://www.bookdepository.com/No-Summit-out-Sight-Jordan-Romero/9781481432764?ref=grid-view&qid=1674579431307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034721479" rel="nofollow">Buy on Orell Füssli</a> 
 
-### No Barriers,(YA edition) by Erik Weihenmayer (A Blind Man’s Journey to Kayak the Grand Canyon)
+### No Barriers,(YA edition) by Erik Weihenmayer (A Blind Man’s Journey to Kaya## Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link the Grand Canyon)
 <img src="https://i.imgur.com/O95O5Dk.png" width="25%" />
 
 summary here.  (Lexile 1010L)
 
 <a href="https://www.bookdepository.com/No-Barriers-Young-Adult-Adaptation-Erik-Weihenmayer/9781250206770?ref=grid-view&qid=1674579740096&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051880195" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051880195re" rel="nofollow">Buy on Orell Füssli</a> 
+ 
 # Supplemental Activities
 
 
@@ -67,8 +75,8 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3NjYyNjI4LC0yNzc5MzQ2OTQsODA4Mj
-M0MjM3LDE4MDY3ODg1MjksMTgwNjc4ODUyOSwtOTkxMTg5OTAx
-LC0yNzc1ODI3OTksLTkzNTgxNjYxMSwxMTYxOTUxNzAsMTAwMT
-QzNjg1M119
+eyJoaXN0b3J5IjpbMTUwMjQwNTM2LDM0NzY2MjYyOCwtMjc3OT
+M0Njk0LDgwODIzNDIzNywxODA2Nzg4NTI5LDE4MDY3ODg1Mjks
+LTk5MTE4OTkwMSwtMjc3NTgyNzk5LC05MzU4MTY2MTEsMTE2MT
+k1MTcwLDEwMDE0MzY4NTNdfQ==
 -->
