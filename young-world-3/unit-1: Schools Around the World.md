@@ -2,7 +2,7 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO)will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.* 
 
-**This unit discusses school buildings, classrooms, school timetable, uniforms.  Here are some suggestions for native English speakers to find out more about other schools and what happens there:**
+**This unit discusses school buildings, classrooms, school timetable, uniforms.  Here are some suggestions for native English speakers to find out more aboutther and what happens there:**
 
 
 ## Literature
@@ -28,7 +28,7 @@ This 2016 updated version of a DK classic shows children from Botswana to Turkey
 ### The Boy Who Harnessed the Wind, by William Kampwamba
 <img src="https://imgur.com/XF93Hnq.png" width="25%" />
 
-This inspirational true story is about a boy from Africa who uses items around him to build a pump to get water to grow crops. This edition has been retold for a younger audience.  The story has also been made into a film which can be seen on Netflix. (860L)
+This inspirational true story is about a boy from Africa who uses items around him to build a pump to get water to grow crops. This edition has been retold for a younger audience.  The story has also been made into a film which can be seen on Netflix. (860L)summary here.
 
 <a href="https://www.bookdepository.com/Boy-Who-Harnessed-Wind-William-Kamkwamba/9780147510426?ref=grid-view&qid=1665854100400&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -37,7 +37,7 @@ This inspirational true story is about a boy from Africa who uses items around h
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
-summary here.  (Lexile )  
+  (Lexile )  
 
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
@@ -86,8 +86,8 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzM4MTI5NSw5MDMyMjMyNjgsMjgzMT
-c4NTk5LDcwODUyNTU4NywxNjMzNTEzMjkxLC0xNjE2NDYzNTgw
-LDUxNzA1NzYwOCwxMTg1NjI1NzI4LC0xNDI1NjY4MDMyLDExMz
-QxOTA3OCwxNTczMDI2MjI1XX0=
+eyJoaXN0b3J5IjpbLTk4NjA4NzUyNSwtOTQ3MzgxMjk1LDkwMz
+IyMzI2OCwyODMxNzg1OTksNzA4NTI1NTg3LDE2MzM1MTMyOTEs
+LTE2MTY0NjM1ODAsNTE3MDU3NjA4LDExODU2MjU3MjgsLTE0Mj
+U2NjgwMzIsMTEzNDE5MDc4LDE1NzMwMjYyMjVdfQ==
 -->
