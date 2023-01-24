@@ -35,7 +35,7 @@ summary here.  (Lexile 880L)
 <a href="https://www.bookdepository.com/Be-Unstoppable-Bethany-Hamilton/9780310764854" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1047658847" rel="nofollow">Buy on Orell Füssli</a> 
 
-### The Impossible Climb (Young Readers Adaptation): Alex Honnold, El Capitan, and a Climber's Life, by Mark Synnott
+### No Summit out of Sight, by Jordan Romero
 <img src="https://i.imgur.com/Zxuz7N8.png" width="25%" />
 
 summary here.  (Lexile Level unavailable)
@@ -60,7 +60,7 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4MjAwODQ4LDgwODIzNDIzNywxODA2Nz
-g4NTI5LDE4MDY3ODg1MjksLTk5MTE4OTkwMSwtMjc3NTgyNzk5
-LC05MzU4MTY2MTEsMTE2MTk1MTcwLDEwMDE0MzY4NTNdfQ==
+eyJoaXN0b3J5IjpbLTE4NTcyNjM0NCw4MDgyMzQyMzcsMTgwNj
+c4ODUyOSwxODA2Nzg4NTI5LC05OTExODk5MDEsLTI3NzU4Mjc5
+OSwtOTM1ODE2NjExLDExNjE5NTE3MCwxMDAxNDM2ODUzXX0=
 -->
