@@ -10,9 +10,20 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+Now in Public Domain.  Available for free on Project Gutenberg 
+https://www.gutenberg.org/ebooks/14522
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Mzk3MTkxMywtMTIyMzYxMTAwOV19
+eyJoaXN0b3J5IjpbMTM0MDkyMTkyMSwtMTIyMzYxMTAwOV19
 -->
