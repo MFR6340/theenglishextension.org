@@ -1,7 +1,7 @@
 
 # Open World 3, Unit 5: Green Ideas
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
-It's a poignant unit to have as the cost of energy rises.  This unit discusses way sources of energy from solar, nuclear and wind as well as ways to save energy. 
+It's a poignant unit to have as the cost of energy rises.  This unit discusses way sources of energy from solar, nuclear and wind.  It also talks about recycling and ways to save energy.  Here are some books about this topic: 
 
 ### Title here, by author here
 
@@ -13,6 +13,6 @@ summary here.  (Lexile Level     )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3MTEzODkyLC0yNzg2OTE3ODAsODc5Nz
-EwNDI2LC0xMDk2NzUzNzAxXX0=
+eyJoaXN0b3J5IjpbLTQ2MTg5MDgwNywtMjc4NjkxNzgwLDg3OT
+cxMDQyNiwtMTA5Njc1MzcwMV19
 -->
