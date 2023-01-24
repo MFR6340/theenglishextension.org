@@ -3,7 +3,7 @@
 
 **This unit is on extreme sports.  There is a lot of literature that covers this theme.  Here are some suggestions to get you started:** 
 
-### How Angel Peterson Got His Name and other outrageous tales about extreme sports, by Gary Paulsen
+### How Angel Peterson Got His Name, by Gary Paulsen
 
 <img src="https://i.imgur.com/xpmy1nB.png" width="25%" />
 
@@ -75,8 +75,8 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMjQwNTM2LDM0NzY2MjYyOCwtMjc3OT
-M0Njk0LDgwODIzNDIzNywxODA2Nzg4NTI5LDE4MDY3ODg1Mjks
-LTk5MTE4OTkwMSwtMjc3NTgyNzk5LC05MzU4MTY2MTEsMTE2MT
-k1MTcwLDEwMDE0MzY4NTNdfQ==
+eyJoaXN0b3J5IjpbLTI5MDg3MTgwMiwxNTAyNDA1MzYsMzQ3Nj
+YyNjI4LC0yNzc5MzQ2OTQsODA4MjM0MjM3LDE4MDY3ODg1Mjks
+MTgwNjc4ODUyOSwtOTkxMTg5OTAxLC0yNzc1ODI3OTksLTkzNT
+gxNjYxMSwxMTYxOTUxNzAsMTAwMTQzNjg1M119
 -->
