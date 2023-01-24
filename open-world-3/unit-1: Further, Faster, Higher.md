@@ -5,12 +5,12 @@
 
 ### How Angel Peterson Got His Name and other outrageous tales about extreme sports, by Gary Paulsen
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://i.imgur.com/xpmy1nB.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005962607" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -38,6 +38,6 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzU4Mjc5OSwtOTM1ODE2NjExLDExNj
-E5NTE3MCwxMDAxNDM2ODUzXX0=
+eyJoaXN0b3J5IjpbLTEzNTU3NzI5MjAsLTI3NzU4Mjc5OSwtOT
+M1ODE2NjExLDExNjE5NTE3MCwxMDAxNDM2ODUzXX0=
 -->
