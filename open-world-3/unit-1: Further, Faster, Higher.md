@@ -43,6 +43,13 @@ summary here.  (Lexile 850L)
 <a href="https://www.bookdepository.com/No-Summit-out-Sight-Jordan-Romero/9781481432764?ref=grid-view&qid=1674579431307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034721479" rel="nofollow">Buy on Orell Füssli</a> 
 
+### No Barriers,(YA edition) by Erik Weihenmayer (A Blind Man’s Journey to Kayak the Grand Canyon)
+<img src="https://i.imgur.com/y5UjtmX.jpg" width="25%" />
+
+summary here.  (Lexile 850L)
+
+<a href="https://www.bookdepository.com/No-Summit-out-Sight-Jordan-Romero/9781481432764?ref=grid-view&qid=1674579431307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034721479" rel="nofollow">Buy on Orell Füssli</a> 
 # Supplemental Activities
 
 
@@ -60,7 +67,8 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzkzNDY5NCw4MDgyMzQyMzcsMTgwNj
-c4ODUyOSwxODA2Nzg4NTI5LC05OTExODk5MDEsLTI3NzU4Mjc5
-OSwtOTM1ODE2NjExLDExNjE5NTE3MCwxMDAxNDM2ODUzXX0=
+eyJoaXN0b3J5IjpbLTE1OTc4MjE0NDcsLTI3NzkzNDY5NCw4MD
+gyMzQyMzcsMTgwNjc4ODUyOSwxODA2Nzg4NTI5LC05OTExODk5
+MDEsLTI3NzU4Mjc5OSwtOTM1ODE2NjExLDExNjE5NTE3MCwxMD
+AxNDM2ODUzXX0=
 -->
