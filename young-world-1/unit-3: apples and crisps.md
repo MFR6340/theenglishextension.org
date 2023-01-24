@@ -1,5 +1,5 @@
 # Young World 1, Unit 3: Apples and Crisps
-*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 **This Klett unit covers food, shopping and writing a list.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 
@@ -37,7 +37,7 @@ In the town of Chewandswallow, the inhabitants don’t grow food, they get their
 
 <img src="https://imgur.com/coj2LrO.png" width="25%" />
 
-A very easy read about three hungry soldiers convince an unwilling town to make them soup. Based on a European folktale.  (Lexile 550L)
+A very easy read about tThree hungry soldiers convince an unwilling town to make them soup. Based on a European folktale.  (Lexile 550L)
 
 <a href="https://www.bookdepository.com/Stone-Soup-Marcia-Brown/9780689711039?ref=grid-view&qid=1654272719571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1028650164" rel="nofollow">Buy on Orell Füssli</a>
@@ -93,5 +93,5 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDc3MDQ5OV19
+eyJoaXN0b3J5IjpbNDAwMzE2MjM1LC04MzQ3NzA0OTldfQ==
 -->
