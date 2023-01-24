@@ -30,6 +30,14 @@ summary here.  (Lexile Level unavailable)
 ### Be Unstoppable: The Art of Never Giving Up by Bethany Hamilton
 <img src="https://i.imgur.com/AkXg87B.png" width="35%" />
 
+summary here.  (Lexile 880L)
+
+<a href="https://www.bookdepository.com/Impossible-Climb-Young-Readers-Adaptation-Mark-Synnott/9780593203934?ref=grid-view&qid=1674577500528&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061902668" rel="nofollow">Buy on Orell Füssli</a> 
+
+### The Impossible Climb (Young Readers Adaptation): Alex Honnold, El Capitan, and a Climber's Life, by Mark Synnott
+<img src="https://i.imgur.com/Zxuz7N8.png" width="25%" />
+
 summary here.  (Lexile Level unavailable)
 
 <a href="https://www.bookdepository.com/Impossible-Climb-Young-Readers-Adaptation-Mark-Synnott/9780593203934?ref=grid-view&qid=1674577500528&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
@@ -52,7 +60,7 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2MTMxMDY3LDgwODIzNDIzNywxODA2Nz
-g4NTI5LDE4MDY3ODg1MjksLTk5MTE4OTkwMSwtMjc3NTgyNzk5
-LC05MzU4MTY2MTEsMTE2MTk1MTcwLDEwMDE0MzY4NTNdfQ==
+eyJoaXN0b3J5IjpbMTkzOTAxMzMxOSw4MDgyMzQyMzcsMTgwNj
+c4ODUyOSwxODA2Nzg4NTI5LC05OTExODk5MDEsLTI3NzU4Mjc5
+OSwtOTM1ODE2NjExLDExNjE5NTE3MCwxMDAxNDM2ODUzXX0=
 -->
