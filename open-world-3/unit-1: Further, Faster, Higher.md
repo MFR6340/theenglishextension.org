@@ -48,8 +48,8 @@ summary here.  (Lexile 850L)
 
 summary here.  (Lexile 1010L)
 
-<a href="https://www.bookdepository.com/No-Summit-out-Sight-Jordan-Romero/9781481432764?ref=grid-view&qid=1674579431307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034721479" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/No-Barriers-Young-Adult-Adaptation-Erik-Weihenmayer/9781250206770?ref=grid-view&qid=1674579740096&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051880195" rel="nofollow">Buy on Orell Füssli</a> 
 # Supplemental Activities
 
 
@@ -67,8 +67,8 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTA2NDgzNCwtMjc3OTM0Njk0LDgwOD
-IzNDIzNywxODA2Nzg4NTI5LDE4MDY3ODg1MjksLTk5MTE4OTkw
-MSwtMjc3NTgyNzk5LC05MzU4MTY2MTEsMTE2MTk1MTcwLDEwMD
-E0MzY4NTNdfQ==
+eyJoaXN0b3J5IjpbMzQ3NjYyNjI4LC0yNzc5MzQ2OTQsODA4Mj
+M0MjM3LDE4MDY3ODg1MjksMTgwNjc4ODUyOSwtOTkxMTg5OTAx
+LC0yNzc1ODI3OTksLTkzNTgxNjYxMSwxMTYxOTUxNzAsMTAwMT
+QzNjg1M119
 -->
