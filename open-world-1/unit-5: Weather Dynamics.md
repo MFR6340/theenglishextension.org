@@ -1,6 +1,6 @@
 
 # Open World 1, Unit 5: Weather Dynamics
-*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.* 
 
 **In this unit, students describe the weather in a postcard, learn about the wind scale, blizzards, preparing for a hurricane, and weather idioms.  There may also be books from Young World 1, Unit 4 that are appropriate for this unit.**    
 
@@ -16,5 +16,6 @@ Strongly recommend the movie by the same name.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDgwMDEyNDAsLTc0NDI1MjUxNl19
+eyJoaXN0b3J5IjpbMTM0NTQzNDEyNCwtMTAwODAwMTI0MCwtNz
+Q0MjUyNTE2XX0=
 -->
