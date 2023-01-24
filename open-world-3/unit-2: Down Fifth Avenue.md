@@ -45,8 +45,8 @@ summary here.  (Lexile Level     )
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Catcher-Rye-J-D-Salinger/9780316769488?ref=grid-view&qid=1674588767157&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001544993" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -75,7 +75,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzMyODIzMDMsLTE0NzgwMzM0NzQsLT
+eyJoaXN0b3J5IjpbLTE3MTMyOTc5NDIsLTE0NzgwMzM0NzQsLT
 E2NTk1NDMxNzksMTA5NTUzMDE2NywtMTA1Nzc4NDU3NSwyMDEy
 MjYxNzE2XX0=
 -->
