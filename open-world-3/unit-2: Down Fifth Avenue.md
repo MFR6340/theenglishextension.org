@@ -19,10 +19,9 @@ summary here.  (Lexile Level     )
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1011336941" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Not For Parents New York City: Everything You Ever Wanted to Know, Lonely Planet
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -85,6 +84,6 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzIyNzkyNywxMDk1NTMwMTY3LC0xMD
-U3Nzg0NTc1LDIwMTIyNjE3MTZdfQ==
+eyJoaXN0b3J5IjpbLTE2NTk1NDMxNzksMTA5NTUzMDE2NywtMT
+A1Nzc4NDU3NSwyMDEyMjYxNzE2XX0=
 -->
