@@ -14,7 +14,7 @@ summary here.  (Lexile Level     )
 
 <img src="imgurlinkhere.png" width="25%" />
 
-This story by famous author Oscar Wilde is mentioned in this unit.  Here's a chance to read it in full.  An American family moves to England to a house that is said to be inhabited by a ghost.  It becomes clear that the house is indeed haunted, so they start teasing and bothering the ghost.  AUltimately, the family It's not long, less than 50 pages.    (Lexile Level 1360L )
+This shorter story by famous author Oscar Wilde is mentioned in this unit.  Here's a chance to read it in full.  An American family moves to England to a house that is said to be inhabited by a ghost.  It becomes clear that the house is indeed haunted, so they start teasing and bothering the ghost.  (Lexile Level 1360L )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -25,6 +25,5 @@ https://www.gutenberg.org/ebooks/14522
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDcwMDUzMTksLTEyMjM2MTEwMDldfQ
-==
+eyJoaXN0b3J5IjpbMjAyNjMzMjU4OSwtMTIyMzYxMTAwOV19
 -->
