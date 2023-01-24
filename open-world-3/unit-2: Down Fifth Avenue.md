@@ -13,9 +13,9 @@ summary here.  (Lexile Level     )
 <a href="https://www.bookdepository.com/New-York-Underground-Julia-Solis/9780415963107?ref=grid-view&qid=1674587892650&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002727034" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Weird New York: Your Travel Guide to New York’s Local Legends and Best Kept Secrets
+### Weird New York, by Chris Gethard
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/V6HMoFv.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
@@ -85,6 +85,6 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTQxMzgxOSwxMDk1NTMwMTY3LC0xMD
+eyJoaXN0b3J5IjpbLTYwMzIyNzkyNywxMDk1NTMwMTY3LC0xMD
 U3Nzg0NTc1LDIwMTIyNjE3MTZdfQ==
 -->
