@@ -7,18 +7,17 @@
 
 <img src="https://i.imgur.com/xpmy1nB.png" width="25%" />
 
-summary here.  (Lexile Level     )
+summary here.  (Lexile 1    )
 
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005962607" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Winterdance: The Fine Madness of Alaskan Dog Racing, by Gary Paulsen
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://i.imgur.com/D4rBCsL.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002615795" rel="nofollow">Buy on Orell Füssli</a> 
  
 # Supplemental Activities
 
@@ -37,6 +36,6 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxNTUwMjA0LC0yNzc1ODI3OTksLTkzNT
-gxNjYxMSwxMTYxOTUxNzAsMTAwMTQzNjg1M119
+eyJoaXN0b3J5IjpbLTEzNDkzNTgwNDUsLTI3NzU4Mjc5OSwtOT
+M1ODE2NjExLDExNjE5NTE3MCwxMDAxNDM2ODUzXX0=
 -->
