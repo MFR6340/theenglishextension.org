@@ -20,12 +20,12 @@ summary here.  (Lexile 1060L)
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002615795" rel="nofollow">Buy on Orell Füssli</a> 
 
  ### The Impossible Climb (Young Readers Adaptation): Alex Honnold, El Capitan, and a Climber's Life, by Mark Synnott
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://i.imgur.com/Zxuz7N8.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Impossible-Climb-Young-Readers-Adaptation-Mark-Synnott/9780593203934?ref=grid-view&qid=1674577500528&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061902668" rel="nofollow">Buy on Orell Füssli</a> 
 
 # Supplemental Activities
 
@@ -44,6 +44,7 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MTE4OTkwMSwtMjc3NTgyNzk5LC05Mz
-U4MTY2MTEsMTE2MTk1MTcwLDEwMDE0MzY4NTNdfQ==
+eyJoaXN0b3J5IjpbMTgwNjc4ODUyOSwtOTkxMTg5OTAxLC0yNz
+c1ODI3OTksLTkzNTgxNjYxMSwxMTYxOTUxNzAsMTAwMTQzNjg1
+M119
 -->
