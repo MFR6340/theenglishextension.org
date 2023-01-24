@@ -1,5 +1,5 @@
 # Young World 1, Unit 6: The House
-*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
+*This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit describes homes around the world and discusses the materials used to build them.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 
@@ -47,8 +47,8 @@ Written in rhyming couplets, imaginative Jack wants to design his own house.  He
 Explore the structures on many acres of the Ballenberg Open-Air Museum.  It has over 100 different traditional buildings which have been transported from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial and crafting buildings which are still used for demonstrations.  Listed as a heritage site of national significance, it is a wonderful way to spend a day. 
 https://www.ballenberg.ch/en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDg0MTM2OCwtMTQ4NDQ2OTE4OCwyMD
-Q3ODczMDE1LDk5NTIwNjcwNCwxMTk1MjYyNzYsLTExNDQyODY5
-ODEsLTEyMDE3MTYwOSwxMjM2NjM5NDQsLTE2NDYxNDMzNzAsMj
-ExNjU5NTIxOSwtODkxODg0ODkzXX0=
+eyJoaXN0b3J5IjpbLTEyOTEzMTU4MDAsMjA5NDg0MTM2OCwtMT
+Q4NDQ2OTE4OCwyMDQ3ODczMDE1LDk5NTIwNjcwNCwxMTk1MjYy
+NzYsLTExNDQyODY5ODEsLTEyMDE3MTYwOSwxMjM2NjM5NDQsLT
+E2NDYxNDMzNzAsMjExNjU5NTIxOSwtODkxODg0ODkzXX0=
 -->
