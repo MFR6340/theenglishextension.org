@@ -13,7 +13,78 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTUzMDE2NywtMTA1Nzc4NDU3NSwyMD
-EyMjYxNzE2XX0=
+eyJoaXN0b3J5IjpbLTMxNjUzMDM1OSwxMDk1NTMwMTY3LC0xMD
+U3Nzg0NTc1LDIwMTIyNjE3MTZdfQ==
 -->
