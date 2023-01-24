@@ -36,7 +36,7 @@ summary here.  (Lexile 880L)
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1047658847" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### No Summit out of Sight, by Jordan Romero
-<img src="https://i.imgur.com/Zxuz7N8.png" width="25%" />
+<img src="https://i.imgur.com/y5UjtmX.jpg" width="25%" />
 
 summary here.  (Lexile 850L)
 
@@ -60,7 +60,7 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTE4NzQ4Niw4MDgyMzQyMzcsMTgwNj
+eyJoaXN0b3J5IjpbLTI3NzkzNDY5NCw4MDgyMzQyMzcsMTgwNj
 c4ODUyOSwxODA2Nzg4NTI5LC05OTExODk5MDEsLTI3NzU4Mjc5
 OSwtOTM1ODE2NjExLDExNjE5NTE3MCwxMDAxNDM2ODUzXX0=
 -->
