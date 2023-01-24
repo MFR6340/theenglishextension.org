@@ -14,7 +14,7 @@ summary here.  (Lexile Level     )
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     )
+summary here.  (Lexile Level 1360L )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -25,5 +25,5 @@ https://www.gutenberg.org/ebooks/14522
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MDkyMTkyMSwtMTIyMzYxMTAwOV19
+eyJoaXN0b3J5IjpbODI1Mjc3NzEzLC0xMjIzNjExMDA5XX0=
 -->
