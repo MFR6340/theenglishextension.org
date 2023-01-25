@@ -56,20 +56,9 @@ This fantastic story by famous author Oscar Wilde is mentioned in this unit.  He
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038959456" rel="nofollow">Buy on Orell Füssli</a> 
 
 The book is now in public domain.  Available for free on Project Gutenberg https://www.gutenberg.org/ebooks/14522
-
-### Dread and Delight, Edited by Philppa Pearce
-<img src="https://i.imgur.com/BB5CeuU.png" width="25%" />
-
-summary here.  (Lexile 720L)
-
-<a href="https://www.bookdepository.com/Lockwood-Co-Screaming-Staircase-Jonathan-Stroud/9780552566797?ref=grid-view&qid=1674661950396&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033516174" rel="nofollow">Buy on Orell Füssli</a> 
-
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODIzNDM0NCwtNTAzNzQzMjQ2LDEzOD
-U0NDE5NTcsLTE2MjM1OTYyOTQsLTEyMjE3MDY2NzMsLTE3NTUw
-MDQwMzMsLTIwNjk4NDI4NSwzNTUwOTA2OTUsLTEyMjM2MTEwMD
-ldfQ==
+eyJoaXN0b3J5IjpbLTExNzAxNzMxMjYsLTUwMzc0MzI0NiwxMz
+g1NDQxOTU3LC0xNjIzNTk2Mjk0LC0xMjIxNzA2NjczLC0xNzU1
+MDA0MDMzLC0yMDY5ODQyODUsMzU1MDkwNjk1LC0xMjIzNjExMD
+A5XX0=
 -->
