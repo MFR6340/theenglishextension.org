@@ -12,6 +12,22 @@ summary here.  (Lexile Level     )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### The Canterville Ghost, by Oscar Wilde
 
@@ -28,6 +44,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE3MDY2NzMsLTE3NTUwMDQwMzMsLT
-IwNjk4NDI4NSwzNTUwOTA2OTUsLTEyMjM2MTEwMDldfQ==
+eyJoaXN0b3J5IjpbNzA5NjgyNTQzLC0xMjIxNzA2NjczLC0xNz
+U1MDA0MDMzLC0yMDY5ODQyODUsMzU1MDkwNjk1LC0xMjIzNjEx
+MDA5XX0=
 -->
