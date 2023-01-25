@@ -23,7 +23,7 @@ summary here.  (Lexile Level     )
 ### Lockwood & Company: The Screaming Staircase by Jonathan Stroud
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     )
+summary here.  (Lexile 720L)
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -43,7 +43,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjM1OTYyOTQsLTEyMjE3MDY2NzMsLT
-E3NTUwMDQwMzMsLTIwNjk4NDI4NSwzNTUwOTA2OTUsLTEyMjM2
-MTEwMDldfQ==
+eyJoaXN0b3J5IjpbLTE4NTg5NDgyNTcsLTE2MjM1OTYyOTQsLT
+EyMjE3MDY2NzMsLTE3NTUwMDQwMzMsLTIwNjk4NDI4NSwzNTUw
+OTA2OTUsLTEyMjM2MTEwMDldfQ==
 -->
