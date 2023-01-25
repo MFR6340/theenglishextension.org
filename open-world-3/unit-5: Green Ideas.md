@@ -25,17 +25,17 @@ summary here.  (Lexile Level     )
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Finding-Out-About-Solar-Energy-Matt-Doeden/9781467745574?ref=grid-view&qid=1674668108701&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033492039" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Nuclear Energy, by Debra A. Miller
 
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1011998549" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -73,7 +73,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYxNTE1MzYsMTA2OTI5NTUwMiwtMj
+eyJoaXN0b3J5IjpbLTE5MDEyMzg1OTIsMTA2OTI5NTUwMiwtMj
 A1NTg2MjYyOCwtMjc4NjkxNzgwLDg3OTcxMDQyNiwtMTA5Njc1
 MzcwMV19
 -->
