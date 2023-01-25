@@ -48,12 +48,12 @@ summary here.  (Lexile Level unavailable)
 
 ### The Tell Tale Heart and Other Writings,by Edgar Allan Poe
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://i.imgur.com/m4YPtYv.png" width="25%" />
 
 summary here.  (Lexile Level 1350L)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Tell-Tale-Heart-Edgar-Allan-Poe/9780141397269?ref=grid-view&qid=1674663558308&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018013231" rel="nofollow">Buy on Orell Füssli</a>
 
 ### The Canterville Ghost, by Oscar Wilde
 
@@ -70,7 +70,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODc3OTg1NSwtMTYyMzU5NjI5NCwtMT
+eyJoaXN0b3J5IjpbMTM4NTQ0MTk1NywtMTYyMzU5NjI5NCwtMT
 IyMTcwNjY3MywtMTc1NTAwNDAzMywtMjA2OTg0Mjg1LDM1NTA5
 MDY5NSwtMTIyMzYxMTAwOV19
 -->
