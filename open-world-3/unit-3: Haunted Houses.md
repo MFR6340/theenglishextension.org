@@ -37,6 +37,24 @@ summary here.  (Lexile 720L)
 <a href="https://www.bookdepository.com/Lockwood-Co-Screaming-Staircase-Jonathan-Stroud/9780552566797?ref=grid-view&qid=1674661950396&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033516174" rel="nofollow">Buy on Orell Füssli</a> 
 
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+
 ### The Canterville Ghost, by Oscar Wilde
 
 <img src="https://i.imgur.com/HF91aHM.png" width="25%" />
@@ -52,7 +70,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI2Nzc0MjYsLTE2MjM1OTYyOTQsLT
-EyMjE3MDY2NzMsLTE3NTUwMDQwMzMsLTIwNjk4NDI4NSwzNTUw
-OTA2OTUsLTEyMjM2MTEwMDldfQ==
+eyJoaXN0b3J5IjpbMTYzNjIxNDA4LC0xNjIzNTk2Mjk0LC0xMj
+IxNzA2NjczLC0xNzU1MDA0MDMzLC0yMDY5ODQyODUsMzU1MDkw
+Njk1LC0xMjIzNjExMDA5XX0=
 -->
