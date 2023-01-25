@@ -4,11 +4,13 @@
 
 **This unit covers how animals communicate, with emphasis on ants, bees, whales, chimpanzees and apes.** 
 
-### Title here, by author here
+
+### Jim Baker’s Blue Jay Yarn, by Mark Twain
+
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.
+This is one of Mark Twain's m
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -23,6 +25,6 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxNTIwNzkzLDE3ODgyNDI4NjEsLTEwMj
-MwNjc2NDZdfQ==
+eyJoaXN0b3J5IjpbLTE3MTI3NDkyNjMsMTc4ODI0Mjg2MSwtMT
+AyMzA2NzY0Nl19
 -->
