@@ -39,11 +39,11 @@ summary here.  (Lexile 720L)
 
 ### The Complete Wandering Ghosts, by F. Marion 
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://i.imgur.com/K4gyDHT.png" width="25%" />
 
-summary here.  (Lexile Level     )
+summary here.  (Lexile Level unavailable)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Complete-Wandering-Ghosts-F-Marion-Crawford/9781592240395?ref=grid-view&qid=1674663246069&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Title here, by author here
@@ -70,7 +70,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3ODY3NDkyLC0xNjIzNTk2Mjk0LC0xMj
-IxNzA2NjczLC0xNzU1MDA0MDMzLC0yMDY5ODQyODUsMzU1MDkw
-Njk1LC0xMjIzNjExMDA5XX0=
+eyJoaXN0b3J5IjpbLTc5OTIwMDM0MSwtMTYyMzU5NjI5NCwtMT
+IyMTcwNjY3MywtMTc1NTAwNDAzMywtMjA2OTg0Mjg1LDM1NTA5
+MDY5NSwtMTIyMzYxMTAwOV19
 -->
