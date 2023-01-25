@@ -18,8 +18,7 @@ summary here.  (Lexile Level     )
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Whats-the-Big-Idea-Sue-Lawson-Karen-Tayleur/9781742036267" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Title here, by author here
 
@@ -93,7 +92,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjcxODQ2MzksLTc0NTcwNTY2OSw0OT
-AyMjEwNjgsMTkzNjQyNjksMzg3NDQ4MDc1LC0zMDY2NDEwNDJd
-fQ==
+eyJoaXN0b3J5IjpbMTcyNTM3ODczLC03NDU3MDU2NjksNDkwMj
+IxMDY4LDE5MzY0MjY5LDM4NzQ0ODA3NSwtMzA2NjQxMDQyXX0=
+
 -->
