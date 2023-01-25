@@ -17,8 +17,8 @@ summary here.  (Lexile Level     )
 
 summary here.  (Lexile 920L)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Haunting-Hill-House-Shirley-Jackson/9780143039983?ref=grid-view&qid=1674662812308&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1055995808" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Miss Peregrine’s Home for Peculiar Children, by Ransom Riggs
 
@@ -52,7 +52,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NjgzMTQyNCwtMTYyMzU5NjI5NCwtMT
+eyJoaXN0b3J5IjpbMTMyMTI3NTM3MiwtMTYyMzU5NjI5NCwtMT
 IyMTcwNjY3MywtMTc1NTAwNDAzMywtMjA2OTg0Mjg1LDM1NTA5
 MDY5NSwtMTIyMzYxMTAwOV19
 -->
