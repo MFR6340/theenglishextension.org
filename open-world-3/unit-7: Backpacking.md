@@ -6,7 +6,7 @@
 
 ### Seven Little Australians, by Ethel Sybil Turner
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/T3N9XfT.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
@@ -94,6 +94,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NTcwNTY2OSw0OTAyMjEwNjgsMTkzNj
-QyNjksMzg3NDQ4MDc1LC0zMDY2NDEwNDJdfQ==
+eyJoaXN0b3J5IjpbLTg1MzEyODMzMiwtNzQ1NzA1NjY5LDQ5MD
+IyMTA2OCwxOTM2NDI2OSwzODc0NDgwNzUsLTMwNjY0MTA0Ml19
+
 -->
