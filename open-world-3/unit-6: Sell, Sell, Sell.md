@@ -37,14 +37,14 @@ summary here.  (Lexile Level     )
 
 <a href="https://www.bookdepository.com/Taking-Bite-out-Apple-Rob-Janoff/9781911221616?ref=grid-view&qid=1674675007732&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-### Title here, by author here
+### Eat This! How Fast Food Marketing Gets you to Buy Junk by Andrea Curtis
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/JerfxFx.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Eat-This-Andrea-Curtis-Peggy-Collins/9780889955325" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/suche?sq=Eat+This%21+How+Fast+Food+Marketing+Gets+you+to+Buy+Junk+by+Andrea+Curtis" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -57,6 +57,6 @@ summary here.  (Lexile Level     )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5NDI0NjY0LC0xODE5NDc2MTk3LC03MD
-IzMjI5NzUsLTIwMTA1OTI2NDgsMTI3MDYzODM3OF19
+eyJoaXN0b3J5IjpbLTE3NzE1Njc4MDYsLTE4MTk0NzYxOTcsLT
+cwMjMyMjk3NSwtMjAxMDU5MjY0OCwxMjcwNjM4Mzc4XX0=
 -->
