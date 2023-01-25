@@ -53,16 +53,15 @@ summary here.  (Lexile Level     )
 
 <a href="https://www.bookdepository.com/Meltdown-Fred-Bortz/9780761386605" rel="nofollow"> Buy on BookDepository</a>  
 
-### Title here, by author here
-
+### Escape From Chernobyl, by Andy Marino
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Escape-from-Chernobyl-Andy-Marino/9780702322167?ref=grid-view&qid=1674669099998&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061776983" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0MDMyMzgsMzUwMzY4NTUzLDEwNjkyOT
-U1MDIsLTIwNTU4NjI2MjgsLTI3ODY5MTc4MCw4Nzk3MTA0MjYs
-LTEwOTY3NTM3MDFdfQ==
+eyJoaXN0b3J5IjpbLTExODEwOTkzMTksMzUwMzY4NTUzLDEwNj
+kyOTU1MDIsLTIwNTU4NjI2MjgsLTI3ODY5MTc4MCw4Nzk3MTA0
+MjYsLTEwOTY3NTM3MDFdfQ==
 -->
