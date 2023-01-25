@@ -12,7 +12,7 @@ summary here.  (Lexile Level     )
 <a href="https://www.bookdepository.com/Murder-Must-Advertise-Dorothy-L-Sayers/9781473621381?ref=grid-view&qid=1674674128936&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039812685" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### The lemonade War, by Jacqueline Davies
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -58,6 +58,6 @@ summary here.  (Lexile Level     )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg2MjUyOTQsLTcwMjMyMjk3NSwtMj
-AxMDU5MjY0OCwxMjcwNjM4Mzc4XX0=
+eyJoaXN0b3J5IjpbOTUwNDc5NDQwLC03MDIzMjI5NzUsLTIwMT
+A1OTI2NDgsMTI3MDYzODM3OF19
 -->
