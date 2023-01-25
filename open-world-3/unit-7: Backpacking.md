@@ -22,12 +22,11 @@ summary here.  (Lexile Level     )
 
 ### Show Me the Money, by Sue Lawson
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/afdE6FI.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Show-me-the-Money-Sue-Lawson-Karen-Tayleur/9781742035895" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Title here, by author here
 
@@ -92,7 +91,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgyODM1ODEsLTc0NTcwNTY2OSw0OT
-AyMjEwNjgsMTkzNjQyNjksMzg3NDQ4MDc1LC0zMDY2NDEwNDJd
-fQ==
+eyJoaXN0b3J5IjpbMTk3OTkyMDU5MiwtNzQ1NzA1NjY5LDQ5MD
+IyMTA2OCwxOTM2NDI2OSwzODc0NDgwNzUsLTMwNjY0MTA0Ml19
+
 -->
