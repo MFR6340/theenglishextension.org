@@ -31,12 +31,11 @@ summary here.  (Lexile Level     )
 
 ### Taking a Bite out of the Apple, by Rob Janoff
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/Phe9gkz.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Taking-Bite-out-Apple-Rob-Janoff/9781911221616?ref=grid-view&qid=1674675007732&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Title here, by author here
 
@@ -58,6 +57,6 @@ summary here.  (Lexile Level     )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjIxNjgzLC0xODE5NDc2MTk3LC03MD
+eyJoaXN0b3J5IjpbNTQ5NDI0NjY0LC0xODE5NDc2MTk3LC03MD
 IzMjI5NzUsLTIwMTA1OTI2NDgsMTI3MDYzODM3OF19
 -->
