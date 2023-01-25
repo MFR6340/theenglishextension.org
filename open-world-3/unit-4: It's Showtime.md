@@ -32,14 +32,14 @@ summary here.  (Lexile Level     )
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1055251449" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-### Title here, by author here
+### The Boy Who Got Accidentally Famous, by David Baddiel
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/blwLMJc.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Boy-Who-Got-Accidentally-Famous-David-Baddiel/9780008334277?ref=grid-view&qid=1674667518910&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061672511" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 ### Title here, by author here
@@ -52,6 +52,6 @@ summary here.  (Lexile Level     )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODYxMTIxNCwtMTUwNDYzMjI3NCw4MD
+eyJoaXN0b3J5IjpbLTc4Mjc5MjI0MywtMTUwNDYzMjI3NCw4MD
 M1Nzg1MzMsMTYyMzM3MTY5Nl19
 -->
