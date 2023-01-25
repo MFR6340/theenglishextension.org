@@ -4,7 +4,7 @@
 **This unit covers ghosts and haunted houses, using the famous Oscar Wilde story, The Canterville Ghost as a basis.   Here are some haunted stories, none too gruesome, for your reading pleasure:** 
 
 
-### Title here, by author here
+### Dread and Delight: A Century of Children’s Ghost Stories, Edited by Philppa Pearce
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -70,7 +70,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTQ0MTk1NywtMTYyMzU5NjI5NCwtMT
-IyMTcwNjY3MywtMTc1NTAwNDAzMywtMjA2OTg0Mjg1LDM1NTA5
-MDY5NSwtMTIyMzYxMTAwOV19
+eyJoaXN0b3J5IjpbLTEyMzg2NTEzMzYsMTM4NTQ0MTk1NywtMT
+YyMzU5NjI5NCwtMTIyMTcwNjY3MywtMTc1NTAwNDAzMywtMjA2
+OTg0Mjg1LDM1NTA5MDY5NSwtMTIyMzYxMTAwOV19
 -->
