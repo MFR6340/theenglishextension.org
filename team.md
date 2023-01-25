@@ -9,9 +9,7 @@ Theresa lives in Rotkreuz  (ZG )with her husband and two children. She holds a B
 **Sylvia Nadig**
 Sylvia has been the Head of the Department of Foreign Languages and a Lecturer for English Methodology at the Pädagogische Hochschule Zug since 2004. She has also years of experience as a teacher of English and French. Sylvia is focusing on the topic of supporting English-speaking students during their English lessons at the local primary schools and knows the coursebook Young World inside out. She has also had the opportunity to compare other education systems and has been a visiting scholar at the University of Pennsylvania in Philadelphia, USA, the University of Washington in Seattle, USA as well as at Deakin University in Melbourne, Australia. She lives with her family in Cham (ZG).
 
-**Louise Villiger** Louise holds a Bachelors in Business Studies from DCU in Ireland, and a PGCE in Primary Education from St. Mary’s Twickenham, U.K. She worked in primary schools in central London and in Donegal, Ireland.  After she moved to Switzerland,  she taught in two international schools, finding her dream job of working as a library teacher at ISZL before motherhood called. She has worked as a private tutor of the English language for adults and children. She is currently teaching native English speakers at the Oberägeri primary school where she lives with her family.
-
-
+**Louise Villiger** Louise holds a Bachelors in Business Studies from DCU in Ireland, and a PGCE in Primary Education from St. Mary’s Twickenham, U.K. She worked in primary schools in central London and in Donegal, Ireland.  After she moved to Switzerland,  she taught in two international schools, finding her dream job of working as a library teacher at ISZL before motherhood called. She has worked as a private English tutor for adults and children. She is currently teaching native English speakers at the Oberägeri primary school where she lives with her family.
 
 **Tina Hörning**
 Tina holds a BA in Early Childhood and Elementary Education from the University of Rhode Island (USA).  In the United States, she taught Kindergarten, 1st and 2nd Grades, and substituted in all primary school grades.  She lives in Cham (ZG) with her husband and three children and works in the local Swiss schools providing support to native English speakers. 
@@ -37,8 +35,8 @@ Stormy currently runs the English Mentoring Program for the primary schools of t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjE5NTA0NCwtMTM2NTc1MDgyMiwtMT
-gzMTI5NDgxNCwyMTE1MzMyMzk2LDIzMTY3NDQ2NCwtMjA1MDE5
-MTgwOCwtMTAyNDI2NDUyMiwtMTA3NDc0NjIxMywtMTAzNzQwMz
-k1NCwxMzg0MzU0MDY1LDExMzE0ODQyODNdfQ==
+eyJoaXN0b3J5IjpbOTYyNjQ1NTIwLC0xMzY1NzUwODIyLC0xOD
+MxMjk0ODE0LDIxMTUzMzIzOTYsMjMxNjc0NDY0LC0yMDUwMTkx
+ODA4LC0xMDI0MjY0NTIyLC0xMDc0NzQ2MjEzLC0xMDM3NDAzOT
+U0LDEzODQzNTQwNjUsMTEzMTQ4NDI4M119
 -->
