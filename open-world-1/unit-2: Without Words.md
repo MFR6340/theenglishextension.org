@@ -8,7 +8,7 @@
 ### Jim Baker’s Blue Jay Yarn, by Mark Twain
 
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://i.imgur.com/3j7Buv9.png" width="25%" />
 
 This is one of Mark Twain's most famous short stories.  It was adapted from a campfire story he heard when he was prospecting for gold.
 
@@ -25,6 +25,6 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzkyOTYxMywxNzg4MjQyODYxLC0xMD
-IzMDY3NjQ2XX0=
+eyJoaXN0b3J5IjpbLTE3MjgzMjgxMTMsLTE0NzkyOTYxMywxNz
+g4MjQyODYxLC0xMDIzMDY3NjQ2XX0=
 -->
