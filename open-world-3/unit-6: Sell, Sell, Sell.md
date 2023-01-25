@@ -23,11 +23,11 @@ summary here.  (Lexile Level     )
 
 ### How to Start Your Very First Business Warren Buffett's Secret Millionaires Club
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/TSdM0uY.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/How-Start-Your-Very-First-Business-The-Creators-of-Warren-Buffetts-Secret-Millionaires-Club-Julie-Merberg-Sarah-Parvis-Warren-Buffett/9781941367117" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Title here, by author here
 
@@ -58,6 +58,6 @@ summary here.  (Lexile Level     )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzUyODY0NTUsLTE4MTk0NzYxOTcsLT
+eyJoaXN0b3J5IjpbLTE0Nzg1NjEzNjgsLTE4MTk0NzYxOTcsLT
 cwMjMyMjk3NSwtMjAxMDU5MjY0OCwxMjcwNjM4Mzc4XX0=
 -->
