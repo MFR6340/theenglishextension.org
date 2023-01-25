@@ -15,7 +15,7 @@ summary here.  (Lexile Level     )
 ### The Haunting of Hill House, by Shirley Jackson
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level )
+summary here.  (Lexile 920L)
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -52,7 +52,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1OTg2MzExLC0xNjIzNTk2Mjk0LC0xMj
-IxNzA2NjczLC0xNzU1MDA0MDMzLC0yMDY5ODQyODUsMzU1MDkw
-Njk1LC0xMjIzNjExMDA5XX0=
+eyJoaXN0b3J5IjpbMTk4NjgzMTQyNCwtMTYyMzU5NjI5NCwtMT
+IyMTcwNjY3MywtMTc1NTAwNDAzMywtMjA2OTg0Mjg1LDM1NTA5
+MDY5NSwtMTIyMzYxMTAwOV19
 -->
