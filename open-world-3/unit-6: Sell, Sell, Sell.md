@@ -29,7 +29,7 @@ summary here.  (Lexile Level     )
 
 <a href="https://www.bookdepository.com/How-Start-Your-Very-First-Business-The-Creators-of-Warren-Buffetts-Secret-Millionaires-Club-Julie-Merberg-Sarah-Parvis-Warren-Buffett/9781941367117" rel="nofollow"> Buy on BookDepository</a>  
 
-### Title here, by author here
+### Taking a Bite out of the Apple, by Rob Janoff
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -58,6 +58,6 @@ summary here.  (Lexile Level     )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzg1NjEzNjgsLTE4MTk0NzYxOTcsLT
-cwMjMyMjk3NSwtMjAxMDU5MjY0OCwxMjcwNjM4Mzc4XX0=
+eyJoaXN0b3J5IjpbMjExNjIxNjgzLC0xODE5NDc2MTk3LC03MD
+IzMjI5NzUsLTIwMTA1OTI2NDgsMTI3MDYzODM3OF19
 -->
