@@ -21,14 +21,13 @@ summary here.  (Lexile Level     )
 <a href="https://www.bookdepository.com/Lemonade-War-Ms-Jacqueline-Davies/9780547237657?ref=grid-view&qid=1674674259530&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1007188410" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### How to Start Your Very First Business Warren Buffett's Secret Millionaires Club
 
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -59,6 +58,6 @@ summary here.  (Lexile Level     )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTk0NzYxOTcsLTcwMjMyMjk3NSwtMj
-AxMDU5MjY0OCwxMjcwNjM4Mzc4XX0=
+eyJoaXN0b3J5IjpbLTE3MzUyODY0NTUsLTE4MTk0NzYxOTcsLT
+cwMjMyMjk3NSwtMjAxMDU5MjY0OCwxMjcwNjM4Mzc4XX0=
 -->
