@@ -13,9 +13,8 @@ summary here.  (Lexile Level     )
 <a href="https://www.bookdepository.com/Seven-Little-Australians-Popular-Penguins-Ethel-Turner/9780143204862?ref=grid-view&qid=1674675738699&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053692600" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
-
-<img src="imgurlinkhere.png" width="25%" />
+### **What’s the Big Idea? Australian Inventions that Changed the World, by Sue Lawson**
+<img src="https://imgur.com/LRi0qHR.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
@@ -94,7 +93,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU2NDg5NzYsLTc0NTcwNTY2OSw0OT
+eyJoaXN0b3J5IjpbLTE3MjcxODQ2MzksLTc0NTcwNTY2OSw0OT
 AyMjEwNjgsMTkzNjQyNjksMzg3NDQ4MDc1LC0zMDY2NDEwNDJd
 fQ==
 -->
