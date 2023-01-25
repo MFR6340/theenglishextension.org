@@ -13,14 +13,13 @@ This inspirational true story is about a boy from Africa who uses items around h
 
 ### Title here, by author here
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/bVnPFk4.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Real-World-Stem-Stuart-Kallen/9781682822395" rel="nofollow"> Buy on BookDepository</a>  
 
-### Title here, by author here
+### Finding Out About Solar Energy, by Matt Doeden
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -74,6 +73,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2OTI5NTUwMiwtMjA1NTg2MjYyOCwtMj
-c4NjkxNzgwLDg3OTcxMDQyNiwtMTA5Njc1MzcwMV19
+eyJoaXN0b3J5IjpbLTEwNzY4OTY3NzAsMTA2OTI5NTUwMiwtMj
+A1NTg2MjYyOCwtMjc4NjkxNzgwLDg3OTcxMDQyNiwtMTA5Njc1
+MzcwMV19
 -->
