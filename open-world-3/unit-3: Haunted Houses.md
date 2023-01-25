@@ -23,12 +23,12 @@ summary here.  (Lexile Level     )
 
 ### Miss Peregrine’s Home for Peculiar Children, by Ransom Riggs
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://i.imgur.com/Vh1YQiO.png" width="25%" />
 
 summary here.  (Lexile Level unavailable)
 
 <a href="https://www.bookdepository.com/Miss-Peregrines-Home-for-Peculiar-Children-Ransom-Riggs/9781594746031?ref=grid-view&qid=1674662411641&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1027813874" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Lockwood & Company: The Screaming Staircase by Jonathan Stroud
 <img src="https://i.imgur.com/BB5CeuU.png" width="25%" />
@@ -53,7 +53,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQwNjU2MzgsLTE2MjM1OTYyOTQsLT
-EyMjE3MDY2NzMsLTE3NTUwMDQwMzMsLTIwNjk4NDI4NSwzNTUw
-OTA2OTUsLTEyMjM2MTEwMDldfQ==
+eyJoaXN0b3J5IjpbMTM0NzgxNjgwOCwtMTYyMzU5NjI5NCwtMT
+IyMTcwNjY3MywtMTc1NTAwNDAzMywtMjA2OTg0Mjg1LDM1NTA5
+MDY5NSwtMTIyMzYxMTAwOV19
 -->
