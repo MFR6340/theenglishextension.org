@@ -10,7 +10,7 @@
 
 <img src="imgurlinkhere.png" width="25%" />
 
-This is one of Mark Twain's m
+This is one of Mark Twain's most famous short stories.  It was adapted from a campfire story he heard when he was prospecting for gold.
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -25,6 +25,6 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTI3NDkyNjMsMTc4ODI0Mjg2MSwtMT
-AyMzA2NzY0Nl19
+eyJoaXN0b3J5IjpbLTE0NzkyOTYxMywxNzg4MjQyODYxLC0xMD
+IzMDY3NjQ2XX0=
 -->
