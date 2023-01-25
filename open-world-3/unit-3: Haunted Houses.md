@@ -1,17 +1,8 @@
 # Open World 3, Unit 3: Haunted houses
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-**This unit covers ghosts and haunted houses, using the famous Oscar Wilde story, The Canterville Ghost as a basis.   Here are some haunted stories, none too gruesome, for your reading pleasure:** 
+**This unit covers ghosts and haunted houses, using the famous Oscar Wilde story, The Canterville Ghost as a basis.   Here are some haunted stories, none too gruesome, for your reading pleasure:**
 
-
-### Dread and Delight: A Century of Children’s Ghost Stories, Edited by Philppa Pearce
-
-<img src="blob:https://imgur.com/d3e069ac-e5af-4ca1-82d1-2cb329f8540c" width="25%" />
-
-summary here.  (Lexile Level unavailable)
-
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 ### The Haunting of Hill House, by Shirley Jackson
 <img src="https://i.imgur.com/z2Aw9xE.png" width="25%" />
 
@@ -70,7 +61,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjU1OTg1NiwxMzg1NDQxOTU3LC0xNj
+eyJoaXN0b3J5IjpbLTUwMzc0MzI0NiwxMzg1NDQxOTU3LC0xNj
 IzNTk2Mjk0LC0xMjIxNzA2NjczLC0xNzU1MDA0MDMzLC0yMDY5
 ODQyODUsMzU1MDkwNjk1LC0xMjIzNjExMDA5XX0=
 -->
