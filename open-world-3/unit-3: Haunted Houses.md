@@ -6,9 +6,9 @@
 
 ### Dread and Delight: A Century of Children’s Ghost Stories, Edited by Philppa Pearce
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="blob:https://imgur.com/d3e069ac-e5af-4ca1-82d1-2cb329f8540c" width="25%" />
 
-summary here.  (Lexile Level     )
+summary here.  (Lexile Level unavailable)
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -70,7 +70,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzg2NTEzMzYsMTM4NTQ0MTk1NywtMT
-YyMzU5NjI5NCwtMTIyMTcwNjY3MywtMTc1NTAwNDAzMywtMjA2
-OTg0Mjg1LDM1NTA5MDY5NSwtMTIyMzYxMTAwOV19
+eyJoaXN0b3J5IjpbMTg4MjU1OTg1NiwxMzg1NDQxOTU3LC0xNj
+IzNTk2Mjk0LC0xMjIxNzA2NjczLC0xNzU1MDA0MDMzLC0yMDY5
+ODQyODUsMzU1MDkwNjk1LC0xMjIzNjExMDA5XX0=
 -->
