@@ -25,9 +25,9 @@ summary here.  (Lexile Level     )
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level unalvaible )
+summary here.  (Lexile Level unavailable)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Miss-Peregrines-Home-for-Peculiar-Children-Ransom-Riggs/9781594746031?ref=grid-view&qid=1674662411641&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Lockwood & Company: The Screaming Staircase by Jonathan Stroud
@@ -53,7 +53,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNzAyMDcxLC0xNjIzNTk2Mjk0LC0xMj
-IxNzA2NjczLC0xNzU1MDA0MDMzLC0yMDY5ODQyODUsMzU1MDkw
-Njk1LC0xMjIzNjExMDA5XX0=
+eyJoaXN0b3J5IjpbLTE3ODQwNjU2MzgsLTE2MjM1OTYyOTQsLT
+EyMjE3MDY2NzMsLTE3NTUwMDQwMzMsLTIwNjk4NDI4NSwzNTUw
+OTA2OTUsLTEyMjM2MTEwMDldfQ==
 -->
