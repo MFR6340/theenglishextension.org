@@ -21,7 +21,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Miss Peregrine’s Home for Peculiar Children, by Ransom Riggs
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -53,7 +53,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MzkzMzgyMCwtMTYyMzU5NjI5NCwtMT
+eyJoaXN0b3J5IjpbMjAwOTkyMjMyMCwtMTYyMzU5NjI5NCwtMT
 IyMTcwNjY3MywtMTc1NTAwNDAzMywtMjA2OTg0Mjg1LDM1NTA5
 MDY5NSwtMTIyMzYxMTAwOV19
 -->
