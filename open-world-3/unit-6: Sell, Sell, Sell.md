@@ -23,12 +23,12 @@ summary here.  (Lexile Level     )
 
 ### Title here, by author here
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/YvKBqSa.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Lemonade-War-Ms-Jacqueline-Davies/9780547237657?ref=grid-view&qid=1674674259530&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1007188410" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -58,6 +58,6 @@ summary here.  (Lexile Level     )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwNDc5NDQwLC03MDIzMjI5NzUsLTIwMT
-A1OTI2NDgsMTI3MDYzODM3OF19
+eyJoaXN0b3J5IjpbLTEzOTY1MDExNDcsLTcwMjMyMjk3NSwtMj
+AxMDU5MjY0OCwxMjcwNjM4Mzc4XX0=
 -->
