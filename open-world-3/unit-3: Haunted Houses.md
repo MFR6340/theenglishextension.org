@@ -44,9 +44,9 @@ summary here.  (Lexile 720L)
 summary here.  (Lexile Level unavailable)
 
 <a href="https://www.bookdepository.com/Complete-Wandering-Ghosts-F-Marion-Crawford/9781592240395?ref=grid-view&qid=1674663246069&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006421072" rel="nofollow">Buy on Orell Füssli</a>
 
-### Title here, by author here
+### The Tell Tale Heart and Other Writings,by Edgar Allan Poe
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -70,7 +70,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTIwMDM0MSwtMTYyMzU5NjI5NCwtMT
+eyJoaXN0b3J5IjpbMTQyMTIwNDAxMCwtMTYyMzU5NjI5NCwtMT
 IyMTcwNjY3MywtMTc1NTAwNDAzMywtMjA2OTg0Mjg1LDM1NTA5
 MDY5NSwtMTIyMzYxMTAwOV19
 -->
