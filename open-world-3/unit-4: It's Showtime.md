@@ -15,23 +15,12 @@ summary here.  (Lexile Level     )
 
 ### Hope in a Ballet Shoe by Michaela and Elaine DePrince
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/WJZiPDH.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
 <a href="https://www.bookdepository.com/Hope-Ballet-Shoe-Michaela-DePrince/9780571314478?ref=grid-view&qid=1674667169661&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033451881" rel="nofollow">Buy on Orell Füssli</a> 
-
-
-### Title here, by author here
-
-<img src="imgurlinkhere.png" width="25%" />
-
-summary here.  (Lexile Level     )
-
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
-
 
 ### Title here, by author here
 
@@ -63,6 +52,6 @@ summary here.  (Lexile Level     )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTA1NTQ5MiwtMTUwNDYzMjI3NCw4MD
-M1Nzg1MzMsMTYyMzM3MTY5Nl19
+eyJoaXN0b3J5IjpbLTE5NDUxMzQxNDQsLTE1MDQ2MzIyNzQsOD
+AzNTc4NTMzLDE2MjMzNzE2OTZdfQ==
 -->
