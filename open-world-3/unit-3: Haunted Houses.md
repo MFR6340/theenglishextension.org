@@ -21,12 +21,12 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 ### Lockwood & Company: The Screaming Staircase by Jonathan Stroud
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://i.imgur.com/BB5CeuU.png" width="25%" />
 
 summary here.  (Lexile 720L)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Lockwood-Co-Screaming-Staircase-Jonathan-Stroud/9780552566797?ref=grid-view&qid=1674661950396&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033516174" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### The Canterville Ghost, by Oscar Wilde
 
@@ -43,7 +43,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg5NDgyNTcsLTE2MjM1OTYyOTQsLT
+eyJoaXN0b3J5IjpbLTE0OTM0NDI3NTksLTE2MjM1OTYyOTQsLT
 EyMjE3MDY2NzMsLTE3NTUwMDQwMzMsLTIwNjk4NDI4NSwzNTUw
 OTA2OTUsLTEyMjM2MTEwMDldfQ==
 -->
