@@ -25,7 +25,7 @@ summary here.  (Lexile Level     )
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     )
+summary here.  (Lexile Level unalvaible )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -53,7 +53,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTkyMjMyMCwtMTYyMzU5NjI5NCwtMT
-IyMTcwNjY3MywtMTc1NTAwNDAzMywtMjA2OTg0Mjg1LDM1NTA5
-MDY5NSwtMTIyMzYxMTAwOV19
+eyJoaXN0b3J5IjpbLTkwNzAyMDcxLC0xNjIzNTk2Mjk0LC0xMj
+IxNzA2NjczLC0xNzU1MDA0MDMzLC0yMDY5ODQyODUsMzU1MDkw
+Njk1LC0xMjIzNjExMDA5XX0=
 -->
