@@ -14,15 +14,6 @@ summary here.  (Lexile Level     )
 
 ### The lemonade War, by Jacqueline Davies
 
-<img src="imgurlinkhere.png" width="25%" />
-
-summary here.  (Lexile Level     )
-
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
-
-### Title here, by author here
-
 <img src="https://imgur.com/YvKBqSa.png" width="25%" />
 
 summary here.  (Lexile Level     )
@@ -57,7 +48,17 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTY1MDExNDcsLTcwMjMyMjk3NSwtMj
+eyJoaXN0b3J5IjpbLTE4MTk0NzYxOTcsLTcwMjMyMjk3NSwtMj
 AxMDU5MjY0OCwxMjcwNjM4Mzc4XX0=
 -->
