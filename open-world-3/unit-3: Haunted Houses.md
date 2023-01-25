@@ -37,7 +37,7 @@ summary here.  (Lexile 720L)
 <a href="https://www.bookdepository.com/Lockwood-Co-Screaming-Staircase-Jonathan-Stroud/9780552566797?ref=grid-view&qid=1674661950396&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033516174" rel="nofollow">Buy on Orell Füssli</a> 
 
-### The Complete Wandering Ghosts, F. Marion Crawford,by 
+### The Complete Wandering Ghosts, by F. Marion 
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -70,7 +70,7 @@ The book is now in public domain.  Available for free on Project Gutenberg https
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk4NTY5OTAsLTE2MjM1OTYyOTQsLT
-EyMjE3MDY2NzMsLTE3NTUwMDQwMzMsLTIwNjk4NDI4NSwzNTUw
-OTA2OTUsLTEyMjM2MTEwMDldfQ==
+eyJoaXN0b3J5IjpbOTI3ODY3NDkyLC0xNjIzNTk2Mjk0LC0xMj
+IxNzA2NjczLC0xNzU1MDA0MDMzLC0yMDY5ODQyODUsMzU1MDkw
+Njk1LC0xMjIzNjExMDA5XX0=
 -->
