@@ -48,13 +48,12 @@ summary here.  (Lexile Level     )
 
 ### Start It Up, by Kenra Rankin
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/8BuCCub.png" width="25%" />
 
 summary here.  (Lexile 1090L)
 
 <a href="https://www.bookdepository.com/Start-It-Up-Kenrya-Rankin-Eriko-Takada/9780981973357" rel="nofollow"> Buy on BookDepository</a>  
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkxNDQxNjQsLTE4MTk0NzYxOTcsLT
+eyJoaXN0b3J5IjpbLTE4MzEyNDY3MzUsLTE4MTk0NzYxOTcsLT
 cwMjMyMjk3NSwtMjAxMDU5MjY0OCwxMjcwNjM4Mzc4XX0=
 -->
