@@ -44,19 +44,17 @@ summary here.  (Lexile Level     )
 summary here.  (Lexile Level     )
 
 <a href="https://www.bookdepository.com/Eat-This-Andrea-Curtis-Peggy-Collins/9780889955325" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/suche?sq=Eat+This%21+How+Fast+Food+Marketing+Gets+you+to+Buy+Junk+by+Andrea+Curtis" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037393229" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Start It Up: The Complete Teen Business Guide to Turning Your Passions Into Pay, by Kenra Rankin
+### Start It Up, by Kenra Rankin
 
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile 1090L)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
-
+<a href="https://www.bookdepository.com/Start-It-Up-Kenrya-Rankin-Eriko-Takada/9780981973357" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjIyNzQ5NCwtMTgxOTQ3NjE5NywtNz
-AyMzIyOTc1LC0yMDEwNTkyNjQ4LDEyNzA2MzgzNzhdfQ==
+eyJoaXN0b3J5IjpbLTE1OTkxNDQxNjQsLTE4MTk0NzYxOTcsLT
+cwMjMyMjk3NSwtMjAxMDU5MjY0OCwxMjcwNjM4Mzc4XX0=
 -->
