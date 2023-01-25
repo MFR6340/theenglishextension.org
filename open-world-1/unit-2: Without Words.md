@@ -12,9 +12,9 @@
 
 This is one of Mark Twain's most famous short stories.  It was adapted from a campfire story he heard when he was prospecting for gold.
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
-Free 
+<a href="https://loa-shared.s3.amazonaws.com/static/pdf/Twain_Bluejay_Yarn.pdf" rel="nofollow">  Free pdf available here</a>  
+
+
 
 ### Title here, by author here
 
@@ -25,6 +25,6 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg5NDk2NTMsLTE0NzkyOTYxMywxNz
-g4MjQyODYxLC0xMDIzMDY3NjQ2XX0=
+eyJoaXN0b3J5IjpbLTQ3Mjk3MDAzNywtMTYzODk0OTY1MywtMT
+Q3OTI5NjEzLDE3ODgyNDI4NjEsLTEwMjMwNjc2NDZdfQ==
 -->
