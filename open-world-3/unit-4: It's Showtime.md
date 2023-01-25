@@ -6,12 +6,11 @@
 
 ### Theatre Shoes, by Noel Streatfeild
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/ZFaHybq.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Theater-Shoes-Noel-Streatfeild/9780679854340?ref=grid-view&qid=1674667051322&sr=1-5" rel="nofollow"> Buy on BookDepository</a>  
 
 
 ### Title here, by author here
@@ -64,6 +63,6 @@ summary here.  (Lexile Level     )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjA3Mzc0OCwtMTUwNDYzMjI3NCw4MD
-M1Nzg1MzMsMTYyMzM3MTY5Nl19
+eyJoaXN0b3J5IjpbLTEwMTg2OTc0NTgsLTE1MDQ2MzIyNzQsOD
+AzNTc4NTMzLDE2MjMzNzE2OTZdfQ==
 -->
