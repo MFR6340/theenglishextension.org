@@ -24,12 +24,12 @@ summary here.  (Lexile Level     )
 
 ### DK: The Movie Book: Big Ideas Simply Explained
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/sLxjnQb.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
 <a href="https://www.bookdepository.com/Movie-Book-DK/9780241188026?ref=grid-view&qid=1674667346954&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1055251449" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 ### Title here, by author here
@@ -52,6 +52,6 @@ summary here.  (Lexile Level     )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTE0NTIzNSwtMTUwNDYzMjI3NCw4MD
+eyJoaXN0b3J5IjpbLTYyODYxMTIxNCwtMTUwNDYzMjI3NCw4MD
 M1Nzg1MzMsMTYyMzM3MTY5Nl19
 -->
