@@ -39,12 +39,12 @@ summary here.  (Lexile Level     )
 
 ### The Pros and Cons of Wind Power, by Louise Spilsbury and Richard Spilsbury
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/te0zyyy.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Pros-Cons-Wind-Power-Louise-Spilsbury/9781404237452?ref=grid-view&qid=1674668652982&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005430888" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -64,7 +64,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDQ4MDE1MTAsMTA2OTI5NTUwMiwtMj
-A1NTg2MjYyOCwtMjc4NjkxNzgwLDg3OTcxMDQyNiwtMTA5Njc1
-MzcwMV19
+eyJoaXN0b3J5IjpbMTM3Mzk3NjQsMTA2OTI5NTUwMiwtMjA1NT
+g2MjYyOCwtMjc4NjkxNzgwLDg3OTcxMDQyNiwtMTA5Njc1Mzcw
+MV19
 -->
