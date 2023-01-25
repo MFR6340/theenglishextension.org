@@ -42,16 +42,15 @@ summary here.  (Lexile Level     )
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061672511" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-### Title here, by author here
-
-<img src="imgurlinkhere.png" width="25%" />
+### The Boy Who Made Everyone Laugh, by Helen Rutter
+<img src="https://imgur.com/7tsKYGR.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Boy-Who-Made-Everyone-Laugh-Helen-Rutter/9780702300851?ref=grid-view&qid=1674667620786&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056523340" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Mjc5MjI0MywtMTUwNDYzMjI3NCw4MD
-M1Nzg1MzMsMTYyMzM3MTY5Nl19
+eyJoaXN0b3J5IjpbLTE1ODI4MTkzNzgsLTE1MDQ2MzIyNzQsOD
+AzNTc4NTMzLDE2MjMzNzE2OTZdfQ==
 -->
