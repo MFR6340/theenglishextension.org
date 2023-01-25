@@ -3,14 +3,14 @@
 
 **This unit covers what makes people buy things.  It covers advertising, slogans, commercials, logos and market research.  Here are some books that supplement this unit:** 
 
-### Title here, by author here
+### Murder Must Advertise, by Dorthy Sayers
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/de3Jo7z.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Murder-Must-Advertise-Dorothy-L-Sayers/9781473621381?ref=grid-view&qid=1674674128936&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039812685" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -58,6 +58,6 @@ summary here.  (Lexile Level     )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjMyMjk3NSwtMjAxMDU5MjY0OCwxMj
-cwNjM4Mzc4XX0=
+eyJoaXN0b3J5IjpbLTIwNTg2MjUyOTQsLTcwMjMyMjk3NSwtMj
+AxMDU5MjY0OCwxMjcwNjM4Mzc4XX0=
 -->
