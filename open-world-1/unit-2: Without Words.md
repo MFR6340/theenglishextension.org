@@ -12,7 +12,14 @@
 
 This is one of Mark Twain's most famous short stories.  It was adapted from a campfire story he heard when he was prospecting for gold.  It begins: "Animals talk to each other, of course. There can be no question about that; but I suppose there are very few people who can understand them. I never knew but one man who could."
 
-<a href="https://loa-shared.s3.amazonaws.com/static/pdf/Twain_Bluejay_Yarn.pdf" rel="nofollow">  Free pdf available here</a>  
+<a href="https://loa-shared.s3.amazonaws.com/static/pdf/Twain_Bluejay_Yarn.pdf" rel="nofollow">  Free pdf available hereTitle here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>  
 
 
 
@@ -25,6 +32,7 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODYzOTQzOSwtMTYzODk0OTY1MywtMT
-Q3OTI5NjEzLDE3ODgyNDI4NjEsLTEwMjMwNjc2NDZdfQ==
+eyJoaXN0b3J5IjpbLTExNDY1Njc1OTEsMjA4ODYzOTQzOSwtMT
+YzODk0OTY1MywtMTQ3OTI5NjEzLDE3ODgyNDI4NjEsLTEwMjMw
+Njc2NDZdfQ==
 -->
