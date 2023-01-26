@@ -4,7 +4,7 @@ layout: dir-index
 
 # Supplemental Resources
 
-## Reading Instruction
+### Reading Instruction
 What are Lexile Levels? 
 
 ### Listening Comprehension
@@ -20,9 +20,7 @@ Sometimes it's a challenge to find the right word or emotion.  Often, there's a 
 
 TEEO provides supplemental booklets to be used in the classroom in conjunction with the Klett English Program currently used in cantons throughout Switzerland.
 
-## Primary School
-
-Third Grade, Primary School
+#### Third Grade, Young World 1
 <img src="https://i.imgur.com/TAsc8DA.png" width="25%" />
 
 
@@ -36,7 +34,6 @@ Third Grade, Primary School
 ## Audio Book recommendations
 **Audio Books**
 
-  
   Audio books are a great way to pass the time on a long car ride.  The reader of the story makes all the difference.  Here's some suggestions. 
 
  - The Adventures of Huckleberry Finn, Mark Twain. Read by Patrick
@@ -48,6 +45,7 @@ Third Grade, Primary School
    Elevator, by Roald Dahl, Read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjY2ODM1NDcsMTQyNzI3MDUxOCwtMT
-A2MjIyNDEwMSwtMjAzNTA0Njg5MCwxNDU3NTEyNzYyXX0=
+eyJoaXN0b3J5IjpbLTE1ODQ4OTUwNDUsLTE0NjY2ODM1NDcsMT
+QyNzI3MDUxOCwtMTA2MjIyNDEwMSwtMjAzNTA0Njg5MCwxNDU3
+NTEyNzYyXX0=
 -->
