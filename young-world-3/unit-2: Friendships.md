@@ -143,7 +143,7 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 Who would imagine that there would be a museum exhibition on friendship?  But for a short time only, there it!  Seriously!  From January 28 to September 17 2023 the Migros Museum für Gegenwartskunst (Museum of Contemporary Art) in Zurich is holding an exhibition in multiple parts with 30 different works representing various aspects of friendship.  (Part 1: Jan. 28-Apr. 2, Part 2: Apr. 5-May 28, Part 3: 10. June -Sept. 17)  Contemporary art can be quite bold, so this should be an interesting medium to promote some great discussions on friendship.  Even better, on Thursdays from 5-8 pm there's free admission. 
  <a href="https://migrosmuseum.ch/en/exhibitions/acts-of-friendship?lang=en" rel="nofollow">Migros Museum</a>
 
-
+## Supplemental Activity
 
 International Friendship Day is the first Sunday of August. In 2023 it's August 6th.  Do something special for and with a friend.  Like the Mad Hatter and March Hare in Alice in Wonderland, have a tea party, or like Charlotte in Charlotte's Web, write something special about your friend. 
 
@@ -152,10 +152,10 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1NTY5NzIzLDIxMzEwOTYzNTcsLTE2NT
-EwMTcyNTAsMTQ5NTc1MDYwNSw2NjUxMjUxMjEsMTgyOTE3OTE1
-MSwxOTA5NTQ1MDI4LC00NDk4MTY4NDUsLTE1NzQ4MzQ2MjQsLT
-EzMDAzNzEyNDQsLTEyNDYyMTM4NzMsMTA4MjUyNTg5NSwtMTI3
-NDk5MDY2MiwtMTc4ODY0NzA0OSwxMzY4NTc0NzA5LDMxODYxMD
-cyMywxMTQ2MDczMjQ3XX0=
+eyJoaXN0b3J5IjpbLTE2NTM5NzE1NzgsODA1NTY5NzIzLDIxMz
+EwOTYzNTcsLTE2NTEwMTcyNTAsMTQ5NTc1MDYwNSw2NjUxMjUx
+MjEsMTgyOTE3OTE1MSwxOTA5NTQ1MDI4LC00NDk4MTY4NDUsLT
+E1NzQ4MzQ2MjQsLTEzMDAzNzEyNDQsLTEyNDYyMTM4NzMsMTA4
+MjUyNTg5NSwtMTI3NDk5MDY2MiwtMTc4ODY0NzA0OSwxMzY4NT
+c0NzA5LDMxODYxMDcyMywxMTQ2MDczMjQ3XX0=
 -->
