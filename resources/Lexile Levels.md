@@ -8,13 +8,10 @@ There are a variety of quantitative approaches to determine the reading level of
 
 We have chosen to use Lexile Levels, as there are over 100 million books and reading materials which have been measured using this leveling system.
 
-It assigns a lexile level to a child, based on the reader’s ability to comprehend text.
-
 It also assigns a level to many books and other reading materials, so that students, parents and teachers can find appropriate books at their reading levels.
 
 It measures the reading challenge measured by a text, based on word frequency and sentence strength.
 
-Students are tested and given a lexile score based on the difficulty of the text.
 
 Lexile measure are given from 200L for beginning readers and text to 1600L for advanced readers and text.
 
@@ -27,28 +24,14 @@ Some lexile levels are also given an additional code:
 -   HL (High-Low): The book has a Lexile measure much lower than the average reading ability of the intended age range of its readers. HL books include content of a high interest level, but are written in a style that is easier for a struggling reader.
 -   IG (Illustrated Guide): The book consists of independent pieces or sections of text, such as in an encyclopedia or glossary.
 -   NC (Non-Conforming): The book has a Lexile measure that is markedly higher than is typical for the publisher's intended audience or designated developmental level of the book. NC books are good choices for high-ability readers.
--   NP (Non-Prose): The book contains more than 50% of non-standard or non-conforming prose, such as poems, plays, songs and recipes. NP books do not receive a Lexile measure.
-
-They should be independently reading books that are at an appropriate lexile level, or between 100 points below or 50 points above their designated reading level.
- 
-  
+-   NP (Non-Prose): The book contains more than 50% of non-standard or non-conforming prose, such as poems, plays, songs and recipes. NP books do not receive a Lexile measure. 
 
 The objective with reading levels is to find a books that are the correct INDEPENDENT reading level for your child.
 
-  
-
-  
-
-  
-
 Parents should not worry as much about what level a child is currently at, but rather, if the child is showing growth in reading over the academic year.
-
-  
-
-  
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDM0NzA1Myw4MjIxOTM0NDQsMTc1NT
+eyJoaXN0b3J5IjpbLTI3MDU5MTQ1NSw4MjIxOTM0NDQsMTc1NT
 M3Mjg5Niw5MzUyNTkwNDRdfQ==
 -->
