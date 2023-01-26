@@ -16,13 +16,13 @@ summary here.  (Lexile Level     )
 
 ### The Hitchhiker, short story by Roald Dahl
 
-<img src="https://i.imgur.com/fmcpsKL.png" width="3%" />
+<img src="https://i.imgur.com/fmcpsKL.png" width="35%" />
 
-We should all be proud of the job we do, whatever we may do.  In this fun short story we learn about the amazing skills of man who hitches a ride into the city.  There's a great twist at the end. 
+We should all be proud of the job we do, whatever we may do.  In this fun short story we learn about the amazing skills of an odd-looking man who hitches a ride into the city.  There's a great twist at the end. 
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Nzk0MjY0MSwtNjQ4Mzg4NDIyLDIwOD
-A3MzQ3MDYsOTYxMjE0OTMzXX0=
+eyJoaXN0b3J5IjpbLTEyNDE5NjkzNzIsLTY0ODM4ODQyMiwyMD
+gwNzM0NzA2LDk2MTIxNDkzM119
 -->
