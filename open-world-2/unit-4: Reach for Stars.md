@@ -13,7 +13,16 @@ summary here.  (Lexile Level     )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### The Hitchhiker, short story by Roald Dahl
+
+<img src="imgurlinkhere.png" width="25%" />
+
+We should all be proud of the job we do, whatever summary here.  (Lexile Level     )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODM4ODQyMiwyMDgwNzM0NzA2LDk2MT
-IxNDkzM119
+eyJoaXN0b3J5IjpbLTYzMDQ4OTE2MywtNjQ4Mzg4NDIyLDIwOD
+A3MzQ3MDYsOTYxMjE0OTMzXX0=
 -->
