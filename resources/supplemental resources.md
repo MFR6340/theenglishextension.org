@@ -4,19 +4,21 @@ layout: dir-index
 
 # Supplemental Resources
 
-### Reading Instruction
-What are Lexile Levels? 
+## Reading Instruction
 
-### Listening Comprehension
-[https://learnenglishteens.britishcouncil.org/](https://learnenglishteens.britishcouncil.org/) A useful website to work on listening comprehension, which despite being natives, many kids still often struggle with. Goes up to C1
 
+## Listening Comprehension
+
+[https://learnenglishteens.britishcouncil.org/](https://learnenglishteens.britishcouncil.org/) A useful website to work on listening comprehension, which can still be a struggle, even for native English speakers. Goes up to C1
+
+## Writing Skills
 ### Describing Emotions
 Sometimes it's a challenge to find the right word or emotion.  Often, there's a better or more precise way to say it.  This fabulous emotion wheel by Geoffrey Roberts is a great way to helps kids (and adults) express their feelings more clearly.  It obviously helps improves descriptive writing skills and character development  as well. 
 <img src="https://i.imgur.com/tCWChf6.jpeg" width="5%" />
 
 
  
-# Unit Booklets for Klett Program
+## Unit Booklets for Klett Program
 
 TEEO provides supplemental booklets which can be used in primary school classrooms in conjunction with the Klett Young World English program.   These booklets are available for all units in Grade levels 3-6. For a copy, please contact TEEO.
 
@@ -48,8 +50,8 @@ TEEO provides supplemental booklets which can be used in primary school classroo
    Elevator, by Roald Dahl, Read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzcwNDU2NCwtMTYwNjE5NTk4LC0xMT
-I3OTE4Nzk2LC0xNTg0ODk1MDQ1LC0xNDY2NjgzNTQ3LDE0Mjcy
-NzA1MTgsLTEwNjIyMjQxMDEsLTIwMzUwNDY4OTAsMTQ1NzUxMj
-c2Ml19
+eyJoaXN0b3J5IjpbMzEyMjM4MDExLC0zNzc3MDQ1NjQsLTE2MD
+YxOTU5OCwtMTEyNzkxODc5NiwtMTU4NDg5NTA0NSwtMTQ2NjY4
+MzU0NywxNDI3MjcwNTE4LC0xMDYyMjI0MTAxLC0yMDM1MDQ2OD
+kwLDE0NTc1MTI3NjJdfQ==
 -->
