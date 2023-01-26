@@ -21,8 +21,10 @@ summary here.  (Lexile Level     )
 We should all be proud of the job we do, whatever we may do.  In this fun short story we learn about the amazing skills of an odd-looking man who hitches a ride into the city.  There's a great twist at the end. 
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+
+Also available as a pdf. http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnston/short%20stories/The%20Hitchhicker%20-Roald%20Dahl.pdf
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE5NjkzNzIsLTY0ODM4ODQyMiwyMD
-gwNzM0NzA2LDk2MTIxNDkzM119
+eyJoaXN0b3J5IjpbMzU2ODg4NjAyLC02NDgzODg0MjIsMjA4MD
+czNDcwNiw5NjEyMTQ5MzNdfQ==
 -->
