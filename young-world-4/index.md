@@ -9,7 +9,9 @@ On the following pages, you will find English literature which is related to the
 <img src="https://i.imgur.com/ZBUJicZ.png" width="20%" style="display:block;margin-left:auto;margin-right:auto;" />
 
 The literature lists found here are dynamic. Books will be regularly added or replaced. We welcome your suggestions.
+
+Supplemental booklets covering grammar and spelling are available for each unit by contact TEEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzI5NjU3MiwtMzY5OTc2OTI5LC01Mz
-E0NzQ4NjcsMzMwNjc5MzMzXX0=
+eyJoaXN0b3J5IjpbNzU2MjQ2NTQxLC0zMzMyOTY1NzIsLTM2OT
+k3NjkyOSwtNTMxNDc0ODY3LDMzMDY3OTMzM119
 -->
