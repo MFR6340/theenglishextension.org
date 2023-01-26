@@ -23,6 +23,12 @@ TEEO provides supplemental booklets to be used in the classroom in conjunction w
 ## Primary School
 
 [Third Grade, Primary School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+
+<img src="https://i.imgur.com/TAsc8DA.png" width="25%" />
+
+
+
+
 [Fourth Grade, Primary School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 [Fifth Grade, Primary School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
 [Sixth Grade, Primary School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -42,6 +48,6 @@ TEEO provides supplemental booklets to be used in the classroom in conjunction w
    Elevator, by Roald Dahl, Read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzI3MDUxOCwtMTA2MjIyNDEwMSwtMj
-AzNTA0Njg5MCwxNDU3NTEyNzYyXX0=
+eyJoaXN0b3J5IjpbMTYyMzE1MzU2MSwxNDI3MjcwNTE4LC0xMD
+YyMjI0MTAxLC0yMDM1MDQ2ODkwLDE0NTc1MTI3NjJdfQ==
 -->
