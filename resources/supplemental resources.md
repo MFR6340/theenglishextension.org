@@ -12,7 +12,7 @@ What are Lexile Levels?
 
 ### Describing Emotions
 Sometimes it's a challenge to find the right word or emotion.  Often, there's a better or more precise way to say it.  This fabulous emotion wheel by Geoffrey Roberts is a great way to helps kids (and adults) express their feelings more clearly.  It obviously helps improves descriptive writing skills and character development  as well. 
-<img src="https://i.imgur.com/tCWChf6.jpeg" width="85%" />
+<img src="https://i.imgur.com/tCWChf6.jpeg" width="65%" />
 
 
  
@@ -42,6 +42,6 @@ TEEO provides supplemental booklets to be used in the classroom in conjunction w
    Elevator, by Roald Dahl, Read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2ODgyNDYxLC0yMDM1MDQ2ODkwLDE0NT
-c1MTI3NjJdfQ==
+eyJoaXN0b3J5IjpbLTEwNjIyMjQxMDEsLTIwMzUwNDY4OTAsMT
+Q1NzUxMjc2Ml19
 -->
