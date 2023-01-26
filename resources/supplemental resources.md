@@ -18,7 +18,7 @@ Sometimes it's a challenge to find the right word or emotion.  Often, there's a 
  
 # Unit Booklets for Klett Program
 
-TEEO provides supplemental booklets to be used in the classroom in conjunction with the Klett English Program currently used in 1 Cantons throughout Switzerland.
+TEEO provides supplemental booklets to be used in the classroom in conjunction with the Klett English Program currently used in cantons throughout Switzerland.
 
 ## Primary School
 
@@ -42,6 +42,6 @@ TEEO provides supplemental booklets to be used in the classroom in conjunction w
    Elevator, by Roald Dahl, Read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTEwMzg5OSwtMTA2MjIyNDEwMSwtMj
+eyJoaXN0b3J5IjpbMTQyNzI3MDUxOCwtMTA2MjIyNDEwMSwtMj
 AzNTA0Njg5MCwxNDU3NTEyNzYyXX0=
 -->
