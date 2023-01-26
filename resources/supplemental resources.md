@@ -7,9 +7,24 @@ layout: dir-index
 ## Reading Instruction
 
 
-## Listening Comprehension
+
+## Listening
+### Listening Comprehension Skills
 
 [https://learnenglishteens.britishcouncil.org/](https://learnenglishteens.britishcouncil.org/) A useful website to work on listening comprehension, which can still be a struggle, even for native English speakers. Goes up to C1
+
+### Listening for Fun: Audio Book recommendations
+
+  Audio books are a great way to pass the time on a long car ride.  The reader of the story makes all the difference.  Here's some suggestions. 
+
+ - The Adventures of Huckleberry Finn, Mark Twain. Read by Patrick
+   Fraley 
+ - Winnie the Pooh, by A.A. Milne, Read by Peter Dennis The
+   Cricket in Times Square, by George Selden, Read by Tony Shalhoub 
+ - The Phantom Tollbooth, by Norton Juster, Read by David Hyde Pierce 
+ - Charlie and the Chocolate Factory/Charlie and the Great Glass
+   Elevator, by Roald Dahl, Read by Eric Idle
+
 
 ## Writing Skills
 ### Describing Emotions
@@ -36,22 +51,11 @@ TEEO provides supplemental booklets which can be used in primary school classroo
 
 
 
-## Audio Book recommendations
-**Audio Books**
 
-  Audio books are a great way to pass the time on a long car ride.  The reader of the story makes all the difference.  Here's some suggestions. 
-
- - The Adventures of Huckleberry Finn, Mark Twain. Read by Patrick
-   Fraley 
- - Winnie the Pooh, by A.A. Milne, Read by Peter Dennis The
-   Cricket in Times Square, by George Selden, Read by Tony Shalhoub 
- - The Phantom Tollbooth, by Norton Juster, Read by David Hyde Pierce 
- - Charlie and the Chocolate Factory/Charlie and the Great Glass
-   Elevator, by Roald Dahl, Read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyMjM4MDExLC0zNzc3MDQ1NjQsLTE2MD
-YxOTU5OCwtMTEyNzkxODc5NiwtMTU4NDg5NTA0NSwtMTQ2NjY4
-MzU0NywxNDI3MjcwNTE4LC0xMDYyMjI0MTAxLC0yMDM1MDQ2OD
-kwLDE0NTc1MTI3NjJdfQ==
+eyJoaXN0b3J5IjpbMTA3MjU2NzYxMSwtMzc3NzA0NTY0LC0xNj
+A2MTk1OTgsLTExMjc5MTg3OTYsLTE1ODQ4OTUwNDUsLTE0NjY2
+ODM1NDcsMTQyNzI3MDUxOCwtMTA2MjIyNDEwMSwtMjAzNTA0Nj
+g5MCwxNDU3NTEyNzYyXX0=
 -->
