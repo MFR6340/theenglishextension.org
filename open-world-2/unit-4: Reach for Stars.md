@@ -18,11 +18,11 @@ summary here.  (Lexile Level     )
 
 <img src="imgurlinkhere.png" width="25%" />
 
-We should all be proud of the job we do, whatever we may do.  In this fun short story we learn about the amazing skills of man who hitches a ride into the city.  (Lexile Level     )
+We should all be proud of the job we do, whatever we may do.  In this fun short story we learn about the amazing skills of man who hitches a ride into the city.  There's a great twist at the end. 
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDg2NDA4OSwtNjQ4Mzg4NDIyLDIwOD
-A3MzQ3MDYsOTYxMjE0OTMzXX0=
+eyJoaXN0b3J5IjpbLTEyMTIxNDM4MjEsLTY0ODM4ODQyMiwyMD
+gwNzM0NzA2LDk2MTIxNDkzM119
 -->
