@@ -21,7 +21,7 @@ Sometimes it's a challenge to find the right word or emotion.  Often, there's a 
 TEEO provides supplemental booklets which can be used in primary school classrooms in conjunction with the Klett Young World English program currently used in cantons throughout Switzerland.   These booklets are available for all units in Grade levels 3-6. For a copy, please contact TEEO.
 
 #### Third Grade, Young World 1
-<img src="https://i.imgur.com/TAsc8DA.png" width="15%" />
+<img src="https://i.imgur.com/QfnRUdP.png" width="205%" />
 
 #### Fourth Grade, Young World 2
 <img src="https://i.imgur.com/TAsc8DA.png" width="15%" />
@@ -48,7 +48,7 @@ TEEO provides supplemental booklets which can be used in primary school classroo
    Elevator, by Roald Dahl, Read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAyNDI0NzkwLC0xMTI3OTE4Nzk2LC0xNT
-g0ODk1MDQ1LC0xNDY2NjgzNTQ3LDE0MjcyNzA1MTgsLTEwNjIy
-MjQxMDEsLTIwMzUwNDY4OTAsMTQ1NzUxMjc2Ml19
+eyJoaXN0b3J5IjpbLTM0OTA4NjYwMywtMTEyNzkxODc5NiwtMT
+U4NDg5NTA0NSwtMTQ2NjY4MzU0NywxNDI3MjcwNTE4LC0xMDYy
+MjI0MTAxLC0yMDM1MDQ2ODkwLDE0NTc1MTI3NjJdfQ==
 -->
