@@ -18,13 +18,11 @@ summary here.  (Lexile Level     )
 
 <img src="https://i.imgur.com/fmcpsKL.png" width="35%" />
 
-We should all be proud of the job we do, whatever we may do.  In this fun short story we learn about the amazing skills of an odd-looking man who hitches a ride into the city.  There's a great twist at the end. 
-
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+In this fun short story we learn about the job and amazing skills of an odd-looking man who hitches a ride into the city.  There's a great twist at the end.  Available in the books, "The Wonderful Story of Henry Sugar and Six More" as well as in "Roald Dahl's Ten Short Stories".  
 
 Also available as a pdf. http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnston/short%20stories/The%20Hitchhicker%20-Roald%20Dahl.pdf
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2ODg4NjAyLC02NDgzODg0MjIsMjA4MD
-czNDcwNiw5NjEyMTQ5MzNdfQ==
+eyJoaXN0b3J5IjpbMTczMzg3MzEzMCwtNjQ4Mzg4NDIyLDIwOD
+A3MzQ3MDYsOTYxMjE0OTMzXX0=
 -->
