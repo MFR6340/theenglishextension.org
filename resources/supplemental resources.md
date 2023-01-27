@@ -17,7 +17,8 @@ Parents, if you don't have a reference book on your shelf about reading, this is
 
 
 
-## Listening
+## ListeningWhat are Lexile Levels? 
+
 ### Listening Comprehension Skills
 
 [https://learnenglishteens.britishcouncil.org/](https://learnenglishteens.britishcouncil.org/) A useful website to work on listening comprehension, which can still be a struggle, even for native English speakers. Goes up to C1
@@ -35,16 +36,17 @@ Parents, if you don't have a reference book on your shelf about reading, this is
    Elevator, by Roald Dahl, Read by Eric Idle
 
 
-## Writing Skills
+## Writing Skillsdespite being natives, many kids still often struggle with. Goes up to C1
+
 ### Describing Emotions
 Sometimes it's a challenge to find the right word or emotion.  Often, there's a better or more precise way to say it.  This fabulous emotion wheel by Geoffrey Roberts is a great way to helps kids (and adults) express their feelings more clearly.  It obviously helps improves descriptive writing skills and character development  as well. 
-<img src="https://i.imgur.com/tCWChf6.jpeg" width="5%" />
+<img src="https://i.imgur.com/tCWChf6.jpeg" width="85%" />
 
 
  
 ## Unit Booklets for Klett Program
 
-TEEO provides supplemental booklets which can be used in primary school classrooms in conjunction with the Klett Young World English program.   These booklets are available for all units in Grade levels 3-6. For a copy, please contact TEEO.
+TEEO provides supplemental booklets which canto be used in primary schoolthe classrooms in conjunction with the Klett Young World English pProgram.   These booklets are available for all units in Grade levels 3-6. For a copy, please contact TEEO.
 
 #### Third Grade, Young World 1
 <img src="https://i.imgur.com/QfnRUdP.png" width="20%" />
@@ -60,12 +62,33 @@ TEEO provides supplemental booklets which can be used in primary school classroo
 
 
 
+ currently used in 12 Cantons throughout Switzerland.
 
+## Primary School
+
+[Third Grade, Primary School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+[Fourth Grade, Primary School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+[Fifth Grade, Primary School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
+[Sixth Grade, Primary School](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+## Audio Book recommendations
+**Audio Books**
+
+  
+  Audio books are a great way to pass the time on a long car ride.  The reader of the story makes all the difference.  Here's some suggestions. 
+
+ - The Adventures of Huckleberry Finn, Mark Twain. Read by Patrick
+   Fraley 
+ - Winnie the Pooh, by A.A. Milne, Read by Peter Dennis The
+   Cricket in Times Square, by George Selden, Read by Tony Shalhoub 
+ - The Phantom Tollbooth, by Norton Juster, Read by David Hyde Pierce 
+ - Charlie and the Chocolate Factory/Charlie and the Great Glass
+   Elevator, by Roald Dahl, Read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5ODExNzY1LDgyNzMzODM4OSwxMDcyNT
-Y3NjExLC0zNzc3MDQ1NjQsLTE2MDYxOTU5OCwtMTEyNzkxODc5
-NiwtMTU4NDg5NTA0NSwtMTQ2NjY4MzU0NywxNDI3MjcwNTE4LC
-0xMDYyMjI0MTAxLC0yMDM1MDQ2ODkwLDE0NTc1MTI3NjJdfQ==
-
+eyJoaXN0b3J5IjpbLTk0NTMzNjk2MCwxMDk4MTE3NjUsODI3Mz
+M4Mzg5LDEwNzI1Njc2MTEsLTM3NzcwNDU2NCwtMTYwNjE5NTk4
+LC0xMTI3OTE4Nzk2LC0xNTg0ODk1MDQ1LC0xNDY2NjgzNTQ3LD
+E0MjcyNzA1MTgsLTEwNjIyMjQxMDEsLTIwMzUwNDY4OTAsMTQ1
+NzUxMjc2Ml19
 -->
