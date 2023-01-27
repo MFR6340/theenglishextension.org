@@ -14,16 +14,31 @@ This is one of Mark Twain's most famous short stories.  It was adapted from a ca
 
 <a href="https://loa-shared.s3.amazonaws.com/static/pdf/Twain_Bluejay_Yarn.pdf" rel="nofollow">  Free pdf available here
 
+### The Trumpet of the Swan, by E.B. White
+
+<img src="https://imgur.com/pqlnouL.png" width="25%" />
+
+summary here.
+
+<a href="bookdepository link herehttps://www.bookdepository.com/Trumpet-Swan-E-B-White/9780064408677?ref=grid-view&qid=1674837751357&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
+
 ### Title here, by author here
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.
+summary here.  (Lexile level       )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
+### Title here, by author here
 
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile level       )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -34,7 +49,7 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODc0NTg4MCwyMDg4NjM5NDM5LC0xNj
-M4OTQ5NjUzLC0xNDc5Mjk2MTMsMTc4ODI0Mjg2MSwtMTAyMzA2
-NzY0Nl19
+eyJoaXN0b3J5IjpbMTExNDg4MjI3MCwxMTA4NzQ1ODgwLDIwOD
+g2Mzk0MzksLTE2Mzg5NDk2NTMsLTE0NzkyOTYxMywxNzg4MjQy
+ODYxLC0xMDIzMDY3NjQ2XX0=
 -->
