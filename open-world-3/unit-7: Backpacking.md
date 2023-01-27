@@ -54,7 +54,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Nanberry, by Jackie French
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -90,7 +90,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQ1Mzc4MywtMTgxNjcyMzk1MSwxOT
+eyJoaXN0b3J5IjpbMTUwOTcxMjQ5MiwtMTgxNjcyMzk1MSwxOT
 c5OTIwNTkyLC03NDU3MDU2NjksNDkwMjIxMDY4LDE5MzY0MjY5
 LDM4NzQ0ODA3NSwtMzA2NjQxMDQyXX0=
 -->
