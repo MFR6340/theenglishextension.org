@@ -10,7 +10,7 @@ layout: dir-index
 
 <img src="https://i.imgur.com/Zxuz7N8.png" width="25%" />
 
-Parents, if you have no other reference book on your shelf about reading, this is the one you must have.  This book, now in it's 8th edition, has now    (Lexile Level unavailable)
+Parents, if you have no other reference book on your shelf about reading, this is the one you must have.  This book, now in it's 8th edition, has been read by millions.  It should be read by everyone.  The book contains both research an anecdotes on the importance of literacy develop, reading aloud and strategies to use.  I   (Lexile Level unavailable)
 
 <a href="https://www.bookdepository.com/Impossible-Climb-Young-Readers-Adaptation-Mark-Synnott/9780593203934?ref=grid-view&qid=1674577500528&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061902668" rel="nofollow">Buy on Orell Füssli</a> 
@@ -70,7 +70,7 @@ TEEO provides supplemental booklets which can be used in primary school classroo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzMTA4MDEyLDEwNzI1Njc2MTEsLTM3Nz
+eyJoaXN0b3J5IjpbMTY1MDg1ODE2LDEwNzI1Njc2MTEsLTM3Nz
 cwNDU2NCwtMTYwNjE5NTk4LC0xMTI3OTE4Nzk2LC0xNTg0ODk1
 MDQ1LC0xNDY2NjgzNTQ3LDE0MjcyNzA1MTgsLTEwNjIyMjQxMD
 EsLTIwMzUwNDY4OTAsMTQ1NzUxMjc2Ml19
