@@ -8,12 +8,12 @@ layout: dir-index
 
 ### Jim Trelease's Read-aloud Handbook, by Jim Trelease
 
-<img src="https://i.imgur.com/Zxuz7N8.png" width="25%" />
+<img src="https://i.imgur.com/CHv6pFq.png" width="25%" />
 
 Parents, if you have no other reference book on your shelf about reading, this is the one you must have.  This book, now in it's 8th edition, has been read by millions.  It should be read by everyone.  The book contains both research an anecdotes on the importance of literacy develop, reading aloud and strategies to use.  It also contains an extensive list of recommended books to ensure that your home is a print-rich environment.  
 
 <a href="https://www.bookdepository.com/Jim-Treleases-Read-aloud-Handbook-Jim-Trelease/9780143133797?ref=grid-view&qid=1674814096672&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061902668" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053312117" rel="nofollow">Buy on Orell Füssli</a> 
 
 
  ### The Impossible Climb (Young Readers Adaptation): Alex Honnold, El Capitan, and a Climber's Life, by Mark Synnott
@@ -70,8 +70,8 @@ TEEO provides supplemental booklets which can be used in primary school classroo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMTIxMjQyOCwxMDcyNTY3NjExLC0zNz
-c3MDQ1NjQsLTE2MDYxOTU5OCwtMTEyNzkxODc5NiwtMTU4NDg5
-NTA0NSwtMTQ2NjY4MzU0NywxNDI3MjcwNTE4LC0xMDYyMjI0MT
-AxLC0yMDM1MDQ2ODkwLDE0NTc1MTI3NjJdfQ==
+eyJoaXN0b3J5IjpbODI3MzM4Mzg5LDEwNzI1Njc2MTEsLTM3Nz
+cwNDU2NCwtMTYwNjE5NTk4LC0xMTI3OTE4Nzk2LC0xNTg0ODk1
+MDQ1LC0xNDY2NjgzNTQ3LDE0MjcyNzA1MTgsLTEwNjIyMjQxMD
+EsLTIwMzUwNDY4OTAsMTQ1NzUxMjc2Ml19
 -->
