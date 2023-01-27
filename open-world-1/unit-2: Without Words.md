@@ -24,12 +24,12 @@ summary here.
 
 ### The Science of Ant Communication, by Pamela Paterson
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/GM680ip.png" width="25%" />
 
 summary here.  (Lexile level       )
 
 <a href="https://www.bookdepository.com/The-Science-of-Ant-Communication-Pamela-Paterson/9781479174416" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Available online</a> 
+<a href="https://zoboko.com/text/yqg01ye1/the-science-of-ant-communication-a-discussion-of-how-ants-talk-to-each-other/4" rel="nofollow">Available online</a> 
 
 ### Title here, by author here
 
@@ -49,7 +49,7 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ4MDUzMjcwLDExMDg3NDU4ODAsMjA4OD
-YzOTQzOSwtMTYzODk0OTY1MywtMTQ3OTI5NjEzLDE3ODgyNDI4
-NjEsLTEwMjMwNjc2NDZdfQ==
+eyJoaXN0b3J5IjpbLTE2NzE2NzM1ODYsMTEwODc0NTg4MCwyMD
+g4NjM5NDM5LC0xNjM4OTQ5NjUzLC0xNDc5Mjk2MTMsMTc4ODI0
+Mjg2MSwtMTAyMzA2NzY0Nl19
 -->
