@@ -34,8 +34,8 @@ summary here.  (Lexile Level     )
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Waltz-for-Matilda-Matilda-Saga-1-Jackie-French/9780732290214?ref=grid-view&qid=1674835027042&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037840059" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -91,7 +91,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0Njc4OTgxNiwxOTc5OTIwNTkyLC03ND
+eyJoaXN0b3J5IjpbMTE5NTcwMTIyNiwxOTc5OTIwNTkyLC03ND
 U3MDU2NjksNDkwMjIxMDY4LDE5MzY0MjY5LDM4NzQ0ODA3NSwt
 MzA2NjQxMDQyXX0=
 -->
