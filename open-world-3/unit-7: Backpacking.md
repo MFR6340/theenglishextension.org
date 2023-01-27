@@ -89,14 +89,14 @@ summary here.  (Lexile Level     )
 
 ### Follow the Rabbit-Proof Fence, by Doris Pilkington
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/KIfmI54.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Follow-Rabbit-Proof-Fence-Doris-Nugi-Garimara-Pilkington/9780702233555?ref=grid-view&qid=1674836408037&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1025148937" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NjgwMzIwNiwtNDI0NzgwOTMzLC0xOD
-E2NzIzOTUxLDE5Nzk5MjA1OTIsLTc0NTcwNTY2OSw0OTAyMjEw
-NjgsMTkzNjQyNjksMzg3NDQ4MDc1LC0zMDY2NDEwNDJdfQ==
+eyJoaXN0b3J5IjpbMjg2MjI3NjQ5LC00MjQ3ODA5MzMsLTE4MT
+Y3MjM5NTEsMTk3OTkyMDU5MiwtNzQ1NzA1NjY5LDQ5MDIyMTA2
+OCwxOTM2NDI2OSwzODc0NDgwNzUsLTMwNjY0MTA0Ml19
 -->
