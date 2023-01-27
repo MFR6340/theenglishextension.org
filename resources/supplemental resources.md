@@ -8,7 +8,7 @@ layout: dir-index
 
 ### Jim Trelease's Read-aloud Handbook, by Jim Trelease
 
-<img src="https://i.imgur.com/CHv6pFq.png" width="25%" />
+<img src="https://i.imgur.com/CHv6pFq.png " width="25%" />
 
 Parents, if you have no other reference book on your shelf about reading, this is the one you must have.  This book, now in it's 8th edition, has been read by millions.  It should be read by everyone.  The book contains both research an anecdotes on the importance of literacy develop, reading aloud and strategies to use.  It also contains an extensive list of recommended books to ensure that your home is a print-rich environment.  
 
@@ -70,8 +70,9 @@ TEEO provides supplemental booklets which can be used in primary school classroo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI3MzM4Mzg5LDEwNzI1Njc2MTEsLTM3Nz
-cwNDU2NCwtMTYwNjE5NTk4LC0xMTI3OTE4Nzk2LC0xNTg0ODk1
-MDQ1LC0xNDY2NjgzNTQ3LDE0MjcyNzA1MTgsLTEwNjIyMjQxMD
-EsLTIwMzUwNDY4OTAsMTQ1NzUxMjc2Ml19
+eyJoaXN0b3J5IjpbLTEwNTg5ODMyNTcsODI3MzM4Mzg5LDEwNz
+I1Njc2MTEsLTM3NzcwNDU2NCwtMTYwNjE5NTk4LC0xMTI3OTE4
+Nzk2LC0xNTg0ODk1MDQ1LC0xNDY2NjgzNTQ3LDE0MjcyNzA1MT
+gsLTEwNjIyMjQxMDEsLTIwMzUwNDY4OTAsMTQ1NzUxMjc2Ml19
+
 -->
