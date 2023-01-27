@@ -22,14 +22,14 @@ summary here.
 
 <a href="bookdepository link herehttps://www.bookdepository.com/Trumpet-Swan-E-B-White/9780064408677?ref=grid-view&qid=1674837751357&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
 
-### Title here, by author here
+### The Science of Ant Communication, by Pamela Paterson
 
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile level       )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Fr</a> 
+<a href="https://www.bookdepository.com/The-Science-of-Ant-Communication-Pamela-Paterson/9781479174416" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Available online</a> 
 
 ### Title here, by author here
 
@@ -49,7 +49,7 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzM5MTMwLDExMDg3NDU4ODAsMjA4OD
+eyJoaXN0b3J5IjpbNDQ4MDUzMjcwLDExMDg3NDU4ODAsMjA4OD
 YzOTQzOSwtMTYzODk0OTY1MywtMTQ3OTI5NjEzLDE3ODgyNDI4
 NjEsLTEwMjMwNjc2NDZdfQ==
 -->
