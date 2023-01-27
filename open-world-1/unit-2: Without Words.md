@@ -12,7 +12,7 @@
 
 This is one of Mark Twain's most famous short stories.  It was adapted from a campfire story he heard when he was prospecting for gold.  It begins: "Animals talk to each other, of course. There can be no question about that; but I suppose there are very few people who can understand them. I never knew but one man who could."
 
-<a href="https://loa-shared.s3.amazonaws.com/static/pdf/Twain_Bluejay_Yarn.pdf" rel="nofollow">  Free pdf available here
+<a href="https://loa-shared.s3.amazonaws.com/static/pdf/Twain_Bluejay_Yarn.pdf" rel="nofollow">  Free PDF available
 
 ### The Trumpet of the Swan, by E.B. White
 
@@ -49,7 +49,7 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDg4MjI3MCwxMTA4NzQ1ODgwLDIwOD
+eyJoaXN0b3J5IjpbLTkwMjY5MjczOCwxMTA4NzQ1ODgwLDIwOD
 g2Mzk0MzksLTE2Mzg5NDk2NTMsLTE0NzkyOTYxMywxNzg4MjQy
 ODYxLC0xMDIzMDY3NjQ2XX0=
 -->
