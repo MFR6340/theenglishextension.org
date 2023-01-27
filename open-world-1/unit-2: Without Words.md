@@ -29,7 +29,7 @@ summary here.
 summary here.  (Lexile level       )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="orell fussli link here" rel="nofollow">Fr</a> 
 
 ### Title here, by author here
 
@@ -49,7 +49,7 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjY5MjczOCwxMTA4NzQ1ODgwLDIwOD
-g2Mzk0MzksLTE2Mzg5NDk2NTMsLTE0NzkyOTYxMywxNzg4MjQy
-ODYxLC0xMDIzMDY3NjQ2XX0=
+eyJoaXN0b3J5IjpbMTYwNzM5MTMwLDExMDg3NDU4ODAsMjA4OD
+YzOTQzOSwtMTYzODk0OTY1MywtMTQ3OTI5NjEzLDE3ODgyNDI4
+NjEsLTEwMjMwNjc2NDZdfQ==
 -->
