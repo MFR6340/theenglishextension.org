@@ -6,7 +6,22 @@ layout: dir-index
 
 ## Reading Instruction
 
+### Jim Trelease's Read-aloud Handbook
+<img src="https://i.imgur.com/Zxuz7N8.png" width="25%" />
 
+summary here.  (Lexile Level unavailable)
+
+<a href="https://www.bookdepository.com/Impossible-Climb-Young-Readers-Adaptation-Mark-Synnott/9780593203934?ref=grid-view&qid=1674577500528&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061902668" rel="nofollow">Buy on Orell Füssli</a> 
+
+
+ ### The Impossible Climb (Young Readers Adaptation): Alex Honnold, El Capitan, and a Climber's Life, by Mark Synnott
+<img src="https://i.imgur.com/Zxuz7N8.png" width="25%" />
+
+summary here.  (Lexile Level unavailable)
+
+<a href="https://www.bookdepository.com/Impossible-Climb-Young-Readers-Adaptation-Mark-Synnott/9780593203934?ref=grid-view&qid=1674577500528&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061902668" rel="nofollow">Buy on Orell Füssli</a> 
 
 ## Listening
 ### Listening Comprehension Skills
@@ -54,8 +69,8 @@ TEEO provides supplemental booklets which can be used in primary school classroo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjU2NzYxMSwtMzc3NzA0NTY0LC0xNj
-A2MTk1OTgsLTExMjc5MTg3OTYsLTE1ODQ4OTUwNDUsLTE0NjY2
-ODM1NDcsMTQyNzI3MDUxOCwtMTA2MjIyNDEwMSwtMjAzNTA0Nj
-g5MCwxNDU3NTEyNzYyXX0=
+eyJoaXN0b3J5IjpbLTE0NTkyNDYzNTMsMTA3MjU2NzYxMSwtMz
+c3NzA0NTY0LC0xNjA2MTk1OTgsLTExMjc5MTg3OTYsLTE1ODQ4
+OTUwNDUsLTE0NjY2ODM1NDcsMTQyNzI3MDUxOCwtMTA2MjIyND
+EwMSwtMjAzNTA0Njg5MCwxNDU3NTEyNzYyXX0=
 -->
