@@ -43,12 +43,11 @@ summary here.  (Lexile Level     )
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Transported-Diary-Elizabeth-Harvey-Australia-1790-Goldie-Alexander/9780439981149?ref=grid-view&qid=1674835572591&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
 
 ### Title here, by author here
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/IOaClvV.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
@@ -91,7 +90,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDk1NTM5NDgsLTE4MTY3MjM5NTEsMT
-k3OTkyMDU5MiwtNzQ1NzA1NjY5LDQ5MDIyMTA2OCwxOTM2NDI2
-OSwzODc0NDgwNzUsLTMwNjY0MTA0Ml19
+eyJoaXN0b3J5IjpbLTE2ODQ1Mzc4MywtMTgxNjcyMzk1MSwxOT
+c5OTIwNTkyLC03NDU3MDU2NjksNDkwMjIxMDY4LDE5MzY0MjY5
+LDM4NzQ0ODA3NSwtMzA2NjQxMDQyXX0=
 -->
