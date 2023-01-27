@@ -33,7 +33,7 @@ summary here.  (Lexile level       )
 
 ### Song for a Whale, by Lynne Kelly
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/60HQpez.png" width="25%" />
 
 summary here.  (Lexile level       )
 
@@ -49,7 +49,7 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Njk5NjI3NCwtMTY3MTY3MzU4NiwxMT
-A4NzQ1ODgwLDIwODg2Mzk0MzksLTE2Mzg5NDk2NTMsLTE0Nzky
-OTYxMywxNzg4MjQyODYxLC0xMDIzMDY3NjQ2XX0=
+eyJoaXN0b3J5IjpbNDczMTIwOTYxLC0xNjcxNjczNTg2LDExMD
+g3NDU4ODAsMjA4ODYzOTQzOSwtMTYzODk0OTY1MywtMTQ3OTI5
+NjEzLDE3ODgyNDI4NjEsLTEwMjMwNjc2NDZdfQ==
 -->
