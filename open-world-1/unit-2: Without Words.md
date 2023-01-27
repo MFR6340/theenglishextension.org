@@ -42,14 +42,14 @@ summary here.  (Lexile level       )
 
 ### How to Speak Animal, by Lindy Mattice
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/kfaWJyO.png" width="25%" />
 
 summary here.  (Lexile level       )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/How-Speak-Animal-BUSHEL--PECK-BOOKS/9781638190431" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061657549" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTE0NDY3NCwtMTY3MTY3MzU4NiwxMT
+eyJoaXN0b3J5IjpbLTIxNzA1NTQ2MywtMTY3MTY3MzU4NiwxMT
 A4NzQ1ODgwLDIwODg2Mzk0MzksLTE2Mzg5NDk2NTMsLTE0Nzky
 OTYxMywxNzg4MjQyODYxLC0xMDIzMDY3NjQ2XX0=
 -->
