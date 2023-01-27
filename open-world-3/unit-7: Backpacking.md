@@ -62,14 +62,13 @@ summary here.  (Lexile Level     )
 
 <a href="https://www.bookdepository.com/Nanberry-Jackie-French/9780732290221?ref=grid-view&qid=1674835728543&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-### Title here, by author here
+### That Boy Jack, by Janeen Brian
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/7rQjBSR.png" width="25%" />
 
 summary here.  (Lexile Level     )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/That-Boy-Jack-Janeen-Brian/9781922179005?ref=grid-view&qid=1674835871439&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Title here, by author here
 
@@ -89,7 +88,7 @@ summary here.  (Lexile Level     )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzM1NDU4MSwtMTgxNjcyMzk1MSwxOT
+eyJoaXN0b3J5IjpbLTQyNDc4MDkzMywtMTgxNjcyMzk1MSwxOT
 c5OTIwNTkyLC03NDU3MDU2NjksNDkwMjIxMDY4LDE5MzY0MjY5
 LDM4NzQ0ODA3NSwtMzA2NjQxMDQyXX0=
 -->
