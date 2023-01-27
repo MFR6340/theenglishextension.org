@@ -47,8 +47,11 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.bookdepository.com/This-Book-Is-Not-Good-For-You-Pseudonymous-Bosch/9780316040853?ref=grid-view&qid=1674494&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1010873165" rel="nofollow">Buy on Orell Füssli</a>
 
+## Supplemental Activities
+sus
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNjI3ODcxMCw3MTE3NDUzNjYsMTE3MD
+eyJoaXN0b3J5IjpbLTg2NDg4NDc4MCw3MTE3NDUzNjYsMTE3MD
 EzODMwNSwtODYxNDQ2MSwtNTU3MjY0MzgzLC0xOTQ0NjU4MDQ3
 LDY3NzczNzYwOCw2Njg2MDk0NzUsMTE5NTk4NjI5LC0xNDcxND
 MwMDEsLTM3Njk4MTgzMSwtMTU0NDU0NzEwNywtMTU3NDU5OTEx
