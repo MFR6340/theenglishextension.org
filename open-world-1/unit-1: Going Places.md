@@ -32,19 +32,19 @@ summary here.  (Lexile level       )
 
 <a href="https://www.bookdepository.com/Gruesome-Guide-Edinburgh-newspaper-edition-Terry-Deary/9780702318122?ref=grid-view&qid=1674500219627&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-### Edinburgh, by Terry Deary
+### Divided City by Theresa Breslin
 
 
 <img src="https://imgur.com/LquXPjQ.png" width="25%" />
 
 summary here.  (Lexile level       )
 
-<a href="https://www.bookdepository.com/Gruesome-Guide-Edinburgh-newspaper-edition-Terry-Deary/9780702318122?ref=grid-view&qid=1674500219627&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Divided-City-Theresa-Breslin/9780552551885?ref=grid-view&qid=1674837430467&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Let's Explore Edinburgh Old Town, by Anne Bruce English
 
 
-<img src="https://imgur.com/LquXPjQ.png" width="25%" />
+<img src="https://imgur.com/GwVHfXr.png" width="25%" />
 
 summary here.  (Lexile level       )
 
@@ -61,6 +61,6 @@ You don't need to leave Switzerland to see **Highland Dancing** or to learn how 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODEwOTU2NjUsLTIwNjI0MTI5MywxNz
+eyJoaXN0b3J5IjpbLTE4NjA5NjMzNDMsLTIwNjI0MTI5MywxNz
 k5MzE4MjEyLDc4ODAxNzc4OSwtMTcyOTMwNjA0OV19
 -->
