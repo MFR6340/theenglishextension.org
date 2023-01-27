@@ -10,19 +10,12 @@ layout: dir-index
 
 <img src="https://i.imgur.com/CHv6pFq.png " width="25%" />
 
-Parents, if you have no other reference book on your shelf about reading, this is the one you must have.  This book, now in it's 8th edition, has been read by millions.  It should be read by everyone.  The book contains both research an anecdotes on the importance of literacy develop, reading aloud and strategies to use.  It also contains an extensive list of recommended books to ensure that your home is a print-rich environment.  
+Parents, if you don't have a reference book on your shelf about reading, this is the one you must have.  This book, now in it's 8th edition, has been read by millions.  It should be read by everyone.  The book contains both research an anecdotes on the importance of literacy develop, reading aloud and strategies to use.  It also contains an extensive list of recommended books to ensure that your home is a print-rich environment.  
 
 <a href="https://www.bookdepository.com/Jim-Treleases-Read-aloud-Handbook-Jim-Trelease/9780143133797?ref=grid-view&qid=1674814096672&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053312117" rel="nofollow">Buy on Orell Füssli</a> 
 
 
- ### The Impossible Climb (Young Readers Adaptation): Alex Honnold, El Capitan, and a Climber's Life, by Mark Synnott
-<img src="https://i.imgur.com/Zxuz7N8.png" width="25%" />
-
-summary here.  (Lexile Level unavailable)
-
-<a href="https://www.bookdepository.com/Impossible-Climb-Young-Readers-Adaptation-Mark-Synnott/9780593203934?ref=grid-view&qid=1674577500528&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061902668" rel="nofollow">Buy on Orell Füssli</a> 
 
 ## Listening
 ### Listening Comprehension Skills
@@ -70,9 +63,9 @@ TEEO provides supplemental booklets which can be used in primary school classroo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg5ODMyNTcsODI3MzM4Mzg5LDEwNz
-I1Njc2MTEsLTM3NzcwNDU2NCwtMTYwNjE5NTk4LC0xMTI3OTE4
-Nzk2LC0xNTg0ODk1MDQ1LC0xNDY2NjgzNTQ3LDE0MjcyNzA1MT
-gsLTEwNjIyMjQxMDEsLTIwMzUwNDY4OTAsMTQ1NzUxMjc2Ml19
+eyJoaXN0b3J5IjpbMTA5ODExNzY1LDgyNzMzODM4OSwxMDcyNT
+Y3NjExLC0zNzc3MDQ1NjQsLTE2MDYxOTU5OCwtMTEyNzkxODc5
+NiwtMTU4NDg5NTA0NSwtMTQ2NjY4MzU0NywxNDI3MjcwNTE4LC
+0xMDYyMjI0MTAxLC0yMDM1MDQ2ODkwLDE0NTc1MTI3NjJdfQ==
 
 -->
