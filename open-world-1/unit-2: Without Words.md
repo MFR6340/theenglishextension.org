@@ -37,19 +37,28 @@ summary here.  (Lexile level       )
 
 summary here.  (Lexile level       )
 
-<a href="https://www.bookdepository.com/Song-for-Whale-Lynne-Kelly/9781848126916?ref=grid-view&qid=1674838236128&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051304074" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Song-for-Whale-Lynne-Kelly/9781848126916?ref=grid-view&qid=1674838236128&sr=1-1 hereTitle  itr  a herei r="lnre.png" width="25%" />
+
+summary here.
+
+<a href="bookdepository" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orell fuessli.ch/shop/home/artikeldetails/e" rel="nofollow">Buy on Orell Füssli</a>  
+
+
 
 ### How to Speak Animal, by Lindy Mattice
 
-<img src="https://imgur.com/kfaWJyO.png" width="25%" />
+<img src="https://imgur.com/kfaWJyOTitle here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile level       )
 
-<a href="https://www.bookdepository.com/How-Speak-Animal-BUSHEL--PECK-BOOKS/9781638190431" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061657549" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/How-Speak-Animal-BUSHEL--PECK-BOOKS/9781638190431 link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1061657549 link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzA1NTQ2MywtMTY3MTY3MzU4NiwxMT
-A4NzQ1ODgwLDIwODg2Mzk0MzksLTE2Mzg5NDk2NTMsLTE0Nzky
-OTYxMywxNzg4MjQyODYxLC0xMDIzMDY3NjQ2XX0=
+eyJoaXN0b3J5IjpbLTEzNzMyODcyMiwtMjE3MDU1NDYzLC0xNj
+cxNjczNTg2LDExMDg3NDU4ODAsMjA4ODYzOTQzOSwtMTYzODk0
+OTY1MywtMTQ3OTI5NjEzLDE3ODgyNDI4NjEsLTEwMjMwNjc2ND
+ZdfQ==
 -->
