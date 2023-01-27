@@ -32,6 +32,23 @@ summary here.  (Lexile level       )
 
 <a href="https://www.bookdepository.com/Gruesome-Guide-Edinburgh-newspaper-edition-Terry-Deary/9780702318122?ref=grid-view&qid=1674500219627&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
+### Edinburgh, by Terry Deary
+
+
+<img src="https://imgur.com/LquXPjQ.png" width="25%" />
+
+summary here.  (Lexile level       )
+
+<a href="https://www.bookdepository.com/Gruesome-Guide-Edinburgh-newspaper-edition-Terry-Deary/9780702318122?ref=grid-view&qid=1674500219627&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+
+### Let's Explore Edinburgh Old Town, by Anne Bruce English
+
+
+<img src="https://imgur.com/LquXPjQ.png" width="25%" />
+
+summary here.  (Lexile level       )
+
+<a href="https://www.bookdepository.com/Gruesome-Guide-Edinburgh-newspaper-edition-Terry-Deary/9780702318122?ref=grid-view&qid=1674500219627&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 # Supplemental Activities
 What can more Scottish than the **Highland Games**?  Without even having to leave Switzerland, you have a chance to go see one of these amazing events.  The Highland Games Verband Schweiz organizes events every year.  For the program for this year.  https://www.hgvs.ch/saison-2023
@@ -43,6 +60,6 @@ You don't need to leave Switzerland to see **Highland Dancing** or to learn how 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI0MTI5MywxNzk5MzE4MjEyLDc4OD
-AxNzc4OSwtMTcyOTMwNjA0OV19
+eyJoaXN0b3J5IjpbLTk4NzQ2MzcyMiwtMjA2MjQxMjkzLDE3OT
+kzMTgyMTIsNzg4MDE3Nzg5LC0xNzI5MzA2MDQ5XX0=
 -->
