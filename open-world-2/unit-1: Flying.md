@@ -8,7 +8,7 @@
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     )
+summary here.  (Lexile Level     )<sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -19,6 +19,6 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTIxNTczOCwtMTAyMjgxNDY0NCwyMD
-k4OTEzMzYsLTE0MjUwMzU4NjJdfQ==
+eyJoaXN0b3J5IjpbLTc5MTAzNDA3MywxOTU1MjE1NzM4LC0xMD
+IyODE0NjQ0LDIwOTg5MTMzNiwtMTQyNTAzNTg2Ml19
 -->
