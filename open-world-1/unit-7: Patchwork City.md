@@ -39,14 +39,14 @@ summary here.  (Lexile level       )
 
 ### Toronto: Cities of the World, by Barbara Radcliffe Rogers
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/3cuW4Cp.png" width="25%" />
 
 summary here.  (Lexile level       )
 
 <a href="https://www.amazon.com/-/de/dp/0516220349/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1674926987&sr=8-1" rel="nofollow"> Buy on Amazon</a>  Only available used
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTc0ODk0MywtMjE0NjAxNDY5Nyw3Mj
+eyJoaXN0b3J5IjpbMTQxNDI1MTU5NSwtMjE0NjAxNDY5Nyw3Mj
 I0NjIxNzMsLTEyNjM4NjUxMjIsLTc1NTk4NzM5MCwtMTIyNzEz
 NTk2NCwtNzk0MTYwNiwtMzIyOTc0MjYxLC0xMjU3ODAwOTYzLC
 01OTE5NzI1ODQsMTA0MzY2NDA5Nl19
