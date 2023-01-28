@@ -28,7 +28,7 @@ This table reflects 50th percentile rank (PR) and 90th percentile rank (PR) norm
 |11|1295L|1610L|
 |12|1295L|1610L|
 
-As an example, an average 4th grade student (50PR) is reading books that are an 850 Lexile meaure by the end of the school year.
+As an example, by the end of the school year, an average 4th grade student (50PR) independently reads books that are an 850 Lexile meaure.
 
 
 ### Guide to Lexile Codes
@@ -47,6 +47,6 @@ Parents should not worry as much about what level a child is currently at, but r
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1Mjk3MTk1LDE5NzE1OTUyODIsLTEyNT
-UwNjgxOTcsLTEzOTk4MjEyMzVdfQ==
+eyJoaXN0b3J5IjpbLTgxNTAxODE5OSwyNTUyOTcxOTUsMTk3MT
+U5NTI4MiwtMTI1NTA2ODE5NywtMTM5OTgyMTIzNV19
 -->
