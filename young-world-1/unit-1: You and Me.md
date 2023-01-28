@@ -48,7 +48,8 @@ It's great to learn a little bit about a lot of countries, but it is also import
 
 ### The Story of Ireland, by Brendan O’Brien
 
-<img src="https://imgur.com/6zAmwpH.png" width="25%" />
+<img src="https://imgur.com/6zAmwpH.png" width="25%" 
+style="display:block;margin-left:auto;margin-right:auto;"/>
 
 A great introduction to Irish History written and illustrated for young readers. In just about 100 pages, readers are taken from the Prehistoric Time in Ireland through Modern Day. Easy to read and full of fun facts.
 
@@ -76,11 +77,11 @@ description
 
 <a href="https://www.bookdepository.com/Waitangi-Day-Philippa-Werry/9781869664213?ref=grid-view&qid=1673790699073&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
-### A Long Walk to Water: Based on a True Story
+### A Long Walk to Water, by Linda Sue Park
 
 <img src="https://imgur.com/XP316AM.png" width="25%" />
 
-A short novel based partially on the true story of Salva Dut, who founded the organization Water for South Sudan.   Written from the perspective of two children, the story explores the difficulties of growing up in a modern world where basic human needs like running water are still not available. 
+A short novel based partially on the true story of Salva Dut, who founded the organization Water for South Sudan.   Written from the perspective of two children, the story explores the difficulties of growing up in a modern world where basic human needs like running water are still not available.  ( Lexile 720L)
 
 <a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a> 
@@ -114,7 +115,7 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMzYzMTQsLTUzNjEwMTY2NSwtMjAzOD
-E3MzA5MSwxMDIwMTc3NzM0LDQyNTE5NzA3OCw1NjI1MjM2MTAs
-MTg3NjcyMzQ2LC05MDg2MTcwLC01ODE0Nzc1OTBdfQ==
+eyJoaXN0b3J5IjpbNjc0NjY4NjM0LC01MzYxMDE2NjUsLTIwMz
+gxNzMwOTEsMTAyMDE3NzczNCw0MjUxOTcwNzgsNTYyNTIzNjEw
+LDE4NzY3MjM0NiwtOTA4NjE3MCwtNTgxNDc3NTkwXX0=
 -->
