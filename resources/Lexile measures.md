@@ -11,6 +11,7 @@ It is not a perfect system, and there are some scores that leave the head scratc
 
 ### Grade Level Table
 This table reflects 50th percentile rank (PR) and 90th percentile rank (PR) norms for end of year.  (Data generated 26. January 2023)
+
 |Grade|50 PR|90 PR|
 |--|--|--|
 |K|BR160L|150L|
@@ -46,6 +47,6 @@ Parents should not worry as much about what level a child is currently at, but r
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODc0Mjk1LDE5NzE1OTUyODIsLTEyNT
+eyJoaXN0b3J5IjpbMzU1OTUzODAxLDE5NzE1OTUyODIsLTEyNT
 UwNjgxOTcsLTEzOTk4MjEyMzVdfQ==
 -->
