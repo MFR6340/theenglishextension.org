@@ -30,12 +30,12 @@ summary here.  (Lexile level       )
 
 ### The Night They Stole the Stanley Cup, by Roy MacGregor
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/O1clI7O.png" width="25%" />
 
 summary here.  (Lexile level       )
 
-<a href=https://www.bookdepository.com/Night-They-Stole-Stanley-Cup-Roy-Macgregor/9781770494145?ref=grid-view&qid=1674926818968&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link herehttps://www.orellfuessli.ch/shop/home/artikeldetails/A1023376588rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Night-They-Stole-Stanley-Cup-Roy-Macgregor/9781770494145?ref=grid-view&qid=1674926818968&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1023376588rel"="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -46,7 +46,7 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzU1NzUyMzgsLTIxNDYwMTQ2OTcsNz
+eyJoaXN0b3J5IjpbLTEzMzM1MDE4OTMsLTIxNDYwMTQ2OTcsNz
 IyNDYyMTczLC0xMjYzODY1MTIyLC03NTU5ODczOTAsLTEyMjcx
 MzU5NjQsLTc5NDE2MDYsLTMyMjk3NDI2MSwtMTI1NzgwMDk2My
 wtNTkxOTcyNTg0LDEwNDM2NjQwOTZdfQ==
