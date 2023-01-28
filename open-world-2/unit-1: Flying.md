@@ -4,7 +4,7 @@
 
 **This unit covers flying and the pioneers in flight.  Here is a list of supplemental literature related to flying:** 
 
-### Title here, by author here
+### Under a War-Torn Sky, by L.M. Elliot
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -118,7 +118,7 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjcyOTc0MDUsLTIwODgyMTIzNTMsLT
-c5MTAzNDA3MywxOTU1MjE1NzM4LC0xMDIyODE0NjQ0LDIwOTg5
-MTMzNiwtMTQyNTAzNTg2Ml19
+eyJoaXN0b3J5IjpbMTQwMjQ5MjY0LC0yMDg4MjEyMzUzLC03OT
+EwMzQwNzMsMTk1NTIxNTczOCwtMTAyMjgxNDY0NCwyMDk4OTEz
+MzYsLTE0MjUwMzU4NjJdfQ==
 -->
