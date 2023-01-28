@@ -52,7 +52,7 @@ summary here. (Lexile level       )
 <a href="https://www.bookdepository link here BookDepository</a>  
 <aref=" rel="nofollow">Buy on Orell Füssli</a>.com/Dove-Robin-Lee-Graham/9780060920470?ref=grid-view&qid=1674913250011&sr=1-1" rel="nofollow">Buy on a>  
 
-### Explorers Who Got Lost, by Diane Sansevere Dreher, by thr e
+### Explorers Who Got Lost, by Diane Sansevere Dreher
 
 <img src="https://imgur.com/CfRRQoR.png" width="25%" />
 
@@ -69,14 +69,14 @@ summary here. (Lexile level       )
 <a href="https://www.bookdepository.com/Lonely-Planet-Around-World-Lonely-Planet/9781788689373?ref=grid-view&qid=1674913654930&sr=1-6" rel="nofollow"> Buy on Bookdepository
 <a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1056729026" rel="nofollow">Buy on Orell Füssli</a> 
 
-### , by thr e
+### True Spirit
 
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here. (Lexile level       )
 
 <a href="bookdepositoryenllounoesi" rel="nofollow"> Buy on BookDepository</a>  
-<aref=orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a ref="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -88,9 +88,9 @@ summary here.  (Lexile level       )
 <a ref=orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzYxNjEyNjEsNTEyNzY0NzIsNTgzNj
-c5NTczLC0xODQ3OTI2NTE0LDE3OTk4NTM2MjksMTA3NjUyODM5
-NiwtMTg3MzE5NjY4MCwzNzI1ODg0NywxOTA4ODY2ODUzLDEyMD
-AxODAxNTMsNDM5NjUxMjk5LC0xNzEzOTM4NzYxLDQ0OTIxMTU4
-MSwxNDcxNDIxODU3LDYxNDU3MTk0NiwtMjA3MzkyMjYzNV19
+eyJoaXN0b3J5IjpbNTEyMjU3MDg2LDUxMjc2NDcyLDU4MzY3OT
+U3MywtMTg0NzkyNjUxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYs
+LTE4NzMxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMT
+gwMTUzLDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEs
+MTQ3MTQyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVdfQ==
 -->
