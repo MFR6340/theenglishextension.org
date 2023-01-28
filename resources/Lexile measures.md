@@ -17,9 +17,9 @@ Lexile measure are given from 200L for beginning readers and text to 1600L for a
 |Grade|50 PR|90 PR|
 |--|--|--|
 |K|BR160L|ee|
-|1|ee|ee|
-|2|ee|ee|
-|3|ee|ee|
+|1|165L|570L|
+|2|425L|795L|
+|3||ee|
 |4|ee|ee|
 |4|ee|ee|
 |5|ee|ee|
@@ -56,6 +56,6 @@ Parents should not worry as much about what level a child is currently at, but r
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTUwNjgxOTcsLTEzOTk4MjEyMzVdfQ
-==
+eyJoaXN0b3J5IjpbMTEzMjg0NzI2MSwtMTI1NTA2ODE5NywtMT
+M5OTgyMTIzNV19
 -->
