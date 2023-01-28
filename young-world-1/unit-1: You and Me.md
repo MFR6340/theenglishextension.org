@@ -80,7 +80,7 @@ description
 
 <img src="https://imgur.com/XP316AM.png" width="25%" />
 
-summary here.
+.
 
 <a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a> 
@@ -89,7 +89,7 @@ summary here.
 
 <img src="https://imgur.com/vBGZM2T.png" width="25%" />
 
-Children’s book showcasing the lives of families living in the Philippines today. Includes history, culture and daily life in beautiful illustrated detail.
+Children’s book showcasing the lives of families living in the Philippines today. Includes history, culture and daily life in beautiful illustrated detailsummar ere.
 
 <a href="https://www.bookdepository.com/All-About-Philippines-Gidget-Roceles-Jimenez/9780804848480?ref=grid-view&qid=1673791475669&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1040951756" rel="nofollow"> Buy on Orell Füssli</a>
@@ -100,7 +100,7 @@ Children’s book showcasing the lives of families living in the Philippines tod
 
 <img src="https://imgur.com/j7GWfJI.png" width="25%" />
 
-This is the young adult version of the autobiographical story of Trevor Noah, a boy who was born in an illegal interracial marriage and his childhood in South Africa during apartheid.  It describes his experiences bullying and poverty as well as his “normal” experiences growing up with dating and dancing,  along with the some rather daring ideas for making money to survive. summary here. (Lexile 780L)
+This is the young adult version of the autobiographical story of Trevor Noah, a boy who was born inmarriag and his childhood in South Africa during apartheid.  It describes his experiences bullying and poverty as well as his “normal” experiences growing up with dating and dancing,  along with the some rather daring ideas for making money to survive. summary here. (Lexile 780L)
 
 <a href="https://www.bookdepository.com/Its-Trevor-Noah-Born-Crime-Trevor-Noah/9780525582199?ref=grid-view&qid=1673791904933&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051326754" rel="nofollow"> Buy on Orell Füssli</a>
@@ -114,7 +114,7 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzkwMjQ4OCwtMjAzODE3MzA5MSwxMD
-IwMTc3NzM0LDQyNTE5NzA3OCw1NjI1MjM2MTAsMTg3NjcyMzQ2
-LC05MDg2MTcwLC01ODE0Nzc1OTBdfQ==
+eyJoaXN0b3J5IjpbLTUzNjEwMTY2NSwxOTIzOTAyNDg4LC0yMD
+M4MTczMDkxLDEwMjAxNzc3MzQsNDI1MTk3MDc4LDU2MjUyMzYx
+MCwxODc2NzIzNDYsLTkwODYxNzAsLTU4MTQ3NzU5MF19
 -->
