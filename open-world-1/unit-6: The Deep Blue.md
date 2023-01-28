@@ -28,7 +28,7 @@ summary here.  (Lexile level )
 summary here.  (L(lexile level       1110L)
 
 <a href="https://www.bookdepository.com/Chasing-the-Storm-Ron-Miller/9781467712842" rel="nofollow"> Buy on BookDepository</a>  " rel="nofollow"> Buy on BookDepository</a>  
-<a href="orellfussli" rel="nofollow">Bu##  ai h
+<a href="orellfussli" rel="nofollow">Bu##  ai hy on Orell Füssli</a>
 
 ### It's Raining Fish and Spideres, by auBill Evans
 
@@ -37,16 +37,16 @@ summary here.  (L(lexile level       1110L)
 summary here.  (exile level       )
 
 <a href="https://www.bookdepository link here.com/Its-Raining-Fish-and-Spiders-Bill-Evans/9780765321329" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1011949467" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1011949467" rel="nofollow">Bu
 
-### Title hereer, by 
+### "imHorrible Geography, by Anita Ganeri
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/YFYgjak.png" width="25%" />
 
 summary here.  (exile level       )
 
-<a href="bookdepository" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orellfussli" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Stormy-Weather-Anita-Ganeri/9781407196244?ref=grid-view&qid=1674915008947&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036942730" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Supplemental Activities
 
@@ -55,8 +55,8 @@ In the past, Sea Life Konstanz, just across the border in Germany, hasn't been p
 
 While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting and useful extension.  Try visiting <a href="https://www.aquatis.ch/en/ " rel="nofollow">Aquatis Aquarium </a> in Lausanne which focuses on freshwater ecosystems on five continents. Compare animals that live in salt-water vs fresh-water , their survival techniques and the obstacles they face. The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzIwNjQ5MCwtMTg1OTE5OTI5NywxMD
-E4ODc5NDQxLC02NjUxMDMxNzUsMjA1NzAxOTQyLC0yMzUxNzYz
-NDUsLTEzMTc1MzM0MzgsMTIwNDg4MjA2MiwtMTYxNDI0MDkyNi
-wtMTE2MzQ5MjI5NSw1NDY3NDI1MTYsMzMzNDI4MjE1XX0=
+eyJoaXN0b3J5IjpbNjcyMzQ4NDI1LDEwOTMyMDY0OTAsMTAxOD
+g3OTQ0MSwtNjY1MTAzMTc1LDIwNTcwMTk0MiwtMjM1MTc2MzQ1
+LC0xMzE3NTMzNDM4LDEyMDQ4ODIwNjIsLTE2MTQyNDA5MjYsLT
+ExNjM0OTIyOTUsNTQ2NzQyNTE2LDMzMzQyODIxNV19
 -->
