@@ -14,14 +14,14 @@ summary here.  (Lexile 1030L)
 
 ### Swallows and Amazons, by Arthur Ransome
 
-<img src="imgurlinkherehttps://imgur.com/ZZ1fVsn.png" width="25%" />
+<img src="https://imgur.com/ZZ1fVsn.png" width="25%" />
 
 summary here. (Lexile 800L)
 
 <a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9781782957393?ref=grid-view&qid=1674909364444&sr=1-4 link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1022805518" rel="nofollow">Buy on Orell Füssli</a> 
 
-### l Title here, by author here
+### Shackleton’s Journey, by William Grill
 
 <img src=".png" width="25%" />
 
@@ -94,8 +94,7 @@ summary here.  (Lexile level       )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc0MzAwMjEsMTkwODg2Njg1MywxMj
-AwMTgwMTUzLDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0NDkyMTE1
-ODEsMTQ3MTQyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVdfQ
-==
+eyJoaXN0b3J5IjpbODMwMzg0NjM5LDE5MDg4NjY4NTMsMTIwMD
+E4MDE1Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgx
+LDE0NzE0MjE4NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1XX0=
 -->
