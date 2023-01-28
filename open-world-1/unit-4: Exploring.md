@@ -38,11 +38,12 @@ summary here.  (Lexile level       )
 <a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1060473120" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### The 21 Balloons, by William Pène du Bois
-<img src="https://imgur.com/PZrokS5.png" width="25%" />
+<img src="https://imgur.com/PZrokS5imgur.png" width="25%" />
 
 summary here.  (Lexile level       )
 
 <a href="https://www.bookdepository.com/Twenty-One-Balloons-Puffin-Modern-Classics-William-Pene-du-Bois/9780142403303?ref=grid-view&qid=1674913134702&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orellfussli" rel="nofollow">Buy on esi</a> 
 
 ###
 
@@ -55,12 +56,12 @@ summary here. (Lexile level       )
 
 ### , by thr e
 
-<img src="imgur.png" width="25%" />
+<img src=".png" width="25%" />
 
 summary here. (Lexile level       )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
+<ao/ref=res" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### , by thr e
 
@@ -77,8 +78,7 @@ summary here. (Lexile level       )
 
 summary here. (Lexile level       )
 
-<a href="bookdepository" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="bookdepositoryenllounoesi href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
  ### Title here, by author here
 
@@ -90,9 +90,9 @@ summary here.  (Lexile level       )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjAzMDkwNSwxNzk5ODUzNjI5LDEwNz
-Y1MjgzOTYsLTE4NzMxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1
-MywxMjAwMTgwMTUzLDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0ND
-kyMTE1ODEsMTQ3MTQyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2
-MzVdfQ==
+eyJoaXN0b3J5IjpbLTE4NDc5MjY1MTQsMTc5MjAzMDkwNSwxNz
+k5ODUzNjI5LDEwNzY1MjgzOTYsLTE4NzMxOTY2ODAsMzcyNTg4
+NDcsMTkwODg2Njg1MywxMjAwMTgwMTUzLDQzOTY1MTI5OSwtMT
+cxMzkzODc2MSw0NDkyMTE1ODEsMTQ3MTQyMTg1Nyw2MTQ1NzE5
+NDYsLTIwNzM5MjI2MzVdfQ==
 -->
