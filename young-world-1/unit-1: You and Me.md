@@ -27,7 +27,7 @@ Meet kids from 84 countries around the world from Australia to Zambezi.  See whe
 
 <img src="https://imgur.com/KFr5N23.png" width="25%" />
 
-Aimed at younger readers, this book shares the stories of 7 different children from 7 very different parts of the world, A nice introduction to similarities and difference as seen through the eyes of a child. (NC 620L)
+Aimed at younger readers, this book shares the stories of 7 different children from 7 very different parts of the world, A nice introduction to similarities and difference as seen through the eyes of a child. (NC 620L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/This-Is-How-We-Do-It-Matt-Lamothe/9781797218717?ref=grid-view&qid=1665849256702&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063175273" rel="nofollow">Buy on Orell Füssli</a>
@@ -80,7 +80,7 @@ description
 
 <img src="https://imgur.com/XP316AM.png" width="25%" />
 
-A short novel based partially on the true story of Salva Dut, who founded the organization Water for South Sudan.   Written from the perspective of two children, the story explores the difficulties of growing up in a modern world where basic human needs like running water are still not available.  ( Lexile 720L)
+A short novel based partially on the true story of Salva Dut, who founded the organization Water for South Sudan.   Written from the perspective of two children, the story explores the difficulties of growing up in a modern world where basic human needs like running water are still not available.  ( Lexile 720L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a> 
@@ -114,8 +114,8 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNzc1MDAzNyw4ODY0MzQwMzcsNjc0Nj
-Y4NjM0LC01MzYxMDE2NjUsLTIwMzgxNzMwOTEsMTAyMDE3Nzcz
-NCw0MjUxOTcwNzgsNTYyNTIzNjEwLDE4NzY3MjM0NiwtOTA4Nj
-E3MCwtNTgxNDc3NTkwXX0=
+eyJoaXN0b3J5IjpbNTEwMDI3NDYxLC0zMTc3NTAwMzcsODg2ND
+M0MDM3LDY3NDY2ODYzNCwtNTM2MTAxNjY1LC0yMDM4MTczMDkx
+LDEwMjAxNzc3MzQsNDI1MTk3MDc4LDU2MjUyMzYxMCwxODc2Nz
+IzNDYsLTkwODYxNzAsLTU4MTQ3NzU5MF19
 -->
