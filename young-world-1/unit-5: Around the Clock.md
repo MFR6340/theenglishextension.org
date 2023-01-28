@@ -39,7 +39,7 @@ Centuries ago, sailors could determine their latitude north or south of the equa
 
 <img src="https://imgur.com/7L5Xm9p.png" width="25%"  />
 
-This mystery adventure is full of action! It's about a cuckoo clock in which Peter Hollister finds a note that contains a riddle. The Hollister's follow the note's origin to Germany where they try to solve the riddle, attempt to find a golden cuckoo clock that was stolen from a museum and outwit a gang of thieves. (Lexile 740L)
+This mystery adventure is about a cuckoo clock in which Peter Hollister finds a note that contains a riddle. The Hollister's follow the note's origin to Germany where they try to solve the riddle, attempt to find a golden cuckoo clock that was stolen from a museum and outwit a gang of thieves. (Lexile 740L)
 
 
 <a href="https://www.bookdepository.com/Happy-Hollisters-Cuckoo-Clock-Mystery-Jerry-West/9781949436570?ref=grid-view&qid=1656001073916&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -100,6 +100,6 @@ https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDcwNzkzMjUsMTk4OTY4MzAyNiwyMD
-Q1MjAxMzYsMTk3Mjk3ODIyM119
+eyJoaXN0b3J5IjpbLTIyMTMwMzY4MywxOTg5NjgzMDI2LDIwND
+UyMDEzNiwxOTcyOTc4MjIzXX0=
 -->
