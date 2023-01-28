@@ -16,16 +16,16 @@ It measures the reading challenge measured by a text, based on word frequency an
 Lexile measure are given from 200L for beginning readers and text to 1600L for advanced readers and text.
 |Grade|50 PR|90 PR|
 |--|--|--|
-|K|BR160L|ee|
+|K|BR160L|150|
 |1|165L|570L|
 |2|425L|795L|
 |3|645L|985L|
 |4|850L|1160L|
 |5|950L|1260L|
-|6||ee|
-|7|ee|ee|
-|8|ee|ee|
-|9|ee|ee|
+|6|1030L|1340L|
+|7|1095L|1410L|
+|8|1155L|1470L|
+|9||1520L|
 |10|ee|ee|
 |11|ee|ee|
 |12|ee|ee|
@@ -55,6 +55,6 @@ Parents should not worry as much about what level a child is currently at, but r
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzYzNzQ2OCwtMTI1NTA2ODE5NywtMT
-M5OTgyMTIzNV19
+eyJoaXN0b3J5IjpbLTE1MjQzOTgzMzUsLTEyNTUwNjgxOTcsLT
+EzOTk4MjEyMzVdfQ==
 -->
