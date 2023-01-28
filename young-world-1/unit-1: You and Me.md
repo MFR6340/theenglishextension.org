@@ -48,8 +48,7 @@ It's great to learn a little bit about a lot of countries, but it is also import
 
 ### The Story of Ireland, by Brendan O’Brien
 
-<img src="https://imgur.com/6zAmwpH.png" width="25%" 
-style="display:block;margin-left:auto;margin-right:auto;"/>
+<img src="https://imgur.com/6zAmwpH.png" width="25%"/>
 
 A great introduction to Irish History written and illustrated for young readers. In just about 100 pages, readers are taken from the Prehistoric Time in Ireland through Modern Day. Easy to read and full of fun facts.
 
@@ -115,7 +114,8 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NjY4NjM0LC01MzYxMDE2NjUsLTIwMz
-gxNzMwOTEsMTAyMDE3NzczNCw0MjUxOTcwNzgsNTYyNTIzNjEw
-LDE4NzY3MjM0NiwtOTA4NjE3MCwtNTgxNDc3NTkwXX0=
+eyJoaXN0b3J5IjpbMjQ1MDg3OTk3LDY3NDY2ODYzNCwtNTM2MT
+AxNjY1LC0yMDM4MTczMDkxLDEwMjAxNzc3MzQsNDI1MTk3MDc4
+LDU2MjUyMzYxMCwxODc2NzIzNDYsLTkwODYxNzAsLTU4MTQ3Nz
+U5MF19
 -->
