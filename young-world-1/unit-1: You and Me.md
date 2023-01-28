@@ -36,7 +36,7 @@ summary here. (children from: Italy, Japan, Iran, India, Peru, Uganda, and Russi
 
 <img src="https://imgur.com/L6DW0ok.png" width="25%" />
 
-sumary here.
+An introduction to buying/selling/and bartering, this book describes five local marketplaces on four continents explaining how commerce works for young readers. 
 
 <a href="https://www.bookdepository.com/How-Much-Ted-Lewin/9780688175535" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039278632" rel="nofollow"> Buy on Orell Füssli</a>
@@ -114,8 +114,8 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ1MDg3OTk3LDY3NDY2ODYzNCwtNTM2MT
-AxNjY1LC0yMDM4MTczMDkxLDEwMjAxNzc3MzQsNDI1MTk3MDc4
-LDU2MjUyMzYxMCwxODc2NzIzNDYsLTkwODYxNzAsLTU4MTQ3Nz
-U5MF19
+eyJoaXN0b3J5IjpbMTE5MjY1MTM4Miw2NzQ2Njg2MzQsLTUzNj
+EwMTY2NSwtMjAzODE3MzA5MSwxMDIwMTc3NzM0LDQyNTE5NzA3
+OCw1NjI1MjM2MTAsMTg3NjcyMzQ2LC05MDg2MTcwLC01ODE0Nz
+c1OTBdfQ==
 -->
