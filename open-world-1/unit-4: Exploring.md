@@ -42,7 +42,7 @@ summary here.  (Lexile level       )
 
 summary here.  (Lexile level       )
 
-<a href="https://www.bookdepository.com/Twenty-One-Balloons-Puffin-Modern-Classics-William-Pene-du-Bois/9780142403303?ref=grid-view&qid=1674913134702&sr=1-2" rel="nofollow">Buy on esi</a>ahref=res" rel="nofollow">Buy on esi</a> 
+<a href="https://www.bookdepository.com/Twenty-One-Balloons-Puffin-Modern-Classics-William-Pene-du-Bois/9780142403303?ref=grid-view&qid=1674913134702&sr=1-2" rel="nofollow"> Buy on esi</a>ahref=resBookDepository</i" rel="nofollow">Buy on esi</a> 
 
 ### Dove, by Robin Lee Graham
 
@@ -51,16 +51,15 @@ summary here.  (Lexile level       )
 summary here. (Lexile level       )
 
 <a href="https://www.bookdepository link here BookDepository</a>  
-<aref=" rel="nofollow">Buy on Orell Füssli</a>.com/Dove-Robin-Lee-Graham/9780060920470?ref=grid-view&qid=1674913250011&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<aref=" rel="nofollow">Buy on Orell Füssli</a>.com/Dove-Robin-Lee-Graham/9780060920470?ref=grid-view&qid=1674913250011&sr=1-1" rel="nofollow">Buy on a>  
 
 ### Explorers Who Got Lost, by Diane Sansevere Dreher, by thr e
 
-<img src=".png" width="25%" />
+<img src="https://imgur.com/CfRRQoR.png" width="25%" />
 
 summary here. (Lexile level       )
 
-<a href="https://www.bookdepository.com/Explorers-Who-Got-Lost-Diane-Sansevere-Dreher/9780765381514?ref=grid-view&qid=1674913369118&sr=1-1 link here" rel="nofollow"> Buy on BookDepository</a>  
-<aref=res"orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Explorers-Who-Got-Lost-Diane-Sansevere-Dreher/9780765381514?ref=grid-view&qid=1674913369118&sr=1-1 link here" rel="nofollow"> Buy on href=res""https://www.orellfuessli.ch/shop/home/artikeldetails/A1036084575" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### 
 
@@ -68,8 +67,8 @@ summary here. (Lexile level       )
 
 summary here. (Lexile level       )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on 
-href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="bookdepository" rel="nofollow"> Buy on 
+Bookdepositoryhref="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### , by thr e
 
@@ -77,7 +76,8 @@ href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
 summary here. (Lexile level       )
 
-<a href="bookdepositoryenllounoesi" rel="nofollow"> Buy on href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="bookdepositoryenllounoesi" rel="nofollow"> Buy on BookDepository</a>  
+<aref=orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -85,11 +85,11 @@ summary here. (Lexile level       )
 
 summary here.  (Lexile level       )
 
-<a href="bookdepository" rel="nofollow"> Buy on BookDepository</a>  
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgzNjc5NTczLDE4NDc0MzQ1ODMsLTE4ND
+eyJoaXN0b3J5IjpbLTMyMDY0NjU2Niw1ODM2Nzk1NzMsLTE4ND
 c5MjY1MTQsMTc5OTg1MzYyOSwxMDc2NTI4Mzk2LC0xODczMTk2
 NjgwLDM3MjU4ODQ3LDE5MDg4NjY4NTMsMTIwMDE4MDE1Myw0Mz
 k2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgxLDE0NzE0MjE4
