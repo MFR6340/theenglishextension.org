@@ -36,7 +36,7 @@ summary here. (children from: Italy, Japan, Iran, India, Peru, Uganda, and Russi
 
 <img src="https://imgur.com/L6DW0ok.png" width="25%" />
 
-summary here.
+sumary here.
 
 <a href="https://www.bookdepository.com/How-Much-Ted-Lewin/9780688175535" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039278632" rel="nofollow"> Buy on Orell Füssli</a>
@@ -61,7 +61,7 @@ It's great to learn a little bit about a lot of countries, but it is also import
 
 <img src="https://imgur.com/OUUlfCh.png" width="25%" />
 
-The story, written in the form of a poem, explores the homesick feelings of a young woman who travelled extensively in Australia with her family. The reader is challenged to think about their ownhome, wherever that may be, and how to appreciate all the little things that make it home. 
+The story, written in the form of a poem, explores the homesick feelings of a young woman who has travelled extensively with her family in Australia withand her family. Teelings of home sickness. A poem about Australia and about nature, the reader is challenged to think about their ownhome, wherever that may be, and how to appreciate all the little things that make it home. 
 
 <a href="https://www.bookdepository.com/My-Country-Dorothea-MacKellar/9781743837702?ref=grid-view&qid=1665849509446&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 
@@ -114,7 +114,7 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MzYyMzkzMSw0MjUxOTcwNzgsNTYyNT
-IzNjEwLDE4NzY3MjM0NiwtOTA4NjE3MCwtNTgxNDc3NTkwXX0=
-
+eyJoaXN0b3J5IjpbMTAyMDE3NzczNCwtMjUzNjIzOTMxLDQyNT
+E5NzA3OCw1NjI1MjM2MTAsMTg3NjcyMzQ2LC05MDg2MTcwLC01
+ODE0Nzc1OTBdfQ==
 -->
