@@ -80,7 +80,7 @@ description
 
 <img src="https://imgur.com/XP316AM.png" width="25%" />
 .
-A short novel based partially on the true story of Salva Dut, who grew up in written from the perspective of two children in South Sudan exploring the difficulties of growing up in a modern world where basic human needs and rights are not available. Based partly on the true story of Salva Dut who eventually grew up and left Sudan and went on to found the organization Water for South Sudan.
+A short novel based partially on the true story of Salva Dut, who grew up in Sudan and founded the organization Water for South Sudan.   Written from the perspective of two children, it  explores  the difficulties of growing up in a modern world where basic human needs and rights are not available. Based partly on the true story of Salva Dut who eventually grew up and left Sudan and went on to found the organization Water for South Sudan.
 
 <a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a> 
@@ -114,7 +114,7 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDM2NTM1OTQsLTUzNjEwMTY2NSwtMj
-AzODE3MzA5MSwxMDIwMTc3NzM0LDQyNTE5NzA3OCw1NjI1MjM2
-MTAsMTg3NjcyMzQ2LC05MDg2MTcwLC01ODE0Nzc1OTBdfQ==
+eyJoaXN0b3J5IjpbMTQ1NjAxMTU2NSwtNTM2MTAxNjY1LC0yMD
+M4MTczMDkxLDEwMjAxNzc3MzQsNDI1MTk3MDc4LDU2MjUyMzYx
+MCwxODc2NzIzNDYsLTkwODYxNzAsLTU4MTQ3NzU5MF19
 -->
