@@ -20,6 +20,8 @@ Lexile measure are given from 200L for beginning readers and text to 1600L for a
 
 
 
+
+
 Some lexile levels are also given an additional code:
 ### Guide to Lexile Codes
 
@@ -37,6 +39,6 @@ Parents should not worry as much about what level a child is currently at, but r
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc4NjkzMzcsLTEzOTk4MjEyMzVdfQ
+eyJoaXN0b3J5IjpbLTEzMjI4NzQwNDUsLTEzOTk4MjEyMzVdfQ
 ==
 -->
