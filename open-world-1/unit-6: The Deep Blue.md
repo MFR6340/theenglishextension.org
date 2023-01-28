@@ -30,16 +30,16 @@ summary here.  (L(lexile level       1110L)
 <a href="https://www.bookdepository.com/Chasing-the-Storm-Ron-Miller/9781467712842" rel="nofollow"> Buy on BookDepository</a>   link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
-###  eatTitle h
-
 ### It's Raining Fish and Spideres, by author hereBill Evans
 
-<img src=".png" width="25%" />
+<img src="https://imgur.com/SedEZb6.png" width="25%" />
 
 summary here.  (Lexile level       )
 
 <a href="https://www.bookdepository link here.com/Its-Raining-Fish-and-Spiders-Bill-Evans/9780765321329" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1011949467" rel="nofollow">Buy on Orell Füssli</a>er, by 
+<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1011949467" rel="nofollow">Buy on Orell Füssli</a>
+
+### Title here
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -55,8 +55,8 @@ In the past, Sea Life Konstanz, just across the border in Germany, hasn't been p
 
 While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting and useful extension.  Try visiting <a href="https://www.aquatis.ch/en/ " rel="nofollow">Aquatis Aquarium </a> in Lausanne which focuses on freshwater ecosystems on five continents. Compare animals that live in salt-water vs fresh-water , their survival techniques and the obstacles they face. The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2NzM4NTQ1LDEwMTg4Nzk0NDEsLTY2NT
-EwMzE3NSwyMDU3MDE5NDIsLTIzNTE3NjM0NSwtMTMxNzUzMzQz
-OCwxMjA0ODgyMDYyLC0xNjE0MjQwOTI2LC0xMTYzNDkyMjk1LD
-U0Njc0MjUxNiwzMzM0MjgyMTVdfQ==
+eyJoaXN0b3J5IjpbLTE4NTkxOTkyOTcsMTAxODg3OTQ0MSwtNj
+Y1MTAzMTc1LDIwNTcwMTk0MiwtMjM1MTc2MzQ1LC0xMzE3NTMz
+NDM4LDEyMDQ4ODIwNjIsLTE2MTQyNDA5MjYsLTExNjM0OTIyOT
+UsNTQ2NzQyNTE2LDMzMzQyODIxNV19
 -->
