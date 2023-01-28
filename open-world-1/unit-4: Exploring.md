@@ -12,11 +12,11 @@ summary here.  (Lexile 1030L)
 <a href="https://www.bookdepository.com/Around-World-Eighty-Days-Jules-Verne/9780007350940?ref=grid-view&qid=1674908924094&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009059697" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Swallows and Amazons, by Arthur Ransome
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile level       )
+summary here. (Lexile 800L)
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -94,7 +94,7 @@ summary here.  (Lexile level       )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDE4MDE1Myw0Mzk2NTEyOTksLTE3MT
-M5Mzg3NjEsNDQ5MjExNTgxLDE0NzE0MjE4NTcsNjE0NTcxOTQ2
-LC0yMDczOTIyNjM1XX0=
+eyJoaXN0b3J5IjpbLTE2OTcyMTkwMDMsMTIwMDE4MDE1Myw0Mz
+k2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgxLDE0NzE0MjE4
+NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1XX0=
 -->
