@@ -61,7 +61,7 @@ It's great to learn a little bit about a lot of countries, but it is also import
 
 <img src="https://imgur.com/OUUlfCh.png" width="25%" />
 
-summary here.
+The story, written in the form of a poem, explores the feelings of a young woman who has traveled extensively with her family in Australia and her feelings of home sickness. A poem about Australia and about nature, the reader is challenged to think about their home, wherever that may be, and how to appreciate all the little things that make it home. 
 
 <a href="https://www.bookdepository.com/My-Country-Dorothea-MacKellar/9781743837702?ref=grid-view&qid=1665849509446&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 
@@ -114,6 +114,7 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1MTk3MDc4LDU2MjUyMzYxMCwxODc2Nz
-IzNDYsLTkwODYxNzAsLTU4MTQ3NzU5MF19
+eyJoaXN0b3J5IjpbLTU3NjQxNTMwMCw0MjUxOTcwNzgsNTYyNT
+IzNjEwLDE4NzY3MjM0NiwtOTA4NjE3MCwtNTgxNDc3NTkwXX0=
+
 -->
