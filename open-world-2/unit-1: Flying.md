@@ -6,12 +6,12 @@
 
 ### Under a War-Torn Sky, by L.M. Elliot
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/w76xJ2Z.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Under-War-Torn-Sky-L-M-Elliott/9780786817535?ref=grid-view&qid=1674927277828&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006268179" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -118,7 +118,7 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMjQ5MjY0LC0yMDg4MjEyMzUzLC03OT
-EwMzQwNzMsMTk1NTIxNTczOCwtMTAyMjgxNDY0NCwyMDk4OTEz
-MzYsLTE0MjUwMzU4NjJdfQ==
+eyJoaXN0b3J5IjpbMTM0MTU4MTc0NywxNDAyNDkyNjQsLTIwOD
+gyMTIzNTMsLTc5MTAzNDA3MywxOTU1MjE1NzM4LC0xMDIyODE0
+NjQ0LDIwOTg5MTMzNiwtMTQyNTAzNTg2Ml19
 -->
