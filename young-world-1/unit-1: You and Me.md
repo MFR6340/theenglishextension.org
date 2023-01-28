@@ -89,7 +89,7 @@ A short novel based partially on the true story of Salva Dut, who founded the or
 
 <img src="https://imgur.com/vBGZM2T.png" width="25%" />
 
-This children’s book includes the history, culture and daily life of families living in the Philippines today. (Lexile 1050L)
+This children’s book includes the history, culture and daily life of families living in the Philippines today. (Lexile 1050L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/All-About-Philippines-Gidget-Roceles-Jimenez/9780804848480?ref=grid-view&qid=1673791475669&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1040951756" rel="nofollow"> Buy on Orell Füssli</a>
@@ -100,7 +100,7 @@ This children’s book includes the history, culture and daily life of families 
 
 <img src="https://imgur.com/j7GWfJI.png" width="25%" />
 
-This is the young adult version of the autobiographical story of Trevor Noah, a boy who was born inmarriag and his childhood in South Africa during apartheid.  It describes his experiences bullying and poverty as well as his “normal” experiences growing up with dating and dancing,  along with the some rather daring ideas for making money to survive. summary here. (Lexile 780L)
+This is the young adult version of the autobiographical story of Trevor Noah, a boy who was born inmarriag and his childhood in South Africa during apartheid.  It describes his experiences bullying and poverty as well as his “normal” experiences growing up with dating and dancing,  along with the some rather daring ideas for making money to survive. summary here. (Lexile 780L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Its-Trevor-Noah-Born-Crime-Trevor-Noah/9780525582199?ref=grid-view&qid=1673791904933&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051326754" rel="nofollow"> Buy on Orell Füssli</a>
@@ -114,8 +114,8 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEwMDI3NDYxLC0zMTc3NTAwMzcsODg2ND
-M0MDM3LDY3NDY2ODYzNCwtNTM2MTAxNjY1LC0yMDM4MTczMDkx
-LDEwMjAxNzc3MzQsNDI1MTk3MDc4LDU2MjUyMzYxMCwxODc2Nz
-IzNDYsLTkwODYxNzAsLTU4MTQ3NzU5MF19
+eyJoaXN0b3J5IjpbMTU1NzkxNjgzNywtMzE3NzUwMDM3LDg4Nj
+QzNDAzNyw2NzQ2Njg2MzQsLTUzNjEwMTY2NSwtMjAzODE3MzA5
+MSwxMDIwMTc3NzM0LDQyNTE5NzA3OCw1NjI1MjM2MTAsMTg3Nj
+cyMzQ2LC05MDg2MTcwLC01ODE0Nzc1OTBdfQ==
 -->
