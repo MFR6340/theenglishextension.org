@@ -62,12 +62,12 @@ summary here. (Lexile level       )
 
 ### Around the World: A Celebration of Circumnavigation, by Lonely Planet
 
-<img src="imgurn.png" width="25%" />
+<img src="https://imgur.com/3yHmxXg.png" width="25%" />
 
 summary here. (Lexile level       )
 
-<a href="bookdepository" rel="nofollow"> Buy on 
-Bookdepositoryhref="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Lonely-Planet-Around-World-Lonely-Planet/9781788689373?ref=grid-view&qid=1674913654930&sr=1-6" rel="nofollow"> Buy on Bookdepository
+<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1056729026" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### , by thr e
 
@@ -85,12 +85,12 @@ summary here. (Lexile level       )
 summary here.  (Lexile level       )
 
 <a href="bookdepository" rel="nofollow"> Buy on BookDepository</a>  
-<a ref=orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a ref=orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNzY0NzIsNDU1NzQwMzQ1LDU4MzY3OT
-U3MywtMTg0NzkyNjUxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYs
-LTE4NzMxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMT
-gwMTUzLDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEs
-MTQ3MTQyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVdfQ==
+eyJoaXN0b3J5IjpbLTIwNzYxNjEyNjEsNTEyNzY0NzIsNTgzNj
+c5NTczLC0xODQ3OTI2NTE0LDE3OTk4NTM2MjksMTA3NjUyODM5
+NiwtMTg3MzE5NjY4MCwzNzI1ODg0NywxOTA4ODY2ODUzLDEyMD
+AxODAxNTMsNDM5NjUxMjk5LC0xNzEzOTM4NzYxLDQ0OTIxMTU4
+MSwxNDcxNDIxODU3LDYxNDU3MTk0NiwtMjA3MzkyMjYzNV19
 -->
