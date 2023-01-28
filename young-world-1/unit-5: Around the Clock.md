@@ -26,7 +26,8 @@ This picture book is about Benjamin Banneker, (1731) a free African American, bo
 
 <img src="https://imgur.com/zjyo7RY.png" width="25%" />
 
-Centuries ago, sailors could determine their latitude north or south of the equator, but measuring longitude, their location east or west, was incredibly difficult.  After forty years, John Harrison (1693-1776) solved the problem  by designing a clock that could function on rocking seas.  Contains wonderfully detailed illustrations (Lexile 910L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+Centuries ago, sailors could determine their latitude north or south of the equator, but measuring longitude, their location east or west, was incredibly difficult.  After forty years, John Harrison (1693-1776) solved the problem  by designing a clock that could function on rocking seas.  Contains wonderfully detailed illustrations. (Lexile 910L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
 
 <a href="https://www.bookdepository.com/Sea-Clocks-Louise-Borden/9780689842160?ref=grid-view&qid=1665847233702&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003050527" rel="nofollow">Buy on Orell Füssli</a>
@@ -38,7 +39,7 @@ Centuries ago, sailors could determine their latitude north or south of the equa
 
 <img src="https://imgur.com/7L5Xm9p.png" width="25%"  />
 
-description here (Lexile 740L)
+This mystery adventure is full of action! It's about a cuckoo clock in which Peter Hollister finds a note that contains a riddle. The Hollister's follow the note's origin to Germany where they try to solve the riddle, attempt to find a golden cuckoo clock that was stolen from a museum and outwit a gang of thieves. (Lexile 740L)
 
 
 <a href="https://www.bookdepository.com/Happy-Hollisters-Cuckoo-Clock-Mystery-Jerry-West/9781949436570?ref=grid-view&qid=1656001073916&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -99,6 +100,6 @@ https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTIyODEyMDEsMTk4OTY4MzAyNiwyMD
+eyJoaXN0b3J5IjpbLTE1MDcwNzkzMjUsMTk4OTY4MzAyNiwyMD
 Q1MjAxMzYsMTk3Mjk3ODIyM119
 -->
