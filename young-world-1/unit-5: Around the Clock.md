@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/c8geq4Z.png" width="25%"  />
 
-SummaryDescription here (Lexile 1050L)
+This book is all about the history of timekeeping. It goes through the various calendars and why the differences exist between them., It answers questions such as how clocks were first invented. (Lexile 1050L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Story-Clocks-Calendars-Betsy-Maestro/9780060589455?ref=grid-view&qid=1656422356224&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002848514" rel="nofollow">Buy on Orell Füssli</a>
@@ -98,6 +98,6 @@ https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDQ5NDkxNiwyMDQ1MjAxMzYsMTk3Mj
-k3ODIyM119
+eyJoaXN0b3J5IjpbLTYxMDA1MDg3LDIwNDUyMDEzNiwxOTcyOT
+c4MjIzXX0=
 -->
