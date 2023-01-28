@@ -37,7 +37,7 @@ summary here.  (Lexile Level     )
 
 <a href="https://www.bookdepository.com/Taking-Bite-out-Apple-Rob-Janoff/9781911221616?ref=grid-view&qid=1674675007732&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-### Eat This! How Fast Food Marketing Gets you to Buy Junk by Andrea Curtis
+### Eat This! by Andrea Curtis
 
 <img src="https://imgur.com/JerfxFx.png" width="25%" />
 
@@ -54,6 +54,6 @@ summary here.  (Lexile 1090L)
 
 <a href="https://www.bookdepository.com/Start-It-Up-Kenrya-Rankin-Eriko-Takada/9780981973357" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzEyNDY3MzUsLTE4MTk0NzYxOTcsLT
-cwMjMyMjk3NSwtMjAxMDU5MjY0OCwxMjcwNjM4Mzc4XX0=
+eyJoaXN0b3J5IjpbLTI4NzAwMzQ4NCwtMTgxOTQ3NjE5NywtNz
+AyMzIyOTc1LC0yMDEwNTkyNjQ4LDEyNzA2MzgzNzhdfQ==
 -->
