@@ -7,9 +7,10 @@ There are a variety of ways to categorize books for readers. Books can be classi
 There are a variety of quantitative approaches to determine the reading level of a book, including Guided Reading Levels, Accelerated Reader, Developmental Reading Assessment, and Lexile measures. They all use different slightly different methodologies to measure the reading levels but they are all based on word frequency, vocabulary and sentence length.
 
 We have chosen to use Lexile measures to quantify the books here.  Lexile measures are one of the most comprehensive systems in use, with over 100 million books and reading materials measured using this leveling system.  Lexile measure are given from 200L for beginning readers and text to 1600L for advanced readers and text.
-It is not a perfect system, and there are some scores that leave the head scratching, but it does give a quantitative basis to 
+It is not a perfect system, and there are some scores that leave the head scratching, but it does give a quantitative basis to help determine if a book is appropriate for a reader. 
+
 ### Grade Level Table
-This table reflects 50th percentile rank (PR) and 90th percentile rank (PR) norms for end of year.  
+This table reflects 50th percentile rank (PR) and 90th percentile rank (PR) norms for end of year.  (Data is provided by Lexile.com.  Generated 26. January 2023)
 |Grade|50 PR|90 PR|
 |--|--|--|
 |K|BR160L|150L|
@@ -28,14 +29,6 @@ This table reflects 50th percentile rank (PR) and 90th percentile rank (PR) norm
 
 So, by the end of the school year, an average 4th grade student (50PR) reads books that are an 850 Lexile meaure. 
 
-
-
-
-
-
-
-
-
 Some lexile levels are also given an additional code:
 ### Guide to Lexile Codes
 
@@ -53,6 +46,6 @@ Parents should not worry as much about what level a child is currently at, but r
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc3Mjk3NzUsMTk3MTU5NTI4MiwtMT
+eyJoaXN0b3J5IjpbLTEzOTgyMDUyNTksMTk3MTU5NTI4MiwtMT
 I1NTA2ODE5NywtMTM5OTgyMTIzNV19
 -->
