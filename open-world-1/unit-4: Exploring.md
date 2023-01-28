@@ -38,12 +38,11 @@ summary here.  (Lexile level       )
 <a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1060473120" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### The 21 Balloons, by William Pène du Bois
-<img src="imgur.png" width="25%" />
+<img src="https://imgur.com/PZrokS5.png" width="25%" />
 
 summary here.  (Lexile level       )
 
 <a href="https://www.bookdepository.com/Twenty-One-Balloons-Puffin-Modern-Classics-William-Pene-du-Bois/9780142403303?ref=grid-view&qid=1674913134702&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
 
 ###
 
@@ -91,9 +90,9 @@ summary here.  (Lexile level       )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4NzcwODc3LDE3OTk4NTM2MjksMTA3Nj
-UyODM5NiwtMTg3MzE5NjY4MCwzNzI1ODg0NywxOTA4ODY2ODUz
-LDEyMDAxODAxNTMsNDM5NjUxMjk5LC0xNzEzOTM4NzYxLDQ0OT
-IxMTU4MSwxNDcxNDIxODU3LDYxNDU3MTk0NiwtMjA3MzkyMjYz
-NV19
+eyJoaXN0b3J5IjpbMTc5MjAzMDkwNSwxNzk5ODUzNjI5LDEwNz
+Y1MjgzOTYsLTE4NzMxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1
+MywxMjAwMTgwMTUzLDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0ND
+kyMTE1ODEsMTQ3MTQyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2
+MzVdfQ==
 -->
