@@ -18,16 +18,16 @@ summary here.  (Lexile 1030L)
 
 summary here. (Lexile 800L)
 
-<a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9781782957393?ref=grid-view&qid=1674909364444&sr=1-4#rating-distribution" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9781782957393?ref=grid-view&qid=1674909364444&sr=1-4#rating-distribution link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### l , by thr e
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile level       )
+summary here. (Lexile )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="bookdepository" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
@@ -94,7 +94,7 @@ summary here.  (Lexile level       )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNzU0ODk3LDEyMDAxODAxNTMsNDM5Nj
-UxMjk5LC0xNzEzOTM4NzYxLDQ0OTIxMTU4MSwxNDcxNDIxODU3
-LDYxNDU3MTk0NiwtMjA3MzkyMjYzNV19
+eyJoaXN0b3J5IjpbMTkwODg2Njg1MywzMzA3NTQ4OTcsMTIwMD
+E4MDE1Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgx
+LDE0NzE0MjE4NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1XX0=
 -->
