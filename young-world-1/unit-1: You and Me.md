@@ -85,7 +85,7 @@ summary here.
 <a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a> 
 
-### All About the Philippines: Stories, Songs, Crafts and Games for Kids, by Gidget Roceles Gimenez
+### All About the Philippines: Stories, Songs, Crafts and Games for Kids, by Gidget Roceles Jimenez
 
 <img src="https://imgur.com/vBGZM2T.png" width="25%" />
 
@@ -114,6 +114,6 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTEyMzE0NjUsMTg3NjcyMzQ2LC05MD
-g2MTcwLC01ODE0Nzc1OTBdfQ==
+eyJoaXN0b3J5IjpbNTYyNTIzNjEwLDE4NzY3MjM0NiwtOTA4Nj
+E3MCwtNTgxNDc3NTkwXX0=
 -->
