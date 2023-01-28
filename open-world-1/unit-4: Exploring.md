@@ -14,7 +14,7 @@ summary here.  (Lexile 1030L)
 
 ### Swallows and Amazons, by Arthur Ransome
 
-<img src="imgurlinkherehttps://imgur.com/ZZ1fVsn.png" width="25%" />
+<img src="https://imgur.com/ZZ1fVsn.png" width="25%" />
 
 summary here. (Lexile 800L)
 
@@ -92,8 +92,8 @@ summary here.  (Lexile level       )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTAwMzA5ODQsLTE4NzMxOTY2ODAsMz
-cyNTg4NDcsMTkwODg2Njg1MywxMjAwMTgwMTUzLDQzOTY1MTI5
-OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEsMTQ3MTQyMTg1Nyw2MT
-Q1NzE5NDYsLTIwNzM5MjI2MzVdfQ==
+eyJoaXN0b3J5IjpbMTA3NjUyODM5NiwtMTg3MzE5NjY4MCwzNz
+I1ODg0NywxOTA4ODY2ODUzLDEyMDAxODAxNTMsNDM5NjUxMjk5
+LC0xNzEzOTM4NzYxLDQ0OTIxMTU4MSwxNDcxNDIxODU3LDYxND
+U3MTk0NiwtMjA3MzkyMjYzNV19
 -->
