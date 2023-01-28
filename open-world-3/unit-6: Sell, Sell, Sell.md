@@ -12,7 +12,7 @@ summary here.  (Lexile Level     )
 <a href="https://www.bookdepository.com/Murder-Must-Advertise-Dorothy-L-Sayers/9781473621381?ref=grid-view&qid=1674674128936&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039812685" rel="nofollow">Buy on Orell Füssli</a> 
 
-### The lemonade War, by Jacqueline Davies
+### he lemonade War, by Jacqueline Davies
 
 <img src="https://imgur.com/YvKBqSa.png" width="25%" />
 
@@ -37,7 +37,7 @@ summary here.  (Lexile Level     )
 
 <a href="https://www.bookdepository.com/Taking-Bite-out-Apple-Rob-Janoff/9781911221616?ref=grid-view&qid=1674675007732&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-### Eat This! by Andrea Curtis
+### Eat This! How Fast Food Marketing Gets you to Buy Junk by Andrea Curtis
 
 <img src="https://imgur.com/JerfxFx.png" width="25%" />
 
@@ -54,6 +54,7 @@ summary here.  (Lexile 1090L)
 
 <a href="https://www.bookdepository.com/Start-It-Up-Kenrya-Rankin-Eriko-Takada/9780981973357" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzAwMzQ4NCwtMTgxOTQ3NjE5NywtNz
-AyMzIyOTc1LC0yMDEwNTkyNjQ4LDEyNzA2MzgzNzhdfQ==
+eyJoaXN0b3J5IjpbMjE0NjYwNTM3NywtMjg3MDAzNDg0LC0xOD
+E5NDc2MTk3LC03MDIzMjI5NzUsLTIwMTA1OTI2NDgsMTI3MDYz
+ODM3OF19
 -->
