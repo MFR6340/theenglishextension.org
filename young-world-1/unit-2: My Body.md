@@ -56,7 +56,7 @@ Jim Abbott was born without a hand.  Despite this important body part, he dreame
 
 <img src="https://i.imgur.com/dRtP69n.png" width="25%" />
 
-11 year old Melody has Cerebral Palsy and is unable to walk, talk or write, but she has a photographic memory.  She's trapped in her own body until she gets a computer that helps her express herself using her thumbs.   She ultimately gets in a regular classroom and her lands on the National Quiz Team.  This book can be the basis of many conversations.  (Lexile 700L)
+11 year old Melody has Cerebral Palsy and is unable to walk, talk or write, but she has a photographic memory.  She's trapped in her own body until she gets a computer that helps her express herself using her thumbs.   She ultimately gets in a regular classroom and her lands on the National Quiz Team.  This book can be the basis of many conversations.  (Lexile 700L)   <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Out-My-Mind-Sharon-M-Draper/9781416971719?ref=grid-view&qid=1673793076916&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1017633441" rel="nofollow"> Buy on Orell Füssli</a>
@@ -68,10 +68,10 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 The exhibition BodyWorlds is not currently showing in Switzerland, but one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDgwOTU4OTAsMTU3ODE1ODQ3NiwtNT
-kxMjkwMzEyLC0yODAyNDgzNywtMTU2NjkyOTc1NCwzMjUxODQ1
-MTIsLTE2MjQ0MDc1MjAsMTM4NjA2NTE2MCwyMTA4OTU1Nzc4LC
-0yNjkzMjA3MjMsODEzMTM0NTIsLTIzODE0MjIwOCwxMzM5MjY3
-ODkyLC0yMDkzMTQ4MTY0LDE0NzI2ODk2OTQsNDUzOTg0MTMzXX
-0=
+eyJoaXN0b3J5IjpbMTIwNzgxMDU0OSwxNTc4MTU4NDc2LC01OT
+EyOTAzMTIsLTI4MDI0ODM3LC0xNTY2OTI5NzU0LDMyNTE4NDUx
+MiwtMTYyNDQwNzUyMCwxMzg2MDY1MTYwLDIxMDg5NTU3NzgsLT
+I2OTMyMDcyMyw4MTMxMzQ1MiwtMjM4MTQyMjA4LDEzMzkyNjc4
+OTIsLTIwOTMxNDgxNjQsMTQ3MjY4OTY5NCw0NTM5ODQxMzNdfQ
+==
 -->
