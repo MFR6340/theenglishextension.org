@@ -59,7 +59,7 @@ This book is more fantasy, word-play and adventure than clock related, but it's 
 
 <img src="https://imgur.com/pV4cOFG.png" width="25%" />
 
-summary here.
+Javi gets a homework assignment to 'Invite Any Three People to Dinner'. The family's antique table brings to life the dinner guests which include the infamous pirate Blackbeard. All sorts of adventures follow in this thrilling read.
 
 <a href="https://www.bookdepository.com/Time-Villains-Victor-Pineiro/9781728245744?ref=grid-view&qid=1673795499563&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059707722" rel="nofollow"> Buy on Orell Füssli</a>
@@ -100,6 +100,6 @@ https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTMwMzY4MywxOTg5NjgzMDI2LDIwND
-UyMDEzNiwxOTcyOTc4MjIzXX0=
+eyJoaXN0b3J5IjpbLTEyODg4Mzk1OTEsLTIyMTMwMzY4MywxOT
+g5NjgzMDI2LDIwNDUyMDEzNiwxOTcyOTc4MjIzXX0=
 -->
