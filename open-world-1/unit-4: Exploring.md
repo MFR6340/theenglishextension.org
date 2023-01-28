@@ -18,7 +18,7 @@ summary here.  (Lexile 1030L)
 
 summary here. (Lexile 800L)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9781782957393?ref=grid-view&qid=1674909364444&sr=1-4#rating-distribution" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
@@ -94,7 +94,7 @@ summary here.  (Lexile level       )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTcyMTkwMDMsMTIwMDE4MDE1Myw0Mz
-k2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgxLDE0NzE0MjE4
-NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1XX0=
+eyJoaXN0b3J5IjpbMzMwNzU0ODk3LDEyMDAxODAxNTMsNDM5Nj
+UxMjk5LC0xNzEzOTM4NzYxLDQ0OTIxMTU4MSwxNDcxNDIxODU3
+LDYxNDU3MTk0NiwtMjA3MzkyMjYzNV19
 -->
