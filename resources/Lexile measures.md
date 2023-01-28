@@ -6,7 +6,7 @@ There are a variety of ways to categorize books for readers. Books can be classi
   
 There are a variety of quantitative approaches to determine the reading level of a book, including Guided Reading Levels, Accelerated Reader, Developmental Reading Assessment, and Lexile measures.
 
-We have chosen to use Lexile measures to quantify the books here.  Lexile measures are used throughas there are over 100 million books and reading materials which have been measured using this leveling system.
+We have chosen to use Lexile measures to quantify the books here.  Lexile measures are one of the most comprehensive systems in use, with over 100 million books and reading materials measured using this leveling system.
 
 It also assigns a level to many books and other reading materials, so that students, parents and teachers can find appropriate books at their reading levels.
 
@@ -59,6 +59,6 @@ Parents should not worry as much about what level a child is currently at, but r
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4MTMzNjkyLDE5NzE1OTUyODIsLTEyNT
-UwNjgxOTcsLTEzOTk4MjEyMzVdfQ==
+eyJoaXN0b3J5IjpbLTE4MjcxMzg1OTgsMTk3MTU5NTI4MiwtMT
+I1NTA2ODE5NywtMTM5OTgyMTIzNV19
 -->
