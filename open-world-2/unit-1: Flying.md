@@ -13,13 +13,112 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
 ## Supplemental Activities
 if you've ever had dreams of flying, the final venue of the Parachute World Cup Finals in Locarno from September 22-24, 2023,  might be an event that's worth going to.  Over 200 of the top sky divers from 20 nations compete for the titles with a focus on the accuracy of their landing.  And it's all happening while you're working on this unit.  A great excuse to go!  <a href="https://yellow-target.ch/" rel="nofollow">Yellow Target Skydiving World Cup</a>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODgyMTIzNTMsLTc5MTAzNDA3MywxOT
-U1MjE1NzM4LC0xMDIyODE0NjQ0LDIwOTg5MTMzNiwtMTQyNTAz
-NTg2Ml19
+eyJoaXN0b3J5IjpbLTE0NjcyOTc0MDUsLTIwODgyMTIzNTMsLT
+c5MTAzNDA3MywxOTU1MjE1NzM4LC0xMDIyODE0NjQ0LDIwOTg5
+MTMzNiwtMTQyNTAzNTg2Ml19
 -->
