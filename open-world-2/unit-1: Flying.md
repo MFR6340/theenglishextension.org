@@ -32,17 +32,17 @@ summary here.   (Lexile 1100L) <sup>[what is this?](/resources/Lexile%20measures
 
 ### Flights of No Return, Steven A. Ruffin
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/yr0PYaL.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035334235" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Cleared for Take Off, The Ultimate Book of Flight, by Rowland White
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+summary here. (Lexile 1240L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -116,7 +116,7 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMzcyNjU2NCwxNDAyNDkyNjQsLTIwOD
-gyMTIzNTMsLTc5MTAzNDA3MywxOTU1MjE1NzM4LC0xMDIyODE0
-NjQ0LDIwOTg5MTMzNiwtMTQyNTAzNTg2Ml19
+eyJoaXN0b3J5IjpbLTEyOTQ5MjQzNDMsMTQwMjQ5MjY0LC0yMD
+g4MjEyMzUzLC03OTEwMzQwNzMsMTk1NTIxNTczOCwtMTAyMjgx
+NDY0NCwyMDk4OTEzMzYsLTE0MjUwMzU4NjJdfQ==
 -->
