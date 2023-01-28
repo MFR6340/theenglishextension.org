@@ -18,29 +18,28 @@ summary here.  (Lexile level       )
 
 <img src="imgurlinkherehttps://imgur.com/WYZeKh3.png" width="25%" />
 
-summary here.  (Lexile level       )
+summary here.  (Lexile level )
 
 <a href="https://www.bookdepository link here.com/Weather-DK/9780241228265?ref=grid-view&qid=1674914545643&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1002540123" rel="nofollow">Buy on Orell Füssli</a>
-
-### Chasing the Storm, by Ron Miller
+<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1002540123" rel="nofollow">Bu eail here y o## hChasing the Storm: Tornadoes, Meteorology, r her Watching, by Ron Miller
 
 <img src="https://imgur.com/o5k2D8p.png" width="25%" />
 
-summary here.  (lexile level 1110L)
+summary here.  (L(lexile level       1110L)
 
-<a href="https://www.bookdepository.com/Chasing-the-Storm-Ron-Miller/9781467712842" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Chasing-the-Storm-Ron-Miller/9781467712842" rel="nofollow"> Buy on BookDepository</a>   link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
 ###  eatTitle here, by author here
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src=".png" width="25%" />
 
-summary here.  (Lexile level       )
+summary here.  (exile level       )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 
-### Title here, by author here
+### herTitle here, by author here
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -56,8 +55,8 @@ In the past, Sea Life Konstanz, just across the border in Germany, hasn't been p
 
 While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting and useful extension.  Try visiting <a href="https://www.aquatis.ch/en/ " rel="nofollow">Aquatis Aquarium </a> in Lausanne which focuses on freshwater ecosystems on five continents. Compare animals that live in salt-water vs fresh-water , their survival techniques and the obstacles they face. The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU4MDYwMjEzLC02NjUxMDMxNzUsMjA1Nz
-AxOTQyLC0yMzUxNzYzNDUsLTEzMTc1MzM0MzgsMTIwNDg4MjA2
-MiwtMTYxNDI0MDkyNiwtMTE2MzQ5MjI5NSw1NDY3NDI1MTYsMz
-MzNDI4MjE1XX0=
+eyJoaXN0b3J5IjpbMTAxODg3OTQ0MSwzNTgwNjAyMTMsLTY2NT
+EwMzE3NSwyMDU3MDE5NDIsLTIzNTE3NjM0NSwtMTMxNzUzMzQz
+OCwxMjA0ODgyMDYyLC0xNjE0MjQwOTI2LC0xMTYzNDkyMjk1LD
+U0Njc0MjUxNiwzMzM0MjgyMTVdfQ==
 -->
