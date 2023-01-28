@@ -17,8 +17,8 @@ This book is all about the history of timekeeping. It goes through the various c
 
 <img src="https://imgur.com/M4beI8A.png" width="25%" />
 
-This picture book is about Benjamin Banneker, (1731) a free African American, born in a time when most were slaves. He was mostly self-taught, he was a talented mathematician and scientist. He built a strike clock based on his plans after he was inspired by a pocket watch. (lexile level 720)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
-summary here. (lexile level 720)
+This picture book is about Benjamin Banneker, (1731) a free African American, born in a time when most were slaves. He was mostly self-taught and became a talented mathematician and scientist. He designed and built a strike clock after being inspired by a pocket watch. (lexile level 720)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
 
 <a href="https://www.bookdepository.com/Ticktock-Bannekers-Clock-Shana-Keller/9781585369560?ref=grid-view&qid=1665847100281&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -26,7 +26,7 @@ summary here. (lexile level 720)
 
 <img src="https://imgur.com/zjyo7RY.png" width="25%" />
 
-
+John Harrison (1693-1776)and his quest to build a perfect sea clock is the subject of this book. He worked on it for longer than forty years. He wanted to measure longitude, that's the location east or west of home. He won an award of lots of money from the English parliment for his work on the sea clock. This book is about his ups and downs in making the clock, the illustrations are detailed and wonderful. (lexile level 910)
 
 <a href="https://www.bookdepository.com/Sea-Clocks-Louise-Borden/9780689842160?ref=grid-view&qid=1665847233702&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003050527" rel="nofollow">Buy on Orell Füssli</a>
@@ -99,6 +99,6 @@ https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTY4MzAyNiw0NDQ3ODA3NTUsMjA0NT
-IwMTM2LDE5NzI5NzgyMjNdfQ==
+eyJoaXN0b3J5IjpbLTEwMzIwMTM4MTQsMTk4OTY4MzAyNiwyMD
+Q1MjAxMzYsMTk3Mjk3ODIyM119
 -->
