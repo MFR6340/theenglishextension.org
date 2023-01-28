@@ -26,15 +26,14 @@ summary here. (Lexile 800L)
 
 summary here.  (Lexile )
 
-<a href="https://www.bookdepository.com/Shackletons-Journey-William-Grill/9781909263109?ref=grid-view&qid=1674909553977&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<aaref=res" rel="nofollow">Buy on esi</a> 
+<a href="https://www.bookdepository.com/Shackletons-Journey-William-Grill/9781909263109?ref=grid-view&qid=1674909553977&sr=1-1" rel="nofollow"> Buy on ref=res" rel="nofollow">Buy on esi</a> 
 
 ### Shackleton’s Endurance, by Joanna Grochowicz
 <img src="https://imgur.com/MnTpNOE.png" width="25%" />
 
 summary here.  (Lexile level       )
 
-<a href="https://www.bookdepository link here.com/Shackletons-Endurance-Joanna-Grochowicz/9781911679158?ref=grid-view&qid=1674909811258&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository link here.com/Shackletons-Endurance-Joanna-Grochowicz/9781911679158?ref=grid-view&qid=1674909811258&sr=1-1" rel="nofollow">Buy on a>  
 <a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1060473120" rel="nofollow">Buy on esi</a> 
 
 ### The 21 Balloons, by William Pène du Bois
@@ -85,13 +84,13 @@ summary here. (Lexile level       )
 
 summary here.  (Lexile level       )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="bookdepository" rel="nofollow"> Buy on BookDepository</a>  
+<a ref=orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1NzQwMzQ1LDU4MzY3OTU3MywtMTg0Nz
-kyNjUxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYsLTE4NzMxOTY2
-ODAsMzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMTgwMTUzLDQzOT
-Y1MTI5OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEsMTQ3MTQyMTg1
-Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVdfQ==
+eyJoaXN0b3J5IjpbNTEyNzY0NzIsNDU1NzQwMzQ1LDU4MzY3OT
+U3MywtMTg0NzkyNjUxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYs
+LTE4NzMxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMT
+gwMTUzLDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEs
+MTQ3MTQyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVdfQ==
 -->
