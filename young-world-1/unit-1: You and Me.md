@@ -67,15 +67,6 @@ The story, written in the form of a poem, explores the homesick feelings of a yo
 
 
 
-
-### Waitangi Day: The New Zealand Story, by Philppa Werry
-
-<img src="https://imgur.com/FNryetQ.png" width="25%" />
-
-description
-
-<a href="https://www.bookdepository.com/Waitangi-Day-Philippa-Werry/9781869664213?ref=grid-view&qid=1673790699073&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-
 ### A Long Walk to Water, by Linda Sue Park
 
 <img src="https://imgur.com/XP316AM.png" width="25%" />
@@ -114,8 +105,9 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NzkxNjgzNywtMzE3NzUwMDM3LDg4Nj
-QzNDAzNyw2NzQ2Njg2MzQsLTUzNjEwMTY2NSwtMjAzODE3MzA5
-MSwxMDIwMTc3NzM0LDQyNTE5NzA3OCw1NjI1MjM2MTAsMTg3Nj
-cyMzQ2LC05MDg2MTcwLC01ODE0Nzc1OTBdfQ==
+eyJoaXN0b3J5IjpbLTEyOTIxNzcwNzMsMTU1NzkxNjgzNywtMz
+E3NzUwMDM3LDg4NjQzNDAzNyw2NzQ2Njg2MzQsLTUzNjEwMTY2
+NSwtMjAzODE3MzA5MSwxMDIwMTc3NzM0LDQyNTE5NzA3OCw1Nj
+I1MjM2MTAsMTg3NjcyMzQ2LC05MDg2MTcwLC01ODE0Nzc1OTBd
+fQ==
 -->
