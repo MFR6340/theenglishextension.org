@@ -4,15 +4,10 @@ How do you determine if a book is the correct reading level for your child?
 
 There are a variety of ways to categorize books for readers. Books can be classified by age level, grade level and/or reading level. Since two kids of the same age in the same class are not necessarily able to read books of the same level, using age and grade level recommendations is not ideal, therefore most educators prefer to use quantitative reading levels.   
   
-There are a variety of quantitative approaches to determine the reading level of a book, including Guided Reading Levels, Accelerated Reader, Developmental Reading Assessment, and Lexile measures. They all use different slightly different methodologies to measure the reading levels but it is  word frequency and sentence strength.
+There are a variety of quantitative approaches to determine the reading level of a book, including Guided Reading Levels, Accelerated Reader, Developmental Reading Assessment, and Lexile measures. They all use different slightly different methodologies to measure the reading levels but they are all based on word frequency, vocabulary and sentence length.
 
-We have chosen to use Lexile measures to quantify the books here.  Lexile measures are one of the most comprehensive systems in use, with over 100 million books and reading materials measured using this leveling system.
-
-
-
-
-
-Lexile measure are given from 200L for beginning readers and text to 1600L for advanced readers and text.
+We have chosen to use Lexile measures to quantify the books here.  Lexile measures are one of the most comprehensive systems in use, with over 100 million books and reading materials measured using this leveling system.  Lexile measure are given from 200L for beginning readers and text to 1600L for advanced readers and text.
+It is not a perfect system, and there are some scores that leave the head scratching, but it does give a quantitative basis to 
 ### Grade Level Table
 This table reflects 50th percentile rank (PR) and 90th percentile rank (PR) norms for end of year.  
 |Grade|50 PR|90 PR|
@@ -58,6 +53,6 @@ Parents should not worry as much about what level a child is currently at, but r
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY3MzUwNjMsMTk3MTU5NTI4MiwtMT
+eyJoaXN0b3J5IjpbLTEyNjc3Mjk3NzUsMTk3MTU5NTI4MiwtMT
 I1NTA2ODE5NywtMTM5OTgyMTIzNV19
 -->
