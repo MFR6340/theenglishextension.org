@@ -21,7 +21,7 @@ Some lexile levels are also given an additional code:
 -   AD (Adult Directed): The book is generally intended to be read aloud to a child, rather than for the child to read it for the first time independently. Many picture books have been assigned the AD code.
 -   BR (Beginning Reading): The book has a Lexile measure of 0L or below and is appropriate for a beginning reader. The Lexile measure is shown only as BR, without a zero or negative number.
 -   GN (Graphic Novel): The book is a graphic novel or comic book.
--   HL (High-Low): The book has a Lexile measure much lower than the average reading ability of the intended age range of its readers. HL books include content of a high interest level, but are written in a style that is easier for a struggling reader.
+-   HL (High-Low): The book includes content of a high interest level, but are written in a style that is easier for a struggling reader.
 -   IG (Illustrated Guide): The book consists of independent pieces or sections of text, such as in an encyclopedia or glossary.
 -   NC (Non-Conforming): The book has a Lexile measure that is markedly higher than is typical for the publisher's intended audience or designated developmental level of the book. NC books are good choices for high-ability readers.
 -   NP (Non-Prose): The book contains more than 50% of non-standard or non-conforming prose, such as poems, plays, songs and recipes. NP books do not receive a Lexile measure. 
@@ -32,5 +32,5 @@ Parents should not worry as much about what level a child is currently at, but r
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk4MjEyMzVdfQ==
+eyJoaXN0b3J5IjpbNTk0ODA5NzI5LC0xMzk5ODIxMjM1XX0=
 -->
