@@ -89,7 +89,7 @@ summary here.
 
 <img src="https://imgur.com/vBGZM2T.png" width="25%" />
 
-summar ere.
+Children’s book showcasing the lives of families living in the Philippines today. Includes history, culture and daily life in beautiful illustrated detail.
 
 <a href="https://www.bookdepository.com/All-About-Philippines-Gidget-Roceles-Jimenez/9780804848480?ref=grid-view&qid=1673791475669&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1040951756" rel="nofollow"> Buy on Orell Füssli</a>
@@ -114,7 +114,7 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTk5MDU2MCwtMjAzODE3MzA5MSwxMD
+eyJoaXN0b3J5IjpbMTkyMzkwMjQ4OCwtMjAzODE3MzA5MSwxMD
 IwMTc3NzM0LDQyNTE5NzA3OCw1NjI1MjM2MTAsMTg3NjcyMzQ2
 LC05MDg2MTcwLC01ODE0Nzc1OTBdfQ==
 -->
