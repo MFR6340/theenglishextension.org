@@ -69,13 +69,13 @@ summary here. (Lexile level       )
 <a href="https://www.bookdepository.com/Lonely-Planet-Around-World-Lonely-Planet/9781788689373?ref=grid-view&qid=1674913654930&sr=1-6" rel="nofollow"> Buy on Bookdepository
 <a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1056729026" rel="nofollow">Buy on Orell Füssli</a> 
 
-### True Spirit
+### True Spirit, by Jessica Watson
 
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here. (Lexile level       )
 
-<a href="bookdepositoryenllounoesi" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <a ref="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
@@ -88,9 +88,9 @@ summary here.  (Lexile level       )
 <a ref=orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyMjU3MDg2LDUxMjc2NDcyLDU4MzY3OT
-U3MywtMTg0NzkyNjUxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYs
-LTE4NzMxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMT
-gwMTUzLDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEs
-MTQ3MTQyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVdfQ==
+eyJoaXN0b3J5IjpbLTk1NjE3ODUyMSw1MTI3NjQ3Miw1ODM2Nz
+k1NzMsLTE4NDc5MjY1MTQsMTc5OTg1MzYyOSwxMDc2NTI4Mzk2
+LC0xODczMTk2NjgwLDM3MjU4ODQ3LDE5MDg4NjY4NTMsMTIwMD
+E4MDE1Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgx
+LDE0NzE0MjE4NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1XX0=
 -->
