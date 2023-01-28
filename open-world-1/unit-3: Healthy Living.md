@@ -39,8 +39,7 @@ summary here.  (Lexile level       )
 <a href="https://www.bookdepository.com/Your-Food-Is-Fooling-You-David-Kessler/9781596438316?ref=grid-view&qid=1674908352756&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1023704754" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
-
+### Trust the Grind, by Jeremy Bhandari
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile level       )
@@ -48,5 +47,5 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwNDg1OTQyLDU4MjQ4NzI3MF19
+eyJoaXN0b3J5IjpbNjk2Njk1ODQ5LDU4MjQ4NzI3MF19
 -->
