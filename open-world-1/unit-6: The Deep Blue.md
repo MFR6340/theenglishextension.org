@@ -5,14 +5,14 @@
 
 **This Klett unit covers the beauty of the ocean, creatures in the sea, the Great Pacific garbage patch and the need for recycling.  Here are some books that supplement this unit:** 
 
-### Title here, by author here
+### The Finest Hours, by Michael J. Tougias
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/8tR67C2.png" width="25%" />
 
 summary here.  (Lexile level       )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Finest-Hours-Michael-J-Tougias/9781250044235?ref=grid-view&qid=1674914338061&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1055647100" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Title here, by author here
 
@@ -57,7 +57,7 @@ In the past, Sea Life Konstanz, just across the border in Germany, hasn't been p
 
 While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting and useful extension.  Try visiting <a href="https://www.aquatis.ch/en/ " rel="nofollow">Aquatis Aquarium </a> in Lausanne which focuses on freshwater ecosystems on five continents. Compare animals that live in salt-water vs fresh-water , their survival techniques and the obstacles they face. The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjU0ODI1OSwtMjM1MTc2MzQ1LC0xMz
-E3NTMzNDM4LDEyMDQ4ODIwNjIsLTE2MTQyNDA5MjYsLTExNjM0
-OTIyOTUsNTQ2NzQyNTE2LDMzMzQyODIxNV19
+eyJoaXN0b3J5IjpbMzUzNDM2NDg2LC0yMzUxNzYzNDUsLTEzMT
+c1MzM0MzgsMTIwNDg4MjA2MiwtMTYxNDI0MDkyNiwtMTE2MzQ5
+MjI5NSw1NDY3NDI1MTYsMzMzNDI4MjE1XX0=
 -->
