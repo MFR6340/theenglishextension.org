@@ -14,14 +14,14 @@ summary here.  (Lexile 1030L)
 
 ### Swallows and Amazons, by Arthur Ransome
 
-<img src="https://imgur.com/ZZ1fVsn.png" width="25%" />
+<img src="imgurlinkherehttps://imgur.com/ZZ1fVsn.png" width="25%" />
 
 summary here. (Lexile 800L)
 
 <a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9781782957393?ref=grid-view&qid=1674909364444&sr=1-4 link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1022805518" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Shackleton’s Journey, by William Grill
+### Shackleton’s Journey, by William Grilll Title here, by author here
 
 <img src=".png" width="25%" />
 
@@ -32,16 +32,7 @@ summary here.  (Lexile )
 
 ### Title here, by author here
 
-<img src="imgurlinkhere.png" width="25%" />
-
-summary here.  (Lexile level       )
-
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
-
-### Title here, by author here
-
-<img src="imgurlinkhere.png" width="25%" />
+<img src="imgurn.png" width="25%" />
 
 summary here.  (Lexile level       )
 
@@ -51,6 +42,15 @@ summary here.  (Lexile level       )
 ### , by thr e
 
 <img src="imgurlinkhere.png" width="25%" />
+
+summary here. (Lexile level       )
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
+
+###
+
+<img src=".png" width="25%" />
 
 summary here. (Lexile level       )
 
@@ -94,7 +94,8 @@ summary here.  (Lexile level       )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwMzg0NjM5LDE5MDg4NjY4NTMsMTIwMD
-E4MDE1Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgx
-LDE0NzE0MjE4NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1XX0=
+eyJoaXN0b3J5IjpbMzcyNTg4NDcsODMwMzg0NjM5LDE5MDg4Nj
+Y4NTMsMTIwMDE4MDE1Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEs
+NDQ5MjExNTgxLDE0NzE0MjE4NTcsNjE0NTcxOTQ2LC0yMDczOT
+IyNjM1XX0=
 -->
