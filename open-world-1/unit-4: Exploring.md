@@ -14,21 +14,21 @@ summary here.  (Lexile 1030L)
 
 ### Swallows and Amazons, by Arthur Ransome
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="imgurlinkherehttps://imgur.com/ZZ1fVsn.png" width="25%" />
 
 summary here. (Lexile 800L)
 
-<a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9781782957393?ref=grid-view&qid=1674909364444&sr=1-4#rating-distribution link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9781782957393?ref=grid-view&qid=1674909364444&sr=1-4 link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1022805518" rel="nofollow">Buy on Orell Füssli</a> 
 
-### l , by thr e
+### l Title here, by author here
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src=".png" width="25%" />
 
-summary here. (Lexile )
+summary here.  (Lexile )
 
 <a href="bookdepository" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -48,11 +48,11 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### , by thr e
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile level       )
+summary here. (Lexile level       )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -94,7 +94,8 @@ summary here.  (Lexile level       )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwODg2Njg1MywzMzA3NTQ4OTcsMTIwMD
-E4MDE1Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgx
-LDE0NzE0MjE4NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1XX0=
+eyJoaXN0b3J5IjpbLTEwNjc0MzAwMjEsMTkwODg2Njg1MywxMj
+AwMTgwMTUzLDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0NDkyMTE1
+ODEsMTQ3MTQyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVdfQ
+==
 -->
