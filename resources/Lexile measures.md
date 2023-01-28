@@ -20,7 +20,14 @@ Lexile measure are given from 200L for beginning readers and text to 1600L for a
 |ee|ee|ee|
 |ee|ee|ee|
 |ee|ee|ee|
-
+|ee|ee|ee|
+|ee|ee|ee|
+|ee|ee|ee|
+|ee|ee|ee|
+|ee|ee|ee|
+|ee|ee|ee|
+|ee|ee|ee|
+|ee|ee|ee|
 
 
 
@@ -47,5 +54,5 @@ Parents should not worry as much about what level a child is currently at, but r
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTk4MDgxMywtMTM5OTgyMTIzNV19
+eyJoaXN0b3J5IjpbLTIyNzE5ODE1NSwtMTM5OTgyMTIzNV19
 -->
