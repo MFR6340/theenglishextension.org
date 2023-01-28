@@ -71,27 +71,16 @@ summary here. (Lexile level       )
 
 ### True Spirit, by Jessica Watson
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="imgurlinkherehttps://imgur.com/z1r8C0N.png" width="25%" />
 
 summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
-<a ref="orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
-
-### Title here, by author here
-
-<img src="imgurlinkhere.png" width="25%" />
-
-summary here.  (Lexile level       )
-
-<a href="bookdepository" rel="nofollow"> Buy on BookDepository</a>  
-<a ref=orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njg1NDkzNTksLTk1NjE3ODUyMSw1MT
-I3NjQ3Miw1ODM2Nzk1NzMsLTE4NDc5MjY1MTQsMTc5OTg1MzYy
-OSwxMDc2NTI4Mzk2LC0xODczMTk2NjgwLDM3MjU4ODQ3LDE5MD
-g4NjY4NTMsMTIwMDE4MDE1Myw0Mzk2NTEyOTksLTE3MTM5Mzg3
-NjEsNDQ5MjExNTgxLDE0NzE0MjE4NTcsNjE0NTcxOTQ2LC0yMD
-czOTIyNjM1XX0=
+eyJoaXN0b3J5IjpbMjI1NjQxNTE4LC0xNTY4NTQ5MzU5LDUxMj
+c2NDcyLDU4MzY3OTU3MywtMTg0NzkyNjUxNCwxNzk5ODUzNjI5
+LDEwNzY1MjgzOTYsLTE4NzMxOTY2ODAsMzcyNTg4NDcsMTkwOD
+g2Njg1MywxMjAwMTgwMTUzLDQzOTY1MTI5OSwtMTcxMzkzODc2
+MSw0NDkyMTE1ODEsMTQ3MTQyMTg1Nyw2MTQ1NzE5NDYsLTIwNz
+M5MjI2MzVdfQ==
 -->
