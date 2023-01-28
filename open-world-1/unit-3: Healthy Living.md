@@ -40,12 +40,12 @@ summary here.  (Lexile level       )
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1023704754" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Trust the Grind, by Jeremy Bhandari
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/TyTZs4o.png" width="25%" />
 
 summary here.  (Lexile level       )
 
 <a href="https://www.bookdepository.com/Trust-the-Grind-Jeremy-Bhandari/9781642502442" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056274723" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNjYzNDY1NSw1ODI0ODcyNzBdfQ==
+eyJoaXN0b3J5IjpbMTg3NDI0OTEzNSw1ODI0ODcyNzBdfQ==
 -->
