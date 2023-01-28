@@ -28,14 +28,14 @@ summary here.  (Lexile level       )
 
 <a href="https://www.bookdepository.com/Runaway-Rodents-Dagmara-Bociek/9781777996840?ref=grid-view&qid=1674926518140&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-### Title here, by author here
+### The Night They Stole the Stanley Cup, by Roy MacGregor
 
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile level       )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href=https://www.bookdepository.com/Night-They-Stole-Stanley-Cup-Roy-Macgregor/9781770494145?ref=grid-view&qid=1674926818968&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link herehttps://www.orellfuessli.ch/shop/home/artikeldetails/A1023376588rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -46,8 +46,8 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDAzMzIxOSwtMjE0NjAxNDY5Nyw3Mj
-I0NjIxNzMsLTEyNjM4NjUxMjIsLTc1NTk4NzM5MCwtMTIyNzEz
-NTk2NCwtNzk0MTYwNiwtMzIyOTc0MjYxLC0xMjU3ODAwOTYzLC
-01OTE5NzI1ODQsMTA0MzY2NDA5Nl19
+eyJoaXN0b3J5IjpbLTE5MzU1NzUyMzgsLTIxNDYwMTQ2OTcsNz
+IyNDYyMTczLC0xMjYzODY1MTIyLC03NTU5ODczOTAsLTEyMjcx
+MzU5NjQsLTc5NDE2MDYsLTMyMjk3NDI2MSwtMTI1NzgwMDk2My
+wtNTkxOTcyNTg0LDEwNDM2NjQwOTZdfQ==
 -->
