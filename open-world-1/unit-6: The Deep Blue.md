@@ -12,7 +12,7 @@
 summary here.  (Lexile level       )
 
 <a href="https://www.bookdepository.com/Finest-Hours-Michael-J-Tougias/9781250044235?ref=grid-view&qid=1674914338061&sr=1-1 link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1055647100 link here" rel="nofollow">Bu## Title here, by author DK Weathere
+<a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1055647100 link here" rel="nofollow">Buthor DK Weathere
 
 <img src="imgurlinkherehttps://imgur.com/WYZeKh3.png" width="25%" />
 
@@ -27,19 +27,19 @@ summary here.  (Lexile level )
 
 summary here.  (L(lexile level       1110L)
 
-<a href="https://www.bookdepository.com/Chasing-the-Storm-Ron-Miller/9781467712842" rel="nofollow"> Buy on BookDepository</a>   link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Chasing-the-Storm-Ron-Miller/9781467712842" rel="nofollow"> Buy on BookDepository</a>  " rel="nofollow"> Buy on BookDepository</a>  
+<a href="orellfussli" rel="nofollow">Bu##  ai h
 
-### It's Raining Fish and Spideres, by author hereBill Evans
+### It's Raining Fish and Spideres, by auBill Evans
 
 <img src="https://imgur.com/SedEZb6.png" width="25%" />
 
-summary here.  (Lexile level       )
+summary here.  (exile level       )
 
 <a href="https://www.bookdepository link here.com/Its-Raining-Fish-and-Spiders-Bill-Evans/9780765321329" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1011949467" rel="nofollow">Buy on Orell Füssli</a>
 
-### Title here
+### Title hereer, by 
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -55,8 +55,8 @@ In the past, Sea Life Konstanz, just across the border in Germany, hasn't been p
 
 While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting and useful extension.  Try visiting <a href="https://www.aquatis.ch/en/ " rel="nofollow">Aquatis Aquarium </a> in Lausanne which focuses on freshwater ecosystems on five continents. Compare animals that live in salt-water vs fresh-water , their survival techniques and the obstacles they face. The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTkxOTkyOTcsMTAxODg3OTQ0MSwtNj
-Y1MTAzMTc1LDIwNTcwMTk0MiwtMjM1MTc2MzQ1LC0xMzE3NTMz
-NDM4LDEyMDQ4ODIwNjIsLTE2MTQyNDA5MjYsLTExNjM0OTIyOT
-UsNTQ2NzQyNTE2LDMzMzQyODIxNV19
+eyJoaXN0b3J5IjpbMTA5MzIwNjQ5MCwtMTg1OTE5OTI5NywxMD
+E4ODc5NDQxLC02NjUxMDMxNzUsMjA1NzAxOTQyLC0yMzUxNzYz
+NDUsLTEzMTc1MzM0MzgsMTIwNDg4MjA2MiwtMTYxNDI0MDkyNi
+wtMTE2MzQ5MjI5NSw1NDY3NDI1MTYsMzMzNDI4MjE1XX0=
 -->
