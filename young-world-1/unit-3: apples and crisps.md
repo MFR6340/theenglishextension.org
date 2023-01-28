@@ -17,7 +17,7 @@ From seeds to harvest to eating, this book has beautiful hand-colored photos is 
 
 <img src="https://i.imgur.com/8QC2M6K.jpg" width="25%"  />
 
-A little girl goes to the store to buy the things she needs to make an apple pie.   (Lexile AD590L) 
+A little girl goes to the store to buy the things she needs to make an apple pie.   (Lexile AD590L)   <sup>[what is this?](/resources/Lexile%20measures)</sup>
 *TEACHERS: Lesson Plans are available for this book.* 
 
 
@@ -28,7 +28,7 @@ A little girl goes to the store to buy the things she needs to make an apple pie
 
 <img src="https://imgur.com/fQL4dqI.png" width="25%" />
 
-In the town of Chewandswallow, the inhabitants don’t grow food, they get their food three times a day from the sky. Eventually, the weather takes a turn for the worse when the portions get too large and start to destroy the town.  (Lexile AD730L)
+In the town of Chewandswallow, the inhabitants don’t grow food, they get their food three times a day from the sky. Eventually, the weather takes a turn for the worse when the portions get too large and start to destroy the town.  (Lexile AD730L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Cloudy-with-Chance-of-Meatballs-Judith-Barrett/9780590303842" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003420295" rel="nofollow">Buy on Orell Füssli</a>
@@ -37,7 +37,7 @@ In the town of Chewandswallow, the inhabitants don’t grow food, they get their
 
 <img src="https://imgur.com/coj2LrO.png" width="25%" />
 
-A very easy read about tThree hungry soldiers convince an unwilling town to make them soup. Based on a European folktale.  (Lexile 550L)
+A very easy read about tThree hungry soldiers convince an unwilling town to make them soup. Based on a European folktale.  (Lexile 550L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Stone-Soup-Marcia-Brown/9780689711039?ref=grid-view&qid=1654272719571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1028650164" rel="nofollow">Buy on Orell Füssli</a>
@@ -46,7 +46,7 @@ A very easy read about tThree hungry soldiers convince an unwilling town to make
 
 <img src="https://imgur.com/6jRsXaK.png" width="25%"  />
 
-Explores the cuisine from 14 different countries discussing the foods they eat and how they prepare and eat it.  (Lexile 1100L)
+Explores the cuisine from 14 different countries discussing the foods they eat and how they prepare and eat it.  (Lexile 1100L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 
 <a href="https://www.bookdepository.com/Whats-on-Your-Plate-Whitney-Stewart/9781454926726?ref=grid-view&qid=1656000036768&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -56,7 +56,7 @@ Explores the cuisine from 14 different countries discussing the foods they eat a
 
 <img src="https://imgur.com/WQdtOmL.png" width="25%" />
 
-Third-grade Phoebe has a new classmate from France who expands her knowledge and love of food. (lexile 750L)
+Third-grade Phoebe has a new classmate from France who expands her knowledge and love of food. (lexile 750L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Lunch-Will-Never-Be-Same-1-Veera-Hiranandani/9780448466958?ref=grid-view&qid=1673793391847&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033477719" rel="nofollow"> Buy on Orell Füssli</a>
@@ -65,7 +65,7 @@ Third-grade Phoebe has a new classmate from France who expands her knowledge and
 
 <img src="https://imgur.com/BIkI5aV.png" width="25%" />
 
-summary here. (940L)
+summary here. (940L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Baking-Life-Amelie-Day-Vanessa-Curtis/9781496541383?ref=grid-view&qid=1673793543676&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038920519" rel="nofollow"> Buy on Orell Füssli</a>
@@ -74,7 +74,7 @@ summary here. (940L)
 
 <img src="https://imgur.com/ZQKEkKu.png" width="25%" />
 
-Fun facts about one of the world's favorite foods. (Lexile 780L) 
+Fun facts about one of the world's favorite foods. (Lexile 780L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Pizza-Greg-Pizzoli/9780425291078" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062633626" rel="nofollow"> Buy on Orell Füssli</a>
@@ -93,6 +93,6 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwNTgzODA2LDQwMDMxNjIzNSwtODM0Nz
-cwNDk5XX0=
+eyJoaXN0b3J5IjpbMTgyNzczNjA0OSw0MDAzMTYyMzUsLTgzND
+c3MDQ5OV19
 -->
