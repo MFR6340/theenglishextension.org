@@ -26,7 +26,7 @@ This picture book is about Benjamin Banneker, (1731) a free African American, bo
 
 <img src="https://imgur.com/zjyo7RY.png" width="25%" />
 
-Centuries ago, sailors could determine their latitude north or south of the equator, but measuring longitude, the location east or west, required inventing a clock that worked on rocking ships at sea.  John Harrison (1693-1776) was on a quest to build a perfect sea clock and he focused on it for longer than forty years. He won an award of lots of money from the English parliment for his work on the sea clock. This book is about his ups and downs in making the clock, the illustrations are detailed and wonderful. (lexile level 910)
+Centuries ago, sailors could determine their latitude north or south of the equator, but measuring longitude, their location east or west, required inventing a clock that worked on rocking ships at sea.  John Harrison (1693-1776) was on a quest to build a perfect sea clock and he focused on it for longer than forty years. He won an award of lots of money from the English parliment for his work on the sea clock. This book is about his ups and downs in making the clock, the illustrations are detailed and wonderful. (lexile level 910)
 
 <a href="https://www.bookdepository.com/Sea-Clocks-Louise-Borden/9780689842160?ref=grid-view&qid=1665847233702&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003050527" rel="nofollow">Buy on Orell Füssli</a>
@@ -99,6 +99,6 @@ https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODMzMDM5NSwxOTg5NjgzMDI2LDIwND
-UyMDEzNiwxOTcyOTc4MjIzXX0=
+eyJoaXN0b3J5IjpbMzc4MzEwMTYyLDE5ODk2ODMwMjYsMjA0NT
+IwMTM2LDE5NzI5NzgyMjNdfQ==
 -->
