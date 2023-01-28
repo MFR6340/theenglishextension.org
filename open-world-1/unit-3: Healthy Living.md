@@ -12,7 +12,7 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034596066" rel="nofollow">Buy on Orell Füssli</a>
 
-### Title here, by author here
+### Chew on This, by Charles Wilson
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -31,5 +31,5 @@ summary here.  (Lexile level       )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDkzODEyMjEsNTgyNDg3MjcwXX0=
+eyJoaXN0b3J5IjpbLTE4OTkzNTc0MjgsNTgyNDg3MjcwXX0=
 -->
