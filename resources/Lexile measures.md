@@ -10,7 +10,7 @@ We have chosen to use Lexile measures to quantify the books here.  Lexile measur
 It is not a perfect system, and there are some scores that leave the head scratching, but it does give a quantitative basis to help determine if a book is appropriate for a reader. 
 
 ### Grade Level Table
-This table reflects 50th percentile rank (PR) and 90th percentile rank (PR) norms for end of year.  (Data is provided by Lexile.com.  Generated 26. January 2023)
+This table reflects 50th percentile rank (PR) and 90th percentile rank (PR) norms for end of year.  (Data generated 26. January 2023)
 |Grade|50 PR|90 PR|
 |--|--|--|
 |K|BR160L|150L|
@@ -29,9 +29,9 @@ This table reflects 50th percentile rank (PR) and 90th percentile rank (PR) norm
 
 So, by the end of the school year, an average 4th grade student (50PR) reads books that are an 850 Lexile meaure. 
 
-Some lexile levels are also given an additional code:
-### Guide to Lexile Codes
 
+### Guide to Lexile Codes
+Some lexile levels are also given an additional code:
 -   AD (Adult Directed): The book is generally intended to be read aloud to a child, rather than for the child to read it for the first time independently. Many picture books have been assigned the AD code.
 -   BR (Beginning Reading): The book has a Lexile measure of 0L or below and is appropriate for a beginning reader. The Lexile measure is shown only as BR, without a zero or negative number.
 -   GN (Graphic Novel): The book is a graphic novel or comic book.
@@ -46,6 +46,6 @@ Parents should not worry as much about what level a child is currently at, but r
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgyMDUyNTksMTk3MTU5NTI4MiwtMT
-I1NTA2ODE5NywtMTM5OTgyMTIzNV19
+eyJoaXN0b3J5IjpbMTE0ODc0Mjk1LDE5NzE1OTUyODIsLTEyNT
+UwNjgxOTcsLTEzOTk4MjEyMzVdfQ==
 -->
