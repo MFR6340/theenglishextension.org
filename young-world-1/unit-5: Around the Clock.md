@@ -68,7 +68,7 @@ Javi gets a homework assignment to 'Invite Any Three People to Dinner'. The fami
 
 <img src="https://imgur.com/RL4C9lJ.png" width="25%" />
 
-<sup>[what is this?](/resources/Lexile%20measures)</sup>
+It's up to Eliza and her brother Johnnie to save their parents by travelling back in time to 5,000 BC Egypt. They encounter many people and things during their journey including a rainbow Sphinx and a python. There are many laughs to be had reading this story, it's a real page turner. 
 
 <a href="https://www.bookdepository.com/How-Survive-Time-Travel-Larry-Hayes/9781471198366?ref=grid-view&qid=1673795737187&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058447306" rel="nofollow"> Buy on Orell Füssli</a>
@@ -100,7 +100,7 @@ https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNjAzODIxMCwtMTI4ODgzOTU5MSwtMj
-IxMzAzNjgzLDE5ODk2ODMwMjYsMjA0NTIwMTM2LDE5NzI5Nzgy
-MjNdfQ==
+eyJoaXN0b3J5IjpbMTEyMDgzNTYyNSwxMDE2MDM4MjEwLC0xMj
+g4ODM5NTkxLC0yMjEzMDM2ODMsMTk4OTY4MzAyNiwyMDQ1MjAx
+MzYsMTk3Mjk3ODIyM119
 -->
