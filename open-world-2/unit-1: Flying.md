@@ -27,8 +27,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 summary here.   (Lexile 1100L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/First-Flight-Around-World-Tim-Grove/9781419714825?ref=grid-view&qid=1674928121459&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034708168" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -117,7 +117,7 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTEyNTM1MCwxNDAyNDkyNjQsLTIwOD
-gyMTIzNTMsLTc5MTAzNDA3MywxOTU1MjE1NzM4LC0xMDIyODE0
-NjQ0LDIwOTg5MTMzNiwtMTQyNTAzNTg2Ml19
+eyJoaXN0b3J5IjpbLTEwNDczMDM0OTAsMTQwMjQ5MjY0LC0yMD
+g4MjEyMzUzLC03OTEwMzQwNzMsMTk1NTIxNTczOCwtMTAyMjgx
+NDY0NCwyMDk4OTEzMzYsLTE0MjUwMzU4NjJdfQ==
 -->
