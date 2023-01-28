@@ -17,7 +17,8 @@ This book is all about the history of timekeeping. It goes through the various c
 
 <img src="https://imgur.com/M4beI8A.png" width="25%" />
 
-summary here. (lexile level 720)
+This picture book is about Benjamin Banneker, (1731) a free African American, born in a time when most were slaves. He was mostly self-taught, he was a talented mathematician and scientist. He built a strike clock based on his plans after he was inspired by a pocket watch. (lexile level 720)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
 
 <a href="https://www.bookdepository.com/Ticktock-Bannekers-Clock-Shana-Keller/9781585369560?ref=grid-view&qid=1665847100281&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -98,6 +99,6 @@ https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDA1MDg3LDIwNDUyMDEzNiwxOTcyOT
+eyJoaXN0b3J5IjpbNDQ0NzgwNzU1LDIwNDUyMDEzNiwxOTcyOT
 c4MjIzXX0=
 -->
