@@ -27,7 +27,7 @@ Meet kids from 84 countries around the world from Australia to Zambezi.  See whe
 
 <img src="https://imgur.com/KFr5N23.png" width="25%" />
 
-Aimed at younger readers, this book shares the stories of 7 different children from 7 very different parts of the world, A nice introduction to similarities and difference as seen through the eyes of a child. (N
+Aimed at younger readers, this book shares the stories of 7 different children from 7 very different parts of the world, A nice introduction to similarities and difference as seen through the eyes of a child. (NC 620L)
 
 <a href="https://www.bookdepository.com/This-Is-How-We-Do-It-Matt-Lamothe/9781797218717?ref=grid-view&qid=1665849256702&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063175273" rel="nofollow">Buy on Orell Füssli</a>
@@ -114,7 +114,7 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTQ4NzcyNSw4ODY0MzQwMzcsNjc0Nj
+eyJoaXN0b3J5IjpbLTMxNzc1MDAzNyw4ODY0MzQwMzcsNjc0Nj
 Y4NjM0LC01MzYxMDE2NjUsLTIwMzgxNzMwOTEsMTAyMDE3Nzcz
 NCw0MjUxOTcwNzgsNTYyNTIzNjEwLDE4NzY3MjM0NiwtOTA4Nj
 E3MCwtNTgxNDc3NTkwXX0=
