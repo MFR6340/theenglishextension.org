@@ -44,8 +44,8 @@ summary here.  (Lexile level       )
 
 summary here.  (Lexile level       )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Trust-the-Grind-Jeremy-Bhandari/9781642502442" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056274723" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2Njk1ODQ5LDU4MjQ4NzI3MF19
+eyJoaXN0b3J5IjpbLTMyNjYzNDY1NSw1ODI0ODcyNzBdfQ==
 -->
