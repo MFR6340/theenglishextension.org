@@ -23,16 +23,15 @@ summary here. (Lexile 800L)
 
 ### Shackleton’s Journey, by William Grilll Title here, by author here
 
-<img src=".png" width="25%" />
+<img src="https://imgur.com/pkkgkac.png" width="25%" />
 
 summary here.  (Lexile )
 
 <a href="https://www.bookdepository.com/Shackletons-Journey-William-Grill/9781909263109?ref=grid-view&qid=1674909553977&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
-<img src="imgurnlinkhere.png" width="25%" />
+<img src="imgur linkhere.png" width="25%" />
 
 summary here.  (Lexile level       )
 
@@ -94,7 +93,7 @@ summary here.  (Lexile level       )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkxMjA4LDM3MjU4ODQ3LDE5MDg4Nj
+eyJoaXN0b3J5IjpbMTYzODYxMzYwLDM3MjU4ODQ3LDE5MDg4Nj
 Y4NTMsMTIwMDE4MDE1Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEs
 NDQ5MjExNTgxLDE0NzE0MjE4NTcsNjE0NTcxOTQ2LC0yMDczOT
 IyNjM1XX0=
