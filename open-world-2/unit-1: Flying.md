@@ -47,14 +47,14 @@ summary here. (Lexile 1240L) <sup>[what is this?](/resources/Lexile%20measures)<
 <a href="https://www.bookdepository.com/Cleared-for-Takeoff-Rowland-White/9781452135502" rel="nofollow"> Buy on BookDepository</a>  
 
 ### High Flyers, by Ann McCallum Staats
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/dv50K6D.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/High-Flyers-Ann-McCallum-Staats/9781641605892" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062625845" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### The Statistical Probability of Love at First Sight, by Jennifer E. Smith
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -114,7 +114,7 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjgxNzIzMTgsMTQwMjQ5MjY0LC0yMD
-g4MjEyMzUzLC03OTEwMzQwNzMsMTk1NTIxNTczOCwtMTAyMjgx
-NDY0NCwyMDk4OTEzMzYsLTE0MjUwMzU4NjJdfQ==
+eyJoaXN0b3J5IjpbMzIxNTQyMzQzLDE0MDI0OTI2NCwtMjA4OD
+IxMjM1MywtNzkxMDM0MDczLDE5NTUyMTU3MzgsLTEwMjI4MTQ2
+NDQsMjA5ODkxMzM2LC0xNDI1MDM1ODYyXX0=
 -->
