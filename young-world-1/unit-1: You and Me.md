@@ -89,7 +89,7 @@ summary here.
 
 <img src="https://imgur.com/vBGZM2T.png" width="25%" />
 
-summary here.
+summar ere.
 
 <a href="https://www.bookdepository.com/All-About-Philippines-Gidget-Roceles-Jimenez/9780804848480?ref=grid-view&qid=1673791475669&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1040951756" rel="nofollow"> Buy on Orell Füssli</a>
@@ -100,7 +100,7 @@ summary here.
 
 <img src="https://imgur.com/j7GWfJI.png" width="25%" />
 
-This is the story of Noah, a boy who was born in an illegal interracial marraige, and his childhood in South Africa during apartheid.  It describes the bullying and poverty as well as his “normal” experiences growing up with dating and dancing,  along with the some rather daring ideas for making money to survive. 
+This is the story of Noah, a boy who was born in an illegal interracial marraige, and his childhood in South Africa during apartheid.  It describes the. His experience of illegal interracial marriage, apartheid, bullying and poverty as well as his “normal” experiences growing up with dating and dancing,  along with the some rather daring ideas for making money to survive. summary here.
 
 <a href="https://www.bookdepository.com/Its-Trevor-Noah-Born-Crime-Trevor-Noah/9780525582199?ref=grid-view&qid=1673791904933&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051326754" rel="nofollow"> Buy on Orell Füssli</a>
@@ -114,7 +114,7 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTIwODcxMTcsMTAyMDE3NzczNCw0Mj
-UxOTcwNzgsNTYyNTIzNjEwLDE4NzY3MjM0NiwtOTA4NjE3MCwt
-NTgxNDc3NTkwXX0=
+eyJoaXN0b3J5IjpbLTIwMzgxNzMwOTEsLTEwOTIwODcxMTcsMT
+AyMDE3NzczNCw0MjUxOTcwNzgsNTYyNTIzNjEwLDE4NzY3MjM0
+NiwtOTA4NjE3MCwtNTgxNDc3NTkwXX0=
 -->
