@@ -7,7 +7,7 @@
 
 <img src="https://imgur.com/F78MUbL.png" width="25%"  />
 
-From seeds to harvest to eating, this book has beautiful hand-colored photos is a good foundation to talk more about how other foods are grown and what recipes they are in.  (Lexile 710L)
+From seeds to harvest to eating, this book has beautiful hand-colored photos is a good foundation to talk more about how other foods are grown and what recipes they are in.  (Lexile 710L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 
 <a href="https://www.bookdepository.com/Apples-Ken-Robbins/9781481401654?ref=grid-view&qid=1656344168590&sr=1-6" rel="nofollow"> Buy on BookDepository</a>  
@@ -93,5 +93,6 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwMzE2MjM1LC04MzQ3NzA0OTldfQ==
+eyJoaXN0b3J5IjpbNjkwNTgzODA2LDQwMDMxNjIzNSwtODM0Nz
+cwNDk5XX0=
 -->
