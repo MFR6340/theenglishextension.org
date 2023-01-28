@@ -9,8 +9,8 @@
 
 summary here.  (Lexile 1030L)
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Around-World-Eighty-Days-Jules-Verne/9780007350940?ref=grid-view&qid=1674908924094&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009059697" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -94,7 +94,7 @@ summary here.  (Lexile level       )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM5NjUxMjk5LC0xNzEzOTM4NzYxLDQ0OT
-IxMTU4MSwxNDcxNDIxODU3LDYxNDU3MTk0NiwtMjA3MzkyMjYz
-NV19
+eyJoaXN0b3J5IjpbLTE3NjcxNDYwMjIsNDM5NjUxMjk5LC0xNz
+EzOTM4NzYxLDQ0OTIxMTU4MSwxNDcxNDIxODU3LDYxNDU3MTk0
+NiwtMjA3MzkyMjYzNV19
 -->
