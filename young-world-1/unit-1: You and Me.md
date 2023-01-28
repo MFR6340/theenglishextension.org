@@ -61,7 +61,7 @@ It's great to learn a little bit about a lot of countries, but it is also import
 
 <img src="https://imgur.com/OUUlfCh.png" width="25%" />
 
-The story, written in the form of a poem, explores the homesick feelings of a young woman who has travelled extensively with her family in Australia withand her family. Teelings of home sickness. A poem about Australia and about nature, the reader is challenged to think about their ownhome, wherever that may be, and how to appreciate all the little things that make it home. 
+The story, written in the form of a poem, explores the homesick feelings of a young woman who has travelled extensively with her family in Australia withand her family. Teelings of home sickness. A poem about Australia and about nature, the reader is challenged to think about their own home, wherever that may be, and how to appreciate all the little things that make it home. 
 
 <a href="https://www.bookdepository.com/My-Country-Dorothea-MacKellar/9781743837702?ref=grid-view&qid=1665849509446&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 
@@ -100,7 +100,7 @@ summary here.
 
 <img src="https://imgur.com/j7GWfJI.png" width="25%" />
 
-summary here.
+This is the story of Noah, a boy who was born in an illegal interracial marraige, and his childhood in South Africa. His experience of illegal interracial marriage, apartheid, bullying and poverty as well as his “normal” experiences growing up with dating and dancing along with the some rather daring ideas for making money to survive.summary here.
 
 <a href="https://www.bookdepository.com/Its-Trevor-Noah-Born-Crime-Trevor-Noah/9780525582199?ref=grid-view&qid=1673791904933&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051326754" rel="nofollow"> Buy on Orell Füssli</a>
@@ -114,7 +114,7 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMDE3NzczNCwtMjUzNjIzOTMxLDQyNT
-E5NzA3OCw1NjI1MjM2MTAsMTg3NjcyMzQ2LC05MDg2MTcwLC01
-ODE0Nzc1OTBdfQ==
+eyJoaXN0b3J5IjpbLTIwMTg3MDg2NzUsMTAyMDE3NzczNCw0Mj
+UxOTcwNzgsNTYyNTIzNjEwLDE4NzY3MjM0NiwtOTA4NjE3MCwt
+NTgxNDc3NTkwXX0=
 -->
