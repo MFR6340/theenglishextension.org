@@ -4,11 +4,10 @@
 
 **This unit covers exploration from Captain Cook and English traveler George Forster, who wrote a journal of his travels from India to Russia.**  
 
-### Title here, by author here
-
+### Around the World in 80 Days, by Jules Vern
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile level       )
+summary here.  (Lexile 1030L)
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -95,6 +94,6 @@ summary here.  (Lexile level       )
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MjE0NjU1MCw0NDkyMTE1ODEsMTQ3MT
-QyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVdfQ==
+eyJoaXN0b3J5IjpbLTE3MTM5Mzg3NjEsNDQ5MjExNTgxLDE0Nz
+E0MjE4NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1XX0=
 -->
