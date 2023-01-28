@@ -13,14 +13,13 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="https://www.bookdepository.com/Under-War-Torn-Sky-L-M-Elliott/9780786817535?ref=grid-view&qid=1674927277828&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006268179" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Born to Fly, by Ryan Campbel
+### Born to Fly, by Ryan Campbell
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/9CrMx4t.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Born-Fly-Ryan-Campbell/9781734382105?ref=grid-view&qid=1674927916688&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Title here, by author here
 
@@ -118,7 +117,7 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTYwNTIyMDEsMTQwMjQ5MjY0LC0yMD
+eyJoaXN0b3J5IjpbLTEyNzk0NDE0MjYsMTQwMjQ5MjY0LC0yMD
 g4MjEyMzUzLC03OTEwMzQwNzMsMTk1NTIxNTczOCwtMTAyMjgx
 NDY0NCwyMDk4OTEzMzYsLTE0MjUwMzU4NjJdfQ==
 -->
