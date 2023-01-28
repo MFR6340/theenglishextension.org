@@ -14,6 +14,7 @@ It measures the reading challenge measured by a text, based on word frequency an
 
 
 Lexile measure are given from 200L for beginning readers and text to 1600L for advanced readers and text.
+
 This table reflects 50th percentile rank (PR) and 90th percentile rank (PR) norms for end of year.  
 |Grade|50 PR|90 PR|
 |--|--|--|
@@ -30,6 +31,8 @@ This table reflects 50th percentile rank (PR) and 90th percentile rank (PR) norm
 |10|1250L|1570L|
 |11|1295L|1610L|
 |12|1295L|1610L|
+
+So, by the end of the school year, an average 4th grade student (50PR) reads books that are an 850 Lexile meaure. 
 
 
 
@@ -56,6 +59,6 @@ Parents should not worry as much about what level a child is currently at, but r
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzgzNTQ0NiwxOTcxNTk1MjgyLC0xMj
+eyJoaXN0b3J5IjpbMTgxNzU3NjI0MCwxOTcxNTk1MjgyLC0xMj
 U1MDY4MTk3LC0xMzk5ODIxMjM1XX0=
 -->
