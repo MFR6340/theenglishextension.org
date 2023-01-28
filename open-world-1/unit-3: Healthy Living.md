@@ -30,14 +30,14 @@ summary here.  (Lexile Level     )
 <a href="https://www.bookdepository.com/Eat-This-Andrea-Curtis-Peggy-Collins/9780889955325" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037393229" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Your Food is Fooling You, by David A.Kessler
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/RRXPgcs.png" width="25%" />
 
 summary here.  (Lexile level       )
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Your-Food-Is-Fooling-You-David-Kessler/9781596438316?ref=grid-view&qid=1674908352756&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1023704754" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -48,5 +48,5 @@ summary here.  (Lexile level       )
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDM4NjIxMiw1ODI0ODcyNzBdfQ==
+eyJoaXN0b3J5IjpbMzgwNDg1OTQyLDU4MjQ4NzI3MF19
 -->
