@@ -39,7 +39,7 @@ Centuries ago, sailors could determine their latitude north or south of the equa
 
 <img src="https://imgur.com/7L5Xm9p.png" width="25%"  />
 
-This mystery adventure is about a cuckoo clock in which Peter Hollister finds a note that contains a riddle. The Hollister's follow the note's origin to Germany where they try to solve the riddle, attempt to find a golden cuckoo clock that was stolen from a museum and outwit a gang of thieves. (Lexile 740L)
+This mystery adventure is about a cuckoo clock in which Peter Hollister finds a note that contains a riddle. The Hollister's follow the note's origin to Germany where they try to solve the riddle, attempt to find a golden cuckoo clock that was stolen from a museum and outwit a gang of thieves. (Lexile 740L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 
 <a href="https://www.bookdepository.com/Happy-Hollisters-Cuckoo-Clock-Mystery-Jerry-West/9781949436570?ref=grid-view&qid=1656001073916&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -47,9 +47,9 @@ This mystery adventure is about a cuckoo clock in which Peter Hollister finds a 
 
 ### The Thirteen Clocks, by James Thurber
 
-<img src="https://imgur.com/Z6h3leZ.png" width="45%"  />
+<img src="https://imgur.com/Z6h3leZ.png" width="25%"  />
 
-This book is more fantasy, word-play and adventure than clock related, but it's such good fun.  An evil Duke has been cursed with on his kingdom.  In the kingdom of an evil Duke, it is so cold that all of the hands of the 13 clocks in the castle are frozen.  He has "killed time".  The Duke sets up impossible tasks for the young men who come to ask for the hand of Princess Saralinda, with the result of such men being fed to the Duke's geese.  It's actually good fun, as long as the kids can handle a bit of blood and guts and has as happy ending, as it should.  (Lexile 800L)
+This book is more fantasy, word-play and adventure than clock related, but it's such good fun.  An evil Duke has been cursed with on his kingdom.  In the kingdom of an evil Duke, it is so cold that all of the hands of the 13 clocks in the castle are frozen.  He has "killed time".  The Duke sets up impossible tasks for the young men who come to ask for the hand of Princess Saralinda, with the result of such men being fed to the Duke's geese.  It's actually good fun, as long as the kids can handle a bit of blood and guts and has as happy ending, as it should.  (Lexile 800L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/13-Clocks-James-Thurber/9780143110149?ref=grid-view&qid=1656416664054&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441194" rel="nofollow">Buy on Orell Füssli</a>
@@ -59,7 +59,7 @@ This book is more fantasy, word-play and adventure than clock related, but it's 
 
 <img src="https://imgur.com/pV4cOFG.png" width="25%" />
 
-Javi gets a homework assignment to 'Invite Any Three People to Dinner'. The family's antique table brings to life the dinner guests which include the infamous pirate Blackbeard. All sorts of adventures follow in this thrilling read.
+Javi gets a homework assignment to 'Invite Any Three People to Dinner'. The family's antique table brings to life the dinner guests which include the infamous pirate Blackbeard. All sorts of adventures follow in this thrilling read.  (Lexile 700L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Time-Villains-Victor-Pineiro/9781728245744?ref=grid-view&qid=1673795499563&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059707722" rel="nofollow"> Buy on Orell Füssli</a>
@@ -68,7 +68,7 @@ Javi gets a homework assignment to 'Invite Any Three People to Dinner'. The fami
 
 <img src="https://imgur.com/RL4C9lJ.png" width="25%" />
 
-summary here.
+<sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/How-Survive-Time-Travel-Larry-Hayes/9781471198366?ref=grid-view&qid=1673795737187&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058447306" rel="nofollow"> Buy on Orell Füssli</a>
@@ -100,6 +100,7 @@ https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg4Mzk1OTEsLTIyMTMwMzY4MywxOT
-g5NjgzMDI2LDIwNDUyMDEzNiwxOTcyOTc4MjIzXX0=
+eyJoaXN0b3J5IjpbMTAxNjAzODIxMCwtMTI4ODgzOTU5MSwtMj
+IxMzAzNjgzLDE5ODk2ODMwMjYsMjA0NTIwMTM2LDE5NzI5Nzgy
+MjNdfQ==
 -->
