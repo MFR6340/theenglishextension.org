@@ -27,7 +27,7 @@ Meet kids from 84 countries around the world from Australia to Zambezi.  See whe
 
 <img src="https://imgur.com/KFr5N23.png" width="25%" />
 
-summary here. (children from: Italy, Japan, Iran, India, Peru, Uganda, and Russia)
+summary here. (children from: Italy, Japan, Iran, India, Peru, Uganda, and Russia)  Aimed at younger readers, this book shares the stories of 7 different children from 7 very different parts of the world. A fantastic introduction to similarities and difference in peoplethrough the eyes of a child.
 
 <a href="https://www.bookdepository.com/This-Is-How-We-Do-It-Matt-Lamothe/9781797218717?ref=grid-view&qid=1665849256702&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063175273" rel="nofollow">Buy on Orell Füssli</a>
@@ -114,8 +114,8 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2NDM0MDM3LDY3NDY2ODYzNCwtNTM2MT
-AxNjY1LC0yMDM4MTczMDkxLDEwMjAxNzc3MzQsNDI1MTk3MDc4
-LDU2MjUyMzYxMCwxODc2NzIzNDYsLTkwODYxNzAsLTU4MTQ3Nz
-U5MF19
+eyJoaXN0b3J5IjpbMTQyNDk1MjE2Niw4ODY0MzQwMzcsNjc0Nj
+Y4NjM0LC01MzYxMDE2NjUsLTIwMzgxNzMwOTEsMTAyMDE3Nzcz
+NCw0MjUxOTcwNzgsNTYyNTIzNjEwLDE4NzY3MjM0NiwtOTA4Nj
+E3MCwtNTgxNDc3NTkwXX0=
 -->
