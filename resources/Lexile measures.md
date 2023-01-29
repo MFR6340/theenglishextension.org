@@ -14,7 +14,7 @@ The objective with reading levels is to find a books that are the correct INDEPE
 
 Parents should not worry as much about what level a child is currently at, but rather, if the child is showing growth in reading over the academic year.
 
-While we prefer not to use grade level equivalents, it does help to have some sort of ball-park figure of what those Lexile measures mean compared to what level ag
+While we prefer not to use grade level equivalents, it does help to have some sort of ball-park figure of what those Lexile measures mean compared to what level an average or above average child is reading. 
 
 ### Grade Level Table
 This table reflects 50th percentile rank (PR) and 90th percentile rank (PR) norms for end of year.  (Data generated 26. January 2023)
@@ -48,12 +48,9 @@ Some lexile levels are also given an additional code:
 -   NC (Non-Conforming): The book has a Lexile measure that is markedly higher than is typical for the publisher's intended audience or designated developmental level of the book. NC books are good choices for high-ability readers.
 -   NP (Non-Prose): The book contains more than 50% of non-standard or non-conforming prose, such as poems, plays, songs and recipes. NP books do not receive a Lexile measure. 
 
-
-
-
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NjAzMzIsLTE1NzI2OTQ2NjAsLTgxNT
-AxODE5OSwyNTUyOTcxOTUsMTk3MTU5NTI4MiwtMTI1NTA2ODE5
-NywtMTM5OTgyMTIzNV19
+eyJoaXN0b3J5IjpbMTMxMTgyMzE3MSwtMTU3MjY5NDY2MCwtOD
+E1MDE4MTk5LDI1NTI5NzE5NSwxOTcxNTk1MjgyLC0xMjU1MDY4
+MTk3LC0xMzk5ODIxMjM1XX0=
 -->
