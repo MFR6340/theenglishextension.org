@@ -78,9 +78,10 @@ An essential classic.  Set in central India, this famous story tells the tale of
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Supplemental Activity
-Go on a Jungle Trek!  Even here in Switzerland, you have the chance to head into a Rain Forest and see what it's like.  Take a trip to .   [Papiliorama](https://www.papiliorama.ch/en/our-live-exhibits/) Just remember, it's humid in there! 
+Go on a trek in a Rain Forest!  
+Even here in Switzerland, you have the chance to head into a Rain Forest and see what it's like.  Take a trip to    [Papiliorama](https://www.papiliorama.ch/en/our-live-exhibits/) Just remember, it's humid in there! 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMxNTIwMzQsLTc1OTg1NTM3NSwxMT
+eyJoaXN0b3J5IjpbLTE1MzY5MzM1NzYsLTc1OTg1NTM3NSwxMT
 UyNjQzNjkyLDE4MTAxMDk3NSwyMDY1Mjg4NjI5XX0=
 -->
