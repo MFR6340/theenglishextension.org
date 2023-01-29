@@ -26,7 +26,7 @@ An historical fiction account of a girl in Medieval Paris helps her father compl
 
 <img src="https://imgur.com/DpHYsvF.png" width="25%" />
 
-summary here.(Lexile 760L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+Arthur is assigned 120 hours of community service to help a “Junk Man,” Mr. Hampton, after he had thrown a brick at him. His job is to collect seven junk items, including cardboard, and light bulbs from the Mr. Hampton’s list, without knowing their intended purpose. Through each item on the list, Arthur helps him grow and brings him closer to redemption. Losely based on a true story of an artist named Hampton who made a masterpiece out of junk. (Lexile 760L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Seventh-Most-Important-Thing-Shelley-Pearsall/9780553497311?ref=grid-view&qid=1665842641892&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039319893" rel="nofollow">Buy on Orell Füssli</a>
@@ -89,6 +89,6 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE1NzQ2OTA3LDIwMjE5MTU2NywtNDc5OD
+eyJoaXN0b3J5IjpbNDg4NDY5NTMzLDIwMjE5MTU2NywtNDc5OD
 k3NDRdfQ==
 -->
