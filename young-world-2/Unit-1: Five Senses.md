@@ -35,6 +35,12 @@ Quirky Ms. Frizzle takes her class on a trip on the Magic School Bus through an 
 <a href="https://www.bookdepository.com/Magic-School-Bus-Explores-Senses-Joanna-Cole/9780590446983?ref=grid-view&qid=1673873471036&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1002436648?sq=The%20Magic%20School%20Bus%20Explores%20the%20Senses&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
+## Black Book of Colors, by Menena Cottin
+
+<img src="https://i.imgur.com/4ld6dtz.png" width="25%" />
+
+This book is shows how it would to be blind. It is entirely black, with raised drawings, and written both in text and braille (though not deep enough to be easily read by a blind person). It uses other senses to explain how to perceive colors. “Red is sour like unripe strawberries and as sweet as watermelon.” It’s a great starting point to talk about color.  (This book is also in the list for YW 2, Unit 3, A World of Colour.) (Lexile 520L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+
 **Included here are multiple books about Louis Braille at a variety of reading levels.  The true story about boy who overcomes adversity by creating a simple but incredibly useful invention is compelling and inspirational.**  
 ### Six Dots, A Story of Young Louis Braille, by Jen Bryant
 
@@ -101,6 +107,6 @@ Donate an audio book or make an appointment to visit the SBS Schweizerische Bibl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQ4NTE3NTcsODk5MzAxOTU4LDIwND
-IzNDQzNjIsLTc1OTY4ODY1MF19
+eyJoaXN0b3J5IjpbLTU4NDQ3Mzc2OSwtMTQzNDg1MTc1Nyw4OT
+kzMDE5NTgsMjA0MjM0NDM2MiwtNzU5Njg4NjUwXX0=
 -->
