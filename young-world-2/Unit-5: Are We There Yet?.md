@@ -52,12 +52,12 @@ There seem to be thousands of books written about the Titantic. It’s such an a
 
 ## Supplemental Activities
 
-The [Swiss Museum of Transport ](https://www.verkehrshaus.ch/en/home.html) in Luzern has something for everyone.  
+The [Swiss Museum of Transport ](https://www.verkehrshaus.ch/en/home.html) in Luzern has something for everyone.  It is considered to be Switzerland's most popular museum.  It ha
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjc4NjU0ODIsMTM2NDQwNDY5NywxMT
-gxMTU0MzU0LC0yMDA3MTUxNDE0LC0xOTYwNjEwNDg1LC0xMTgx
-OTczOTUzLC0xMjg3MDEyNTk5LC01MjExNzA1ODcsMTYxNjA3Mj
-AzNywtNTIxMTcwNTg3XX0=
+eyJoaXN0b3J5IjpbLTExOTY1NjAsMTM2NDQwNDY5NywxMTgxMT
+U0MzU0LC0yMDA3MTUxNDE0LC0xOTYwNjEwNDg1LC0xMTgxOTcz
+OTUzLC0xMjg3MDEyNTk5LC01MjExNzA1ODcsMTYxNjA3MjAzNy
+wtNTIxMTcwNTg3XX0=
 -->
