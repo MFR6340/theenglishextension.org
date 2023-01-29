@@ -13,20 +13,16 @@ This is the first in an engaging series about the life of the author. This book 
 <a href="https://www.bookdepository.com/Little-House-Big-Woods-Laura-Ingalls-Wilder/9780064400015?ref=grid-view&qid=1665843122581&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002848480" rel="nofollow">Buy on Orell Füssli</a>
 
-### Race to Survival, by Cliff Jacobson
 
-<img src="https://i.imgur.com/NZ9mxjg.png" width="25%" />
 
-A young adult book written by a renowned outdoor writer and wilderness consultant.  Thirteen year old Justin Cody is forced to take a canoe trip with his grandfather when things go wrong.  Combination adventure tale and wilderness skills book. (no Lexile measure available)
 
-<a href="https://www.amazon.com/Justin-Codys-Race-to-Survival/dp/0997476834/ref=sr_1_1?adid=082VK13VJJCZTQYGWWCZ&campaign=211041&creative=374001&keywords=Race+to+Survival&qid=1673878233&s=books&sr=1-1" rel="nofollow"> Buy on Amazon</a>  
+
 
 
 
 
 
 ## Non-Fiction
-
 
 
 ### Guts, by Gary Paulsen
@@ -47,6 +43,13 @@ Here's another book by Gary Paulsen, prolific American author of both fiction an
 
 
 ## Fiction
+### Race to Survival, by Cliff Jacobson
+
+<img src="https://i.imgur.com/NZ9mxjg.png" width="25%" />
+
+A young adult book written by a renowned outdoor writer and wilderness consultant.  Thirteen year old Justin Cody is forced to take a canoe trip with his grandfather when things go wrong.  Combination adventure tale and wilderness skills book. (no Lexile measure available)
+
+<a href="https://www.amazon.com/Justin-Codys-Race-to-Survival/dp/0997476834/ref=sr_1_1?adid=082VK13VJJCZTQYGWWCZ&campaign=211041&creative=374001&keywords=Race+to+Survival&qid=1673878233&s=books&sr=1-1" rel="nofollow"> Buy on Amazon</a>  
 ### Gone Camping: A Novel in Verse, by Tamara Will Wissinger
 
 <img src="https://i.imgur.com/Bg066im.jpg" width="25%" />
@@ -78,6 +81,6 @@ An essential classic.  Set in central India, this famous story tells the tale of
 Go on a Jungle Trek!  Even here in Switzerland, you have the chance to head into a Rain Forest and see what it's like.  Take a trip to .   [Papiliorama](https://www.papiliorama.ch/en/our-live-exhibits/) Just remember, it's humid in there! 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzY2MjQyNCwtNzU5ODU1Mzc1LDExNT
-I2NDM2OTIsMTgxMDEwOTc1LDIwNjUyODg2MjldfQ==
+eyJoaXN0b3J5IjpbLTIwNzMxNTIwMzQsLTc1OTg1NTM3NSwxMT
+UyNjQzNjkyLDE4MTAxMDk3NSwyMDY1Mjg4NjI5XX0=
 -->
