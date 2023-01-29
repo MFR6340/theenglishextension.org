@@ -26,7 +26,7 @@ Currently not available on Book Depository.
 
 <img src="https://i.imgur.com/E3SCIve.png" width="25%" />
 
-summary here.  (Lexile here)
+summary here.  (Lexile 1200L)
 
 
 <a href="https://www.bookdepository.com/Crossing-on-Time-David-Macauley/9781596434776?ref=grid-view&qid=1673882030623&sr=1-1" rel="nofollow">Buy on Book Depository</a>
@@ -52,7 +52,7 @@ summary here. (Lexile )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjA2MTA0ODUsLTExODE5NzM5NTMsLT
-EyODcwMTI1OTksLTUyMTE3MDU4NywxNjE2MDcyMDM3LC01MjEx
-NzA1ODddfQ==
+eyJoaXN0b3J5IjpbLTIwMDcxNTE0MTQsLTE5NjA2MTA0ODUsLT
+ExODE5NzM5NTMsLTEyODcwMTI1OTksLTUyMTE3MDU4NywxNjE2
+MDcyMDM3LC01MjExNzA1ODddfQ==
 -->
