@@ -92,11 +92,11 @@ summary here. (Lexile 1090L) <sup>[what is this?](/resources/Lexile%20measures)<
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1045804321" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-### Title here, by author here
+### Jane Eyre, by Charlotte Bronte
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+summary here. (Lexile 890L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -121,8 +121,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjM0NzI3MiwxNDg2MDU4OTQ5LC0xOD
-k1MDk5NzI4LDE0MTc2MTQ2NTIsLTQ2NDM1NzAwMCwtMjAzMDkx
-NjE5MiwxMzUzNjM4MjEsLTEzNzk2NzI3ODksMTkyNDgyNzI3NC
-wtODU1OTA3MjMsLTExNjg0MDU0MjldfQ==
+eyJoaXN0b3J5IjpbMzE1NzkwMzQ3LDE0ODYwNTg5NDksLTE4OT
+UwOTk3MjgsMTQxNzYxNDY1MiwtNDY0MzU3MDAwLC0yMDMwOTE2
+MTkyLDEzNTM2MzgyMSwtMTM3OTY3Mjc4OSwxOTI0ODI3Mjc0LC
+04NTU5MDcyMywtMTE2ODQwNTQyOV19
 -->
