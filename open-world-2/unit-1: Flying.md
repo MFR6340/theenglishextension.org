@@ -94,16 +94,14 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 ### Horrible Histories: Up in the Air, by Terry Deary
 
-<img src="https://imgur.com/kjW7pCOTitle here, by author .png" width="25%" />
+<img src="https://imgur.com/kjW7pCO.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Up-Air-Terry-Deary/9780702305856?ref=grid-view&qid=1674995144420&sr=1-5" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1058835634 link here" rel="nofollow">Buy on Orell Füssli</a> 
 
-### The Avion my Uncle Flew, by Cru
-
-<img src="imgurlinkhereher
+### The Avion my Uncle Flew, by Crus Fisitle 
 
 <img src="https://imgur.com/Llo9joy.png" width="25%" />
 
@@ -118,9 +116,9 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTU3NjA5LDE5OTc2MDMyMzEsMTgxNT
-E4NDUwMCwtNjIzNDQ3MTU5LC0xNjQ2NTY5MTAzLC0xMjM0MDk3
-NjE4LDMyMTU0MjM0MywxNDAyNDkyNjQsLTIwODgyMTIzNTMsLT
-c5MTAzNDA3MywxOTU1MjE1NzM4LC0xMDIyODE0NjQ0LDIwOTg5
-MTMzNiwtMTQyNTAzNTg2Ml19
+eyJoaXN0b3J5IjpbMzM2MjQ0NDQ5LC04NzU1NzYwOSwxODE1MT
+g0NTAwLC02MjM0NDcxNTksLTE2NDY1NjkxMDMsLTEyMzQwOTc2
+MTgsMzIxNTQyMzQzLDE0MDI0OTI2NCwtMjA4ODIxMjM1MywtNz
+kxMDM0MDczLDE5NTUyMTU3MzgsLTEwMjI4MTQ2NDQsMjA5ODkx
+MzM2LC0xNDI1MDM1ODYyXX0=
 -->
