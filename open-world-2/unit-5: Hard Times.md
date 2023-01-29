@@ -94,19 +94,19 @@ summary here. (Lexile 1090L) <sup>[what is this?](/resources/Lexile%20measures)<
 
 ### Jane Eyre, by Charlotte Bronte
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/p2j5eY3.png" width="25%" />
 
 summary here. (Lexile 890L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Jane-Eyre-Charlotte-Bront%C3%AB/9781853260209?ref=grid-view&qid=1675001842086&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009059674" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-### Title here, by author here
+### The Tenant of Wildfell Hall, by Anne Bronte
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+summary here. (Lexile 1190L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -121,8 +121,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1NzkwMzQ3LDE0ODYwNTg5NDksLTE4OT
-UwOTk3MjgsMTQxNzYxNDY1MiwtNDY0MzU3MDAwLC0yMDMwOTE2
-MTkyLDEzNTM2MzgyMSwtMTM3OTY3Mjc4OSwxOTI0ODI3Mjc0LC
-04NTU5MDcyMywtMTE2ODQwNTQyOV19
+eyJoaXN0b3J5IjpbMTE2MzkzNTIyNywxNDg2MDU4OTQ5LC0xOD
+k1MDk5NzI4LDE0MTc2MTQ2NTIsLTQ2NDM1NzAwMCwtMjAzMDkx
+NjE5MiwxMzUzNjM4MjEsLTEzNzk2NzI3ODksMTkyNDgyNzI3NC
+wtODU1OTA3MjMsLTExNjg0MDU0MjldfQ==
 -->
