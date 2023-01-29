@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/oUOkUq9.png" width="45%" />
 
-summary here.(Lexile 930L)
+summary here.(Lexile 930L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Little-House-Big-Woods-Laura-Ingalls-Wilder/9780064400015?ref=grid-view&qid=1665843122581&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002848480" rel="nofollow">Buy on Orell Füssli</a>
@@ -29,7 +29,7 @@ summary here.(no Lexile level available)
 ### Guts, by Gary Paulsen
 <img src="https://i.imgur.com/iPL74ef.png" width="35%" />
 
-At some point during Oberstufe (Swiss Middle School), there's a huge chance your child will be required to read "Hatchet",  a fictional book by Gary Paulsen.  "Guts" tells some of the real stories behind "Hatchet" of surviving in the woods.  Full of humor.  ( Lexile NC1230L) 
+At some point during Oberstufe (Swiss Middle School), there's a huge chance your child will be required to read "Hatchet",  a fictional book by Gary Paulsen.  "Guts" tells some of the real stories behind "Hatchet" of surviving in the woods.  Full of humor.  ( Lexile NC1230L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.bookdepository.com/Guts-Gary-Paulsen/9780440407126?ref=grid-view&qid=1673879187868&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006227112" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -37,7 +37,7 @@ At some point during Oberstufe (Swiss Middle School), there's a huge chance your
 
 <img src="https://i.imgur.com/7ku9Sld.png" width="25%" />
 
-Here's another book by Gary Paulsen, prolific American author of both fiction and non-fiction.  "Gone to the Woods" is a biography of his childhood.   ( Lexile 1030L)
+Here's another book by Gary Paulsen, prolific American author of both fiction and non-fiction.  "Gone to the Woods" is a biography of his childhood.   ( Lexile 1030L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Gone-the-Woods-True-Story-of-Growing-Up-in-the-Wild-Gary-Paulsen/9781529047721" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059151245" rel="nofollow">Buy on Orell Füssli</a>
@@ -57,7 +57,7 @@ Have lots of fun reading about Lucy's camping adventures, with the story told in
 
 <img src="https://i.imgur.com/KmTXAF1.png" width="25%" />
 
-In the rainforest, a man falls asleep, exhausted after trying to cut down a giant Kapok tree, which is home to many animals.   While he sleeps, various forest residents whisper in his ear to try to convince him to stop.  Contains lovely illustrations.  Can be used to discuss point of view, ( Lexile 590L)
+In the rainforest, a man falls asleep, exhausted after trying to cut down a giant Kapok tree, which is home to many animals.   While he sleeps, various forest residents whisper in his ear to try to convince him to stop.  Contains lovely illustrations.  Can be used to discuss point of view, ( Lexile 590L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Great-Kapok-Tree-Lynne-Cherry/9780152026141?ref=grid-view&qid=1673880321369&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004838818" rel="nofollow">Buy on Orell Füssli</a>
@@ -66,13 +66,16 @@ In the rainforest, a man falls asleep, exhausted after trying to cut down a gian
 
 <img src="https://imgur.com/p7BPDMw.png" width="25%" />
 
-An essential classic.  Set in central India, this famous story tells the tale of of Mowgli, a boy who is raised by a pack of wolves. He meets Shere Khan, the tiger, Baloo the bear, and Bagheera panther and learns the laws of the jungle. ( Lexile 1020L)
+An essential classic.  Set in central India, this famous story tells the tale of of Mowgli, a boy who is raised by a pack of wolves. He meets Shere Khan, the tiger, Baloo the bear, and Bagheera panther and learns the laws of the jungle. ( Lexile 1020L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Jungle-Book-Rudyard-Kipling/9780141325293?ref=grid-view&qid=1665843348245&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
 
+## Supplemental Activity
+Go on a Jungle Trek!  Even here in Switzerland, you have the chance to 
 Jungle Trek 
 https://www.papiliorama.ch/en/our-live-exhibits/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDEwOTc1LDIwNjUyODg2MjldfQ==
+eyJoaXN0b3J5IjpbLTg0MzAxODgwNiwxODEwMTA5NzUsMjA2NT
+I4ODYyOV19
 -->
