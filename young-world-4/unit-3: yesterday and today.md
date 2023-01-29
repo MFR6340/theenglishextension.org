@@ -38,7 +38,7 @@ summary here. (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</su
 
 <img src="https://imgur.com/Nak0fBU.png" width="25%" />
 
-The chimney sweep is a job from times gone by.  For those who prefer fiction to non-fiction, this is a fun book to read and compare to the more familiar movie.  (Lexile )  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+The chimney sweep is a job from times gone by.  For those who prefer fiction to non-fiction, this is a fun book to read and compare to the more familiar movie.  (Lexile 830L )  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepoository</a>
 
@@ -46,7 +46,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 <img src="https://imgur.com/z9a1nk1.png" width="25%" />
 
-
+(Lexile 920L) 
 <a href="https://www.bookdepository.com/Door-Wall-Marguerite-de-Angeli/9780440402831?ref=grid-view&qid=166593094936774489174439&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006455515" rel="nofollow">Buy on  Orell Füssli</a>
 
@@ -95,7 +95,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDExMDcwMiwxMTIzODI2NzU4LDEyNz
+eyJoaXN0b3J5IjpbLTM0NDAwOTU2NiwxMTIzODI2NzU4LDEyNz
 MxODI3NzgsLTE4MDQxMzA1NCwtMjEyMTE0NzI5OSwtMTM4MzE1
 NTEwNSwtMTAxOTk0MTc5MSw1NTgyOTgzMCwtNTY2MTU4NTEwLD
 gyMjkyODI5Nyw3ODAzODMwXX0=
