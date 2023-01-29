@@ -104,12 +104,12 @@ summary here. (Lexile 890L) <sup>[what is this?](/resources/Lexile%20measures)</
 
 ### The Tenant of Wildfell Hall, by Anne Bronte
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/qe40UqG.png" width="25%" />
 
 summary here. (Lexile 1190L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Tenant-Wildfell-Hall-Vintage-Classics-Bronte-Series-Anne-Bronte/9781784870751?ref=grid-view&qid=1675002048263&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1019220526" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 ### Title here, by author here
@@ -121,8 +121,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MzkzNTIyNywxNDg2MDU4OTQ5LC0xOD
-k1MDk5NzI4LDE0MTc2MTQ2NTIsLTQ2NDM1NzAwMCwtMjAzMDkx
-NjE5MiwxMzUzNjM4MjEsLTEzNzk2NzI3ODksMTkyNDgyNzI3NC
-wtODU1OTA3MjMsLTExNjg0MDU0MjldfQ==
+eyJoaXN0b3J5IjpbNDUxOTE2MDY5LDE0ODYwNTg5NDksLTE4OT
+UwOTk3MjgsMTQxNzYxNDY1MiwtNDY0MzU3MDAwLC0yMDMwOTE2
+MTkyLDEzNTM2MzgyMSwtMTM3OTY3Mjc4OSwxOTI0ODI3Mjc0LC
+04NTU5MDcyMywtMTE2ODQwNTQyOV19
 -->
