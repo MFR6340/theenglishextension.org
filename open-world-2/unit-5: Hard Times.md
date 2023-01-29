@@ -113,14 +113,14 @@ summary here. (Lexile 1190L) <sup>[what is this?](/resources/Lexile%20measures)<
 
 
 ### The Story of Queen Victoria, by Kate Hubbard
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/e26BVLM.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Queen-Victoria-Kate-Hubbard/9781904095828?ref=grid-view&qid=1675002186535&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY0NDQ3OTcsMTQ4NjA1ODk0OSwtMT
-g5NTA5OTcyOCwxNDE3NjE0NjUyLC00NjQzNTcwMDAsLTIwMzA5
-MTYxOTIsMTM1MzYzODIxLC0xMzc5NjcyNzg5LDE5MjQ4MjcyNz
-QsLTg1NTkwNzIzLC0xMTY4NDA1NDI5XX0=
+eyJoaXN0b3J5IjpbMjE0MzgxNzA2OCwxNDg2MDU4OTQ5LC0xOD
+k1MDk5NzI4LDE0MTc2MTQ2NTIsLTQ2NDM1NzAwMCwtMjAzMDkx
+NjE5MiwxMzUzNjM4MjEsLTEzNzk2NzI3ODksMTkyNDgyNzI3NC
+wtODU1OTA3MjMsLTExNjg0MDU0MjldfQ==
 -->
