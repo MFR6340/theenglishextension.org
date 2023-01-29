@@ -2,9 +2,9 @@
 
 How do you determine if a book is the correct reading level for your child?
 
-There are a variety of ways to categorize books for readers. Books can be classified by age level, grade level and/or reading level. Since two kids of the same age in the same class are not necessarily able to read books of the same level, using age and grade level recommendations is not ideal, therefore most educators prefer to use quantitative reading levels.   .
+There are a variety of ways to categorize books for readers. Books can be classified by age level, grade level and/or reading level. Since two kids of the same age in the same class are not necessarily able to read books of the same level, using age and grade level recommendations is not ideal, therefore most educators prefer to use quantitative reading levels.  
   
-There are a variety of quantitative approaches to determine the reading level of a book, including Guided Reading Levels, Accelerated Reader, Developmental Reading Assessment, and Lexile measures. They all use different slightly different methodologies to measure the reading levels but they are all based on word frequency, vocabulary and sentence length.Lexile measures to quantify the books here.  Lexile measures one of the most comprehensive systems in use, with
+There are a variety of quantitative approaches to determine the reading level of a book, including Guided Reading Levels, Accelerated Reader, Developmental Reading Assessment, and Lexile measures. They all use different slightly different methodologies to measure the reading levels but they are all based on word frequency, vocabulary and sentence length.  We have cLexile measures to quantify the books here.  Lexile measures one of the most comprehensive systems in use, with
 
 We have chosen to use e are over 100 million books and reading materials measured using this leveling system.  Lexile measure are given from 200L for beginning readers and text to 1600L for advanced readers and text.
 It is not a perfect system, and there are some scores that leave the head scratching, but it does give a quantitative basis to help determine if a book is appropriate for a reader. 
@@ -47,7 +47,7 @@ Parents should not worry as much about what level a child is currently at, but r
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI2OTQ2NjAsLTgxNTAxODE5OSwyNT
-UyOTcxOTUsMTk3MTU5NTI4MiwtMTI1NTA2ODE5NywtMTM5OTgy
-MTIzNV19
+eyJoaXN0b3J5IjpbNDk1MzI4MjUxLC0xNTcyNjk0NjYwLC04MT
+UwMTgxOTksMjU1Mjk3MTk1LDE5NzE1OTUyODIsLTEyNTUwNjgx
+OTcsLTEzOTk4MjEyMzVdfQ==
 -->
