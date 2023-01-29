@@ -114,7 +114,7 @@ This encyclopaedia of sport gives a lot of information on all sorts of sports. I
 
 <img src="https://imgur.com/4TlTy00.png" width="25%" />
 
-summary here.
+Sportopedia is a sports encyclopaedia full of information, facts, pictures and history. It features information on ball sports, racket sports, athletics, gymnastics, water sports, motor sports, target sports, combat sports and sporting events.A sports fan's dream book, it is easy to read and well laid out.
 
 <a href="https://www.bookdepository.com/Sportopedia-Adam-Skinner/9781786030849?ref=grid-view&qid=1665928910005&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1048100234" rel="nofollow">Buy on Orell Füssli</a>
@@ -133,11 +133,11 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDgxNzc4MTYsOTYyNzYzOTAzLC0yOT
-U1NjI4MDMsNTkxOTE1MjcsLTEwMDY1NDI5NDUsNDU4MDUxNjgw
-LC0xNzUwOTc0MTQyLDE3NDcxNzExNTEsMjA5MjA3MDYxMywtOD
-I2MjY5ODc1LC00NzA3MTcxNjQsOTg1Mzg1OTgsLTEyMDUxOTM0
-MjUsLTEyOTc2MTI2NzgsLTE2MDk0OTkxNTQsLTk1ODYzMDIxNS
-wtMTU1Mzg5NjM0MywtMTQwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
+eyJoaXN0b3J5IjpbLTUwODc3MzU0Miw5NjI3NjM5MDMsLTI5NT
+U2MjgwMyw1OTE5MTUyNywtMTAwNjU0Mjk0NSw0NTgwNTE2ODAs
+LTE3NTA5NzQxNDIsMTc0NzE3MTE1MSwyMDkyMDcwNjEzLC04Mj
+YyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQy
+NSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC
+0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
 
 -->
