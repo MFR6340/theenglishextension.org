@@ -55,12 +55,12 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051619065" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Odd Jobs, by Nancy Rica Schiff
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/rknemmH.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Odder-Jobs-Nancy-Rica-Schiff/9781580087490?ref=grid-view&qid=1674998830128&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002750955" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Incredible Jobs You’ve (Probably) Never Heard Of, by Natalie Labarre
 <img src="https://imgur.com/Iikcg3x.png" width="25%" />
@@ -90,7 +90,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAxMDMyMTIsLTExMTgzNDM3NTUsMT
+eyJoaXN0b3J5IjpbLTE0MDkyOTg3MzMsLTExMTgzNDM3NTUsMT
 k2MTE3ODkzLC0xNjI2OTI5NTQzLC02NDgzODg0MjIsMjA4MDcz
 NDcwNiw5NjEyMTQ5MzNdfQ==
 -->
