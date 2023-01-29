@@ -23,17 +23,17 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062248015" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Women in Science, Rachel Ignotofsky
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/328RevQ.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Women-Science-Rachel-Ignotofsky/9781607749769?ref=grid-view&qid=1674997828920&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1041003989" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### The Midwife Apprentice, by Karen Cushman
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+summary here. (Lexile 1150L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -90,7 +90,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwMzAwMjQwLC0xMTE4MzQzNzU1LDE5Nj
-ExNzg5MywtMTYyNjkyOTU0MywtNjQ4Mzg4NDIyLDIwODA3MzQ3
-MDYsOTYxMjE0OTMzXX0=
+eyJoaXN0b3J5IjpbLTEzMjQwNTkwNjUsLTExMTgzNDM3NTUsMT
+k2MTE3ODkzLC0xNjI2OTI5NTQzLC02NDgzODg0MjIsMjA4MDcz
+NDcwNiw5NjEyMTQ5MzNdfQ==
 -->
