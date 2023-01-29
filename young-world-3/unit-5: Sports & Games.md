@@ -62,7 +62,7 @@ Maureen Wilton won a marathon at age thirteen in a world record time but she was
 
 
 
-###  Ultimate Sports Heroes - Usain Bolt, by John Murray
+###  Ultimate Sports Heroes: Usain Bolt, by John Murray
 <img src="https://i.imgur.com/UtiteCV.png" width="25%" />
 
 A biography written for young people about the fastest man on earth, Usain Bolt. It tells of his love for chicken nuggets and how he preferred cricket to running as a child. It's one of a series of biographies about famous sporting figures.  (No Lexile measure available)
@@ -73,7 +73,7 @@ A biography written for young people about the fastest man on earth, Usain Bolt.
 ###  She Persisted: Florence Griffith Joyner, by  Rita Williams Garcia
 <img src="https://i.imgur.com/xtu4jEh.png" width="25%" />
 
- Summary here (No Lexile measure available)
+This book is written about three time Olympic gold medalist Florence Griffith Joyner (Flo Jo) and how she didn't give up until she achieved her goals of beating every record and challenge her father set for her. It also tells us about her life after athletics. This book is one in a series about women who persisted until they accomplished their ambition. (No Lexile measure available)
  
 <a href="https://www.bookdepository.com/She-Persisted-Florence-Griffith-Joyner-Rita-Williams-Garcia/9780593115961?ref=grid-view&qid=1674392379232&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059479770" rel="nofollow">Buy on Orell Füssli</a>
@@ -131,10 +131,11 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyOTA5ODY5LDk2Mjc2MzkwMywtMjk1NT
-YyODAzLDU5MTkxNTI3LC0xMDA2NTQyOTQ1LDQ1ODA1MTY4MCwt
-MTc1MDk3NDE0MiwxNzQ3MTcxMTUxLDIwOTIwNzA2MTMsLTgyNj
-I2OTg3NSwtNDcwNzE3MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1
-LC0xMjk3NjEyNjc4LC0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLT
-E1NTM4OTYzNDMsLTE0MDY5NjU4OTUsLTcxNjg5NzkyM119
+eyJoaXN0b3J5IjpbMTQyOTM5OTI1MCw5NjI3NjM5MDMsLTI5NT
+U2MjgwMyw1OTE5MTUyNywtMTAwNjU0Mjk0NSw0NTgwNTE2ODAs
+LTE3NTA5NzQxNDIsMTc0NzE3MTE1MSwyMDkyMDcwNjEzLC04Mj
+YyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQy
+NSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC
+0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
+
 -->
