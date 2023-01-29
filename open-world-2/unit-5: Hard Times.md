@@ -82,15 +82,14 @@ summary here. (Lexile 1090L) <sup>[what is this?](/resources/Lexile%20measures)<
 <a href="https://www.bookdepository.com/Tess-DUrbervilles-Thomas-Hardy/9780007350919?ref=grid-view&qid=1675001514627&sr=1-8" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009059670" rel="nofollow">Buy on Orell Füssli</a> 
 
-
 ### The Mayor of Casterbridge, by Thomas Hardy
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/7Xarioo.png" width="25%" />
 
 summary here. (Lexile 1090L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Mayor-Casterbridge-Thomas-Hardy/9781853260988?ref=grid-view&qid=1675001779892&sr=1-4" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1045804321" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 ### Title here, by author here
@@ -122,7 +121,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjA1ODk0OSwxMzc1NTUyNzI3LC0xOD
+eyJoaXN0b3J5IjpbLTgyMjM0NzI3MiwxNDg2MDU4OTQ5LC0xOD
 k1MDk5NzI4LDE0MTc2MTQ2NTIsLTQ2NDM1NzAwMCwtMjAzMDkx
 NjE5MiwxMzUzNjM4MjEsLTEzNzk2NzI3ODksMTkyNDgyNzI3NC
 wtODU1OTA3MjMsLTExNjg0MDU0MjldfQ==
