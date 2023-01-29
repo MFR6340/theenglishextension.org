@@ -33,7 +33,7 @@ summary here. (1060L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001321736" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-### Title here, by author here
+### Scenes of London Life, by Charles Dickens
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -122,7 +122,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTQ0NDM0NywxNDE3NjE0NjUyLC00Nj
+eyJoaXN0b3J5IjpbMTY1ODU2MDY4MywxNDE3NjE0NjUyLC00Nj
 QzNTcwMDAsLTIwMzA5MTYxOTIsMTM1MzYzODIxLC0xMzc5Njcy
 Nzg5LDE5MjQ4MjcyNzQsLTg1NTkwNzIzLC0xMTY4NDA1NDI5XX
 0=
