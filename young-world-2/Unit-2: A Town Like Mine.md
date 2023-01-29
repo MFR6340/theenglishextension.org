@@ -17,7 +17,7 @@ summary here.  (no Lexile level available)
 
 <img src="https://imgur.com/jLSqG2Y.png" width="25%" />
 
-summary here.(Lexile IG1140L)
+summary here.(Lexile IG1140L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Lonely-Planet-Kids-Cities-Book-Lonely-Planet-Kids/9781786570185?ref=grid-view&qid=1665841588904&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039247755" rel="nofollow">Buy on Orell Füssli</a>
@@ -28,7 +28,7 @@ summary here.(Lexile IG1140L)
 
 <img src="https://imgur.com/FyueilY.png" width="25%" />
 
-summary here. (lexile 1000L)
+summary here. (lexile 1000L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Homer-Price-Robert-McCloskey/9780140309270?ref=grid-view&qid=1665841406347&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -39,7 +39,7 @@ summary here. (lexile 1000L)
 
 <img src="https://i.imgur.com/XFBCugf.png" width="25%" />
 
-Considered a classic story, Carrie and her brother Nick are evacuted from London to a small mining village in Wales during the war.  They are initally unhappy with the adults where they have been placed but ultimately they find friends.  Told from Carrie's point of view.  ( Lexile 760L)
+Considered a classic story, Carrie and her brother Nick are evacuted from London to a small mining village in Wales during the war.  They are initally unhappy with the adults where they have been placed but ultimately they find friends.  Told from Carrie's point of view.  ( Lexile 760L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Carrie-s-War/9780349009162" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -56,6 +56,6 @@ Like, Carrie's War, children in World War II are forced to leave the city of Lon
 # Supplemental Activities
 Sometimes we learn more about other cities when we are traveling than the ones that are right at our doorstep.  It doesn't have to be so! Learn more about the cities that are nearby and learn the stories behind the buildings you walk past every day.  Free Walk offers free tours in 13 cities in Switzerland.  If you like what you learned, give your tour guide a nice tip at the end.  https://www.freewalk.ch/swiss/#cities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTgxODg0Niw5MTA5MDQzNTAsLTM1OT
-g2ODMwNF19
+eyJoaXN0b3J5IjpbMTAzNTE5OTg1LDkxMDkwNDM1MCwtMzU5OD
+Y4MzA0XX0=
 -->
