@@ -53,11 +53,11 @@ summary here. (Lexile 1020L) <sup>[what is this?](/resources/Lexile%20measures)<
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1022805699" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-### Title here, by author here
+### History’s Worst: Jack the Ripper, by Michael Burgan
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+summary here. (Lexile 1070L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -122,8 +122,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzkyNTg4MSwxNDE3NjE0NjUyLC00Nj
-QzNTcwMDAsLTIwMzA5MTYxOTIsMTM1MzYzODIxLC0xMzc5Njcy
-Nzg5LDE5MjQ4MjcyNzQsLTg1NTkwNzIzLC0xMTY4NDA1NDI5XX
-0=
+eyJoaXN0b3J5IjpbLTE5MDYxNjE5NTksMTQxNzYxNDY1MiwtND
+Y0MzU3MDAwLC0yMDMwOTE2MTkyLDEzNTM2MzgyMSwtMTM3OTY3
+Mjc4OSwxOTI0ODI3Mjc0LC04NTU5MDcyMywtMTE2ODQwNTQyOV
+19
 -->
