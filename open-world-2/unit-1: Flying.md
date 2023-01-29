@@ -65,12 +65,12 @@ summary here.  (Lexile Level ) <sup>[what is this?](/resources/Lexile%20measures
 
 ### Code Name Verity, by Elizabeth Wein
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/3I4qFfq.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Code-Name-Verity-Elizabeth-Wein/9781423152880?ref=grid-view&qid=1674994734866&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062213649" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -79,7 +79,6 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -114,8 +113,8 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY1NjkxMDMsLTEyMzQwOTc2MTgsMz
-IxNTQyMzQzLDE0MDI0OTI2NCwtMjA4ODIxMjM1MywtNzkxMDM0
-MDczLDE5NTUyMTU3MzgsLTEwMjI4MTQ2NDQsMjA5ODkxMzM2LC
-0xNDI1MDM1ODYyXX0=
+eyJoaXN0b3J5IjpbMTA3MjczOTYyNCwtMTY0NjU2OTEwMywtMT
+IzNDA5NzYxOCwzMjE1NDIzNDMsMTQwMjQ5MjY0LC0yMDg4MjEy
+MzUzLC03OTEwMzQwNzMsMTk1NTIxNTczOCwtMTAyMjgxNDY0NC
+wyMDk4OTEzMzYsLTE0MjUwMzU4NjJdfQ==
 -->
