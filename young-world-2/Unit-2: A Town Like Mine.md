@@ -17,7 +17,7 @@ This is a search and find book in the style of Where’s Waldo. In the illustrat
 
 <img src="https://imgur.com/jLSqG2Y.png" width="25%" />
 
-An inviting book that focuses on 86 cities around the world from well-known ones like Paris to more unfamiliar ones like Ulaanbaatar. Each two-page spread contains fun and quirky facts. It’s a great to inspire travel and further information on these different cities. (Lexile IG1140L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+An inviting book that focuses on 86 cities around the world from well-known ones like Paris to more unfamiliar ones like Ulaanbaatar. Each two-page spread contains fun and quirky facts. It’s a great way to inspire travel and search for further information on these different cities. (Lexile IG1140L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Lonely-Planet-Kids-Cities-Book-Lonely-Planet-Kids/9781786570185?ref=grid-view&qid=1665841588904&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039247755" rel="nofollow">Buy on Orell Füssli</a>
@@ -56,6 +56,6 @@ Like, Carrie's War, children in World War II are forced to leave the city of Lon
 # Supplemental Activities
 Sometimes we learn more about other cities when we are traveling than the ones that are right at our doorstep.  It doesn't have to be so! Learn more about the cities that are nearby and learn the stories behind the buildings you walk past every day.  Free Walk offers free tours in 13 cities in Switzerland.  If you like what you learned, give your tour guide a nice tip at the end.  https://www.freewalk.ch/swiss/#cities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjgzMDEzODcsLTM1MzMxMDczOSwxMD
-M1MTk5ODUsOTEwOTA0MzUwLC0zNTk4NjgzMDRdfQ==
+eyJoaXN0b3J5IjpbMTIwNTQ5MTUyOSwtMzUzMzEwNzM5LDEwMz
+UxOTk4NSw5MTA5MDQzNTAsLTM1OTg2ODMwNF19
 -->
