@@ -24,11 +24,10 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034790323" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-### Title here, by author here
-
+### Oliver Twist, by Charles Dickens
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+summary here. (1060L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -123,7 +122,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDc1MDkzMCwtNDY0MzU3MDAwLC0yMD
+eyJoaXN0b3J5IjpbMTQxNzYxNDY1MiwtNDY0MzU3MDAwLC0yMD
 MwOTE2MTkyLDEzNTM2MzgyMSwtMTM3OTY3Mjc4OSwxOTI0ODI3
 Mjc0LC04NTU5MDcyMywtMTE2ODQwNTQyOV19
 -->
