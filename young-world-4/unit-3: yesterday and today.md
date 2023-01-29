@@ -63,7 +63,7 @@ It's one of the shortest books to win the Newbery Medal, so it won't take long t
 
 <img src="https://imgur.com/G2oI2PD.png" width="25%" />
 
-During the height of World War I, a girl quits school to help her widowed mother by taking on the job of delivering telegrams, many which  to help her widowed mother.  The telegrams 
+During the height of World War I, a girl quits school to help her widowed mother by taking on the job of delivering telegrams, many which give the worst possible news.  (No lexile level)
 
 <a href="https://www.bookdepository.com/The-Telegram-Philippa-Werry/9780473462826" rel="nofollow"> Buy on BookDepository</a>
  
@@ -95,9 +95,9 @@ During the height of World War I, a girl quits school to help her widowed mother
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzIyODI0MSwtODYwNTE4NTY4LDE1OD
-Y4OTIzODUsLTYzMjIwMDQ2OCwxMTIzODI2NzU4LDEyNzMxODI3
-NzgsLTE4MDQxMzA1NCwtMjEyMTE0NzI5OSwtMTM4MzE1NTEwNS
-wtMTAxOTk0MTc5MSw1NTgyOTgzMCwtNTY2MTU4NTEwLDgyMjky
-ODI5Nyw3ODAzODMwXX0=
+eyJoaXN0b3J5IjpbODU1NjQyNTc3LC04NjA1MTg1NjgsMTU4Nj
+g5MjM4NSwtNjMyMjAwNDY4LDExMjM4MjY3NTgsMTI3MzE4Mjc3
+OCwtMTgwNDEzMDU0LC0yMTIxMTQ3Mjk5LC0xMzgzMTU1MTA1LC
+0xMDE5OTQxNzkxLDU1ODI5ODMwLC01NjYxNTg1MTAsODIyOTI4
+Mjk3LDc4MDM4MzBdfQ==
 -->
