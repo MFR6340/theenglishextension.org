@@ -28,12 +28,10 @@ An inviting book that focuses on 86 cities around the world from well-known ones
 
 <img src="https://imgur.com/FyueilY.png" width="25%" />
 
-Welcome to the town of Centerburg, where  Young Homer Price has a series of adventures in the imaginary 194. He has a pet skunk, who helps him catch some robbers and goes to the movie theatre where he meets a star. It’s a different time, when cars needed to be cranked, and comic books were a dime. Make sure to read this, rather than listening to the audio version, as the illustrations are great fun.. (lexile 1000L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+Young Homer Price has a series of adventures in the imaginary 1940s town of Centerburg. He has a pet skunk, who helps him catch some robbers and goes to the movie theater where he meets a star. It’s a different time, when cars needed to be cranked, and comic books were a dime. Make sure to read this, rather than listen to the audio version, as the illustrations by the author are great fun. (lexile 1000L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Homer-Price-Robert-McCloskey/9780140309270?ref=grid-view&qid=1665841406347&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006452924" rel="nofollow">Buy on Orell Füssli</a>
-
-
 
 
 
@@ -60,7 +58,9 @@ Like, Carrie's War, children in World War II are forced to leave the city of Lon
 
 # Supplemental Activities
 Sometimes we learn more about other cities when we are traveling than the ones that are right at our doorstep.  It doesn't have to be so! Learn more about the cities that are nearby and learn the stories behind the buildings you walk past every day.  Free Walk offers free tours in 13 cities in Switzerland.  If you like what you learned, give your tour guide a nice tip at the end.  https://www.freewalk.ch/swiss/#cities
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY5NDE1MjE1LC0zNTMzMTA3MzksMTAzNT
-E5OTg1LDkxMDkwNDM1MCwtMzU5ODY4MzA0XX0=
+eyJoaXN0b3J5IjpbLTU2Nzk5MzQ5NiwtMzUzMzEwNzM5LDEwMz
+UxOTk4NSw5MTA5MDQzNTAsLTM1OTg2ODMwNF19
 -->
