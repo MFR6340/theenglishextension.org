@@ -97,16 +97,16 @@ This book is an adaptation for younger readers of Neal Bascomb's bestselling boo
 
 <img src="https://imgur.com/ovWMRrl.png" width="25%" />
 
-summary here.
+This is a book about several famous sports stars and the struggles they had to become successful. Most had one person in their corner who helped and encouraged them to get where they wanted to go. The athletes include Tiger Woods, Billy Jean King, Babe Ruth, Jackie Robinson, Gabby Douglas and Michael Jordan. Did you know that Michael Jordan (marvelous, talented basketball player) was clumsy when he was a boy? Or that Babe Ruth, the baseball star was sent to reform school? The book included great illustrations of the stars.
 
 <a href="https://www.bookdepository.com/Kid-Athletes-David-Stabler/9781594748028?ref=grid-view&qid=1665928260307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035793246" rel="nofollow">Buy on Orell Füssli</a>
 
-### DK: Children’s Book of Sports
+### DK: Children’s Book of Sport
 
 <img src="https://imgur.com/COT8oyE.png" width="25%" />
 
-summary here.
+This encyclopaedia of sport gives a lot of information on all sorts of sports. It also includes information about the Olympics, Paralympics and sport in Ancient Greek times. It features more than one hundred sports with history, rules and trivia related to that sport. It is well set out with great photos and it's easy to find information.
 
 <a href="https://www.bookdepository.com/Childrens-Book-Sport-DK/9781405368506?ref=grid-view&qid=1665929123129&sr=1-4" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -133,11 +133,11 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjE5NjEzMCw5NjI3NjM5MDMsLTI5NT
-U2MjgwMyw1OTE5MTUyNywtMTAwNjU0Mjk0NSw0NTgwNTE2ODAs
-LTE3NTA5NzQxNDIsMTc0NzE3MTE1MSwyMDkyMDcwNjEzLC04Mj
-YyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQy
-NSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC
-0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
+eyJoaXN0b3J5IjpbLTE5NDgxNzc4MTYsOTYyNzYzOTAzLC0yOT
+U1NjI4MDMsNTkxOTE1MjcsLTEwMDY1NDI5NDUsNDU4MDUxNjgw
+LC0xNzUwOTc0MTQyLDE3NDcxNzExNTEsMjA5MjA3MDYxMywtOD
+I2MjY5ODc1LC00NzA3MTcxNjQsOTg1Mzg1OTgsLTEyMDUxOTM0
+MjUsLTEyOTc2MTI2NzgsLTE2MDk0OTkxNTQsLTk1ODYzMDIxNS
+wtMTU1Mzg5NjM0MywtMTQwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
 
 -->
