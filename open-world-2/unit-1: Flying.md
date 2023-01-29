@@ -8,11 +8,10 @@
 
 <img src="https://imgur.com/w76xJ2Z.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+summary here.  (Lexile Level     )
 
 <a href="https://www.bookdepository.com/Under-War-Torn-Sky-L-M-Elliott/9780786817535?ref=grid-view&qid=1674927277828&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006268179" rel="nofollow">Buy on Orell Füssli</a> 
-
 ### Born to Fly, by Ryan Campbell
 
 <img src="https://imgur.com/9CrMx4t.png" width="25%" />
@@ -56,7 +55,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 ### The Statistical Probability of Love at First Sight, by Jennifer E. Smith
 
-<img src="https://imgur.com/rAGLCcHimgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/rAGLCcH.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
@@ -65,16 +64,15 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 ### Code Name Verity, by Elizabeth Wein
 
-<img src="https://imgur.com/3I4qFfqTitle here, by author here
-
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/3I4qFfq
+.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Code-Name-Verity-Elizabeth-Wein/9781423152880?ref=grid-view&qid=1674994734866&sr=1-2 link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1062213649 link here" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Airman, by Eoin ColfTitle here, by author here
+### Airman, by Eoin Colf
 
 <img src="https://imgur.com/9oecQ5Iimgurlinkhere.png" width="25%" />
 
@@ -121,8 +119,9 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTE4NDUwMCwtNjIzNDQ3MTU5LC0xNj
-Q2NTY5MTAzLC0xMjM0MDk3NjE4LDMyMTU0MjM0MywxNDAyNDky
-NjQsLTIwODgyMTIzNTMsLTc5MTAzNDA3MywxOTU1MjE1NzM4LC
-0xMDIyODE0NjQ0LDIwOTg5MTMzNiwtMTQyNTAzNTg2Ml19
+eyJoaXN0b3J5IjpbLTIwMDUwMzI0MjEsMTgxNTE4NDUwMCwtNj
+IzNDQ3MTU5LC0xNjQ2NTY5MTAzLC0xMjM0MDk3NjE4LDMyMTU0
+MjM0MywxNDAyNDkyNjQsLTIwODgyMTIzNTMsLTc5MTAzNDA3My
+wxOTU1MjE1NzM4LC0xMDIyODE0NjQ0LDIwOTg5MTMzNiwtMTQy
+NTAzNTg2Ml19
 -->
