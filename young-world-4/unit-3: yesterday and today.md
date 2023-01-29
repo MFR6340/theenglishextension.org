@@ -54,7 +54,7 @@ Newbery Award Winner, this story about a boy named Robin is set in the 14th Cent
 
 <img src="https://imgur.com/53YvdAS.png" width="25%" />
 
-(Lexile 660L)
+It's one of the shortest books to win the Newbery Medal, so it won't take long to read.   (Lexile 660L)
 
 <a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=16744&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfueli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
@@ -95,8 +95,8 @@ Newbery Award Winner, this story about a boy named Robin is set in the 14th Cent
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMjIwMDQ2OCwxMTIzODI2NzU4LDEyNz
-MxODI3NzgsLTE4MDQxMzA1NCwtMjEyMTE0NzI5OSwtMTM4MzE1
-NTEwNSwtMTAxOTk0MTc5MSw1NTgyOTgzMCwtNTY2MTU4NTEwLD
-gyMjkyODI5Nyw3ODAzODMwXX0=
+eyJoaXN0b3J5IjpbMTMxNDM5NjYyMCwtNjMyMjAwNDY4LDExMj
+M4MjY3NTgsMTI3MzE4Mjc3OCwtMTgwNDEzMDU0LC0yMTIxMTQ3
+Mjk5LC0xMzgzMTU1MTA1LC0xMDE5OTQxNzkxLDU1ODI5ODMwLC
+01NjYxNTg1MTAsODIyOTI4Mjk3LDc4MDM4MzBdfQ==
 -->
