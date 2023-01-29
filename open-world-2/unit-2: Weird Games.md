@@ -13,7 +13,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 <a href="https://www.bookdepository.com/The-Highland-Games-Gareth-Ainsworth/9781735688565" rel="nofollow"> Buy on BookDepository</a>  
 
-### Title here, by author here
+### Murder at the Village Fete, by Catherine Coles
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -45,6 +45,6 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NDg0NDE3MiwtNTg3NzQ2NjM5LDExOT
+eyJoaXN0b3J5IjpbMTk5MDA2ODYyMSwtNTg3NzQ2NjM5LDExOT
 k3ODc1MzcsLTExMzU0NjA1MDddfQ==
 -->
