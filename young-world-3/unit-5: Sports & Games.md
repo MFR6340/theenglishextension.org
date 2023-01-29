@@ -16,7 +16,7 @@ This is a very funny, quick and easy read. It's about Daisy who has a habit of g
 ### Sports Day: Sam Kerr: Kicking Goals by Sam Kerr
 <img src="https://i.imgur.com/AAXVe1F.png" width="25%" />
 
-Sam Kerr is brilliant at playing soccer. Her school sports day is coming up and there aren't any soccer events on the schedule. Sam endeavours to get soccer included on sports day and forms a soccer team within her class. Events at home mean that Sam is crazy busy and trouble erupts as other at school try to cause trouble. A fun read written by Sam Kerr, a professional Australian soccer player and  (No Lexile Level available)
+Sam Kerr is brilliant at playing soccer. Her school sports day is coming up but there aren't any soccer events on the schedule. Sam endeavours to get soccer included on sports day and forms a soccer team within her class. Events at home mean that Sam is crazy busy and trouble erupts as other at school try to cause trouble. A fun read written by Sam Kerr, a professional Australian soccer player and  (No Lexile Level available)
  
 <a href="https://www.bookdepository.com/Sports-Day-Sam-Kerr-Kicking-Goals-3-Sam-Kerr/9781761100918?ref=grid-view&qid=1674389793792&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -26,7 +26,7 @@ Sam Kerr is brilliant at playing soccer. Her school sports day is coming up and 
 
 <img src="https://i.imgur.com/dPMlj0k.png" width="25%" />
 
-Jesse Owens is the most famous athlete in Track and Field history despite many odds.  His grandparents had been slaves, his parents were poor sharecroppers.  He set multiple world- records, including three in less than an hour, considered to be the "greatest 45 minutes in sport."  In 1936, he won 4 Gold medals in the Berlin Olympics, disrupting Hitler's plan to show Aryan superiority.  It's worthwhile reading about this truly inspirational athlete.  (Lexile 920L)
+Jesse Owens is the most famous athlete in Track and Field history despite many odds.  His grandparents had been slaves, his parents were poor sharecroppers.  He set multiple world- records, including three in less than an hour, considered to be the "greatest 45 minutes in sport."  In 1936, he won 4 Gold medals in the Berlin Olympics. It's worthwhile reading about this truly inspirational athlete.  (Lexile 920L)
 
 <a href="https://www.bookdepository.com/DK-Life-Stories-Jesse-Owens-James-Buckley-Jr/9780241413845?ref=grid-view&qid=1674463840502&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1057224613?sq=DK%20Life%20Stories%20Jesse%20Owens:%20Amazing%20People%20Who%20Have%20Shaped%20Our%20World&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -35,7 +35,7 @@ Jesse Owens is the most famous athlete in Track and Field history despite many o
 
 <img src="https://i.imgur.com/81Ous6G.png" width="25%" />
 
- Summary here (No Lexile Level available)
+ This is part of a book in a series of biographies, this one is about Olympic champion Mo Farah. It tells us about his life in Africa as a child and about his career as an athlete and famous British role model. (No Lexile Level available)
  
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033698504" rel="nofollow">Buy on Orell Füssli</a>
@@ -126,7 +126,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyNzQwNTUwLDk2Mjc2MzkwMywtMjk1NT
+eyJoaXN0b3J5IjpbOTU2NTE0NDQwLDk2Mjc2MzkwMywtMjk1NT
 YyODAzLDU5MTkxNTI3LC0xMDA2NTQyOTQ1LDQ1ODA1MTY4MCwt
 MTc1MDk3NDE0MiwxNzQ3MTcxMTUxLDIwOTIwNzA2MTMsLTgyNj
 I2OTg3NSwtNDcwNzE3MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1
