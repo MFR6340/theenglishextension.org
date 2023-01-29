@@ -36,7 +36,7 @@ From the development of the steam engine, to the building of steamships, to desi
 
 <img src="https://i.imgur.com/61EpL2l.png" width="25%" />
 
-summary here.(Lexile 570L)
+summary here. (Lexile 570L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Family-Stories-Series-Are-We-There-Yet-Enid-Blyton/9781444959529#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058727152" rel="nofollow">Buy on Orell Füssli</a>
@@ -52,7 +52,7 @@ summary here. (Lexile )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NDQ1ODc3LC0yMDA3MTUxNDE0LC0xOT
-YwNjEwNDg1LC0xMTgxOTczOTUzLC0xMjg3MDEyNTk5LC01MjEx
-NzA1ODcsMTYxNjA3MjAzNywtNTIxMTcwNTg3XX0=
+eyJoaXN0b3J5IjpbMTE4MTE1NDM1NCwtMjAwNzE1MTQxNCwtMT
+k2MDYxMDQ4NSwtMTE4MTk3Mzk1MywtMTI4NzAxMjU5OSwtNTIx
+MTcwNTg3LDE2MTYwNzIwMzcsLTUyMTE3MDU4N119
 -->
