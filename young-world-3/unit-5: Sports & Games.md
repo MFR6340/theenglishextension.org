@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/HtiLUsi.png" width="25%" />
 
- Summary here (960L)
+This is a very funny, quick and easy read. It's about Daisy who has a habit of getting into trouble. She isn't very sporty but wants to win a race at her school sports day. She tries to train really hard but runs into trouble along the way, everyone else in her class wants to win too so it won't be easy for Daisy! 
  
 <a href="https://www.bookdepository.com/Daisy-Trouble-with-Sports-Day-Kes-Gray/9781782959700?ref=grid-view&qid=1674321575322&sr=1-15" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056801675" rel="nofollow">Buy on Orell Füssli</a>
@@ -126,10 +126,10 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NTU2MjgwMyw1OTE5MTUyNywtMTAwNj
-U0Mjk0NSw0NTgwNTE2ODAsLTE3NTA5NzQxNDIsMTc0NzE3MTE1
-MSwyMDkyMDcwNjEzLC04MjYyNjk4NzUsLTQ3MDcxNzE2NCw5OD
-UzODU5OCwtMTIwNTE5MzQyNSwtMTI5NzYxMjY3OCwtMTYwOTQ5
-OTE1NCwtOTU4NjMwMjE1LC0xNTUzODk2MzQzLC0xNDA2OTY1OD
-k1LC03MTY4OTc5MjNdfQ==
+eyJoaXN0b3J5IjpbOTYyNzYzOTAzLC0yOTU1NjI4MDMsNTkxOT
+E1MjcsLTEwMDY1NDI5NDUsNDU4MDUxNjgwLC0xNzUwOTc0MTQy
+LDE3NDcxNzExNTEsMjA5MjA3MDYxMywtODI2MjY5ODc1LC00Nz
+A3MTcxNjQsOTg1Mzg1OTgsLTEyMDUxOTM0MjUsLTEyOTc2MTI2
+NzgsLTE2MDk0OTkxNTQsLTk1ODYzMDIxNSwtMTU1Mzg5NjM0My
+wtMTQwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
 -->
