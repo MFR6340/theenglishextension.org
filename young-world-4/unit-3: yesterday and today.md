@@ -46,7 +46,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 <img src="https://imgur.com/z9a1nk1.png" width="25%" />
 
-Newbery Award Winner, this story about a boy named Robin is set in the 14th Century.  Due to plague and warfare, he is separated from his parents and then develops an illness where he loses the use of his legs.  A kind monk teaches him determination and compassion.  (Lexile 920L) 
+Newbery Award Winner, this story about a boy named Robin is set in the 14th Century.  Due to plague and warfare, he is separated from his parents and then develops an illness where he loses the use of his legs.  A kind monk teaches him determination and compassion.  (Lexile 920L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 <a href="https://www.bookdepository.com/Door-Wall-Marguerite-de-Angeli/9780440402831?ref=grid-view&qid=166593094936774489174439&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006455515" rel="nofollow">Buy on  Orell Füssli</a>
 
@@ -54,7 +54,7 @@ Newbery Award Winner, this story about a boy named Robin is set in the 14th Cent
 
 <img src="https://imgur.com/53YvdAS.png" width="25%" />
 
-It's one of the shortest books to win the Newbery Medal, so it won't take long to read this beautiful tale of family in rural America in the 1800s.  Written from the perspective of the boy, it describes what happens after the mother died, the father advertised for a mail order bride.  A woman replies describing herself as "plain and tall".  The story of starting a new life while still remember the old one.   (Lexile 660L)
+It's one of the shortest books to win the Newbery Medal, so it won't take long to read this beautiful tale of family in rural America in the 1800s.  Written from the perspective of the boy, it describes what happens after his mother dies and his the father advertises for a mail order bride.  A wonderful story of starting a new life while still remember the old one.   (Lexile 660L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=16744&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfueli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
@@ -95,7 +95,7 @@ It's one of the shortest books to win the Newbery Medal, so it won't take long t
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTk0MzY3MCwxNTg2ODkyMzg1LC02Mz
+eyJoaXN0b3J5IjpbLTg2MDUxODU2OCwxNTg2ODkyMzg1LC02Mz
 IyMDA0NjgsMTEyMzgyNjc1OCwxMjczMTgyNzc4LC0xODA0MTMw
 NTQsLTIxMjExNDcyOTksLTEzODMxNTUxMDUsLTEwMTk5NDE3OT
 EsNTU4Mjk4MzAsLTU2NjE1ODUxMCw4MjI5MjgyOTcsNzgwMzgz
