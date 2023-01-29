@@ -39,8 +39,8 @@ summary here. (1060L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Scenes-London-Life-Charles-Dickens/9781509854288?ref=grid-view&qid=1675000616291&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1045168410" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 ### Title here, by author here
@@ -122,8 +122,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODU2MDY4MywxNDE3NjE0NjUyLC00Nj
-QzNTcwMDAsLTIwMzA5MTYxOTIsMTM1MzYzODIxLC0xMzc5Njcy
-Nzg5LDE5MjQ4MjcyNzQsLTg1NTkwNzIzLC0xMTY4NDA1NDI5XX
-0=
+eyJoaXN0b3J5IjpbNTk1MDcyMDUzLDE0MTc2MTQ2NTIsLTQ2ND
+M1NzAwMCwtMjAzMDkxNjE5MiwxMzUzNjM4MjEsLTEzNzk2NzI3
+ODksMTkyNDgyNzI3NCwtODU1OTA3MjMsLTExNjg0MDU0MjldfQ
+==
 -->
