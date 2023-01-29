@@ -4,7 +4,7 @@
 **This unit covers Sports Day (also called Field Day), a popular tradition in schools to celebrate the end of the year.  The day usually consists in a variety of outdoor games focusing often on running and  relay races as well as  other activities.   This is not an easy topic on which to find supplemental literature.  The books below have therefore expanded on the Field Day theme to include information on famous runners and sports in general.** 
 
 ## Sports Day
-### Daisy and the Trouble with Sports Day by Kes Gray
+### Daisy and the Trouble with Sports Day, by Kes Gray
 
 <img src="https://imgur.com/HtiLUsi.png" width="25%" />
 
@@ -26,7 +26,7 @@ Sam Kerr is brilliant at playing soccer. Her school sports day is coming up but 
 
 <img src="https://i.imgur.com/dPMlj0k.png" width="25%" />
 
-Jesse Owens is the most famous athlete in Track and Field history despite many odds.  His grandparents had been slaves, his parents were poor sharecroppers.  He set multiple world- records, including three in less than an hour, considered to be the "greatest 45 minutes in sport."  In 1936, he won 4 Gold medals in the Berlin Olympics. It's worthwhile reading about this truly inspirational athlete.  (Lexile 920L)
+Jesse Owens is the most famous athlete in Track and Field history despite many odds.  His grandparents had been slaves, his parents were poor sharecroppers.  He set multiple world- records, including three in less than an hour, considered to be the "greatest 45 minutes in sport."  In 1936, he won 4 Gold medals in the Berlin Olympics. It's worthwhile reading about this truly inspirational athlete.  (Lexile 920L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/DK-Life-Stories-Jesse-Owens-James-Buckley-Jr/9780241413845?ref=grid-view&qid=1674463840502&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1057224613?sq=DK%20Life%20Stories%20Jesse%20Owens:%20Amazing%20People%20Who%20Have%20Shaped%20Our%20World&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -35,7 +35,7 @@ Jesse Owens is the most famous athlete in Track and Field history despite many o
 
 <img src="https://i.imgur.com/81Ous6G.png" width="25%" />
 
- This is biography of Olympic champion Mo Farah. In it we learn about his life in Africa as a child and about his career as an athlete and famous British role model. (No Lexile Level available)
+ This is biography of Olympic champion Mo Farah. In it we learn about his life in Africa as a child and about his career as an athlete and famous British role model. (Lexile NC 1070L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
  
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033698504" rel="nofollow">Buy on Orell Füssli</a>
@@ -126,11 +126,11 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE1MzMxNzcsOTYyNzYzOTAzLC0yOT
-U1NjI4MDMsNTkxOTE1MjcsLTEwMDY1NDI5NDUsNDU4MDUxNjgw
-LC0xNzUwOTc0MTQyLDE3NDcxNzExNTEsMjA5MjA3MDYxMywtOD
-I2MjY5ODc1LC00NzA3MTcxNjQsOTg1Mzg1OTgsLTEyMDUxOTM0
-MjUsLTEyOTc2MTI2NzgsLTE2MDk0OTkxNTQsLTk1ODYzMDIxNS
-wtMTU1Mzg5NjM0MywtMTQwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
+eyJoaXN0b3J5IjpbMTc1Njc1MjM5Miw5NjI3NjM5MDMsLTI5NT
+U2MjgwMyw1OTE5MTUyNywtMTAwNjU0Mjk0NSw0NTgwNTE2ODAs
+LTE3NTA5NzQxNDIsMTc0NzE3MTE1MSwyMDkyMDcwNjEzLC04Mj
+YyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQy
+NSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC
+0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
 
 -->
