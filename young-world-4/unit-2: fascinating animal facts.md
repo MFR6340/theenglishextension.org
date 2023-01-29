@@ -56,6 +56,9 @@ In this anthology, stunning animal photos by National Geographic photographers a
 
 ## Supplemental Activities
 
+The Swiss Museum of Transport also has an IMAX Theatre.  Currently they are showing a film called [Turtle Journey ](https://www.verkehrshaus.ch/en/visit/filmtheatre/filme/dokumentationen/detail/shows/show/turtle-journey-3d.html).  Nice for a rainy day.
+
+
 
 
 
@@ -70,7 +73,7 @@ In this anthology, stunning animal photos by National Geographic photographers a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3MzY0ODMyLC0xODc4OTYxOTg1LDg1OD
-A1MDY3OSwtMzEyNjQ5NzIzLDE5OTk5ODcyMzIsMTgwNjkwOTAw
-Nl19
+eyJoaXN0b3J5IjpbLTczNzk2ODMzOCwtMTg3ODk2MTk4NSw4NT
+gwNTA2NzksLTMxMjY0OTcyMywxOTk5OTg3MjMyLDE4MDY5MDkw
+MDZdfQ==
 -->
