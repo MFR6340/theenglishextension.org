@@ -81,7 +81,9 @@ This book is written about three time Olympic gold medalist Florence Griffith Jo
 ### The Race of the Century: The Battle to Break the Four-Minute Mile by Neal Bascomb
 <img src="https://i.imgur.com/fOLrBmZ.png" width="25%" />
 
- Summary here (1030L)
+The book is centred on three athletes in three continents trying to run a mile as fast as four minutes. The athletes were in the UK, USA and Australia. At the time it was considered by most to be too dangerous to run so fast and foolhardy to try, but at the same time, it was extremely interesting to find out if anyone could do it. It's a gripping read, telling of injuries, family issues and overbearing coaches making the reader unsure of what might happen next and who would be the first to run the four minute mile.
+
+This book is an adaptation for younger readers of Neal Bascomb's bestselling book The Perfect Mile. (1030L)
  
 <a href="https://www.bookdepository.com/search?searchTerm=The+Race+of+the+Century%3A+The+Battle+to+Break+the+Four-Minute+Mile&search=Find+book" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1060524135" rel="nofollow">Buy on Orell Füssli</a>
@@ -100,7 +102,7 @@ summary here.
 <a href="https://www.bookdepository.com/Kid-Athletes-David-Stabler/9781594748028?ref=grid-view&qid=1665928260307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035793246" rel="nofollow">Buy on Orell Füssli</a>
 
-### DK: Children’s book of Sports
+### DK: Children’s Book of Sports
 
 <img src="https://imgur.com/COT8oyE.png" width="25%" />
 
@@ -131,7 +133,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyOTM5OTI1MCw5NjI3NjM5MDMsLTI5NT
+eyJoaXN0b3J5IjpbLTM1NjE5NjEzMCw5NjI3NjM5MDMsLTI5NT
 U2MjgwMyw1OTE5MTUyNywtMTAwNjU0Mjk0NSw0NTgwNTE2ODAs
 LTE3NTA5NzQxNDIsMTc0NzE3MTE1MSwyMDkyMDcwNjEzLC04Mj
 YyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQy
