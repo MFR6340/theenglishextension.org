@@ -50,10 +50,13 @@ There seem to be thousands of books written about the Titantic. It’s such an a
 <a href="https://www.bookdepository.com/Titanic-Stephen-Davies/9781407178752?ref=grid-view&qid=1673883552652&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1041054587" rel="nofollow">Buy on Orell Füssli</a>
 
+## Supplemental Activities
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTI3MDkzMTQsMTM2NDQwNDY5NywxMT
-gxMTU0MzU0LC0yMDA3MTUxNDE0LC0xOTYwNjEwNDg1LC0xMTgx
-OTczOTUzLC0xMjg3MDEyNTk5LC01MjExNzA1ODcsMTYxNjA3Mj
-AzNywtNTIxMTcwNTg3XX0=
+eyJoaXN0b3J5IjpbLTM2MTI4NDA5NywxMzY0NDA0Njk3LDExOD
+ExNTQzNTQsLTIwMDcxNTE0MTQsLTE5NjA2MTA0ODUsLTExODE5
+NzM5NTMsLTEyODcwMTI1OTksLTUyMTE3MDU4NywxNjE2MDcyMD
+M3LC01MjExNzA1ODddfQ==
 -->
