@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/njY8PTT.png" width="25%" />
 
-summary here.  (Lexile 840L)
+summary here.  (Lexile 840L) 
 
 <a href="https://www.bookdepository.com/Great-Brain-John-D-Fitzgerald/9780142400586?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003007318" rel="nofollow">Buy on Orell Füssli</a>
@@ -95,8 +95,8 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3MDA3ODMyLDExMjM4MjY3NTgsMTI3Mz
-E4Mjc3OCwtMTgwNDEzMDU0LC0yMTIxMTQ3Mjk5LC0xMzgzMTU1
-MTA1LC0xMDE5OTQxNzkxLDU1ODI5ODMwLC01NjYxNTg1MTAsOD
-IyOTI4Mjk3LDc4MDM4MzBdfQ==
+eyJoaXN0b3J5IjpbLTE0ODIxNzI0NzQsMTEyMzgyNjc1OCwxMj
+czMTgyNzc4LC0xODA0MTMwNTQsLTIxMjExNDcyOTksLTEzODMx
+NTUxMDUsLTEwMTk5NDE3OTEsNTU4Mjk4MzAsLTU2NjE1ODUxMC
+w4MjI5MjgyOTcsNzgwMzgzMF19
 -->
