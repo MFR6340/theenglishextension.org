@@ -50,17 +50,19 @@ Also try the Audio book version read by Eric Idle
 ## Supplemental Activities
 While at the Swiss Museum of Transport in Luzern, visit the [Swiss Chocolate Adventure](https://www.verkehrshaus.ch/en/visit/swiss-chocolate-adventure.html) you can learn more about chocolate production and taste creations made by Lindt chocolatiers. 
 
-If you need even more Lindt, definitely go to the [Lindt Home of Chocolate ](https://www.lindt-home-of-chocolate.com/en/) in Zurich.  Check out the 9meter tall fountain, which cycles 1,500kg of chocolate.  You can also enroll in 
+If you need even more Lindt, definitely go to the [Lindt Home of Chocolate ](https://www.lindt-home-of-chocolate.com/en/) in Zurich.  Check out the 9meter tall fountain, which cycles 1,500kg of chocolate.  You can also enroll in a variety of chocolate classes.
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTEyMDI2NTUsLTEyMDA0MTI2OSw3MT
-E3NDUzNjYsMTE3MDEzODMwNSwtODYxNDQ2MSwtNTU3MjY0Mzgz
-LC0xOTQ0NjU4MDQ3LDY3NzczNzYwOCw2Njg2MDk0NzUsMTE5NT
-k4NjI5LC0xNDcxNDMwMDEsLTM3Njk4MTgzMSwtMTU0NDU0NzEw
-NywtMTU3NDU5OTExMiwtNTkyNjY5NDU2LDg5MTc4MTMzMCw4Nz
-M1MTYyNjQsNjE3MDM3ODE4LC02MDI4MDI0NDcsOTgzMTA0MzIx
-XX0=
+eyJoaXN0b3J5IjpbMTQyMDI3NzcyOSwtMTE5MTIwMjY1NSwtMT
+IwMDQxMjY5LDcxMTc0NTM2NiwxMTcwMTM4MzA1LC04NjE0NDYx
+LC01NTcyNjQzODMsLTE5NDQ2NTgwNDcsNjc3NzM3NjA4LDY2OD
+YwOTQ3NSwxMTk1OTg2MjksLTE0NzE0MzAwMSwtMzc2OTgxODMx
+LC0xNTQ0NTQ3MTA3LC0xNTc0NTk5MTEyLC01OTI2Njk0NTYsOD
+kxNzgxMzMwLDg3MzUxNjI2NCw2MTcwMzc4MTgsLTYwMjgwMjQ0
+N119
 -->
