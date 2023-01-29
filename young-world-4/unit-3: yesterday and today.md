@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/njY8PTT.png" width="25%" />
 
-summary here.  (Lexile 840L) 
+summary here.  (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Great-Brain-John-D-Fitzgerald/9780142400586?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003007318" rel="nofollow">Buy on Orell Füssli</a>
@@ -17,7 +17,7 @@ summary here.  (Lexile 840L)
 
 <img src="https://imgur.com/0Yih5hU.png" width="25%" />
 
-summary here.
+summary here. (Lexile 1030L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Adam-Road-Elizabeth-Janet-Gray/9780140324648?ref=grid-view&qid=1665930041706&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354191" rel="nofollow">Buy on Orell Füssli</a>
@@ -95,8 +95,8 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODIxNzI0NzQsMTEyMzgyNjc1OCwxMj
-czMTgyNzc4LC0xODA0MTMwNTQsLTIxMjExNDcyOTksLTEzODMx
-NTUxMDUsLTEwMTk5NDE3OTEsNTU4Mjk4MzAsLTU2NjE1ODUxMC
-w4MjI5MjgyOTcsNzgwMzgzMF19
+eyJoaXN0b3J5IjpbNTYyOTU0NzY2LDExMjM4MjY3NTgsMTI3Mz
+E4Mjc3OCwtMTgwNDEzMDU0LC0yMTIxMTQ3Mjk5LC0xMzgzMTU1
+MTA1LC0xMDE5OTQxNzkxLDU1ODI5ODMwLC01NjYxNTg1MTAsOD
+IyOTI4Mjk3LDc4MDM4MzBdfQ==
 -->
