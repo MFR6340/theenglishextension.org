@@ -48,7 +48,7 @@ Here's another book by Gary Paulsen, prolific American author of both fiction an
 
 <img src="https://i.imgur.com/Bg066im.jpg" width="25%" />
 
-Have lots of fun reading about Lucy's camping adventures, with the story told in various forms of verse.  Learn how to camp, laugh at the funny stories, and be exposed to rhyming couplets and quatrains and limericks and more. (no Lexile levels are given to Poetry)
+Have lots of fun reading about Lucy's camping adventures, with the story told in various forms of verse.  Learn how to camp, laugh at the funny stories, and be exposed to rhyming couplets and quatrains and limericks and more. (no Lexile levels are given to poetry)
 
 <a href="https://www.bookdepository.com/Gone-Camping-Novel-Verse-Tamera-Will-Wissinger/9781328596345?ref=grid-view&qid=1673878569329&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052920702" rel="nofollow">Buy on Orell Füssli</a>
@@ -72,10 +72,9 @@ An essential classic.  Set in central India, this famous story tells the tale of
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064790702" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Supplemental Activity
-Go on a Jungle Trek!  Even here in Switzerland, you have the chance to head into a Rain Forest and see what it's like.  Take a trip to Papiliorama.   Just remember, it's humid in there! 
-Jungle Trek 
-https://www.papiliorama.ch/en/our-live-exhibits/
+Go on a Jungle Trek!  Even here in Switzerland, you have the chance to head into a Rain Forest and see what it's like.  Take a trip to .   [Papiliorama](https://www.papiliorama.ch/en/our-live-exhibits/) Just remember, it's humid in there! 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDU4MjY2NTQsMTgxMDEwOTc1LDIwNj
-UyODg2MjldfQ==
+eyJoaXN0b3J5IjpbMTE1MjY0MzY5MiwxODEwMTA5NzUsMjA2NT
+I4ODYyOV19
 -->
