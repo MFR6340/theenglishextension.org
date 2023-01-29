@@ -31,14 +31,14 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1041003989" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### The Midwife Apprentice, by Karen Cushman
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/ZmvH8GT.png" width="25%" />
 
 summary here. (Lexile 1150L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Midwifes-Apprentice-Karen-Cushman/9781328631121?ref=grid-view&qid=1674998000572&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006265686" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Flying to the Moon: An Astronaut's Story, by Michael Collins
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
@@ -90,7 +90,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzI4OTAyMjUsLTExMTgzNDM3NTUsMT
+eyJoaXN0b3J5IjpbLTIwOTU5MTA5MDcsLTExMTgzNDM3NTUsMT
 k2MTE3ODkzLC0xNjI2OTI5NTQzLC02NDgzODg0MjIsMjA4MDcz
 NDcwNiw5NjEyMTQ5MzNdfQ==
 -->
