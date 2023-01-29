@@ -80,16 +80,15 @@ Freely available online.
 <a href="https://omegaforums.net/threads/mark-twains-my-watch-short-story.16423/" rel="nofollow"> My Watch </a>
 
 ## Supplemental Activities
-Climb a Clock Tower
+### Climb a Clock Tower
 There are some amazing and fascinating clock towers in Switzerland.  
 
  - Zug: [The Zuger Zytturm](https://www.myswitzerland.com/en-us/experiences/zytturm-zug/)is free to visit if you show up during regular working hours.  Just request a key to the Tower in the gift shop below and ask for a free brochure. 
  - Bern: The Zytglogge.  [The Zytglogge](https://www.bern.com/en/detail/berns-clock-tower-zytglogge) Tours are available of the interior. Check the website for details. 
- <a href=" https://www.bern.com/en/detail/berns-clock-tower-zytglogge" rel="nofollow">  Zytglogge </a>  
- - Lucerne: The Turmuhren 
-  <a href="https://turmuhrenluzern.ch/en/project/zeitturm/" rel="nofollow">  Turmuhren</a>  
+ - Lucerne:  [The Turmuhren](https://turmuhrenluzern.ch/en/project/zeitturm/)
 
-Visit a Clock Museum
+
+### Visit a Clock Museum
 Switzerland, world-famous for its clocks and watches, has 7 public museums focused on time-pieces! If you manage to see them all, there are even more private museums. 
 [Clock Museums in Switzerland](https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-the-vallee-de-joux/)
 
@@ -99,7 +98,7 @@ Switzerland, world-famous for its clocks and watches, has 7 public museums focus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NjMyNzMwNywtMTU3NzA3ODQ0MSwxMT
+eyJoaXN0b3J5IjpbLTEwMTk3Njk4MSwtMTU3NzA3ODQ0MSwxMT
 IwODM1NjI1LDEwMTYwMzgyMTAsLTEyODg4Mzk1OTEsLTIyMTMw
 MzY4MywxOTg5NjgzMDI2LDIwNDUyMDEzNiwxOTcyOTc4MjIzXX
 0=
