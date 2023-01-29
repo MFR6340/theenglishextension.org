@@ -26,7 +26,7 @@ summary here. (Lexile 1030L) <sup>[what is this?](/resources/Lexile%20Levels)</s
 
 <img src="https://imgur.com/guWmras.png" width="25%" />
 
-summary here.
+summary here. (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005058189" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -38,7 +38,7 @@ summary here.
 
 <img src="https://imgur.com/Nak0fBU.png" width="25%" />
 
-The chimney sweep is a job from times gone by.  For those who prefer fiction to non-fiction, this is a fun book to read and compare to the more familiar movie.
+The chimney sweep is a job from times gone by.  For those who prefer fiction to non-fiction, this is a fun book to read and compare to the more familiar movie.  (Lexile )  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepoository</a>
 
@@ -95,8 +95,8 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyOTU0NzY2LDExMjM4MjY3NTgsMTI3Mz
-E4Mjc3OCwtMTgwNDEzMDU0LC0yMTIxMTQ3Mjk5LC0xMzgzMTU1
-MTA1LC0xMDE5OTQxNzkxLDU1ODI5ODMwLC01NjYxNTg1MTAsOD
-IyOTI4Mjk3LDc4MDM4MzBdfQ==
+eyJoaXN0b3J5IjpbLTYwMDExMDcwMiwxMTIzODI2NzU4LDEyNz
+MxODI3NzgsLTE4MDQxMzA1NCwtMjEyMTE0NzI5OSwtMTM4MzE1
+NTEwNSwtMTAxOTk0MTc5MSw1NTgyOTgzMCwtNTY2MTU4NTEwLD
+gyMjkyODI5Nyw3ODAzODMwXX0=
 -->
