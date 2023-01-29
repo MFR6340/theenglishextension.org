@@ -22,7 +22,7 @@ This is the first in an engaging series about the life of the author. This book 
 
 <img src="https://i.imgur.com/NZ9mxjg.png" width="25%" />
 
-summary here.(no Lexile level available)
+A young adult book writtensummary here.(no Lexile level available)
 
 <a href="https://www.amazon.com/Justin-Codys-Race-to-Survival/dp/0997476834/ref=sr_1_1?adid=082VK13VJJCZTQYGWWCZ&campaign=211041&creative=374001&keywords=Race+to+Survival&qid=1673878233&s=books&sr=1-1" rel="nofollow"> Buy on Amazon</a>  
 
@@ -75,6 +75,6 @@ An essential classic.  Set in central India, this famous story tells the tale of
 Go on a Jungle Trek!  Even here in Switzerland, you have the chance to head into a Rain Forest and see what it's like.  Take a trip to .   [Papiliorama](https://www.papiliorama.ch/en/our-live-exhibits/) Just remember, it's humid in there! 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTg1NTM3NSwxMTUyNjQzNjkyLDE4MT
-AxMDk3NSwyMDY1Mjg4NjI5XX0=
+eyJoaXN0b3J5IjpbMTUyNDU4OTI1MiwtNzU5ODU1Mzc1LDExNT
+I2NDM2OTIsMTgxMDEwOTc1LDIwNjUyODg2MjldfQ==
 -->
