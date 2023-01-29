@@ -35,8 +35,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 summary here. (Lexile 1150L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Midwifes-Apprentice-Karen-Cushman/9781328631121?ref=grid-view&qid=1674998000572&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006265686" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 <img src="imgurlinkhere.png" width="25%" />
@@ -90,7 +90,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQwNTkwNjUsLTExMTgzNDM3NTUsMT
+eyJoaXN0b3J5IjpbLTE2NzI4OTAyMjUsLTExMTgzNDM3NTUsMT
 k2MTE3ODkzLC0xNjI2OTI5NTQzLC02NDgzODg0MjIsMjA4MDcz
 NDcwNiw5NjEyMTQ5MzNdfQ==
 -->
