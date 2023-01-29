@@ -45,12 +45,12 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 ### The Wolves of Willoughby Chase, by Joan Aiken
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/arvSVsq.png" width="25%" />
 
 summary here. (Lexile 1020L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Wolves-Willoughby-Chase-Joan-Aiken/9780099572879?ref=grid-view&qid=1675000762212&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1022805699" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 ### Title here, by author here
@@ -122,7 +122,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNzgxOTYwOCwxNDE3NjE0NjUyLC00Nj
+eyJoaXN0b3J5IjpbMTEwNzkyNTg4MSwxNDE3NjE0NjUyLC00Nj
 QzNTcwMDAsLTIwMzA5MTYxOTIsMTM1MzYzODIxLC0xMzc5Njcy
 Nzg5LDE5MjQ4MjcyNzQsLTg1NTkwNzIzLC0xMTY4NDA1NDI5XX
 0=
