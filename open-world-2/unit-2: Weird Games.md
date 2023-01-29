@@ -15,6 +15,25 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
 # Supplemental Activities
 
  Without even having to leave Switzerland, you have a chance to go see one of these amazing events.  The Highland Games Verband Schweiz organizes events every year.  For the program for this year.  https://www.hgvs.ch/saison-2023
@@ -28,6 +47,6 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDAwNjEzMCwtNTg3NzQ2NjM5LDExOT
-k3ODc1MzcsLTExMzU0NjA1MDddfQ==
+eyJoaXN0b3J5IjpbMTQzMDg1MDg0LC01ODc3NDY2MzksMTE5OT
+c4NzUzNywtMTEzNTQ2MDUwN119
 -->
