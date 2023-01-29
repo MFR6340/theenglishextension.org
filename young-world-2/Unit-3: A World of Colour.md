@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/UtViGvL.png" width="25%" />
 
-summary here.
+A boy named Ramon loves to draw until an unkind remark by his older brother causes him to stop.  His little sister convinces him to start again. At first glance, this may seem like just a simple picture book, but the message about creativity is far deeper and is a wonderful lesson for kids and adults of all ages. (Lexile 510L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Ish-Peter-H-Reynolds/9781844282968?ref=grid-view&qid=1665842005562&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -17,7 +17,7 @@ summary here.
 
 <img src="https://imgur.com/Obtul5O.png" width="25%" />
 
-An historical fiction account of a girl in MediParis helps her father complete an illuminated tome for a wealthy patron. Although parts of it are not fully historically accurate (clothing, female independence, etc.)  it is still very much a worthwhile book to get a better understanding of how the vellum and paints for manuscripts were made. (Lexile 570L)
+An historical fiction account of a girl in Medieval Paris helps her father complete an illuminated tome for a wealthy patron. Although parts of it are not fully historically accurate (clothing, female independence, etc.)  it is still very much a worthwhile book to get a better understanding of how the vellum and paints for manuscripts were made. (Lexile 570L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Marguerite-Makes-Book--Robertson/9780892363728" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005363893" rel="nofollow">Buy on Orell Füssli</a>
@@ -35,7 +35,7 @@ summary here.(Lexile 760L)  <sup>[what is this?](/resources/Lexile%20measures)</
 
 <img src="https://imgur.com/3ZvEIv5.png" width="25%" />
 
-A boy named Ramon loves to draw until an unkind remark by his older brother causes him to stop.  His little sister convinces him to start again. At first glance, this may seem like just a simple picture book, but the message about creativity is far deeper and is a wonderful lesson for kids and adults of all ages. (Lexile 510L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Dot-Peter-H-Reynolds/9781844281695?ref=grid-view&qid=1665842808024&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002588073" rel="nofollow">Buy on Orell Füssli</a>
@@ -89,6 +89,6 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDQzMjI3MSwyMDIxOTE1NjcsLTQ3OT
-g5NzQ0XX0=
+eyJoaXN0b3J5IjpbNTE1NzQ2OTA3LDIwMjE5MTU2NywtNDc5OD
+k3NDRdfQ==
 -->
