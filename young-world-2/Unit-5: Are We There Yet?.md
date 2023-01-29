@@ -8,16 +8,16 @@
 
 <img src="https://imgur.com/6rfoBak.png" width="25%" />
 
-summary here.(Lexile 570L)
+This amazing biography of Nathaniel Bowditch was the winner of the Newbery Medal. Nat was a sailor in the 1800s who developed new techniques for navigation using math, despite having only attended school until he was 12. The book is the fascinating, griping and profoundly moving story of Nat’s hardships and his perseverance in overcoming them. (Lexile 570L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Carry-On-Mr-Bowditch-Jean-Lee-Latham/9780618250745?ref=grid-view&qid=1665843551689&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006158349" rel="nofollow">Buy on Orell Füssli</a>
 
 ### MVP*: Magellan Voyage Project, by Douglas Evans
 
-<img src="https://i.imgur.com/n6FEYvP.png" width="5%" />
+<img src="https://i.imgur.com/n6FEYvP.png" width="25%" />
 
-Adam is competing against others for a four million dollar prize to be the first around the world in forty days without flying.  Lots of action and adventure, and of course, an evil Baron.  (Lexile 690L)
+Adam is competing against others for a four million dollar prize to be the first around the world in forty days without flying.  Lots of action and adventure, and of course, an evil Baron.  (Lexile 690L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 Currently not available on Book Depository.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004888026" rel="nofollow">Buy on Orell Füssli</a>
@@ -26,7 +26,7 @@ Currently not available on Book Depository.
 
 <img src="https://i.imgur.com/E3SCIve.png" width="25%" />
 
-From the development of the steam engine, to the building of steamships, to designing the *SS United States*, the last and most advanced of these stately ships, Macaulay does an amazing job explaining technical concepts with fantastic illustrations so that even those who might not think they had an interest in engines or shipbuilding will develop one by the end.  (Lexile 1200L)
+From the development of the steam engine, to the building of steamships, to designing the *SS United States*, the last and most advanced of these stately ships, Macaulay does an amazing job explaining technical concepts with fantastic illustrations so that even those who might not think they had an interest in engines or shipbuilding will develop one by the end.  (Lexile 1200L)   <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 
 <a href="https://www.bookdepository.com/Crossing-on-Time-David-Macauley/9781596434776?ref=grid-view&qid=1673882030623&sr=1-1" rel="nofollow">Buy on Book Depository</a>
@@ -52,7 +52,7 @@ summary here. (Lexile )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTM3NDUxNSwtMjAwNzE1MTQxNCwtMT
-k2MDYxMDQ4NSwtMTE4MTk3Mzk1MywtMTI4NzAxMjU5OSwtNTIx
-MTcwNTg3LDE2MTYwNzIwMzcsLTUyMTE3MDU4N119
+eyJoaXN0b3J5IjpbMTE3NDQ1ODc3LC0yMDA3MTUxNDE0LC0xOT
+YwNjEwNDg1LC0xMTgxOTczOTUzLC0xMjg3MDEyNTk5LC01MjEx
+NzA1ODcsMTYxNjA3MjAzNywtNTIxMTcwNTg3XX0=
 -->
