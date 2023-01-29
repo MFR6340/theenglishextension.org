@@ -9,7 +9,7 @@
 
 <img src="https://imgur.com/eQdEzwj.png" width="25%" />
 
-summary here.  (no Lexile level available)
+This is a search and find book in the style of Where’s Waldo. In the illustrations of 12 different major cities from Berlin to Beijing, look closely to find buildings, important landmarks and famous people. Learn additional information about each city at the back of the book. (no Lexile measure available)
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053851415" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -17,7 +17,7 @@ summary here.  (no Lexile level available)
 
 <img src="https://imgur.com/jLSqG2Y.png" width="25%" />
 
-summary here.(Lexile IG1140L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+An inviting book that focuses on 86 cities around the world from well-known ones like Paris to more unfamiliar ones like Ulaanbaatar. Each two-page spread contains fun and quirky facts. It’s a great to inspire travel and further information on these different cities. (Lexile IG1140L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Lonely-Planet-Kids-Cities-Book-Lonely-Planet-Kids/9781786570185?ref=grid-view&qid=1665841588904&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039247755" rel="nofollow">Buy on Orell Füssli</a>
@@ -47,7 +47,7 @@ Considered a classic story, Carrie and her brother Nick are evacuted from London
 
 <img src="https://i.imgur.com/7hoyUhH.png" width="25%" />
 
-Like, Carrie's War, children in orld ar II are forced to leave the city of London and evacuated to the country.  Three siblings are sent to Dorset, where they are happy with their new surroundings. A turn of events brings them back to London to find their parents where the see the changes that have been wrought.   A classic adventure story based on the author's real experiences.  ( no Lexile level available)
+Like, Carrie's War, children in World War II are forced to leave the city of London and evacuated to the country.  Three siblings are sent to Dorset, where they are happy with their new surroundings. A turn of events brings them back to London to find their parents where the see the changes that have been wrought.   A classic adventure story based on the author's real experiences.  ( no Lexile level available)
 
 <a href="https://www.bookdepository.com/When-Siren-Wailed-Noel-Streatfeild/9781510109902?ref=grid-view&qid=1673535364933&sr=1-2
 " rel="nofollow"> Buy on BookDepository</a>  
@@ -56,6 +56,6 @@ Like, Carrie's War, children in orld ar II are forced to leave the city of Londo
 # Supplemental Activities
 Sometimes we learn more about other cities when we are traveling than the ones that are right at our doorstep.  It doesn't have to be so! Learn more about the cities that are nearby and learn the stories behind the buildings you walk past every day.  Free Walk offers free tours in 13 cities in Switzerland.  If you like what you learned, give your tour guide a nice tip at the end.  https://www.freewalk.ch/swiss/#cities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzMxMDczOSwxMDM1MTk5ODUsOTEwOT
-A0MzUwLC0zNTk4NjgzMDRdfQ==
+eyJoaXN0b3J5IjpbLTIwMjgzMDEzODcsLTM1MzMxMDczOSwxMD
+M1MTk5ODUsOTEwOTA0MzUwLC0zNTk4NjgzMDRdfQ==
 -->
