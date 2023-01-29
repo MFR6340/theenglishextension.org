@@ -44,7 +44,7 @@ Jesse Owens is the most famous athlete in Track and Field history despite many o
 
 <img src="https://i.imgur.com/2cuSvsV.jpg" width="25%" />
 
- Summary here (950L)
+Maureen Wilton won a marathon at age thirteen in a world record time but she was not heralded, instead she was accused of cheating and was told that women should not run such long distances. This is her story, it follows her running career, her quitting running and later returning to it as well as her life as the mother of a runner. (950L)
  
 <a href="https://www.bookdepository.com/Mighty-Moe-Rachel-Swaby/9780374311605?ref=grid-view&qid=1674390756973&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052970723" rel="nofollow">Buy on Orell Füssli</a>
@@ -52,7 +52,9 @@ Jesse Owens is the most famous athlete in Track and Field history despite many o
 ### The Million Dollar Race by Matthew Ross Smith
 <img src="https://i.imgur.com/xnuHoBK.png" width="25%" />
 
- Summary here (590L)
+Grant is a really talented runner, he enters a race to win a million dollars sponsored by a large corporation. He faces difficulties when it is discovered that his parents didn't officially get him a birth certificate and with the help of his brother he creates a new country so that he may compete. His best friend is in the race too, can he beat him? Does he want to? You'll have to read it to find out!
+
+This book is about friendships, families, (unconventional they may be) and sports. It touches on issues like big businesses and working conditions. (590L)
  
 <a href="https://www.bookdepository.com/Million-Dollar-Race-Matthew-Ross-Smith/9781534420281?ref=grid-view&qid=1674391451966&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
@@ -126,7 +128,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4Mzk1NjkwLDk2Mjc2MzkwMywtMjk1NT
+eyJoaXN0b3J5IjpbOTcxMTA4MzA1LDk2Mjc2MzkwMywtMjk1NT
 YyODAzLDU5MTkxNTI3LC0xMDA2NTQyOTQ1LDQ1ODA1MTY4MCwt
 MTc1MDk3NDE0MiwxNzQ3MTcxMTUxLDIwOTIwNzA2MTMsLTgyNj
 I2OTg3NSwtNDcwNzE3MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1
