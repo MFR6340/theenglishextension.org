@@ -81,15 +81,11 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="https://www.bookdepository.com/Airman-Eoin-Colfer/9780141322216?ref=grid-view&qid=1674994899322&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Grandpa’s Great Escape, by David Walliams
-<img src="https://imgur.com/OYpHfi9" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
-
-### 
-.png" width="25%" />
+<img src="https://imgur.com/OYpHfi9.png" width="25%" /> 
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="https://www.bookdepository.com/Grandpas-Great-Escape-David-Walliams/9780008183424?ref=grid-view&qid=1674995059873&sr=1-1 link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Grandpas-Great-Escape-David-Walliams/9780008183424?ref=grid-view&qid=1674995059873&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1035662060" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Horrible Histories: Up in the Air, by Terry Deary
@@ -116,9 +112,9 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTkzNjczODEsMzM2MjQ0NDQ5LC04Nz
-U1NzYwOSwxODE1MTg0NTAwLC02MjM0NDcxNTksLTE2NDY1Njkx
-MDMsLTEyMzQwOTc2MTgsMzIxNTQyMzQzLDE0MDI0OTI2NCwtMj
-A4ODIxMjM1MywtNzkxMDM0MDczLDE5NTUyMTU3MzgsLTEwMjI4
-MTQ2NDQsMjA5ODkxMzM2LC0xNDI1MDM1ODYyXX0=
+eyJoaXN0b3J5IjpbNjg1NjUzNTE3LDMzNjI0NDQ0OSwtODc1NT
+c2MDksMTgxNTE4NDUwMCwtNjIzNDQ3MTU5LC0xNjQ2NTY5MTAz
+LC0xMjM0MDk3NjE4LDMyMTU0MjM0MywxNDAyNDkyNjQsLTIwOD
+gyMTIzNTMsLTc5MTAzNDA3MywxOTU1MjE1NzM4LC0xMDIyODE0
+NjQ0LDIwOTg5MTMzNiwtMTQyNTAzNTg2Ml19
 -->
