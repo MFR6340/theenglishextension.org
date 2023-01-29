@@ -8,7 +8,7 @@
 <img src="https://imgur.com/0WE9nQ5.png
 " width="25%" />
 
-A comprehensive visual journey of the human body from cells to systems. Highly detailed with multiple double page spreads and enough humor throughout to engage any reader.
+A comprehensive visual journey of the human body from cells to systems. Highly detailed with multiple double-page spreads and enough humor throughout to engage any reader.
 
 <a href="https://www.amazon.de/-/en/David-Macaulay/dp/0618233784/ref=sr_1_1?crid=3LWMZNEQ41GJC&keywords=Way+We+Work+Macaulay&qid=1656343477&sprefix=way+we+work+macaulay%2Caps%2C314&sr=8-1" rel="nofollow"> Buy on Amazon.de</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002858687" rel="nofollow">Buy on Orell Füssli</a>
@@ -68,7 +68,7 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 The exhibition BodyWorlds is not currently showing in Switzerland, but one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzgxMDU0OSwxNTc4MTU4NDc2LC01OT
+eyJoaXN0b3J5IjpbMTM0NDcwMzU1NCwxNTc4MTU4NDc2LC01OT
 EyOTAzMTIsLTI4MDI0ODM3LC0xNTY2OTI5NzU0LDMyNTE4NDUx
 MiwtMTYyNDQwNzUyMCwxMzg2MDY1MTYwLDIxMDg5NTU3NzgsLT
 I2OTMyMDcyMyw4MTMxMzQ1MiwtMjM4MTQyMjA4LDEzMzkyNjc4
