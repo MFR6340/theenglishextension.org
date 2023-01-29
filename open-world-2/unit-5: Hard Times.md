@@ -63,14 +63,14 @@ summary here. (Lexile 1070L) <sup>[what is this?](/resources/Lexile%20measures)<
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1042241071" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-### The Strange Case of Dr. Jekyll and Mr. Hyde, by Robert Louis Stevenson
+### Dr. Jekyll and Mr. Hyde, by Robert Louis Stevenson
 
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here. (Lexile 1060L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006331195" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 ### Title here, by author here
@@ -122,7 +122,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQwOTQwNjksLTE4OTUwOTk3MjgsMT
+eyJoaXN0b3J5IjpbLTE5OTYxNDk2MjgsLTE4OTUwOTk3MjgsMT
 QxNzYxNDY1MiwtNDY0MzU3MDAwLC0yMDMwOTE2MTkyLDEzNTM2
 MzgyMSwtMTM3OTY3Mjc4OSwxOTI0ODI3Mjc0LC04NTU5MDcyMy
 wtMTE2ODQwNTQyOV19
