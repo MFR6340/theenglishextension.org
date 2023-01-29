@@ -20,6 +20,17 @@ Sam Kerr is brilliant at playing soccer. Her school sports day is coming up but 
  
 <a href="https://www.bookdepository.com/Sports-Day-Sam-Kerr-Kicking-Goals-3-Sam-Kerr/9781761100918?ref=grid-view&qid=1674389793792&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
+### The Million Dollar Race by Matthew Ross Smith
+<img src="https://i.imgur.com/xnuHoBK.png" width="25%" />
+
+Grant is a really talented runner, he enters a race to win a million dollars sponsored by a large corporation. He faces difficulties when it is discovered that his parents didn't officially get him a birth certificate and with the help of his brother he creates a new country so that he may compete. His best friend is in the race too, can he beat him? Does he want to? You'll have to read it to find out!
+
+This book is about friendships, families, (unconventional they may be) and sports. It touches on issues like big businesses and working conditions. (590L)
+ 
+<a href="https://www.bookdepository.com/Million-Dollar-Race-Matthew-Ross-Smith/9781534420281?ref=grid-view&qid=1674391451966&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
+
+
 
 ## Great Runners and Track Events
 ###  DK: Life Stories Jesse Owens
@@ -49,20 +60,12 @@ Maureen Wilton won a marathon at age thirteen in a world record time but she was
 <a href="https://www.bookdepository.com/Mighty-Moe-Rachel-Swaby/9780374311605?ref=grid-view&qid=1674390756973&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052970723" rel="nofollow">Buy on Orell Füssli</a>
 
-### The Million Dollar Race by Matthew Ross Smith
-<img src="https://i.imgur.com/xnuHoBK.png" width="25%" />
 
-Grant is a really talented runner, he enters a race to win a million dollars sponsored by a large corporation. He faces difficulties when it is discovered that his parents didn't officially get him a birth certificate and with the help of his brother he creates a new country so that he may compete. His best friend is in the race too, can he beat him? Does he want to? You'll have to read it to find out!
-
-This book is about friendships, families, (unconventional they may be) and sports. It touches on issues like big businesses and working conditions. (590L)
- 
-<a href="https://www.bookdepository.com/Million-Dollar-Race-Matthew-Ross-Smith/9781534420281?ref=grid-view&qid=1674391451966&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
 
 ###  Ultimate Sports Heroes - Usain Bolt by John Murray
 <img src="https://i.imgur.com/UtiteCV.png" width="25%" />
 
- Summary here (No Lexile Level available)
+A biography written for young people about the fastest man on earth, Usain Bolt. It tells of his love for chicken nuggets and how he preferred cricket to running as a child. It's one of a series of biographies about famous sporting figures. (No Lexile Level available)
  
 <a href="https://www.bookdepository.com/Ultimate-Sports-Heroes---Usain-Bolt-John-Murray/9781786064677" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1044360908" rel="nofollow">Buy on Orell Füssli</a>
@@ -128,10 +131,11 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxMTA4MzA1LDk2Mjc2MzkwMywtMjk1NT
-YyODAzLDU5MTkxNTI3LC0xMDA2NTQyOTQ1LDQ1ODA1MTY4MCwt
-MTc1MDk3NDE0MiwxNzQ3MTcxMTUxLDIwOTIwNzA2MTMsLTgyNj
-I2OTg3NSwtNDcwNzE3MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1
-LC0xMjk3NjEyNjc4LC0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLT
-E1NTM4OTYzNDMsLTE0MDY5NjU4OTUsLTcxNjg5NzkyM119
+eyJoaXN0b3J5IjpbLTcyNzEwOTAzNyw5NjI3NjM5MDMsLTI5NT
+U2MjgwMyw1OTE5MTUyNywtMTAwNjU0Mjk0NSw0NTgwNTE2ODAs
+LTE3NTA5NzQxNDIsMTc0NzE3MTE1MSwyMDkyMDcwNjEzLC04Mj
+YyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQy
+NSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC
+0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
+
 -->
