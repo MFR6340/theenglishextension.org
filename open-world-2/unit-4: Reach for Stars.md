@@ -39,14 +39,14 @@ summary here. (Lexile 1150L) <sup>[what is this?](/resources/Lexile%20measures)<
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006265686" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Flying to the Moon, by Michael Collins
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/r7eskTB.png" width="25%" />
 
 summary here.  (Lexile 1170L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Flying-Moon-Michael-Collins/9780374312022?ref=grid-view&qid=1674998202472&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051969164" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Writing Radar: Using Your Journal to Snoop Out and Craft Great Stories, by Jack Gantos
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
@@ -90,7 +90,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzgzMzY0MSwtMTExODM0Mzc1NSwxOT
-YxMTc4OTMsLTE2MjY5Mjk1NDMsLTY0ODM4ODQyMiwyMDgwNzM0
-NzA2LDk2MTIxNDkzM119
+eyJoaXN0b3J5IjpbLTE5NjU3Mjk0MTUsLTExMTgzNDM3NTUsMT
+k2MTE3ODkzLC0xNjI2OTI5NTQzLC02NDgzODg0MjIsMjA4MDcz
+NDcwNiw5NjEyMTQ5MzNdfQ==
 -->
