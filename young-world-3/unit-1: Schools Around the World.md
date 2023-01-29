@@ -33,11 +33,12 @@ This inspirational true story is about a boy from Africa who uses items around h
 <a href="https://www.bookdepository.com/Boy-Who-Harnessed-Wind-William-Kamkwamba/9780147510426?ref=grid-view&qid=1665854100400&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 
-### Harry Potter and the Philosopher's Stone, by J. K. Rowling
+### Harry Potter and the Philosopher's Stone, by J. K. Rowling  *
+Sold under the title *Harry Potter and the Sorcerer's Stone* in the US
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
-Called *Harry Potter and the Sorcerer's Stone* in the US.   (Lexile 880L)  
+Young Harry Potter .   (Lexile 880L)  
 
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
@@ -86,9 +87,9 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MTk1NDgxMSwtOTg2MDg3NTI1LC05ND
-czODEyOTUsOTAzMjIzMjY4LDI4MzE3ODU5OSw3MDg1MjU1ODcs
-MTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MTcwNTc2MDgsMTE4NT
-YyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkwNzgsMTU3MzAyNjIy
-NV19
+eyJoaXN0b3J5IjpbLTE2MTM4NjMzOTEsLTk4NjA4NzUyNSwtOT
+Q3MzgxMjk1LDkwMzIyMzI2OCwyODMxNzg1OTksNzA4NTI1NTg3
+LDE2MzM1MTMyOTEsLTE2MTY0NjM1ODAsNTE3MDU3NjA4LDExOD
+U2MjU3MjgsLTE0MjU2NjgwMzIsMTEzNDE5MDc4LDE1NzMwMjYy
+MjVdfQ==
 -->
