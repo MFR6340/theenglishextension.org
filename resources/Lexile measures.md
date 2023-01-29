@@ -4,10 +4,15 @@ How do you determine if a book is the correct reading level for your child?
 
 There are a variety of ways to categorize books for readers. Books can be classified by age level, grade level and/or reading level. Since two kids of the same age in the same class are not necessarily able to read books of the same level, using age and grade level recommendations is not ideal, therefore most educators prefer to use quantitative reading levels.  
   
-There are a variety of quantitative approaches to determine the reading level of a book, including Guided Reading Levels, Accelerated Reader, Developmental Reading Assessment, and Lexile measures. They all use different slightly different methodologies to measure the reading levels but they are all based on word frequency, vocabulary and sentence length.  We have cLexile measures to quantify the books here.  Lexile measures one of the most comprehensive systems in use, with
+There are a variety of quantitative approaches to determine the reading level of a book, including Guided Reading Levels, Accelerated Reader, Developmental Reading Assessment, and Lexile measures. They all use different slightly different methodologies to measure the reading levels but they are all based on word frequency, vocabulary and sentence length.  We have chosen to use Lexile measures to quantify the books here as it one of the most comprehensive systems in use, with over 100 million books and reading materials measured using this leveling system. 
 
-We have chosen to use e are over 100 million books and reading materials measured using this leveling system.  Lexile measure are given from 200L for beginning readers and text to 1600L for advanced readers and text.
+Lexile measure are given from 200L for beginning readers and text to 1600L for advanced readers and text.
+
 It is not a perfect system, and there are some scores that leave the head scratching, but it does give a quantitative basis to help determine if a book is appropriate for a reader. 
+
+The objective with reading levels is to find a books that are the correct INDEPENDENT reading level for your child.
+
+Parents should not worry as much about what level a child is currently at, but rather, if the child is showing growth in reading over the academic year.
 
 ### Grade Level Table
 This table reflects 50th percentile rank (PR) and 90th percentile rank (PR) norms for end of year.  (Data generated 26. January 2023)
@@ -41,13 +46,12 @@ Some lexile levels are also given an additional code:
 -   NC (Non-Conforming): The book has a Lexile measure that is markedly higher than is typical for the publisher's intended audience or designated developmental level of the book. NC books are good choices for high-ability readers.
 -   NP (Non-Prose): The book contains more than 50% of non-standard or non-conforming prose, such as poems, plays, songs and recipes. NP books do not receive a Lexile measure. 
 
-The objective with reading levels is to find a books that are the correct INDEPENDENT reading level for your child.
 
-Parents should not worry as much about what level a child is currently at, but rather, if the child is showing growth in reading over the academic year.
+
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1MzI4MjUxLC0xNTcyNjk0NjYwLC04MT
-UwMTgxOTksMjU1Mjk3MTk1LDE5NzE1OTUyODIsLTEyNTUwNjgx
-OTcsLTEzOTk4MjEyMzVdfQ==
+eyJoaXN0b3J5IjpbMTYzNjMwOTU5NiwtMTU3MjY5NDY2MCwtOD
+E1MDE4MTk5LDI1NTI5NzE5NSwxOTcxNTk1MjgyLC0xMjU1MDY4
+MTk3LC0xMzk5ODIxMjM1XX0=
 -->
