@@ -26,7 +26,7 @@ Newberry Honor Book.  The story of William Tell, who shot an apple of the head o
 ### Heidi, by Johanna Spyri
 <img src="https://imgur.com/XPkX05Y.png" width="25%" />
 
-The classic children's novel, originally published in German, is about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  You can’t be a child in Switzerland and not read this classic. It’s an excellent way to learn about descriptive settings and to learn about using landscapes to create atmospheric writing.Originally published in 1880-81 in two parts.  As it is now out of copyright there are quite a few English translations available including for free on<a href="http://www.gutenberg.org/ebooks/1448" rel="nofollow">  re[tutenberg.  Lexile level varies based on translation. 
+The classic children's novel, originally published in German, is about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  You can’t be a child in Switzerland and not read this classic. It’s an excellent way to learn about descriptive settings and to learn about using landscapes to create atmospheric writing.Originally published in 1880-81 in two parts.  As it is now out of copyright there are quite a few English translations available including for free on<a href="http://www.gutenberg.org/ebooks/1448" rel="nofollow">  Gutenberg.  Lexile level varies based on translation. 
 
 <a href="https://www.bookdepository.com/Heidi-Johanna-Spyri/9780141322568?ref=grid-view&qid=1665931270781&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005226950" rel="nofollow">Buy on Orell Füssli</a>
@@ -68,7 +68,8 @@ nspunnenchwinget/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjA0NTkwMjAsMjQyMjI4ODg4LDEwOD
-QwOTMzNDksMTM2MzY2MTU5MSwtNjA0NzQ3NzYyLDQzMjA2MjE3
-NiwtMTg5NDYwMDg1MywxODQ4ODU0MTIyLDQ1OTE4MzA1NV19
+eyJoaXN0b3J5IjpbLTM5NTg2Nzg5MSwtMTE2MDQ1OTAyMCwyND
+IyMjg4ODgsMTA4NDA5MzM0OSwxMzYzNjYxNTkxLC02MDQ3NDc3
+NjIsNDMyMDYyMTc2LC0xODk0NjAwODUzLDE4NDg4NTQxMjIsND
+U5MTgzMDU1XX0=
 -->
