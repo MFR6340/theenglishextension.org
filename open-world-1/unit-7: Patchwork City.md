@@ -20,7 +20,7 @@ summary here.  (Lexile level       )
 <a href="https://www.bookdepository.com/Lucy-Maud-Me-Mary-Frances-Coady/9780888783981?ref=grid-view&qid=1674500880491&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004813404" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Runaway Rodents, by Dogmara Bociek
+### Runaway odents, by Dogmara Bociek
 
 <img src="https://imgur.com/SP7Ahul.png" width="25%" />
 
@@ -32,7 +32,7 @@ summary here.  (Lexile level       )
 
 <img src="https://imgur.com/O1clI7O.png" width="25%" />
 
-summary here.  (Lexile level       )
+summary here.  (Lexile   
 
 <a href="https://www.bookdepository.com/Night-They-Stole-Stanley-Cup-Roy-Macgregor/9781770494145?ref=grid-view&qid=1674926818968&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1023376588rel" rel="nofollow">Buy on Orell Füssli</a> 
@@ -46,8 +46,9 @@ summary here.  (Lexile NC1190L)
 <a href="https://www.amazon.com/-/de/dp/0516220349/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1674926987&sr=8-1" rel="nofollow"> Buy on Amazon</a>  Only available used
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyNjQxMzE4LDE0MTQyNTE1OTUsLTIxND
-YwMTQ2OTcsNzIyNDYyMTczLC0xMjYzODY1MTIyLC03NTU5ODcz
-OTAsLTEyMjcxMzU5NjQsLTc5NDE2MDYsLTMyMjk3NDI2MSwtMT
-I1NzgwMDk2MywtNTkxOTcyNTg0LDEwNDM2NjQwOTZdfQ==
+eyJoaXN0b3J5IjpbMTcyNjk4NTEzLDk0MjY0MTMxOCwxNDE0Mj
+UxNTk1LC0yMTQ2MDE0Njk3LDcyMjQ2MjE3MywtMTI2Mzg2NTEy
+MiwtNzU1OTg3MzkwLC0xMjI3MTM1OTY0LC03OTQxNjA2LC0zMj
+I5NzQyNjEsLTEyNTc4MDA5NjMsLTU5MTk3MjU4NCwxMDQzNjY0
+MDk2XX0=
 -->
