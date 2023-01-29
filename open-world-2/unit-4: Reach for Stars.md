@@ -14,6 +14,70 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
+### Title here, by author here
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+<img src="imgurlinkhere.png" width="25%" />
+
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
 ## Fiction 
 
 ### The Hitchhiker, short story by Roald Dahl
@@ -26,6 +90,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MTE3ODkzLC0xNjI2OTI5NTQzLC02ND
-gzODg0MjIsMjA4MDczNDcwNiw5NjEyMTQ5MzNdfQ==
+eyJoaXN0b3J5IjpbLTExMTgzNDM3NTUsMTk2MTE3ODkzLC0xNj
+I2OTI5NTQzLC02NDgzODg0MjIsMjA4MDczNDcwNiw5NjEyMTQ5
+MzNdfQ==
 -->
