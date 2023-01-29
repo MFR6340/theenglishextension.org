@@ -9,7 +9,7 @@
 
 <img src="https://imgur.com/0oemAkn.png" width="25%" />
 
-This amazing bird flew 144,840km in his migration from Tierra del Fuego to the Canadian Arctic.  And he did it again and again, back and forth for 20 years, making his journey longer than the distance to the moonsummary here. (Llexile 1150L)
+This amazing bird flew 144,840km in his migration from Tierra del Fuego to the Canadian Arctic.  And he did it again and again, back and forth for 20 years, making his journey longer than the distance to the moonsummary here. (Llexile 1150L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 ***Teachers: Lessons plans are available for this unit.  Please contact us to receive a copy.***
 
 <a href="https://www.bookdepository.com/Moonbird-Phillip-Hoose/9780374304683?ref=grid-view&qid=1665929598174&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -19,7 +19,7 @@ This amazing bird flew 144,840km in his migration from Tierra del Fuego to the C
 
 <img src="https://imgur.com/bncKSt9.png" width="25%" />
 
-. (exile 1050L)
+ (Lexile 1050L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Follow-Those-Zebras-Sandra-Markle/9781541538375" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1055579035" rel="nofollow">Buy on Orell Füssli</a>
@@ -73,7 +73,7 @@ The Swiss Museum of Transport also has an IMAX Theatre.  Currently they are show
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTgzMDM5NTUsLTEwMjcyMDYyNzksLT
-E4Nzg5NjE5ODUsODU4MDUwNjc5LC0zMTI2NDk3MjMsMTk5OTk4
-NzIzMiwxODA2OTA5MDA2XX0=
+eyJoaXN0b3J5IjpbMTEzMjU2MTU5MywtMTM5ODMwMzk1NSwtMT
+AyNzIwNjI3OSwtMTg3ODk2MTk4NSw4NTgwNTA2NzksLTMxMjY0
+OTcyMywxOTk5OTg3MjMyLDE4MDY5MDkwMDZdfQ==
 -->
