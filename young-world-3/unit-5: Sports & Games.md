@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/HtiLUsi.png" width="25%" />
 
-This is a very funny, quick and easy read. It's about Daisy who has a habit of getting into trouble. She isn't very sporty but wants to win a race at her school sports day. She tries to train really hard but runs into trouble along the way, everyone else in her class wants to win too so it won't be easy for Daisy! 
+This is a very funny, quick and easy read. It's about Daisy who has a habit of getting into trouble. She isn't very sporty but wants to win a race at her school sports day. She tries to train really hard but runs into trouble along the way, everyone else in her class wants to win too so it won't be easy for Daisy! (Lexile 960L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
  
 <a href="https://www.bookdepository.com/Daisy-Trouble-with-Sports-Day-Kes-Gray/9781782959700?ref=grid-view&qid=1674321575322&sr=1-15" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056801675" rel="nofollow">Buy on Orell Füssli</a>
@@ -31,7 +31,7 @@ Jesse Owens is the most famous athlete in Track and Field history despite many o
 <a href="https://www.bookdepository.com/DK-Life-Stories-Jesse-Owens-James-Buckley-Jr/9780241413845?ref=grid-view&qid=1674463840502&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1057224613?sq=DK%20Life%20Stories%20Jesse%20Owens:%20Amazing%20People%20Who%20Have%20Shaped%20Our%20World&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
 
-### Inspirational Lives: Mo Farah by Simon Hart
+### Inspirational Lives: Mo Farah, by Simon Hart
 
 <img src="https://i.imgur.com/81Ous6G.png" width="25%" />
 
@@ -126,11 +126,10 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1Njc1MjM5Miw5NjI3NjM5MDMsLTI5NT
-U2MjgwMyw1OTE5MTUyNywtMTAwNjU0Mjk0NSw0NTgwNTE2ODAs
-LTE3NTA5NzQxNDIsMTc0NzE3MTE1MSwyMDkyMDcwNjEzLC04Mj
-YyNjk4NzUsLTQ3MDcxNzE2NCw5ODUzODU5OCwtMTIwNTE5MzQy
-NSwtMTI5NzYxMjY3OCwtMTYwOTQ5OTE1NCwtOTU4NjMwMjE1LC
-0xNTUzODk2MzQzLC0xNDA2OTY1ODk1LC03MTY4OTc5MjNdfQ==
-
+eyJoaXN0b3J5IjpbLTg4Mzk1NjkwLDk2Mjc2MzkwMywtMjk1NT
+YyODAzLDU5MTkxNTI3LC0xMDA2NTQyOTQ1LDQ1ODA1MTY4MCwt
+MTc1MDk3NDE0MiwxNzQ3MTcxMTUxLDIwOTIwNzA2MTMsLTgyNj
+I2OTg3NSwtNDcwNzE3MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1
+LC0xMjk3NjEyNjc4LC0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLT
+E1NTM4OTYzNDMsLTE0MDY5NjU4OTUsLTcxNjg5NzkyM119
 -->
