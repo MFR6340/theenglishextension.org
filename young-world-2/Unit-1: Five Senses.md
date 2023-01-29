@@ -40,7 +40,7 @@ Quirky Ms. Frizzle takes her class on a trip on the Magic School Bus through an 
 
 <img src="https://imgur.com/NJxodvq.png" width="25%" />
 
-The story of the life of Louis Braille and how he lost his eye sight and how his frustration at being unable to read ultimately motivated him to develop a raised alphabet. Suitable for reluctant readers. (Lexile 590L)
+The story of the life of Louis Braille and how he lost his eye sight and how his frustration at being unable to read ultimately motivated him to develop a raised alphabet. Suitable for reluctant readers. (Lexile 590L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Six-Dots-Story-Young-Louis-Braille-Jen-Bryant/9780449813379?ref=grid-view&qid=1665672398249&sr=1-1#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039441269" rel="nofollow">Buy on Orell Füssli</a>
@@ -49,7 +49,7 @@ The story of the life of Louis Braille and how he lost his eye sight and how his
 
 <img src="https://i.imgur.com/vCoeds5.png" width="25%" />
 
-Explains why and how Louis Braille invented the system of printing for the blind. Easy chapter book. 80 pages. (Lexile 580L)
+Explains why and how Louis Braille invented the system of printing for the blind. Easy chapter book. 80 pages. (Lexile 580L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -58,7 +58,7 @@ Explains why and how Louis Braille invented the system of printing for the blind
 
 <img src="https://i.imgur.com/nHMN3td.png" width="25%" />
 
-A biography on the life of Louis Braille, how he became blind, and his incredible development of the alphabet.  Appropriate for grades 5-7. (Lexile 1000L)
+A biography on the life of Louis Braille, how he became blind, and his incredible development of the alphabet.  Appropriate for grades 5-7. (Lexile 1000L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Louis-Braille-Boy-Who-Invented-Books-for-Blind-Margaret-Davidson/9780590443500" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartike/A1003330338?sq=Louis%20Braille:%20The%20Boy%20Who%20Invented%20Books%20for%20the%20Blind&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -67,7 +67,7 @@ A biography on the life of Louis Braille, how he became blind, and his incredibl
 ### Song for a Whale, by Lynne Kelly
 <img src="https://i.imgur.com/c4bX7Yh.png" width="25%" />
 
-A deaf girl named Iris learns about a whale who cannot communicate with other whales and develops a way to try to help it. .(Lexile 800L)
+A deaf girl named Iris learns about a whale who cannot communicate with other whales and develops a way to try to help it. .(Lexile 800L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Song-for-Whale-Lynne-Kelly/9781848126916?ref=grid-view&qid=1673873979579&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1058950540?sq=Song%20for%20a%20Whale&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -77,7 +77,7 @@ A deaf girl named Iris learns about a whale who cannot communicate with other wh
 
 <img src="https://imgur.com/kZ3HTR1.png" width="25%" />
 
-A very little dog with an awful ear-splitting bark has ambitions to be a guard dog and is ridiculed by his pedigree peers. Ultimately, he gets his comeuppance thanks to the poor hearing of the man who adopts him. (Lexile NC810L)
+A very little dog with an awful ear-splitting bark has ambitions to be a guard dog and is ridiculed by his pedigree peers. Ultimately, he gets his comeuppance thanks to the poor hearing of the man who adopts him. (Lexile NC810L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Guard-Dog-Dick-King-Smith/9780552554336?ref=grid-view&qid=1665840171795&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002714171" rel="nofollow">Buy on Orell Füssli</a>
@@ -101,6 +101,6 @@ Donate an audio book or make an appointment to visit the SBS Schweizerische Bibl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjIwOTg5NCw4OTkzMDE5NTgsMjA0Mj
-M0NDM2MiwtNzU5Njg4NjUwXX0=
+eyJoaXN0b3J5IjpbLTE0MzQ4NTE3NTcsODk5MzAxOTU4LDIwND
+IzNDQzNjIsLTc1OTY4ODY1MF19
 -->
