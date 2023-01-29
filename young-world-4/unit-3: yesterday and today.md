@@ -63,7 +63,7 @@ It's one of the shortest books to win the Newbery Medal, so it won't take long t
 
 <img src="https://imgur.com/G2oI2PD.png" width="25%" />
 
-
+During the height of World War I, a girl takes on the job of delivering telegrams to help her widowed mother.  
 
 <a href="https://www.bookdepository.com/The-Telegram-Philippa-Werry/9780473462826" rel="nofollow"> Buy on BookDepository</a>
  
@@ -95,9 +95,9 @@ It's one of the shortest books to win the Newbery Medal, so it won't take long t
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDUxODU2OCwxNTg2ODkyMzg1LC02Mz
-IyMDA0NjgsMTEyMzgyNjc1OCwxMjczMTgyNzc4LC0xODA0MTMw
-NTQsLTIxMjExNDcyOTksLTEzODMxNTUxMDUsLTEwMTk5NDE3OT
-EsNTU4Mjk4MzAsLTU2NjE1ODUxMCw4MjI5MjgyOTcsNzgwMzgz
-MF19
+eyJoaXN0b3J5IjpbLTM2ODA3Mzk5NCwtODYwNTE4NTY4LDE1OD
+Y4OTIzODUsLTYzMjIwMDQ2OCwxMTIzODI2NzU4LDEyNzMxODI3
+NzgsLTE4MDQxMzA1NCwtMjEyMTE0NzI5OSwtMTM4MzE1NTEwNS
+wtMTAxOTk0MTc5MSw1NTgyOTgzMCwtNTY2MTU4NTEwLDgyMjky
+ODI5Nyw3ODAzODMwXX0=
 -->
