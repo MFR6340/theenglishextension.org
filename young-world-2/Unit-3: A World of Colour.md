@@ -44,7 +44,7 @@ Arthur is assigned 120 hours of community service to help a “Junk Man,” Mr. 
 
 <img src="https://i.imgur.com/4ld6dtz.png" width="25%" />
 
-summary here. (no Lexile level available)
+This book is shows how it would to be blind. It is entirely black, with raised drawings, and written both in text and braille (though not deep enough to be easily read by a blind person). It uses other senses to explain how to perceive colors. “Red is sour like unripe strawberries and as sweet as watermelon.” It’s a great starting point to talk about color. (Lexile 520L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 
 <a href="https://www.bookdepository.com/Black-Book-Colours-Menena-Cottin/9781406322187?ref=grid-view&qid=1673876271828&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -89,6 +89,6 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTcxMzU1OCwyMDIxOTE1NjcsLTQ3OT
+eyJoaXN0b3J5IjpbLTE1MTI1MDUwMSwyMDIxOTE1NjcsLTQ3OT
 g5NzQ0XX0=
 -->
