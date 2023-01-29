@@ -54,7 +54,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="https://www.bookdepository.com/Writing-Radar-Jack-Gantos/9780374304560?ref=grid-view&qid=1674998340487&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051619065" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Odd Jobs, by Nancy Rica Schiff
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
@@ -90,7 +90,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODMzNDEwMSwtMTExODM0Mzc1NSwxOT
-YxMTc4OTMsLTE2MjY5Mjk1NDMsLTY0ODM4ODQyMiwyMDgwNzM0
-NzA2LDk2MTIxNDkzM119
+eyJoaXN0b3J5IjpbLTE2ODAxMDMyMTIsLTExMTgzNDM3NTUsMT
+k2MTE3ODkzLC0xNjI2OTI5NTQzLC02NDgzODg0MjIsMjA4MDcz
+NDcwNiw5NjEyMTQ5MzNdfQ==
 -->
