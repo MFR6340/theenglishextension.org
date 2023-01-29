@@ -47,12 +47,12 @@ summary here.  (Lexile 1170L) <sup>[what is this?](/resources/Lexile%20measures)
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051969164" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Writing Radar, by Jack Gantos
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/texpFez.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Writing-Radar-Jack-Gantos/9780374304560?ref=grid-view&qid=1674998340487&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051619065" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 <img src="imgurlinkhere.png" width="25%" />
@@ -90,7 +90,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyMDQ3OTIsLTExMTgzNDM3NTUsMTk2MT
-E3ODkzLC0xNjI2OTI5NTQzLC02NDgzODg0MjIsMjA4MDczNDcw
-Niw5NjEyMTQ5MzNdfQ==
+eyJoaXN0b3J5IjpbMjA0NTc1NjgyMywtMTExODM0Mzc1NSwxOT
+YxMTc4OTMsLTE2MjY5Mjk1NDMsLTY0ODM4ODQyMiwyMDgwNzM0
+NzA2LDk2MTIxNDkzM119
 -->
