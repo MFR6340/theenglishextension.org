@@ -36,7 +36,7 @@ From the development of the steam engine, to the building of steamships, to desi
 
 <img src="https://i.imgur.com/61EpL2l.png" width="25%" />
 
-summary here. (Lexile 570L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+In this book, which is actually six volumes combined into one, beloved author Enid Blyton takes Mike, Belinda and Ann with their parents and Granny on a series of summer adventures in a caravan, a houseboat and an ocean liner.. (Lexile 570L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Family-Stories-Series-Are-We-There-Yet-Enid-Blyton/9781444959529#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058727152" rel="nofollow">Buy on Orell Füssli</a>
@@ -52,7 +52,8 @@ summary here. (Lexile )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTE1NDM1NCwtMjAwNzE1MTQxNCwtMT
-k2MDYxMDQ4NSwtMTE4MTk3Mzk1MywtMTI4NzAxMjU5OSwtNTIx
-MTcwNTg3LDE2MTYwNzIwMzcsLTUyMTE3MDU4N119
+eyJoaXN0b3J5IjpbMTM2NDQwNDY5NywxMTgxMTU0MzU0LC0yMD
+A3MTUxNDE0LC0xOTYwNjEwNDg1LC0xMTgxOTczOTUzLC0xMjg3
+MDEyNTk5LC01MjExNzA1ODcsMTYxNjA3MjAzNywtNTIxMTcwNT
+g3XX0=
 -->
