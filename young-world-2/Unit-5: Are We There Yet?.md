@@ -45,14 +45,14 @@ In this book, which is actually six volumes combined into one, beloved author En
 
 <img src="https://i.imgur.com/Cgf8KU8.png" width="25%" />
 
-There seem to be thousands of books written about the Titantic. It’s such an appealing story that continues to the imagination of so many. This book by Scholastic is only one of the many that we can recommend. The story describes the fictional characters of Jimmy, a twelve year old from Ireland and Omar a boy from Lebanon, and describes their adventures around ship with a gripping account of the event. (Lexile )
+There seem to be thousands of books written about the Titantic. It’s such an appealing story that continues to the imagination of so many. This book by Scholastic is only one of the many that we can recommend. The story describes the fictional characters of Jimmy, a twelve year old from Ireland and Omar a boy from Lebanon, and describes their adventures around ship with a gripping account of the event. 
 
 <a href="https://www.bookdepository.com/Titanic-Stephen-Davies/9781407178752?ref=grid-view&qid=1673883552652&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1041054587" rel="nofollow">Buy on Orell Füssli</a>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzY1NjQ1NTAsMTM2NDQwNDY5NywxMT
+eyJoaXN0b3J5IjpbLTE2OTI3MDkzMTQsMTM2NDQwNDY5NywxMT
 gxMTU0MzU0LC0yMDA3MTUxNDE0LC0xOTYwNjEwNDg1LC0xMTgx
 OTczOTUzLC0xMjg3MDEyNTk5LC01MjExNzA1ODcsMTYxNjA3Mj
 AzNywtNTIxMTcwNTg3XX0=
