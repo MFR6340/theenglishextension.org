@@ -14,14 +14,14 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1042907997" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-### Title here, by author here
+### Dangerous Days on the Victorian Railways, by Terry Deary
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/CsVzp2P.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Dangerous-Days-on-Victorian-Railways-Terry-Deary/9781780226361?ref=grid-view&qid=1675000091037&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034790323" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 ### Title here, by author here
@@ -123,7 +123,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MzczMTY0LC00NjQzNTcwMDAsLTIwMz
-A5MTYxOTIsMTM1MzYzODIxLC0xMzc5NjcyNzg5LDE5MjQ4Mjcy
-NzQsLTg1NTkwNzIzLC0xMTY4NDA1NDI5XX0=
+eyJoaXN0b3J5IjpbMTEyNDc1MDkzMCwtNDY0MzU3MDAwLC0yMD
+MwOTE2MTkyLDEzNTM2MzgyMSwtMTM3OTY3Mjc4OSwxOTI0ODI3
+Mjc0LC04NTU5MDcyMywtMTE2ODQwNTQyOV19
 -->
