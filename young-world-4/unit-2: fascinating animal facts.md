@@ -49,9 +49,10 @@ summary here.
 ### Book of Animal Poetry, by J. Lewis
 <img src="https://i.imgur.com/t5qgfVv.png  " width="25%" />
 
-In this anthology, stunning animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors.  192 pages.   (No lexile level)
+In this anthology, stunning animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors.  192 pages.   (No lexile measure)
 
 <a href="https://www.bookdepository.com/National-Geographic-Kids-Book-Animal-Poetry-J-Patrick-Lewis/9781426310096?ref=grid-view&qid=1674&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
+
 <a href="https://www.orellfuessli.ch/shop/h>
 
 ## Supplemental Activities
@@ -73,7 +74,7 @@ The Swiss Museum of Transport also has an IMAX Theatre.  Currently they are show
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjU2MTU5MywtMTM5ODMwMzk1NSwtMT
+eyJoaXN0b3J5IjpbMTk5MjEyMzg1MywtMTM5ODMwMzk1NSwtMT
 AyNzIwNjI3OSwtMTg3ODk2MTk4NSw4NTgwNTA2NzksLTMxMjY0
 OTcyMywxOTk5OTg3MjMyLDE4MDY5MDkwMDZdfQ==
 -->
