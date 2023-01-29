@@ -20,7 +20,7 @@ summary here.  (Lexile level       )
 <a href="https://www.bookdepository.com/Lucy-Maud-Me-Mary-Frances-Coady/9780888783981?ref=grid-view&qid=1674500880491&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004813404" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Runaway rodents, by Dogmara Bociek
+### Runaway Rodents, by Dogmara Bociek
 
 <img src="https://imgur.com/SP7Ahul.png" width="25%" />
 
@@ -41,13 +41,13 @@ summary here.  (Lexile level       )
 
 <img src="https://imgur.com/3cuW4Cp.png" width="25%" />
 
-summary here.  (Lexile level       )
+summary here.  (Lexile NC1190L)  
 
 <a href="https://www.amazon.com/-/de/dp/0516220349/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1674926987&sr=8-1" rel="nofollow"> Buy on Amazon</a>  Only available used
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDI1MTU5NSwtMjE0NjAxNDY5Nyw3Mj
-I0NjIxNzMsLTEyNjM4NjUxMjIsLTc1NTk4NzM5MCwtMTIyNzEz
-NTk2NCwtNzk0MTYwNiwtMzIyOTc0MjYxLC0xMjU3ODAwOTYzLC
-01OTE5NzI1ODQsMTA0MzY2NDA5Nl19
+eyJoaXN0b3J5IjpbMTkwMzIyMjU4MywxNDE0MjUxNTk1LC0yMT
+Q2MDE0Njk3LDcyMjQ2MjE3MywtMTI2Mzg2NTEyMiwtNzU1OTg3
+MzkwLC0xMjI3MTM1OTY0LC03OTQxNjA2LC0zMjI5NzQyNjEsLT
+EyNTc4MDA5NjMsLTU5MTk3MjU4NCwxMDQzNjY0MDk2XX0=
 -->
