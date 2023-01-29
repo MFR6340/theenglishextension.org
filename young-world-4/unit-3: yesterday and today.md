@@ -46,7 +46,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 <img src="https://imgur.com/z9a1nk1.png" width="25%" />
 
-Newbery Award Winner, this book is about a boy named Robin who is (Lexile 920L) 
+Newbery Award Winner, this story about a boy named Robin is set in the 14th Century.  Due to plague and warfare, he is separis about a boy named Robin who is left to (Lexile 920L) 
 <a href="https://www.bookdepository.com/Door-Wall-Marguerite-de-Angeli/9780440402831?ref=grid-view&qid=166593094936774489174439&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006455515" rel="nofollow">Buy on  Orell Füssli</a>
 
@@ -95,8 +95,8 @@ Newbery Award Winner, this book is about a boy named Robin who is (Lexile 920L)
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1Mzk3MTUwLDExMjM4MjY3NTgsMTI3Mz
-E4Mjc3OCwtMTgwNDEzMDU0LC0yMTIxMTQ3Mjk5LC0xMzgzMTU1
-MTA1LC0xMDE5OTQxNzkxLDU1ODI5ODMwLC01NjYxNTg1MTAsOD
-IyOTI4Mjk3LDc4MDM4MzBdfQ==
+eyJoaXN0b3J5IjpbLTE5Nzk2MTI3NjYsMTEyMzgyNjc1OCwxMj
+czMTgyNzc4LC0xODA0MTMwNTQsLTIxMjExNDcyOTksLTEzODMx
+NTUxMDUsLTEwMTk5NDE3OTEsNTU4Mjk4MzAsLTU2NjE1ODUxMC
+w4MjI5MjgyOTcsNzgwMzgzMF19
 -->
