@@ -7,14 +7,14 @@
 
 
 ### Hidden Figures, by Margot Lee Shetterly
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/bbQEOqQ.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Hidden-Figures-Margot-Lee-Shetterly/9780008201326?ref=grid-view&qid=1674997402860&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039658063" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Why Humans Work: How Jobs Shape Our Lives and Our World, by Monique Polak
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
@@ -90,7 +90,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM0NDU3MiwtMTExODM0Mzc1NSwxOT
-YxMTc4OTMsLTE2MjY5Mjk1NDMsLTY0ODM4ODQyMiwyMDgwNzM0
-NzA2LDk2MTIxNDkzM119
+eyJoaXN0b3J5IjpbLTE4MjI3NTgwMTQsLTExMTgzNDM3NTUsMT
+k2MTE3ODkzLC0xNjI2OTI5NTQzLC02NDgzODg0MjIsMjA4MDcz
+NDcwNiw5NjEyMTQ5MzNdfQ==
 -->
