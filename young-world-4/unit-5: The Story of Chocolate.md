@@ -48,14 +48,15 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1010873165" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Supplemental Activities
+While at the [Swiss Chocolate Adventure](https://www.verkehrshaus.ch/en/visit/swiss-chocolate-adventure.html)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5NDY1NTMxLC0xMjAwNDEyNjksNzExNz
-Q1MzY2LDExNzAxMzgzMDUsLTg2MTQ0NjEsLTU1NzI2NDM4Mywt
-MTk0NDY1ODA0Nyw2Nzc3Mzc2MDgsNjY4NjA5NDc1LDExOTU5OD
-YyOSwtMTQ3MTQzMDAxLC0zNzY5ODE4MzEsLTE1NDQ1NDcxMDcs
-LTE1NzQ1OTkxMTIsLTU5MjY2OTQ1Niw4OTE3ODEzMzAsODczNT
-E2MjY0LDYxNzAzNzgxOCwtNjAyODAyNDQ3LDk4MzEwNDMyMV19
-
+eyJoaXN0b3J5IjpbLTE0MDAyMzkxODEsLTEyMDA0MTI2OSw3MT
+E3NDUzNjYsMTE3MDEzODMwNSwtODYxNDQ2MSwtNTU3MjY0Mzgz
+LC0xOTQ0NjU4MDQ3LDY3NzczNzYwOCw2Njg2MDk0NzUsMTE5NT
+k4NjI5LC0xNDcxNDMwMDEsLTM3Njk4MTgzMSwtMTU0NDU0NzEw
+NywtMTU3NDU5OTExMiwtNTkyNjY5NDU2LDg5MTc4MTMzMCw4Nz
+M1MTYyNjQsNjE3MDM3ODE4LC02MDI4MDI0NDcsOTgzMTA0MzIx
+XX0=
 -->
