@@ -52,11 +52,11 @@ summary here.
 In this anthology, stunning animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors.  192 pages.   (No lexile level)
 
 <a href="https://www.bookdepository.com/National-Geographic-Kids-Book-Animal-Poetry-J-Patrick-Lewis/9781426310096?ref=grid-view&qid=1674&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/h>
 
 ## Supplemental Activities
 
-The Swiss Museum of Transport also has an IMAX Theatre.  Currently they are showing a film called [Turtle Journey](https://www.verkehrshaus.ch/en/visit/filmtheatre/filme/dokumentationen/detail/shows/show/turtle-journey-3d.html).  Shown in 3D. Nice for a rainy day.
+The Swiss Museum of Transport also has an IMAX Theatre.  Currently they are showing a film called [Turtle Journey ](https://www.verkehrshaus.ch/en/visit/filmtheatre/filme/dokumentationen/detail/shows/show/turtle-journey-3d.html).  Shown in 3D. Nice for a rainy day.
 
 
 
@@ -73,7 +73,7 @@ The Swiss Museum of Transport also has an IMAX Theatre.  Currently they are show
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjcyMDYyNzksLTE4Nzg5NjE5ODUsOD
-U4MDUwNjc5LC0zMTI2NDk3MjMsMTk5OTk4NzIzMiwxODA2OTA5
-MDA2XX0=
+eyJoaXN0b3J5IjpbLTEzOTgzMDM5NTUsLTEwMjcyMDYyNzksLT
+E4Nzg5NjE5ODUsODU4MDUwNjc5LC0zMTI2NDk3MjMsMTk5OTk4
+NzIzMiwxODA2OTA5MDA2XX0=
 -->
