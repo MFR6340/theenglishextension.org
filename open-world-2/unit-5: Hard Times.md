@@ -35,7 +35,7 @@ summary here. (1060L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 ### Scenes of London Life, by Charles Dickens
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/4rASVmM.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
@@ -43,11 +43,11 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1045168410" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-### Title here, by author here
+### The Wolves of Willoughby Chase, by Joan Aiken
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+summary here. (Lexile 1020L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -122,8 +122,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1MDcyMDUzLDE0MTc2MTQ2NTIsLTQ2ND
-M1NzAwMCwtMjAzMDkxNjE5MiwxMzUzNjM4MjEsLTEzNzk2NzI3
-ODksMTkyNDgyNzI3NCwtODU1OTA3MjMsLTExNjg0MDU0MjldfQ
-==
+eyJoaXN0b3J5IjpbLTkyNzgxOTYwOCwxNDE3NjE0NjUyLC00Nj
+QzNTcwMDAsLTIwMzA5MTYxOTIsMTM1MzYzODIxLC0xMzc5Njcy
+Nzg5LDE5MjQ4MjcyNzQsLTg1NTkwNzIzLC0xMTY4NDA1NDI5XX
+0=
 -->
