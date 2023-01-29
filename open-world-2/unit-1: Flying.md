@@ -72,13 +72,13 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="https://www.bookdepository.com/Code-Name-Verity-Elizabeth-Wein/9781423152880?ref=grid-view&qid=1674994734866&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062213649" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Airman, by Eoin Colfer
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/9oecQ5I.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Airman-Eoin-Colfer/9780141322216?ref=grid-view&qid=1674994899322&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Title here, by author here
 
@@ -113,7 +113,7 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjczOTYyNCwtMTY0NjU2OTEwMywtMT
+eyJoaXN0b3J5IjpbLTUwMjQ5NzA3MCwtMTY0NjU2OTEwMywtMT
 IzNDA5NzYxOCwzMjE1NDIzNDMsMTQwMjQ5MjY0LC0yMDg4MjEy
 MzUzLC03OTEwMzQwNzMsMTk1NTIxNTczOCwtMTAyMjgxNDY0NC
 wyMDk4OTEzMzYsLTE0MjUwMzU4NjJdfQ==
