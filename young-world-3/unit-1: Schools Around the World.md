@@ -28,7 +28,7 @@ This 2016 updated version of a DK classic shows children from Botswana to Turkey
 ### The Boy Who Harnessed the Wind, by William Kampwamba
 <img src="https://imgur.com/XF93Hnq.png" width="25%" />
 
-This inspirational true story is about a boy from Africa who uses items around him to build a pump to get water to grow crops. This edition has been retold for a younger audience.  The story has also been made into a film which can be seen on Netflix. (860L)summary here.
+This inspirational true story is about a boy from Africa who uses items around him to build a pump to get water to grow crops. This edition has been retold for a younger audience.  The story has also been made into a film which can be seen on Netflix. (860L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Boy-Who-Harnessed-Wind-William-Kamkwamba/9780147510426?ref=grid-view&qid=1665854100400&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -37,7 +37,7 @@ This inspirational true story is about a boy from Africa who uses items around h
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
-  (Lexile )  
+Called Harry Potter and the Sorcer's Stone  (Lexile )  
 
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
@@ -55,7 +55,7 @@ Summary here.
 <img src="https://i.imgur.com/U0OkMM1.png" width="25%" />
 
 Summary here.
-( Lexile 750L)
+( Lexile 750L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 <a href="https://www.bookdepository.com/Linked-Gordon-Korman/9781338629132?ref=grid-view&qid=1674046322823&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1065204796
 " rel="nofollow">Buy on Orell Füssli</a>
@@ -64,7 +64,7 @@ Summary here.
 <img src="https://i.imgur.com/UfgxKWA.png" width="25%" />
 
 Summary here.
-(Lexile AD610L)
+(Lexile AD610L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 <a href="https://www.bookdepository.com/If-I-Built-School-Chris-Van-Dusen/9780525552918?ref=grid-view&qid=1674046624972&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052959597
 " rel="nofollow">Buy on Orell Füssli</a>
@@ -86,7 +86,7 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5MTI3NTU1LC05ODYwODc1MjUsLTk0Nz
+eyJoaXN0b3J5IjpbODExNjg3MjUyLC05ODYwODc1MjUsLTk0Nz
 M4MTI5NSw5MDMyMjMyNjgsMjgzMTc4NTk5LDcwODUyNTU4Nywx
 NjMzNTEzMjkxLC0xNjE2NDYzNTgwLDUxNzA1NzYwOCwxMTg1Nj
 I1NzI4LC0xNDI1NjY4MDMyLDExMzQxOTA3OCwxNTczMDI2MjI1
