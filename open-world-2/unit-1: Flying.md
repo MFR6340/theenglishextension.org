@@ -56,48 +56,57 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 ### The Statistical Probability of Love at First Sight, by Jennifer E. Smith
 
-<img src="https://imgur.com/rAGLCcH.png" width="25%" />
+<img src="https://imgur.com/rAGLCcHimgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Statistical-Probability-Love-at-First-Sight-Jennifer-E-Smith/9780755384020?ref=grid-view&qid=1674928665185&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018775330" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Code Name Verity, by Elizabeth Wein
 
-<img src="https://imgur.com/3I4qFfq.png" width="25%" />
+<img src="https://imgur.com/3I4qFfqTitle here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="https://www.bookdepository.com/Code-Name-Verity-Elizabeth-Wein/9781423152880?ref=grid-view&qid=1674994734866&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062213649" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Code-Name-Verity-Elizabeth-Wein/9781423152880?ref=grid-view&qid=1674994734866&sr=1-2 link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1062213649 link here" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Airman, by Eoin Colfer
+### Airman, by Eoin ColfTitle here, by author here
 
-<img src="https://imgur.com/9oecQ5I.png" width="25%" />
+<img src="https://imgur.com/9oecQ5Iimgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Airman-Eoin-Colfer/9780141322216?ref=grid-view&qid=1674994899322&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Grandpa’s Great Escape, by David Walliams
-<img src="https://imgur.com/OYpHfi9.png" width="25%" />
+<img src="https://imgur.com/OYpHfi9 link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="https://www.bookdepository.com/Grandpas-Great-Escape-David-Walliams/9780008183424?ref=grid-view&qid=1674995059873&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035662060" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Grandpas-Great-Escape-David-Walliams/9780008183424?ref=grid-view&qid=1674995059873&sr=1-1 link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1035662060 link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Horrible Histories: Up in the Air, by Terry Deary
 
-<img src="https://imgur.com/kjW7pCO.png" width="25%" />
+<img src="https://imgur.com/kjW7pCOTitle here, by author here
+
+<img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="https://www.bookdepository.com/Up-Air-Terry-Deary/9780702305856?ref=grid-view&qid=1674995144420&sr=1-5" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058835634" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Up-Air-Terry-Deary/9780702305856?ref=grid-view&qid=1674995144420&sr=1-5 link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1058835634 link here" rel="nofollow">Buy on Orell Füssli</a> 
 
-### The Avion my Uncle Flew, by Crus Fisher
+### The Avion my Uncle Flew, by Crus Fisitle here, by author here
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -112,8 +121,8 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMzM5NzM0NywtMTY0NjU2OTEwMywtMT
-IzNDA5NzYxOCwzMjE1NDIzNDMsMTQwMjQ5MjY0LC0yMDg4MjEy
-MzUzLC03OTEwMzQwNzMsMTk1NTIxNTczOCwtMTAyMjgxNDY0NC
-wyMDk4OTEzMzYsLTE0MjUwMzU4NjJdfQ==
+eyJoaXN0b3J5IjpbLTYyMzQ0NzE1OSwxMTIzMzk3MzQ3LC0xNj
+Q2NTY5MTAzLC0xMjM0MDk3NjE4LDMyMTU0MjM0MywxNDAyNDky
+NjQsLTIwODgyMTIzNTMsLTc5MTAzNDA3MywxOTU1MjE1NzM4LC
+0xMDIyODE0NjQ0LDIwOTg5MTMzNiwtMTQyNTAzNTg2Ml19
 -->
