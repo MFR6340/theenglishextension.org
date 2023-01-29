@@ -46,7 +46,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 <img src="https://imgur.com/z9a1nk1.png" width="25%" />
 
-Newbery Award Winner, this story about a boy named Robin is set in the 14th Century.  Due to plague and warfare, he is separated from his parents and then develops an illness where he loses the use of his legs.  A kind monk teaches him determination and compassiois about a boy named Robin who is left to (Lexile 920L) 
+Newbery Award Winner, this story about a boy named Robin is set in the 14th Century.  Due to plague and warfare, he is separated from his parents and then develops an illness where he loses the use of his legs.  A kind monk teaches him determination and compassion.  (Lexile 920L) 
 <a href="https://www.bookdepository.com/Door-Wall-Marguerite-de-Angeli/9780440402831?ref=grid-view&qid=166593094936774489174439&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006455515" rel="nofollow">Buy on  Orell Füssli</a>
 
@@ -54,7 +54,7 @@ Newbery Award Winner, this story about a boy named Robin is set in the 14th Cent
 
 <img src="https://imgur.com/53YvdAS.png" width="25%" />
 
-
+(Lexile 660L)
 
 <a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=16744&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfueli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
@@ -95,8 +95,8 @@ Newbery Award Winner, this story about a boy named Robin is set in the 14th Cent
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1MjgwOSwxMTIzODI2NzU4LDEyNzMxOD
-I3NzgsLTE4MDQxMzA1NCwtMjEyMTE0NzI5OSwtMTM4MzE1NTEw
-NSwtMTAxOTk0MTc5MSw1NTgyOTgzMCwtNTY2MTU4NTEwLDgyMj
-kyODI5Nyw3ODAzODMwXX0=
+eyJoaXN0b3J5IjpbLTYzMjIwMDQ2OCwxMTIzODI2NzU4LDEyNz
+MxODI3NzgsLTE4MDQxMzA1NCwtMjEyMTE0NzI5OSwtMTM4MzE1
+NTEwNSwtMTAxOTk0MTc5MSw1NTgyOTgzMCwtNTY2MTU4NTEwLD
+gyMjkyODI5Nyw3ODAzODMwXX0=
 -->
