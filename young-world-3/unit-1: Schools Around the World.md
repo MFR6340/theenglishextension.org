@@ -10,7 +10,7 @@
 
 <img src="https://imgur.com/3sxCIqX.png" width="25%" />
 
-Children across the globe go to school, but they don't all look the same.  See schools that are in caves, on a train platform and other creative locations in countries around the world.  Originally published in 2011, note that an updated edition was released in 2022. (Lexile 950L)
+Children across the globe go to school, but they don't all look the same.  See schools that are in caves, on a train platform and other creative locations in countries around the world.  Originally published in 2011, note that an updated edition was released in 2022. (Lexile 950L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Off-to-Class/9781926818863https://www.bookdepository.com/Off-Class-Updated-Edition-Susan-Hughes/9781771475792?ref=grid-view&qid=1664201519246&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063548862
@@ -20,7 +20,7 @@ Children across the globe go to school, but they don't all look the same.  See s
 
 <img src="https://imgur.com/CsOfxN8.png" width="25%" />
 
-This 2016 updated version of a DK classic shows children from Botswana to Turkey and from Australia to East Timor showing the subjects taught and the daily schedule of the children who go to school there. (Lexile IG920L)
+This 2016 updated version of a DK classic shows children from Botswana to Turkey and from Australia to East Timor showing the subjects taught and the daily schedule of the children who go to school there. (Lexile IG920L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Children-Just-Like-Me-School-Like-Mine-Dk/9781465451002?ref=grid-view&qid=1664202276483&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038917790" rel="nofollow">Buy on Orell Füssli</a>
@@ -86,8 +86,9 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjA4NzUyNSwtOTQ3MzgxMjk1LDkwMz
-IyMzI2OCwyODMxNzg1OTksNzA4NTI1NTg3LDE2MzM1MTMyOTEs
-LTE2MTY0NjM1ODAsNTE3MDU3NjA4LDExODU2MjU3MjgsLTE0Mj
-U2NjgwMzIsMTEzNDE5MDc4LDE1NzMwMjYyMjVdfQ==
+eyJoaXN0b3J5IjpbNzQ5MTI3NTU1LC05ODYwODc1MjUsLTk0Nz
+M4MTI5NSw5MDMyMjMyNjgsMjgzMTc4NTk5LDcwODUyNTU4Nywx
+NjMzNTEzMjkxLC0xNjE2NDYzNTgwLDUxNzA1NzYwOCwxMTg1Nj
+I1NzI4LC0xNDI1NjY4MDMyLDExMzQxOTA3OCwxNTczMDI2MjI1
+XX0=
 -->
