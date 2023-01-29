@@ -16,7 +16,7 @@ summary here.  (Lexile Level     )
 
 <img src="https://imgur.com/9CrMx4t.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+summary here.  (Lexile Level     )
 
 <a href="https://www.bookdepository.com/Born-Fly-Ryan-Campbell/9781734382105?ref=grid-view&qid=1674927916688&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -84,9 +84,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <img src="https://imgur.com/OYpHfi9 link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
-
-<img src="imgurlinkhere.png" width="25%" />
+### 
+.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
@@ -102,7 +101,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="https://www.bookdepository.com/Up-Air-Terry-Deary/9780702305856?ref=grid-view&qid=1674995144420&sr=1-5" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1058835634 link here" rel="nofollow">Buy on Orell Füssli</a> 
 
-### The Avion my Uncle Flew, by Crus Fisitle here, by author here
+### The Avion my Uncle Flew, by Cru
 
 <img src="imgurlinkhereher
 
@@ -119,9 +118,9 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzYwMzIzMSwxODE1MTg0NTAwLC02Mj
-M0NDcxNTksLTE2NDY1NjkxMDMsLTEyMzQwOTc2MTgsMzIxNTQy
-MzQzLDE0MDI0OTI2NCwtMjA4ODIxMjM1MywtNzkxMDM0MDczLD
-E5NTUyMTU3MzgsLTEwMjI4MTQ2NDQsMjA5ODkxMzM2LC0xNDI1
-MDM1ODYyXX0=
+eyJoaXN0b3J5IjpbLTg3NTU3NjA5LDE5OTc2MDMyMzEsMTgxNT
+E4NDUwMCwtNjIzNDQ3MTU5LC0xNjQ2NTY5MTAzLC0xMjM0MDk3
+NjE4LDMyMTU0MjM0MywxNDAyNDkyNjQsLTIwODgyMTIzNTMsLT
+c5MTAzNDA3MywxOTU1MjE1NzM4LC0xMDIyODE0NjQ0LDIwOTg5
+MTMzNiwtMTQyNTAzNTg2Ml19
 -->
