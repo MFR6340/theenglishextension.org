@@ -16,7 +16,7 @@ This is a very funny, quick and easy read. It's about Daisy who has a habit of g
 ### Sports Day: Sam Kerr: Kicking Goals by Sam Kerr
 <img src="https://i.imgur.com/AAXVe1F.png" width="25%" />
 
- Summary here (No Lexile Level available)
+Sam Kerr is brilliant at playing soccer. Her school sports day is coming up and there aren't any soccer events on the schedule. Sam endeavours to get soccer included on sports day and forms a soccer team within her class. Events at home mean that Sam is crazy busy and trouble erupts as other at school try to cause trouble. A fun read written by Sam Kerr, a professional Australian soccer player and  (No Lexile Level available)
  
 <a href="https://www.bookdepository.com/Sports-Day-Sam-Kerr-Kicking-Goals-3-Sam-Kerr/9781761100918?ref=grid-view&qid=1674389793792&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -126,10 +126,10 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyNzYzOTAzLC0yOTU1NjI4MDMsNTkxOT
-E1MjcsLTEwMDY1NDI5NDUsNDU4MDUxNjgwLC0xNzUwOTc0MTQy
-LDE3NDcxNzExNTEsMjA5MjA3MDYxMywtODI2MjY5ODc1LC00Nz
-A3MTcxNjQsOTg1Mzg1OTgsLTEyMDUxOTM0MjUsLTEyOTc2MTI2
-NzgsLTE2MDk0OTkxNTQsLTk1ODYzMDIxNSwtMTU1Mzg5NjM0My
-wtMTQwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
+eyJoaXN0b3J5IjpbMjkyNzQwNTUwLDk2Mjc2MzkwMywtMjk1NT
+YyODAzLDU5MTkxNTI3LC0xMDA2NTQyOTQ1LDQ1ODA1MTY4MCwt
+MTc1MDk3NDE0MiwxNzQ3MTcxMTUxLDIwOTIwNzA2MTMsLTgyNj
+I2OTg3NSwtNDcwNzE3MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1
+LC0xMjk3NjEyNjc4LC0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLT
+E1NTM4OTYzNDMsLTE0MDY5NjU4OTUsLTcxNjg5NzkyM119
 -->
