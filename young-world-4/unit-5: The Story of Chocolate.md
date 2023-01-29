@@ -48,11 +48,13 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1010873165" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Supplemental Activities
-While at the [Swiss Chocolate Adventure](https://www.verkehrshaus.ch/en/visit/swiss-chocolate-adventure.html)
+While at the Swiss Museum of Transport in Luzern, visit the [Swiss Chocolate Adventure](https://www.verkehrshaus.ch/en/visit/swiss-chocolate-adventure.html) you can learn more about chocolate production and taste it is as well.  
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDAyMzkxODEsLTEyMDA0MTI2OSw3MT
+eyJoaXN0b3J5IjpbLTIxMzYyMDc1NjQsLTEyMDA0MTI2OSw3MT
 E3NDUzNjYsMTE3MDEzODMwNSwtODYxNDQ2MSwtNTU3MjY0Mzgz
 LC0xOTQ0NjU4MDQ3LDY3NzczNzYwOCw2Njg2MDk0NzUsMTE5NT
 k4NjI5LC0xNDcxNDMwMDEsLTM3Njk4MTgzMSwtMTU0NDU0NzEw
