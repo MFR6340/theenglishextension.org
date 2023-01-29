@@ -5,13 +5,13 @@
 
 **This unit covers events that might not be familiar to kids growing up in Switzerland including the events at the Scottish Highland Games and events at a Village Fête.  Here is some literature that goes with this unit:** 
 
-### Title here, by author here
+### The Highland Games, by Gareth Ainsworth
 
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/The-Highland-Games-Gareth-Ainsworth/9781735688565" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 
@@ -47,6 +47,6 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDg1MDg0LC01ODc3NDY2MzksMTE5OT
+eyJoaXN0b3J5IjpbOTI5MjY2NDc0LC01ODc3NDY2MzksMTE5OT
 c4NzUzNywtMTEzNTQ2MDUwN119
 -->
