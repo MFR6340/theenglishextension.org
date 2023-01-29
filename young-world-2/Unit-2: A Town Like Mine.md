@@ -57,10 +57,13 @@ Like, Carrie's War, children in World War II are forced to leave the city of Lon
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1060398683" rel="nofollow">Buy on Orell Füssli</a>
 
 # Supplemental Activities
+Take a tour !
 Sometimes we learn more about other cities when we are traveling than the ones that are right at our doorstep.  It doesn't have to be so! Learn more about the cities that are nearby and learn the stories behind the buildings you walk past every day.  Free Walk offers free tours in 13 cities in Switzerland.  If you like what you learned, give your tour guide a nice tip at the end.  https://www.freewalk.ch/swiss/#cities
+
+For a guided tour of Zug in English, contact the Zug Tourism center.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2Nzk5MzQ5NiwtMzUzMzEwNzM5LDEwMz
-UxOTk4NSw5MTA5MDQzNTAsLTM1OTg2ODMwNF19
+eyJoaXN0b3J5IjpbLTIxMTU1OTA3OTYsLTM1MzMxMDczOSwxMD
+M1MTk5ODUsOTEwOTA0MzUwLC0zNTk4NjgzMDRdfQ==
 -->
