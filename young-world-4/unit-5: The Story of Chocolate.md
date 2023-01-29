@@ -39,7 +39,7 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.bookdepository.com/Whizz-Pop-Chocolate-Shop-Kate-Saunders/9780385743020?ref=grid-view&qid=1674494&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033680556" rel="nofollow">Buy on Orell Füssli</a>
 
-### This Book is Not Good For You, by Pseudonymous Bosch
+### This Book is Not Good For You, by Pseudonymou Bosch
 <img src="https://imgur.com/USP4SsA.png" width="25%" />
 
 
@@ -58,11 +58,11 @@ This fantastic article gives suggestions for even more [Chocolate factories and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgyMTc3NTQxLC0xMTkxMjAyNjU1LC0xMj
-AwNDEyNjksNzExNzQ1MzY2LDExNzAxMzgzMDUsLTg2MTQ0NjEs
-LTU1NzI2NDM4MywtMTk0NDY1ODA0Nyw2Nzc3Mzc2MDgsNjY4Nj
-A5NDc1LDExOTU5ODYyOSwtMTQ3MTQzMDAxLC0zNzY5ODE4MzEs
-LTE1NDQ1NDcxMDcsLTE1NzQ1OTkxMTIsLTU5MjY2OTQ1Niw4OT
-E3ODEzMzAsODczNTE2MjY0LDYxNzAzNzgxOCwtNjAyODAyNDQ3
-XX0=
+eyJoaXN0b3J5IjpbLTE0NDk5NjQyMjgsMzgyMTc3NTQxLC0xMT
+kxMjAyNjU1LC0xMjAwNDEyNjksNzExNzQ1MzY2LDExNzAxMzgz
+MDUsLTg2MTQ0NjEsLTU1NzI2NDM4MywtMTk0NDY1ODA0Nyw2Nz
+c3Mzc2MDgsNjY4NjA5NDc1LDExOTU5ODYyOSwtMTQ3MTQzMDAx
+LC0zNzY5ODE4MzEsLTE1NDQ1NDcxMDcsLTE1NzQ1OTkxMTIsLT
+U5MjY2OTQ1Niw4OTE3ODEzMzAsODczNTE2MjY0LDYxNzAzNzgx
+OF19
 -->
