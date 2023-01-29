@@ -7,13 +7,11 @@
 
 ### The Highland Games, by Gareth Ainsworth
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/89WHQ9t.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/The-Highland-Games-Gareth-Ainsworth/9781735688565" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
-
 
 ### Title here, by author here
 
@@ -47,6 +45,6 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI5MjY2NDc0LC01ODc3NDY2MzksMTE5OT
-c4NzUzNywtMTEzNTQ2MDUwN119
+eyJoaXN0b3J5IjpbLTg2NDg0NDE3MiwtNTg3NzQ2NjM5LDExOT
+k3ODc1MzcsLTExMzU0NjA1MDddfQ==
 -->
