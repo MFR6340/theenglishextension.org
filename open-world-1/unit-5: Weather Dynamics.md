@@ -14,8 +14,49 @@ Strongly recommend the movie by the same name.
 <a href="https://www.bookdepository.com/Finest-Hours-Young-Readers-Edition-Michael-J-Tougias/9780805097641?ref=grid-view&qid=1674482601270&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034069963" rel="nofollow">Buy on Orell Füssli</a>
 
+### The Finest Hours, by Michael J. Tougias
+
+<img src="https://imgur.com/8tR67C2.png" width="25%" />
+
+summary here.  (Lexile level       )
+
+<a href="https://www.bookdepository.com/Finest-Hours-Michael-J-Tougias/9781250044235?ref=grid-view&qid=1674914338061&sr=1-1 link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1055647100 link here" rel="nofollow">Buthor DK Weathere
+
+<img src="imgurlinkherehttps://imgur.com/WYZeKh3.png" width="25%" />
+
+summary here.  (Lexile level )
+
+<a href="https://www.bookdepository link here.com/Weather-DK/9780241228265?ref=grid-view&qid=1674914545643&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1002540123" rel="nofollow">Bu eail here y oy on Orell Füssli</a>
+
+### Chasing the Storm: Tornadoes, Meteorology, r her Watching, by Ron Miller
+
+<img src="https://imgur.com/o5k2D8p.png" width="25%" />
+
+summary here.  (Lexile 1110L)
+
+<a href="https://www.bookdepository.com/Chasing-the-Storm-Ron-Miller/9781467712842" rel="nofollow"> Buy on BookDepository</a>  " rel="nofollow"> Buy on BookDepository</a>  
+<a href="orellfussli" rel="nofollow">Bu##  ai hy on Orell Füssli</a>
+
+### It's Raining Fish and Spiders, by Bill Evans
+
+<img src="https://imgur.com/SedEZb6.png" width="25%" />
+
+summary here.  (lexile level       )
+
+<a href="https://www.bookdepository link here.com/Its-Raining-Fish-and-Spiders-Bill-Evans/9780765321329" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1011949467" rel="nofollow">Bu
+
+### Horrible Geography: Stormy Weather, by Anita Ganeri
+<img src="https://imgur.com/YFYgjak.png" width="25%" />
+
+summary here.  (Lexile level       )
+
+<a href="https://www.bookdepository.com/Stormy-Weather-Anita-Ganeri/9781407196244?ref=grid-view&qid=1674915008947&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036942730" rel="nofollow">Buy on Orell Füssli</a>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTQzNDEyNCwtMTAwODAwMTI0MCwtNz
-Q0MjUyNTE2XX0=
+eyJoaXN0b3J5IjpbLTI1NDYxNDE2MCwxMzQ1NDM0MTI0LC0xMD
+A4MDAxMjQwLC03NDQyNTI1MTZdfQ==
 -->
