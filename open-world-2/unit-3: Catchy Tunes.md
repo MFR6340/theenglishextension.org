@@ -5,11 +5,7 @@
 
 **So, how does music make you feel?  This unit is about songs, lyrics, and musical instruments.  Here are some literature ideas that go with this unit:** 
 
-
-
-
 ### Title here, by author here
-
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
@@ -19,6 +15,6 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk1MDEzMTAsLTc2NTYxMTIxNSwtMT
-c0Nzc5OTkzXX0=
+eyJoaXN0b3J5IjpbLTI2NTA3NTA2MiwtMjAzOTUwMTMxMCwtNz
+Y1NjExMjE1LC0xNzQ3Nzk5OTNdfQ==
 -->
