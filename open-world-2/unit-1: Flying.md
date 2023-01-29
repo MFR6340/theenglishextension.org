@@ -56,9 +56,9 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 ### The Statistical Probability of Love at First Sight, by Jennifer E. Smith
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/rAGLCcH.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+summary here.  (Lexile Level ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Statistical-Probability-Love-at-First-Sight-Jennifer-E-Smith/9780755384020?ref=grid-view&qid=1674928665185&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018775330" rel="nofollow">Buy on Orell Füssli</a> 
@@ -114,7 +114,7 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzMyNTI3NTMsMzIxNTQyMzQzLDE0MD
+eyJoaXN0b3J5IjpbLTEyMzQwOTc2MTgsMzIxNTQyMzQzLDE0MD
 I0OTI2NCwtMjA4ODIxMjM1MywtNzkxMDM0MDczLDE5NTUyMTU3
 MzgsLTEwMjI4MTQ2NDQsMjA5ODkxMzM2LC0xNDI1MDM1ODYyXX
 0=
