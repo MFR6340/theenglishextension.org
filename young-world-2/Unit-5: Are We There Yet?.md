@@ -13,7 +13,7 @@ This amazing biography of Nathaniel Bowditch was the winner of the Newbery Medal
 <a href="https://www.bookdepository.com/Carry-On-Mr-Bowditch-Jean-Lee-Latham/9780618250745?ref=grid-view&qid=1665843551689&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006158349" rel="nofollow">Buy on Orell Füssli</a>
 
-### MVP*: Magellan Voyage Project, by Douglas Evans
+### MVP*: Magellan Voyage Project, by Dula
 
 <img src="https://i.imgur.com/n6FEYvP.png" width="25%" />
 
@@ -36,7 +36,7 @@ From the development of the steam engine, to the building of steamships, to desi
 
 <img src="https://i.imgur.com/61EpL2l.png" width="25%" />
 
-In this book, which is actually six volumes combined into one, beloved author Enid Blyton takes Mike, Belinda and Ann with their parents and Granny on a series of summer adventures in a caravan, a houseboat and an ocean liner.. (Lexile 570L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+In this book, which is actually six volumes combined into one, beloved author Enid Blyton takes Mike, Belinda and Ann with their parents and Granny on a series of summer adventures in a caravan, a houseboat and an ocean liner. Leie 70L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Family-Stories-Series-Are-We-There-Yet-Enid-Blyton/9781444959529#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058727152" rel="nofollow">Buy on Orell Füssli</a>
@@ -56,8 +56,8 @@ The [Swiss Museum of Transport ](https://www.verkehrshaus.ch/en/home.html) in Lu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzA1MjE4MjksMTM2NDQwNDY5NywxMT
-gxMTU0MzU0LC0yMDA3MTUxNDE0LC0xOTYwNjEwNDg1LC0xMTgx
-OTczOTUzLC0xMjg3MDEyNTk5LC01MjExNzA1ODcsMTYxNjA3Mj
-AzNywtNTIxMTcwNTg3XX0=
+eyJoaXN0b3J5IjpbODY5Mzc2OTc0LC0xMjcwNTIxODI5LDEzNj
+Q0MDQ2OTcsMTE4MTE1NDM1NCwtMjAwNzE1MTQxNCwtMTk2MDYx
+MDQ4NSwtMTE4MTk3Mzk1MywtMTI4NzAxMjU5OSwtNTIxMTcwNT
+g3LDE2MTYwNzIwMzcsLTUyMTE3MDU4N119
 -->
