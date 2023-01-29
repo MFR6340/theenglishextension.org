@@ -26,7 +26,7 @@ summary here.
 
 <img src="https://imgur.com/DpHYsvF.png" width="25%" />
 
-summary here.(Lexile 760L)
+summary here.(Lexile 760L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Seventh-Most-Important-Thing-Shelley-Pearsall/9780553497311?ref=grid-view&qid=1665842641892&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039319893" rel="nofollow">Buy on Orell Füssli</a>
@@ -89,5 +89,5 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTYxNDg4NCwtNDc5ODk3NDRdfQ==
+eyJoaXN0b3J5IjpbMjAyMTkxNTY3LC00Nzk4OTc0NF19
 -->
