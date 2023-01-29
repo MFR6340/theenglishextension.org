@@ -20,7 +20,7 @@ Learn more about how various animals see, hear and smell and how it compares to 
 
 <img src="https://imgur.com/E3qFwW0.png" width="35%" />
 
-A poor Turkish boy was born totally blind, yet learned how to paint, including using perspective and shadow.  (Lexile 920L)
+A poor Turkish boy was born totally blind, yet learned how to paint, including using perspective and shadow.  (Lexile 920L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Painting-Dark-Rachelle-Burk/9781943431151?ref=grid-view&qid=1665840447877&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038137025" rel="nofollow">Buy on Orell Füssli</a>
@@ -30,7 +30,7 @@ A poor Turkish boy was born totally blind, yet learned how to paint, including u
 
 <img src="https://i.imgur.com/kiJ2NaN.png" width="35%" />
 
-Quirky Ms. Frizzle takes her class on a trip on the Magic School Bus through an eye, a dog's nose, an ear a tongue.  Presented in a fun story while learning more about both human and animal senses.  Also available as an animated show on Netflix.  (Lexile AD690L)
+Quirky Ms. Frizzle takes her class on a trip on the Magic School Bus through an eye, a dog's nose, an ear a tongue.  Presented in a fun story while learning more about both human and animal senses.  Also available as an animated show on Netflix.  (Lexile AD690L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Magic-School-Bus-Explores-Senses-Joanna-Cole/9780590446983?ref=grid-view&qid=1673873471036&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1002436648?sq=The%20Magic%20School%20Bus%20Explores%20the%20Senses&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
@@ -101,6 +101,6 @@ Donate an audio book or make an appointment to visit the SBS Schweizerische Bibl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5MzAxOTU4LDIwNDIzNDQzNjIsLTc1OT
-Y4ODY1MF19
+eyJoaXN0b3J5IjpbMTYzMjIwOTg5NCw4OTkzMDE5NTgsMjA0Mj
+M0NDM2MiwtNzU5Njg4NjUwXX0=
 -->
