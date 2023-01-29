@@ -70,13 +70,13 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="https://www.bookdepository.com/Incredible-Jobs-Youve-Probably-Never-Heard-Natalie-Labarre/9781788008488?ref=grid-view&qid=1674998557421&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054247992" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
-<img src="imgurlinkhere.png" width="25%" />
+### Odd Jobs, by Elenor Fremont
+<img src="https://imgur.com/NC1z7JS.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Odd-Jobs-Elenor-Fremont/9780689829345?ref=grid-view&qid=1674998667319&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046352636" rel="nofollow">Buy on Orell Füssli</a> 
 
 ## Fiction 
 
@@ -90,7 +90,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4Njc1NTA0LC0xMTE4MzQzNzU1LDE5Nj
-ExNzg5MywtMTYyNjkyOTU0MywtNjQ4Mzg4NDIyLDIwODA3MzQ3
-MDYsOTYxMjE0OTMzXX0=
+eyJoaXN0b3J5IjpbLTk2ODMzNDEwMSwtMTExODM0Mzc1NSwxOT
+YxMTc4OTMsLTE2MjY5Mjk1NDMsLTY0ODM4ODQyMiwyMDgwNzM0
+NzA2LDk2MTIxNDkzM119
 -->
