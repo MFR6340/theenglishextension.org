@@ -81,7 +81,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="https://www.bookdepository.com/Airman-Eoin-Colfer/9780141322216?ref=grid-view&qid=1674994899322&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Grandpa’s Great Escape, by David Walliams
-<img src="https://imgur.com/OYpHfi9 link here" rel="nofollow"> Buy on BookDepository</a>  
+<img src="https://imgur.com/OYpHfi9" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### 
@@ -116,9 +116,9 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM2MjQ0NDQ5LC04NzU1NzYwOSwxODE1MT
-g0NTAwLC02MjM0NDcxNTksLTE2NDY1NjkxMDMsLTEyMzQwOTc2
-MTgsMzIxNTQyMzQzLDE0MDI0OTI2NCwtMjA4ODIxMjM1MywtNz
-kxMDM0MDczLDE5NTUyMTU3MzgsLTEwMjI4MTQ2NDQsMjA5ODkx
-MzM2LC0xNDI1MDM1ODYyXX0=
+eyJoaXN0b3J5IjpbLTE1MTkzNjczODEsMzM2MjQ0NDQ5LC04Nz
+U1NzYwOSwxODE1MTg0NTAwLC02MjM0NDcxNTksLTE2NDY1Njkx
+MDMsLTEyMzQwOTc2MTgsMzIxNTQyMzQzLDE0MDI0OTI2NCwtMj
+A4ODIxMjM1MywtNzkxMDM0MDczLDE5NTUyMTU3MzgsLTEwMjI4
+MTQ2NDQsMjA5ODkxMzM2LC0xNDI1MDM1ODYyXX0=
 -->
