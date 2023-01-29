@@ -22,9 +22,10 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 This fun short story is about an odd-looking hitchhiker who turns out to have a very useful job.  There's a great twist at the end.  Available in the books, "The Wonderful Story of Henry Sugar and Six More" as well as in "Roald Dahl's Ten Short Stories".  
 
-Also available as a pdf. http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnston/short%20stories/The%20Hitchhicker%20-Roald%20Dahl.pdf
+Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnston/short%20stories/The%20Hitchhicker%20-Roald%20Dahl.pdf" rel="nofollow">PDF</a> 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjc2NzgzMCwtMTYyNjkyOTU0MywtNj
-Q4Mzg4NDIyLDIwODA3MzQ3MDYsOTYxMjE0OTMzXX0=
+eyJoaXN0b3J5IjpbMTk2MTE3ODkzLC0xNjI2OTI5NTQzLC02ND
+gzODg0MjIsMjA4MDczNDcwNiw5NjEyMTQ5MzNdfQ==
 -->
