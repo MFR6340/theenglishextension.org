@@ -22,7 +22,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="https://www.bookdepository.com/Why-Humans-Work-How-Jobs-Shape-Our-Lives-and-Our-World-Monique-Polak/9781459827950" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062248015" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Women in Science, Rachel Ignotofsky
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
@@ -90,7 +90,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDUxODU4OSwtMTExODM0Mzc1NSwxOT
-YxMTc4OTMsLTE2MjY5Mjk1NDMsLTY0ODM4ODQyMiwyMDgwNzM0
-NzA2LDk2MTIxNDkzM119
+eyJoaXN0b3J5IjpbNTYwMzAwMjQwLC0xMTE4MzQzNzU1LDE5Nj
+ExNzg5MywtMTYyNjkyOTU0MywtNjQ4Mzg4NDIyLDIwODA3MzQ3
+MDYsOTYxMjE0OTMzXX0=
 -->
