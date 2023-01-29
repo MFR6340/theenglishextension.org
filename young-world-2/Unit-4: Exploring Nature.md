@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/oUOkUq9.png" width="25%" />
 
-This engaging story of American pioneer life in the 1870s continues to be engaging to summary here.(Lexile 930L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+This engaging story of lviAmerican pioneer life in the 1870s continues to .(Lexile 930L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Little-House-Big-Woods-Laura-Ingalls-Wilder/9780064400015?ref=grid-view&qid=1665843122581&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002848480" rel="nofollow">Buy on Orell Füssli</a>
@@ -75,6 +75,6 @@ An essential classic.  Set in central India, this famous story tells the tale of
 Go on a Jungle Trek!  Even here in Switzerland, you have the chance to head into a Rain Forest and see what it's like.  Take a trip to .   [Papiliorama](https://www.papiliorama.ch/en/our-live-exhibits/) Just remember, it's humid in there! 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzEzOTUxMDQsMTE1MjY0MzY5MiwxOD
+eyJoaXN0b3J5IjpbLTE5MzIwNDI2NjEsMTE1MjY0MzY5MiwxOD
 EwMTA5NzUsMjA2NTI4ODYyOV19
 -->
