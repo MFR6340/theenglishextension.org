@@ -54,7 +54,7 @@ A young adult book written by a renowned outdoor writer and wilderness consultan
 
 <img src="https://i.imgur.com/Bg066im.jpg" width="25%" />
 
-Have lots of fun reading about Lucy's camping adventures, with the story told in various forms of verse.  Learn how to camp, laugh at the funny stories, and be exposed to rhyming couplets and quatrains and limericks and more. (no Lexile levels are given to poetry)
+Have lots of fun reading about Lucy's camping adventures, with the story told in various forms of verse.  Learn how to camp, laugh at the funny stories, and be exposed to rhyming couplets and quatrains and limericks and more. (no Lexile levels are given to oetry)
 
 <a href="https://www.bookdepository.com/Gone-Camping-Novel-Verse-Tamera-Will-Wissinger/9781328596345?ref=grid-view&qid=1673878569329&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052920702" rel="nofollow">Buy on Orell Füssli</a>
@@ -85,6 +85,7 @@ The Swiss Museum of Transport also has an IMAX Theatre.  Currently they are show
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTI1NDk1NCwtNzU5ODU1Mzc1LDExNT
-I2NDM2OTIsMTgxMDEwOTc1LDIwNjUyODg2MjldfQ==
+eyJoaXN0b3J5IjpbLTEwNjA5ODM5NTYsLTY2NTI1NDk1NCwtNz
+U5ODU1Mzc1LDExNTI2NDM2OTIsMTgxMDEwOTc1LDIwNjUyODg2
+MjldfQ==
 -->
