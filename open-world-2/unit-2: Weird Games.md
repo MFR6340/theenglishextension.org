@@ -15,13 +15,11 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 ### Murder at the Village Fete, by Catherine Coles
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/ztsUlCp.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
-
+<a href="https://www.bookdepository.com/Murder-at-Village-Fete-Catherine-Coles/9781838441104?ref=grid-view&qid=1674996450982&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Title here, by author here
 
@@ -45,6 +43,6 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MDA2ODYyMSwtNTg3NzQ2NjM5LDExOT
+eyJoaXN0b3J5IjpbLTI1NjU1ODc5OCwtNTg3NzQ2NjM5LDExOT
 k3ODc1MzcsLTExMzU0NjA1MDddfQ==
 -->
