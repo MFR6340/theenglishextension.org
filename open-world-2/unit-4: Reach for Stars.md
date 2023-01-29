@@ -6,12 +6,12 @@
 **As though the 2nd year of Sekundarschule isn't stressful enough already with the constant reminders and emphasis on finding an apprenticeship, finding a job is also the focus of this Klett English unit. It covers filling out an application, and the skills required for various professions from chef to rocket scientist.  Here is some literature to supplement this unit:** 
 
 
-### Title here, by author here
+### Hidden Figures, by Margot Lee Shetterly
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Hidden-Figures-Margot-Lee-Shetterly/9780008201326?ref=grid-view&qid=1674997402860&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
@@ -90,7 +90,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTgzNDM3NTUsMTk2MTE3ODkzLC0xNj
-I2OTI5NTQzLC02NDgzODg0MjIsMjA4MDczNDcwNiw5NjEyMTQ5
-MzNdfQ==
+eyJoaXN0b3J5IjpbOTYyNjUwMTkxLC0xMTE4MzQzNzU1LDE5Nj
+ExNzg5MywtMTYyNjkyOTU0MywtNjQ4Mzg4NDIyLDIwODA3MzQ3
+MDYsOTYxMjE0OTMzXX0=
 -->
