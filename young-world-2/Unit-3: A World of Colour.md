@@ -17,7 +17,7 @@ summary here.
 
 <img src="https://imgur.com/Obtul5O.png" width="25%" />
 
-An historical fiction account of a girl in Mideval Paris helps her father complete an illuminated tome for a wealthy patron. Although parts of it are not fully historically accurate (clothing illustrations are not corrrect to the period, a teenage girl would not have be walking through the streets of Paris alone, among others) it is still very much a worthwhile book to get a better understanding of how the vellum and paints for manuscripts were made. (570L)
+An historical fiction account of a girl in MediParis helps her father complete an illuminated tome for a wealthy patron. Although parts of it are not fully historically accurate (clothing, female independence, etc.)  it is still very much a worthwhile book to get a better understanding of how the vellum and paints for manuscripts were made. (Lexile 570L)
 
 <a href="https://www.bookdepository.com/Marguerite-Makes-Book--Robertson/9780892363728" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005363893" rel="nofollow">Buy on Orell Füssli</a>
@@ -89,6 +89,6 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI4OTE4MDgsMjAyMTkxNTY3LC00Nz
-k4OTc0NF19
+eyJoaXN0b3J5IjpbMTg4MDQzMjI3MSwyMDIxOTE1NjcsLTQ3OT
+g5NzQ0XX0=
 -->
