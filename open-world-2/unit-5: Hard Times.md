@@ -112,17 +112,15 @@ summary here. (Lexile 1190L) <sup>[what is this?](/resources/Lexile%20measures)<
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1019220526" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-### Title here, by author here
-
+### The Story of Queen Victoria, by Kate Hubbard
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Queen-Victoria-Kate-Hubbard/9781904095828?ref=grid-view&qid=1675002186535&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxOTE2MDY5LDE0ODYwNTg5NDksLTE4OT
-UwOTk3MjgsMTQxNzYxNDY1MiwtNDY0MzU3MDAwLC0yMDMwOTE2
-MTkyLDEzNTM2MzgyMSwtMTM3OTY3Mjc4OSwxOTI0ODI3Mjc0LC
-04NTU5MDcyMywtMTE2ODQwNTQyOV19
+eyJoaXN0b3J5IjpbLTE4MDY0NDQ3OTcsMTQ4NjA1ODk0OSwtMT
+g5NTA5OTcyOCwxNDE3NjE0NjUyLC00NjQzNTcwMDAsLTIwMzA5
+MTYxOTIsMTM1MzYzODIxLC0xMzc5NjcyNzg5LDE5MjQ4MjcyNz
+QsLTg1NTkwNzIzLC0xMTY4NDA1NDI5XX0=
 -->
