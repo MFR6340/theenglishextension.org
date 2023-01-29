@@ -60,7 +60,6 @@ This book is more fantasy, word-play and adventure than clock related, but it's 
 <img src="https://imgur.com/pV4cOFG.png" width="25%" />
 
 Javi gets a homework assignment to 'Invite Any Three People to Dinner'. The family's antique table brings to life the dinner guests which include the infamous pirate Blackbeard. All sorts of adventures follow in this thrilling read.  (Lexile 700L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
-
 <a href="https://www.bookdepository.com/Time-Villains-Victor-Pineiro/9781728245744?ref=grid-view&qid=1673795499563&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059707722" rel="nofollow"> Buy on Orell Füssli</a>
@@ -84,7 +83,7 @@ Freely available online.
 Climb a Clock Tower
 There are some amazing and fascinating clock towers in Switzerland.  
 
- - Zug: The Zuger Zytturm is free to visit if you show up during regular working hours.  Just request a key to the Tower in the gift shop below and ask for a free brochure. 
+ - Zug: The Zuger Zytturm [enter link description here](https://www.myswitzerland.com/en-us/experiences/zytturm-zug/)is free to visit if you show up during regular working hours.  Just request a key to the Tower in the gift shop below and ask for a free brochure. 
  <a href="https://www.myswitzerland.com/en-us/experiences/zytturm-zug/" rel="nofollow"> Zuger Zytturm </a>  
  - Bern: The Zytglogge.  Tours are available of the interior. Check the website for details. 
  <a href=" https://www.bern.com/en/detail/berns-clock-tower-zytglogge" rel="nofollow">  Zytglogge </a>  
@@ -101,8 +100,8 @@ Switzerland, world-famous for its clocks and watches, has 7 public museums focus
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTA0NTAxNDAsLTE1NzcwNzg0NDEsMT
-EyMDgzNTYyNSwxMDE2MDM4MjEwLC0xMjg4ODM5NTkxLC0yMjEz
-MDM2ODMsMTk4OTY4MzAyNiwyMDQ1MjAxMzYsMTk3Mjk3ODIyM1
-19
+eyJoaXN0b3J5IjpbMTM0OTEzNDk2MCwtMTU3NzA3ODQ0MSwxMT
+IwODM1NjI1LDEwMTYwMzgyMTAsLTEyODg4Mzk1OTEsLTIyMTMw
+MzY4MywxOTg5NjgzMDI2LDIwNDUyMDEzNiwxOTcyOTc4MjIzXX
+0=
 -->
