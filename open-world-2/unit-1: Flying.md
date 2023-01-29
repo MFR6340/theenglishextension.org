@@ -84,7 +84,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 ### Grandpa’s Great Escape, by David Walliams
 <img src="https://imgur.com/OYpHfi9 link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="orellfussli" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 
@@ -97,23 +97,23 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 ### Horrible Histories: Up in the Air, by Terry Deary
 
-<img src="https://imgur.com/kjW7pCOTitle here, by author here
-
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/kjW7pCOTitle here, by author .png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="https://www.bookdepository.com/Up-Air-Terry-Deary/9780702305856?ref=grid-view&qid=1674995144420&sr=1-5 link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Up-Air-Terry-Deary/9780702305856?ref=grid-view&qid=1674995144420&sr=1-5" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1058835634 link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### The Avion my Uncle Flew, by Crus Fisitle here, by author here
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="imgurlinkhereher
+
+<img src="https://imgur.com/Llo9joy.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository link here.com/Avion-My-Uncle-Flew-Cyrus-Fisher/9781948959001?ref=grid-view&qid=1674995319831&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1057556198" rel="nofollow">Buy on Orell Füssli</a> 
 
 ## Supplemental Activities
 if you've ever had dreams of flying, the final venue of the Parachute World Cup Finals in Locarno from September 22-24, 2023,  might be an event that's worth going to.  Over 200 of the top sky divers from 20 nations compete for the titles with a focus on the accuracy of their landing.  And it's all happening while you're working on this unit.  A great excuse to go!  <a href="https://yellow-target.ch/" rel="nofollow">Yellow Target Skydiving World Cup</a>
@@ -121,7 +121,7 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzQ0NzE1OSwxMTIzMzk3MzQ3LC0xNj
+eyJoaXN0b3J5IjpbMTgxNTE4NDUwMCwtNjIzNDQ3MTU5LC0xNj
 Q2NTY5MTAzLC0xMjM0MDk3NjE4LDMyMTU0MjM0MywxNDAyNDky
 NjQsLTIwODgyMTIzNTMsLTc5MTAzNDA3MywxOTU1MjE1NzM4LC
 0xMDIyODE0NjQ0LDIwOTg5MTMzNiwtMTQyNTAzNTg2Ml19
