@@ -9,7 +9,7 @@
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     )
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -28,6 +28,6 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Nzc0NjYzOSwxMTk5Nzg3NTM3LC0xMT
-M1NDYwNTA3XX0=
+eyJoaXN0b3J5IjpbMTcxMDAwNjEzMCwtNTg3NzQ2NjM5LDExOT
+k3ODc1MzcsLTExMzU0NjA1MDddfQ==
 -->
