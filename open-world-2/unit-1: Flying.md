@@ -90,14 +90,14 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 ### Horrible Histories: Up in the Air, by Terry Deary
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/kjW7pCO.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Up-Air-Terry-Deary/9780702305856?ref=grid-view&qid=1674995144420&sr=1-5" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058835634" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### The Avion my Uncle Flew, by Crus Fisher
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -112,7 +112,7 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjQ5MDk2NywtMTY0NjU2OTEwMywtMT
+eyJoaXN0b3J5IjpbMTEyMzM5NzM0NywtMTY0NjU2OTEwMywtMT
 IzNDA5NzYxOCwzMjE1NDIzNDMsMTQwMjQ5MjY0LC0yMDg4MjEy
 MzUzLC03OTEwMzQwNzMsMTk1NTIxNTczOCwtMTAyMjgxNDY0NC
 wyMDk4OTEzMzYsLTE0MjUwMzU4NjJdfQ==
