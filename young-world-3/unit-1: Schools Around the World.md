@@ -37,7 +37,7 @@ This inspirational true story is about a boy from Africa who uses items around h
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
-Called Harry Potter and the Sorcer's Stone  (Lexile )  
+Called *Harry Potter and the Sorcerer's Stone* in the US.   (Lexile 880L)  
 
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
@@ -86,9 +86,9 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExNjg3MjUyLC05ODYwODc1MjUsLTk0Nz
-M4MTI5NSw5MDMyMjMyNjgsMjgzMTc4NTk5LDcwODUyNTU4Nywx
-NjMzNTEzMjkxLC0xNjE2NDYzNTgwLDUxNzA1NzYwOCwxMTg1Nj
-I1NzI4LC0xNDI1NjY4MDMyLDExMzQxOTA3OCwxNTczMDI2MjI1
-XX0=
+eyJoaXN0b3J5IjpbLTg3MTk1NDgxMSwtOTg2MDg3NTI1LC05ND
+czODEyOTUsOTAzMjIzMjY4LDI4MzE3ODU5OSw3MDg1MjU1ODcs
+MTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MTcwNTc2MDgsMTE4NT
+YyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkwNzgsMTU3MzAyNjIy
+NV19
 -->
