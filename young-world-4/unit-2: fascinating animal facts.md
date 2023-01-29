@@ -46,24 +46,15 @@ summary here.
 
 ## For Fun
 
-y J. Lewis
-<img src="https://i.imgur.com/V.png" width="25%" />
-
- all ne to earn more aout animals n thisooreqired reading at oarts has a fe that arent ery familiar.  
-
-<a href="https://www.bookdepository.com/?ref=grid-view&qid=1674500301753484467571&sr=1-4#1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046755968suggestartikel/A1020533197?sq=National%20Geographic%20Kids%20Book%20of%20Animal%20Poetry&stype=productName" rel="nofollow">Buy on Orell Füssli</a>
-
-
-
-
-, by J. Lewis
+### Book of Animal Poetry, by J. Lewis
 <img src="https://i.imgur.com/t5qgfVv.png  " width="25%" />
 
 In this anthology, stunning animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors.  192 pages.   (No lexile level)
 
 <a href="https://www.bookdepository.com/National-Geographic-Kids-Book-Animal-Poetry-J-Patrick-Lewis/9781426310096?ref=grid-view&qid=1674&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/" rel="nofollow">Buy on Orell Füssli</a>
+
+## Supplemental Activities
 
 
 
@@ -79,6 +70,7 @@ In this anthology, stunning animal photos by National Geographic photographers a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg5NjE5ODUsODU4MDUwNjc5LC0zMT
-I2NDk3MjMsMTk5OTk4NzIzMiwxODA2OTA5MDA2XX0=
+eyJoaXN0b3J5IjpbNDU3MzY0ODMyLC0xODc4OTYxOTg1LDg1OD
+A1MDY3OSwtMzEyNjQ5NzIzLDE5OTk5ODcyMzIsMTgwNjkwOTAw
+Nl19
 -->
