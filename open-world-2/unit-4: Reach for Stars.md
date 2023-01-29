@@ -5,11 +5,11 @@
 
 **As though the 2nd year of Sekundarschule isn't stressful enough already with the constant reminders and emphasis on finding an apprenticeship, finding a job is also the focus of this Klett English unit. It covers filling out an application, and the skills required for various professions from chef to rocket scientist.  Here is some literature to supplement this unit:** 
 
-### Title here, by author here
 
+### Title here, by author here
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     )
+summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -25,6 +25,6 @@ This fun short story is about an odd-looking hitchhiker who turns out to have a 
 Also available as a pdf. http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnston/short%20stories/The%20Hitchhicker%20-Roald%20Dahl.pdf
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY5Mjk1NDMsLTY0ODM4ODQyMiwyMD
-gwNzM0NzA2LDk2MTIxNDkzM119
+eyJoaXN0b3J5IjpbMTIwMjc2NzgzMCwtMTYyNjkyOTU0MywtNj
+Q4Mzg4NDIyLDIwODA3MzQ3MDYsOTYxMjE0OTMzXX0=
 -->
