@@ -52,17 +52,17 @@ While at the Swiss Museum of Transport in Luzern, visit the [Swiss Chocolate Adv
 
 If you need even more Lindt, definitely go to the [Lindt Home of Chocolate ](https://www.lindt-home-of-chocolate.com/en/) in Zurich.  Check out the 9meter tall fountain, which cycles 1,500kg of chocolate.  You can also enroll in a variety of chocolate classes.
 
-This fantastic article gives some other great [other Chocolate factories and tours](https://swissfamilyfun.com/switzerland-chocolate-factories/)
+This fantastic article gives suggestions for even more [Chocolate factories and tours](https://swissfamilyfun.com/switzerland-chocolate-factories/).  
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg1NTc5MTUsLTExOTEyMDI2NTUsLTEyMD
-A0MTI2OSw3MTE3NDUzNjYsMTE3MDEzODMwNSwtODYxNDQ2MSwt
-NTU3MjY0MzgzLC0xOTQ0NjU4MDQ3LDY3NzczNzYwOCw2Njg2MD
-k0NzUsMTE5NTk4NjI5LC0xNDcxNDMwMDEsLTM3Njk4MTgzMSwt
-MTU0NDU0NzEwNywtMTU3NDU5OTExMiwtNTkyNjY5NDU2LDg5MT
-c4MTMzMCw4NzM1MTYyNjQsNjE3MDM3ODE4LC02MDI4MDI0NDdd
-fQ==
+eyJoaXN0b3J5IjpbMzgyMTc3NTQxLC0xMTkxMjAyNjU1LC0xMj
+AwNDEyNjksNzExNzQ1MzY2LDExNzAxMzgzMDUsLTg2MTQ0NjEs
+LTU1NzI2NDM4MywtMTk0NDY1ODA0Nyw2Nzc3Mzc2MDgsNjY4Nj
+A5NDc1LDExOTU5ODYyOSwtMTQ3MTQzMDAxLC0zNzY5ODE4MzEs
+LTE1NDQ1NDcxMDcsLTE1NzQ1OTkxMTIsLTU5MjY2OTQ1Niw4OT
+E3ODEzMzAsODczNTE2MjY0LDYxNzAzNzgxOCwtNjAyODAyNDQ3
+XX0=
 -->
