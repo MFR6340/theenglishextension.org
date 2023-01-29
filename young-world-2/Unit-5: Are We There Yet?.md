@@ -22,11 +22,11 @@ Adam is competing against others for a four million dollar prize to be the first
 Currently not available on Book Depository.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004888026" rel="nofollow">Buy on Orell Füssli</a>
 
-### Crossing on Time, by Douglas Evans
+### Crossing on Time, by David Macaulay
 
 <img src="https://i.imgur.com/E3SCIve.png" width="25%" />
 
-summary here.  (Lexile 1200L)
+From the development of the steam engine, to the building of steamships, to designing the *SS United States*, the last and most advanced of these stately ships, Macaulay does an amazing job explaining technical concepts with fantastic illustrations so that even those who might not think they had an interest in engines or shipbuilding will develop one by the end.  (Lexile 1200L)
 
 
 <a href="https://www.bookdepository.com/Crossing-on-Time-David-Macauley/9781596434776?ref=grid-view&qid=1673882030623&sr=1-1" rel="nofollow">Buy on Book Depository</a>
@@ -52,7 +52,7 @@ summary here. (Lexile )
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDcxNTE0MTQsLTE5NjA2MTA0ODUsLT
-ExODE5NzM5NTMsLTEyODcwMTI1OTksLTUyMTE3MDU4NywxNjE2
-MDcyMDM3LC01MjExNzA1ODddfQ==
+eyJoaXN0b3J5IjpbMTQxOTM3NDUxNSwtMjAwNzE1MTQxNCwtMT
+k2MDYxMDQ4NSwtMTE4MTk3Mzk1MywtMTI4NzAxMjU5OSwtNTIx
+MTcwNTg3LDE2MTYwNzIwMzcsLTUyMTE3MDU4N119
 -->
