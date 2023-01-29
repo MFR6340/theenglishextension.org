@@ -35,7 +35,7 @@ Jesse Owens is the most famous athlete in Track and Field history despite many o
 
 <img src="https://i.imgur.com/81Ous6G.png" width="25%" />
 
- This is part of a book in a series of biographies, this one is about Olympic champion Mo Farah. It tells us about his life in Africa as a child and about his career as an athlete and famous British role model. (No Lexile Level available)
+ This is biography of Olympic champion Mo Farah. In it we learn about his life in Africa as a child and about his career as an athlete and famous British role model. (No Lexile Level available)
  
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033698504" rel="nofollow">Buy on Orell Füssli</a>
@@ -126,10 +126,11 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU2NTE0NDQwLDk2Mjc2MzkwMywtMjk1NT
-YyODAzLDU5MTkxNTI3LC0xMDA2NTQyOTQ1LDQ1ODA1MTY4MCwt
-MTc1MDk3NDE0MiwxNzQ3MTcxMTUxLDIwOTIwNzA2MTMsLTgyNj
-I2OTg3NSwtNDcwNzE3MTY0LDk4NTM4NTk4LC0xMjA1MTkzNDI1
-LC0xMjk3NjEyNjc4LC0xNjA5NDk5MTU0LC05NTg2MzAyMTUsLT
-E1NTM4OTYzNDMsLTE0MDY5NjU4OTUsLTcxNjg5NzkyM119
+eyJoaXN0b3J5IjpbLTExNTE1MzMxNzcsOTYyNzYzOTAzLC0yOT
+U1NjI4MDMsNTkxOTE1MjcsLTEwMDY1NDI5NDUsNDU4MDUxNjgw
+LC0xNzUwOTc0MTQyLDE3NDcxNzExNTEsMjA5MjA3MDYxMywtOD
+I2MjY5ODc1LC00NzA3MTcxNjQsOTg1Mzg1OTgsLTEyMDUxOTM0
+MjUsLTEyOTc2MTI2NzgsLTE2MDk0OTkxNTQsLTk1ODYzMDIxNS
+wtMTU1Mzg5NjM0MywtMTQwNjk2NTg5NSwtNzE2ODk3OTIzXX0=
+
 -->
