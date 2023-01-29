@@ -25,12 +25,12 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 
 ### Oliver Twist, by Charles Dickens
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/8HtdNnp.png" width="25%" />
 
 summary here. (1060L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Oliver-Twist-Charles-Dickens/9781853260124?ref=grid-view&qid=1675000362314&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001321736" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 ### Title here, by author here
@@ -122,7 +122,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNzYxNDY1MiwtNDY0MzU3MDAwLC0yMD
-MwOTE2MTkyLDEzNTM2MzgyMSwtMTM3OTY3Mjc4OSwxOTI0ODI3
-Mjc0LC04NTU5MDcyMywtMTE2ODQwNTQyOV19
+eyJoaXN0b3J5IjpbMTcyMTQ0NDM0NywxNDE3NjE0NjUyLC00Nj
+QzNTcwMDAsLTIwMzA5MTYxOTIsMTM1MzYzODIxLC0xMzc5Njcy
+Nzg5LDE5MjQ4MjcyNzQsLTg1NTkwNzIzLC0xMTY4NDA1NDI5XX
+0=
 -->
