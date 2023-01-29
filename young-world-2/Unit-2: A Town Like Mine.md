@@ -47,7 +47,7 @@ Considered a classic story, Carrie and her brother Nick are evacuted from London
 
 <img src="https://i.imgur.com/7hoyUhH.png" width="25%" />
 
-Like, Carrie's War, children in World War II are forced to leave the city of London and evacuated to the country.  Three siblings are sent to Dorset, where they are happy with their new surroundings. A turn of events brings them back to London to find their parents where the see the changes that have been wrought.   A classic adventure story based on the author's real experiences.  ( no Lexile level available)
+Like, Carrie's War, children in orld ar II are forced to leave the city of London and evacuated to the country.  Three siblings are sent to Dorset, where they are happy with their new surroundings. A turn of events brings them back to London to find their parents where the see the changes that have been wrought.   A classic adventure story based on the author's real experiences.  ( no Lexile level available)
 
 <a href="https://www.bookdepository.com/When-Siren-Wailed-Noel-Streatfeild/9781510109902?ref=grid-view&qid=1673535364933&sr=1-2
 " rel="nofollow"> Buy on BookDepository</a>  
@@ -56,6 +56,6 @@ Like, Carrie's War, children in World War II are forced to leave the city of Lon
 # Supplemental Activities
 Sometimes we learn more about other cities when we are traveling than the ones that are right at our doorstep.  It doesn't have to be so! Learn more about the cities that are nearby and learn the stories behind the buildings you walk past every day.  Free Walk offers free tours in 13 cities in Switzerland.  If you like what you learned, give your tour guide a nice tip at the end.  https://www.freewalk.ch/swiss/#cities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNTE5OTg1LDkxMDkwNDM1MCwtMzU5OD
-Y4MzA0XX0=
+eyJoaXN0b3J5IjpbLTM1MzMxMDczOSwxMDM1MTk5ODUsOTEwOT
+A0MzUwLC0zNTk4NjgzMDRdfQ==
 -->
