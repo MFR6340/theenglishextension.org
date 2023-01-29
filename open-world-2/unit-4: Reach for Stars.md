@@ -63,7 +63,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Incredible Jobs You’ve (Probably) Never Heard Of, by Natalie Labarre
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/Iikcg3x.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
@@ -90,7 +90,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MDg5MzkxLC0xMTE4MzQzNzU1LDE5Nj
+eyJoaXN0b3J5IjpbNTc4Njc1NTA0LC0xMTE4MzQzNzU1LDE5Nj
 ExNzg5MywtMTYyNjkyOTU0MywtNjQ4Mzg4NDIyLDIwODA3MzQ3
 MDYsOTYxMjE0OTMzXX0=
 -->
