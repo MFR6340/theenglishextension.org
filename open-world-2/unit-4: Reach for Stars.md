@@ -62,13 +62,13 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Title here, by author here
+### Incredible Jobs You’ve (Probably) Never Heard Of, by Natalie Labarre
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Incredible-Jobs-Youve-Probably-Never-Heard-Natalie-Labarre/9781788008488?ref=grid-view&qid=1674998557421&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054247992" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title here, by author here
 <img src="imgurlinkhere.png" width="25%" />
@@ -90,7 +90,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTc1NjgyMywtMTExODM0Mzc1NSwxOT
-YxMTc4OTMsLTE2MjY5Mjk1NDMsLTY0ODM4ODQyMiwyMDgwNzM0
-NzA2LDk2MTIxNDkzM119
+eyJoaXN0b3J5IjpbODM3MDg5MzkxLC0xMTE4MzQzNzU1LDE5Nj
+ExNzg5MywtMTYyNjkyOTU0MywtNjQ4Mzg4NDIyLDIwODA3MzQ3
+MDYsOTYxMjE0OTMzXX0=
 -->
