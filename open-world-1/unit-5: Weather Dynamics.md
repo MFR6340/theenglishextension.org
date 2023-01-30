@@ -44,12 +44,15 @@ summary here.  (lexile level       )
 ### Horrible Geography: Stormy Weather, by Anita Ganeri
 <img src="https://imgur.com/YFYgjak.png" width="25%" />
 
-summary here.  (Lexile level       )
+summary here.  (Lexile        )
 
 <a href="https://www.bookdepository.com/Stormy-Weather-Anita-Ganeri/9781407196244?ref=grid-view&qid=1674915008947&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036942730" rel="nofollow">Buy on Orell Füssli</a>
 
+### Supplemental Activities
+Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visist 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwNjU0NTkyLDEzNDU0MzQxMjQsLTEwMD
-gwMDEyNDAsLTc0NDI1MjUxNl19
+eyJoaXN0b3J5IjpbLTU3MDQyOTgxNywxMzQ1NDM0MTI0LC0xMD
+A4MDAxMjQwLC03NDQyNTI1MTZdfQ==
 -->
