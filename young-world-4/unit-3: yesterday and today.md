@@ -75,15 +75,6 @@ Honestly, any of the books in the Horrible Histories series serve as a funny and
 <a href="https://www.bookdepository.com/Terrible-Tudors-Terry-Deary/9781407104898?ref=grid-view&qid=1675094181535&sr=1-4" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1007307425" rel="nofollow">Buy on  Orell Füssli</a>
 
-### Dangerous Days on the Victorian Railways, by Terry Deary
-
-<img src="https://imgur.com/Q0ARLiL.png" width="25%" />
-
-By the author of the Horrible Histories series, this new series is a bit longer for older readers.  It still provides the humor, despite the sometimes heavy subject matter.  
-
-<a href="https://www.bookdepository.com/Dangerous-Days-on-Victorian-Railways-Terry-Deary/9781780226361?ref=grid-view&qid=1674491074938&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034790323" rel="nofollow">Buy on  Orell Füssli</a>
-
 
 ### Soup, by Robert Newton Peck
 
@@ -94,11 +85,11 @@ By the author of the Horrible Histories series, this new series is a bit longer 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTkxNzAxMiwtNzUyODQ3MDQ5LDE3NT
-A3MTQ3NjAsOTE4MDE4Nzk2LC0yMDkxMzEzNzMwLDUzNzUzOTMz
-MSwzNzg5MzU5MzMsMjAxNzA0ODU2NywzMDQyOTIwNDUsNTAxMz
-g2NjE3LDI3ODEzMTM4OSwtODYwNTE4NTY4LDE1ODY4OTIzODUs
-LTYzMjIwMDQ2OCwxMTIzODI2NzU4LDEyNzMxODI3NzgsLTE4MD
-QxMzA1NCwtMjEyMTE0NzI5OSwtMTM4MzE1NTEwNSwtMTAxOTk0
-MTc5MV19
+eyJoaXN0b3J5IjpbLTIwOTExNTUzNzQsLTc1Mjg0NzA0OSwxNz
+UwNzE0NzYwLDkxODAxODc5NiwtMjA5MTMxMzczMCw1Mzc1Mzkz
+MzEsMzc4OTM1OTMzLDIwMTcwNDg1NjcsMzA0MjkyMDQ1LDUwMT
+M4NjYxNywyNzgxMzEzODksLTg2MDUxODU2OCwxNTg2ODkyMzg1
+LC02MzIyMDA0NjgsMTEyMzgyNjc1OCwxMjczMTgyNzc4LC0xOD
+A0MTMwNTQsLTIxMjExNDcyOTksLTEzODMxNTUxMDUsLTEwMTk5
+NDE3OTFdfQ==
 -->
