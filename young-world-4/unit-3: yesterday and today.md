@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/njY8PTT.png" width="25%" />
 
-The author chronicles his life as the younger brother of the infamous 10 year old Tom Fitzgerald, the Great Brain. Each chapters tells a story of how Tom manages to swindle someone in the to (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+The author chronicles his life in Utah (USA) in 1896 as the younger brother of the infamous 10 year old Tom Fitzgerald, the Great Brain. Each chapters tells a story of how Tom manages to swindle someone in the town and get a little richer.  The book takes place in Utah in 1896 (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Great-Brain-John-D-Fitzgerald/9780142400586?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003007318" rel="nofollow">Buy on Orell Füssli</a>
@@ -95,7 +95,7 @@ During the height of World War I, a New Zealand girl quits school to help her wi
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MjE1MTEwLDIwMTcwNDg1NjcsMzA0Mj
+eyJoaXN0b3J5IjpbNDQwNzY0OTc5LDIwMTcwNDg1NjcsMzA0Mj
 kyMDQ1LDUwMTM4NjYxNywyNzgxMzEzODksLTg2MDUxODU2OCwx
 NTg2ODkyMzg1LC02MzIyMDA0NjgsMTEyMzgyNjc1OCwxMjczMT
 gyNzc4LC0xODA0MTMwNTQsLTIxMjExNDcyOTksLTEzODMxNTUx
