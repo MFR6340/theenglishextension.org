@@ -25,14 +25,14 @@ A comprehensive visual journey of the human body from cells to systems. Highly d
 
 
 
-## # Knowledge Encyclopedia Human Body, by DK
+## # Knowledge Encyclopedia Human Body!, by DK
 
 <img src="https://i.imgur.com/jEDLHLM.png" width="25%" />
 
 summary here.
 
 <a href="https://www.bookdepository.com/Knowledge-Encyclopedia-Human-Body-DK/9780241286852?ref=grid-view&qid=1675115738228&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059647890" rel="nofollow"> Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1043965515?sq=Knowledge%20Encyclopedia%20Human%20Body!&stype=productName" rel="nofollow"> Buy on Orell Füssli</a>
 
 ## Jim Abbott, Against All Odds, by Ellen Emerson White
 
@@ -64,7 +64,7 @@ Designed to be used with this unit. Available on request.
 <img src="https://i.imgur.com/EIwoUmT.png" width="20%" />
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTY3MjczMDAsLTEyNTMyNDQzMzYsLT
+eyJoaXN0b3J5IjpbLTE2ODEzNjA0MjgsLTEyNTMyNDQzMzYsLT
 E0OTYwNTg4MTUsMTAyODk5ODI4NCwxMzQ0NzAzNTU0LDE1Nzgx
 NTg0NzYsLTU5MTI5MDMxMiwtMjgwMjQ4MzcsLTE1NjY5Mjk3NT
 QsMzI1MTg0NTEyLC0xNjI0NDA3NTIwLDEzODYwNjUxNjAsMjEw
