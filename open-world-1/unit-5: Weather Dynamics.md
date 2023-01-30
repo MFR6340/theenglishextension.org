@@ -50,9 +50,10 @@ summary here.  (Lexile        )
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036942730" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Supplemental Activities
-Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit Technorama, the science center in Wintertur, Zurich, and see how lightening is formed. Performances are at 11.30 and 14.30.  
+Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit  [Technorama](https://www.technorama.ch/en/home), the science center in Wintertur, Zurich, and see how lightening is formed. Performances are at 11.30 and 14.30.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MzAxNjU4OCwxMTcwNTI2MTk1LDEzND
-U0MzQxMjQsLTEwMDgwMDEyNDAsLTc0NDI1MjUxNl19
+eyJoaXN0b3J5IjpbLTQ5NDM4NDY0NiwtNDUzMDE2NTg4LDExNz
+A1MjYxOTUsMTM0NTQzNDEyNCwtMTAwODAwMTI0MCwtNzQ0MjUy
+NTE2XX0=
 -->
