@@ -13,15 +13,14 @@ summary here.  (Lexile 810L  ) <sup>[what is this?](/resources/Lexile%20measures
 <a href="https://www.bookdepository.com/Villainous-Victorians-Terry-Deary/9781407178684?ref=grid-view&qid=1674999131666&sr=1-10" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1042907997" rel="nofollow">Buy on Orell Füssli</a> 
 
-
 ### Dangerous Days on the Victorian Railways, by Terry Deary
 
-<img src="https://imgur.com/CsVzp2P.png" width="25%" />
+<img src="https://imgur.com/Q0ARLiL.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+By the author of the Horrible Histories series, this new series is a bit longer for older readers.  It still provides the humor, despite the sometimes heavy subject matter.  
 
-<a href="https://www.bookdepository.com/Dangerous-Days-on-Victorian-Railways-Terry-Deary/9781780226361?ref=grid-view&qid=1675000091037&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034790323" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Dangerous-Days-on-Victorian-Railways-Terry-Deary/9781780226361?ref=grid-view&qid=1674491074938&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034790323" rel="nofollow">Buy on  Orell Füssli</a>
 
 
 ### Oliver Twist, by Charles Dickens
@@ -119,8 +118,9 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 <a href="https://www.bookdepository.com/Queen-Victoria-Kate-Hubbard/9781904095828?ref=grid-view&qid=1675002186535&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjU1NzA2OSwyMTQzODE3MDY4LDE0OD
-YwNTg5NDksLTE4OTUwOTk3MjgsMTQxNzYxNDY1MiwtNDY0MzU3
-MDAwLC0yMDMwOTE2MTkyLDEzNTM2MzgyMSwtMTM3OTY3Mjc4OS
-wxOTI0ODI3Mjc0LC04NTU5MDcyMywtMTE2ODQwNTQyOV19
+eyJoaXN0b3J5IjpbLTE1Nzc3NzYyNDEsLTcyMjU1NzA2OSwyMT
+QzODE3MDY4LDE0ODYwNTg5NDksLTE4OTUwOTk3MjgsMTQxNzYx
+NDY1MiwtNDY0MzU3MDAwLC0yMDMwOTE2MTkyLDEzNTM2MzgyMS
+wtMTM3OTY3Mjc4OSwxOTI0ODI3Mjc0LC04NTU5MDcyMywtMTE2
+ODQwNTQyOV19
 -->
