@@ -80,12 +80,12 @@ First book in a hilarious series about the author's life growing up in the Vermo
 
 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1007307425" rel="nofollow">Buy on  Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006201678" rel="nofollow">Buy on  Orell Füssli</a>
 
-https://www.orellfuessli.ch/shop/home/artikeldetails/A1006201678
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc2NDQwNjcsLTgxMjUyODY3MCwxOT
+eyJoaXN0b3J5IjpbLTE2MTc3NzQ0MTQsLTgxMjUyODY3MCwxOT
 Q5MjgxMDEwLC0yMDkxMTU1Mzc0LC03NTI4NDcwNDksMTc1MDcx
 NDc2MCw5MTgwMTg3OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMxLD
 M3ODkzNTkzMywyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2
