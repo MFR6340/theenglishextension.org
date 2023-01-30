@@ -40,7 +40,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 <a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
 
- ### The Door in the Wall, by Marguerite de Angeli
+### The Door in the Wall, by Marguerite de Angeli
 
 <img src="https://imgur.com/z9a1nk1.png" width="25%" />
 
@@ -61,7 +61,7 @@ It's one of the shortest books to win the Newbery Medal, so it won't take long t
 
 <img src="https://imgur.com/G2oI2PD.png" width="25%" />
 
-During the height of World War I, a New Zealand girl quits school to help her widowed mother and takes on the job of delivering telegrams, many which give the worst possible news.  (No lexile level )
+During the height of World War I, a New Zealand girl quits school to help her widowed mother and takes on the job of delivering telegrams, many which give the worst possible news.  (No lexile measure)
 
 <a href="https://www.bookdepository.com/The-Telegram-Philippa-Werry/9780473462826" rel="nofollow"> Buy on BookDepository</a>
  
@@ -93,11 +93,11 @@ During the height of World War I, a New Zealand girl quits school to help her wi
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTEzMTM3MzAsNTM3NTM5MzMxLDM3OD
-kzNTkzMywyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2MTcs
-Mjc4MTMxMzg5LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwtNjMyMj
-AwNDY4LDExMjM4MjY3NTgsMTI3MzE4Mjc3OCwtMTgwNDEzMDU0
-LC0yMTIxMTQ3Mjk5LC0xMzgzMTU1MTA1LC0xMDE5OTQxNzkxLD
-U1ODI5ODMwLC01NjYxNTg1MTAsODIyOTI4Mjk3LDc4MDM4MzBd
-fQ==
+eyJoaXN0b3J5IjpbOTE4MDE4Nzk2LC0yMDkxMzEzNzMwLDUzNz
+UzOTMzMSwzNzg5MzU5MzMsMjAxNzA0ODU2NywzMDQyOTIwNDUs
+NTAxMzg2NjE3LDI3ODEzMTM4OSwtODYwNTE4NTY4LDE1ODY4OT
+IzODUsLTYzMjIwMDQ2OCwxMTIzODI2NzU4LDEyNzMxODI3Nzgs
+LTE4MDQxMzA1NCwtMjEyMTE0NzI5OSwtMTM4MzE1NTEwNSwtMT
+AxOTk0MTc5MSw1NTgyOTgzMCwtNTY2MTU4NTEwLDgyMjkyODI5
+N119
 -->
