@@ -9,7 +9,7 @@
 
 <img src="https://imgur.com/0oemAkn.png" width="25%" />
 
-This amazing bird flew 144,840km in his migration from Tierra del Fuego to the Canadian Arctic.  And he did it again and again, back and forth for 20 years, making his journey longer than the distance to the moonsummary here. (Llexile 1150L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+This amazing bird flew 144,840km in his migration from Tierra del Fuego to the Canadian Arctic.  And he did it again and again, back and forth for 20 years, making his journey longer than the distance to the moonsummary here. (Lexile 1150L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 ***Teachers: Lessons plans are available for this unit.  Please contact us to receive a copy.***
 
 <a href="https://www.bookdepository.com/Moonbird-Phillip-Hoose/9780374304683?ref=grid-view&qid=1665929598174&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -76,8 +76,8 @@ At Technorama in Winterthur, attend the Public Workshop in Biology [on Woodlice 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQ0MTA4MDMsLTE4OTIyNjE3MTQsLT
-EzOTgzMDM5NTUsLTEwMjcyMDYyNzksLTE4Nzg5NjE5ODUsODU4
-MDUwNjc5LC0zMTI2NDk3MjMsMTk5OTk4NzIzMiwxODA2OTA5MD
-A2XX0=
+eyJoaXN0b3J5IjpbLTYyNzM2NDk3OSwtMTg5MjI2MTcxNCwtMT
+M5ODMwMzk1NSwtMTAyNzIwNjI3OSwtMTg3ODk2MTk4NSw4NTgw
+NTA2NzksLTMxMjY0OTcyMywxOTk5OTg3MjMyLDE4MDY5MDkwMD
+ZdfQ==
 -->
