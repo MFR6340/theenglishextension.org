@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/njY8PTT.png" width="25%" />
 
-The author chronicles his life as the younger brother of the infamous 10 year old Tom Fitzgerald, the G .  (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+The author chronicles his life as the younger brother of the infamous 10 year old Tom Fitzgerald, the Great Brain. Each chapters tells a funny story of how Tom manages to swindle   (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Great-Brain-John-D-Fitzgerald/9780142400586?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003007318" rel="nofollow">Buy on Orell Füssli</a>
@@ -95,10 +95,10 @@ During the height of World War I, a New Zealand girl quits school to help her wi
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0NzM0MDE4LDIwMTcwNDg1NjcsMzA0Mj
-kyMDQ1LDUwMTM4NjYxNywyNzgxMzEzODksLTg2MDUxODU2OCwx
-NTg2ODkyMzg1LC02MzIyMDA0NjgsMTEyMzgyNjc1OCwxMjczMT
-gyNzc4LC0xODA0MTMwNTQsLTIxMjExNDcyOTksLTEzODMxNTUx
-MDUsLTEwMTk5NDE3OTEsNTU4Mjk4MzAsLTU2NjE1ODUxMCw4Mj
-I5MjgyOTcsNzgwMzgzMF19
+eyJoaXN0b3J5IjpbMjEzMTgzOTYzNSwyMDE3MDQ4NTY3LDMwND
+I5MjA0NSw1MDEzODY2MTcsMjc4MTMxMzg5LC04NjA1MTg1Njgs
+MTU4Njg5MjM4NSwtNjMyMjAwNDY4LDExMjM4MjY3NTgsMTI3Mz
+E4Mjc3OCwtMTgwNDEzMDU0LC0yMTIxMTQ3Mjk5LC0xMzgzMTU1
+MTA1LC0xMDE5OTQxNzkxLDU1ODI5ODMwLC01NjYxNTg1MTAsOD
+IyOTI4Mjk3LDc4MDM4MzBdfQ==
 -->
