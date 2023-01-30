@@ -12,7 +12,7 @@ Sylvia has been the Head of the Department of Foreign Languages and a Lecturer f
 **Louise Villiger** Louise holds a Bachelors in Business Studies from DCU in Ireland, and a PGCE in Primary Education from St. Mary’s Twickenham, U.K. She worked in primary schools in central London and in Donegal, Ireland.  After she moved to Switzerland,  she taught in two international schools, finding her dream job of working as a library teacher at ISZL before motherhood called. She has worked as a private English tutor for adults and children. She is currently teaching native English speakers at the Oberägeri primary school where she lives with her family.
 
 **Tina Hörning**
-Tina holds a BA in Early Childhood and Elementary Education from the University of Rhode Island (USA).  In the United States, she taught Kindergarten, 1st and 2nd Grades, and substituted in all primary school grades.  She lives in Cham (ZG) with her husband and three children and works in the local Swiss schools providing support to native English speakers. 
+Tina holds a BA in Early Childhood and Elementary Education from the University of Rhode Island (USA).  In the United States, she taught Kindergarten, 1st and 2nd Grades, and substituted in all primary school grades.  She lives in Cham (ZG) with her husband and three children and assists in the local Swiss schools providing support to native English speakers. 
 
 
 **Paula Lüchinger**
@@ -35,9 +35,9 @@ Stormy currently runs the English Mentoring Program for the primary schools of t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTU5NzcxOSw5NjI2NDU1MjAsLTEzNj
-U3NTA4MjIsLTE4MzEyOTQ4MTQsMjExNTMzMjM5NiwyMzE2NzQ0
-NjQsLTIwNTAxOTE4MDgsLTEwMjQyNjQ1MjIsLTEwNzQ3NDYyMT
-MsLTEwMzc0MDM5NTQsMTM4NDM1NDA2NSwxMTMxNDg0MjgzXX0=
-
+eyJoaXN0b3J5IjpbMTI4MjIzNTcxMywtMTE1NTk3NzE5LDk2Mj
+Y0NTUyMCwtMTM2NTc1MDgyMiwtMTgzMTI5NDgxNCwyMTE1MzMy
+Mzk2LDIzMTY3NDQ2NCwtMjA1MDE5MTgwOCwtMTAyNDI2NDUyMi
+wtMTA3NDc0NjIxMywtMTAzNzQwMzk1NCwxMzg0MzU0MDY1LDEx
+MzE0ODQyODNdfQ==
 -->
