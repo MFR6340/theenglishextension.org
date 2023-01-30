@@ -17,7 +17,7 @@ The author chronicles his life in Utah (USA) in 1896 as the younger brother of t
 
 <img src="https://imgur.com/0Yih5hU.png" width="25%" />
 
-summary here. (Lexile 1030L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+Winner of the Newbery Medal.  Adam is the son of a minstral in 13th Century England.  summary here. (Lexile 1030L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Adam-Road-Elizabeth-Janet-Gray/9780140324648?ref=grid-view&qid=1665930041706&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354191" rel="nofollow">Buy on Orell Füssli</a>
@@ -95,10 +95,10 @@ During the height of World War I, a New Zealand girl quits school to help her wi
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MjI3NTQ5LDIwMTcwNDg1NjcsMzA0Mj
-kyMDQ1LDUwMTM4NjYxNywyNzgxMzEzODksLTg2MDUxODU2OCwx
-NTg2ODkyMzg1LC02MzIyMDA0NjgsMTEyMzgyNjc1OCwxMjczMT
-gyNzc4LC0xODA0MTMwNTQsLTIxMjExNDcyOTksLTEzODMxNTUx
-MDUsLTEwMTk5NDE3OTEsNTU4Mjk4MzAsLTU2NjE1ODUxMCw4Mj
-I5MjgyOTcsNzgwMzgzMF19
+eyJoaXN0b3J5IjpbLTIwOTU0NTMyMzksMjAxNzA0ODU2NywzMD
+QyOTIwNDUsNTAxMzg2NjE3LDI3ODEzMTM4OSwtODYwNTE4NTY4
+LDE1ODY4OTIzODUsLTYzMjIwMDQ2OCwxMTIzODI2NzU4LDEyNz
+MxODI3NzgsLTE4MDQxMzA1NCwtMjEyMTE0NzI5OSwtMTM4MzE1
+NTEwNSwtMTAxOTk0MTc5MSw1NTgyOTgzMCwtNTY2MTU4NTEwLD
+gyMjkyODI5Nyw3ODAzODMwXX0=
 -->
