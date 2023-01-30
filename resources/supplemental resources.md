@@ -46,7 +46,7 @@ Sometimes it's a challenge to find the right word or emotion.  Often, there's a 
  
 ## Unit Booklets for Klett Program
 
-TEEO provides supplemental booklets which canto be used in primary schoolthe classrooms in conjunction with the Klett Young World English pProgram.   These booklets are available for all units in Grade levels 3-6. For a copy, please contact TEEO.
+TEEO provides extension booklets which can be used in primary school classrooms in conjunction with the Klett Young World English Program.   These booklets are available for all units in Grade levels 3-6. For a copy, please contact TEEO.
 
 #### Third Grade, Young World 1
 <img src="https://i.imgur.com/QfnRUdP.png" width="20%" />
@@ -86,9 +86,9 @@ TEEO provides supplemental booklets which canto be used in primary schoolthe cla
    Elevator, by Roald Dahl, Read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTMzNjk2MCwxMDk4MTE3NjUsODI3Mz
-M4Mzg5LDEwNzI1Njc2MTEsLTM3NzcwNDU2NCwtMTYwNjE5NTk4
-LC0xMTI3OTE4Nzk2LC0xNTg0ODk1MDQ1LC0xNDY2NjgzNTQ3LD
-E0MjcyNzA1MTgsLTEwNjIyMjQxMDEsLTIwMzUwNDY4OTAsMTQ1
-NzUxMjc2Ml19
+eyJoaXN0b3J5IjpbLTE4NTI2NTg2MjksLTk0NTMzNjk2MCwxMD
+k4MTE3NjUsODI3MzM4Mzg5LDEwNzI1Njc2MTEsLTM3NzcwNDU2
+NCwtMTYwNjE5NTk4LC0xMTI3OTE4Nzk2LC0xNTg0ODk1MDQ1LC
+0xNDY2NjgzNTQ3LDE0MjcyNzA1MTgsLTEwNjIyMjQxMDEsLTIw
+MzUwNDY4OTAsMTQ1NzUxMjc2Ml19
 -->
