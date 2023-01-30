@@ -78,11 +78,11 @@ summary here. (Lexile AD620L)  <sup>[what is this?](/resources/Lexile%20measures
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051788134" rel="nofollow"> Buy on Orell Füssli</a>
 
-## Supplemental Booklets
+## Extension Booklet
 Designed to be used with this unit. Available on request.
 <img src="https://i.imgur.com/e9jsiaz.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzY3NjQ4NzgsLTExOTM4NzQ2MDIsNz
+eyJoaXN0b3J5IjpbLTIwMDQ5OTQyMTAsLTExOTM4NzQ2MDIsNz
 A2ODk3Nzc1LDE0MDk3ODk2MjYsNTMyMjA5MjMwLDk4MDM5NDA3
 NSw5MjI1NjQxNDEsMTMzODI0Njk3OCwxMzA0NDA1NzM2LDM1MD
 E2MDc5NCwtMzI2MTMwNzQ3LC0zMDgzODk4MjksMTI2NzM5NDEx
