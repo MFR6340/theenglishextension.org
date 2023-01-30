@@ -7,7 +7,7 @@ Caldecott Medal Winner
 
 <img src="https://imgur.com/CCxAtjQ.png" width="25%" />
 
-The fascinating true story of Wilson Bentley who patiently persevered to find a way to photograph snowflakes and to ultimately show their beauty and uniqueness.  (Lexile 830L)
+The fascinating true story of Wilson Bentley who patiently persevered to find a way to photograph snowflakes and to ultimately show their beauty and uniqueness.  (Lexile 830L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Snowflake-Bentley-Jacqueline-Briggs-Martin/9780547248295?ref=grid-view&qid=1656000835734&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1008254739" rel="nofollow">Buy on Orell Füssli</a>
@@ -28,7 +28,7 @@ Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dak
 
 <img src="https://imgur.com/G7PcSRf.png" width="25%" />
 
-Weather in 17 different places around the world from the poles to the equator.   (Lexile AD810L)
+Weather in 17 different places around the world from the Poles to the equator.   (Lexile AD810L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/On-Same-Day-March-Marilyn-Singer/9780064435284?ref=grid-view&qid=1656001703242&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006302447" rel="nofollow">Buy on Orell Füssli</a>
@@ -37,7 +37,7 @@ Weather in 17 different places around the world from the poles to the equator.  
 ### Everything Weather, National Geographic
 <img src="https://imgur.com/52GDmGt.png" width="25%" />
 
-Lots of amazing National Geographic photos of fascinating weather.  (Lexile 950L)
+Lots of amazing National Geographic photos of fascinating weather.  (Lexile 950L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Everything-Weather-Kathy-Furgang/9781426310584?ref=grid-view&qid=1656001785649&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018777945" rel="nofollow">Buy on Orell Füssli</a>
@@ -45,7 +45,7 @@ Lots of amazing National Geographic photos of fascinating weather.  (Lexile 950L
 ### Hurricane & Tornado, DK Eyewitness
 <img src="https://imgur.com/8wWCR3V.png" width="25%" />
 
-summary here.  (Lexile 1090L)
+summary here.  (Lexile 1090L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/DK-Eyewitness-Books-Hurricane-Tornado-Jack-Challoner/9781465420534?ref=grid-view&qid=1656442853663&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1032481893" rel="nofollow">Buy on Orell Füssli</a>
@@ -54,7 +54,7 @@ summary here.  (Lexile 1090L)
 
 <img src="https://imgur.com/7xyuvRS.png" width="25%" />
 
-summary here. (exile 600)
+summary here. (exile 600)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Magic-School-Bus-inside-Hurricane-Joanna-Cole/9780590446877?ref=grid-view&qid=1665847708965&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003335907" rel="nofollow">Buy on Orell Füssli</a>
@@ -64,7 +64,7 @@ summary here. (exile 600)
 
 <img src="https://i.imgur.com/ZTKoXb8.png" width="25%" />
 
-summary here.  (Lexile 980L)
+summary here.  (Lexile 980L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Next-Time-You-See-Cloud-Emily-Morgan/9781938946363?ref=grid-view&qid=1673794600197&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059305713" rel="nofollow"> Buy on Orell Füssli</a>
@@ -73,16 +73,16 @@ summary here.  (Lexile 980L)
 
 <img src="https://imgur.com/02ldsWl.png" width="25%" />
 
-summary here. (Lexile AD620L)
+summary here. (Lexile AD620L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051788134" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2ODk3Nzc1LDE0MDk3ODk2MjYsNTMyMj
-A5MjMwLDk4MDM5NDA3NSw5MjI1NjQxNDEsMTMzODI0Njk3OCwx
-MzA0NDA1NzM2LDM1MDE2MDc5NCwtMzI2MTMwNzQ3LC0zMDgzOD
-k4MjksMTI2NzM5NDExMywzNDYzOTg0OTEsLTIxOTI4MzMxNCwt
-ODcxODEzNzAzLDE4OTA1NTEwMTgsMTc4NDA3Mzg4NSw4OTkzNT
-c3NzksLTc3MjMyNDQwNSwxMzE1MDEwOTI4LDEzMDQ2NjIyODld
-fQ==
+eyJoaXN0b3J5IjpbLTExOTM4NzQ2MDIsNzA2ODk3Nzc1LDE0MD
+k3ODk2MjYsNTMyMjA5MjMwLDk4MDM5NDA3NSw5MjI1NjQxNDEs
+MTMzODI0Njk3OCwxMzA0NDA1NzM2LDM1MDE2MDc5NCwtMzI2MT
+MwNzQ3LC0zMDgzODk4MjksMTI2NzM5NDExMywzNDYzOTg0OTEs
+LTIxOTI4MzMxNCwtODcxODEzNzAzLDE4OTA1NTEwMTgsMTc4ND
+A3Mzg4NSw4OTkzNTc3NzksLTc3MjMyNDQwNSwxMzE1MDEwOTI4
+XX0=
 -->
