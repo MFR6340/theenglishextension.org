@@ -101,13 +101,13 @@ This is the young adult version of the autobiographical story of Trevor Noah, a 
 ### Describing Emotions
 When we describe ourselves or other people, we usually start with how we look.  But a really good description tells how a person FEELS as well.   This fabulous emotion wheel by Geoffrey Roberts is a great way to find some precise words to use when telling or write about a person or a character in a book.  Print this chart and hang it on the door or the refrigerator or bathroom mirror for a week or two.
 
-<img src="https://i.imgur.com/tCWChf6.jpeg" width="5%" />
+<img src="https://i.imgur.com/tCWChf6.jpeg" width="45%" />
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzOTg3NDU4LC0xMjkyMTc3MDczLDE1NT
-c5MTY4MzcsLTMxNzc1MDAzNyw4ODY0MzQwMzcsNjc0NjY4NjM0
-LC01MzYxMDE2NjUsLTIwMzgxNzMwOTEsMTAyMDE3NzczNCw0Mj
-UxOTcwNzgsNTYyNTIzNjEwLDE4NzY3MjM0NiwtOTA4NjE3MCwt
-NTgxNDc3NTkwXX0=
+eyJoaXN0b3J5IjpbMTkyNzQ3NzM1NiwtMTI5MjE3NzA3MywxNT
+U3OTE2ODM3LC0zMTc3NTAwMzcsODg2NDM0MDM3LDY3NDY2ODYz
+NCwtNTM2MTAxNjY1LC0yMDM4MTczMDkxLDEwMjAxNzc3MzQsND
+I1MTk3MDc4LDU2MjUyMzYxMCwxODc2NzIzNDYsLTkwODYxNzAs
+LTU4MTQ3NzU5MF19
 -->
