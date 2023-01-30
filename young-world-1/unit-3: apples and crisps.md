@@ -65,7 +65,7 @@ Third-grade Phoebe has a new classmate from France who expands her knowledge and
 
 <img src="https://imgur.com/BIkI5aV.png" width="25%" />
 
-summary here. (940L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+A girl with cystic fibrosis loves to bake and wins a spot on baking challenge.  A delicious story of overcoming a huge challenge.  Compl  (940L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Baking-Life-Amelie-Day-Vanessa-Curtis/9781496541383?ref=grid-view&qid=1673793543676&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038920519" rel="nofollow"> Buy on Orell Füssli</a>
@@ -93,6 +93,6 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzczNjA0OSw0MDAzMTYyMzUsLTgzND
-c3MDQ5OV19
+eyJoaXN0b3J5IjpbLTk1Mzk4NjM0NywxODI3NzM2MDQ5LDQwMD
+MxNjIzNSwtODM0NzcwNDk5XX0=
 -->
