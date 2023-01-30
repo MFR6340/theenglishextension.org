@@ -29,7 +29,7 @@ A comprehensive visual journey of the human body from cells to systems. Highly d
 
 <img src="https://i.imgur.com/jEDLHLM.png" width="25%" />
 
-summary here.
+An informative resource for age-appropriate childr
 
 <a href="https://www.bookdepository.com/Knowledge-Encyclopedia-Human-Body-DK/9780241286852?ref=grid-view&qid=1675115738228&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1043965515?sq=Knowledge%20Encyclopedia%20Human%20Body!&stype=productName" rel="nofollow"> Buy on Orell Füssli</a>
@@ -64,11 +64,11 @@ Designed to be used with this unit. Available on request.
 <img src="https://i.imgur.com/EIwoUmT.png" width="20%" />
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODEzNjA0MjgsLTEyNTMyNDQzMzYsLT
-E0OTYwNTg4MTUsMTAyODk5ODI4NCwxMzQ0NzAzNTU0LDE1Nzgx
-NTg0NzYsLTU5MTI5MDMxMiwtMjgwMjQ4MzcsLTE1NjY5Mjk3NT
-QsMzI1MTg0NTEyLC0xNjI0NDA3NTIwLDEzODYwNjUxNjAsMjEw
-ODk1NTc3OCwtMjY5MzIwNzIzLDgxMzEzNDUyLC0yMzgxNDIyMD
-gsMTMzOTI2Nzg5MiwtMjA5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1
-Mzk4NDEzM119
+eyJoaXN0b3J5IjpbLTk4ODc5Mzk0NSwtMTI1MzI0NDMzNiwtMT
+Q5NjA1ODgxNSwxMDI4OTk4Mjg0LDEzNDQ3MDM1NTQsMTU3ODE1
+ODQ3NiwtNTkxMjkwMzEyLC0yODAyNDgzNywtMTU2NjkyOTc1NC
+wzMjUxODQ1MTIsLTE2MjQ0MDc1MjAsMTM4NjA2NTE2MCwyMTA4
+OTU1Nzc4LC0yNjkzMjA3MjMsODEzMTM0NTIsLTIzODE0MjIwOC
+wxMzM5MjY3ODkyLC0yMDkzMTQ4MTY0LDE0NzI2ODk2OTQsNDUz
+OTg0MTMzXX0=
 -->
