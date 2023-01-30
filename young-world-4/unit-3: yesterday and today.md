@@ -69,6 +69,7 @@ During the height of World War I, a New Zealand girl quits school to help her wi
 
 <img src="https://imgur.com/qcFwwBW.png" width="25%" />
 
+By the author of the Horrible Histories series, this new series is a bit longer for older readers.  It still provides the humor, despite the the sometimes heavy subject matter.  
 
 
 <a href="https://www.bookdepository.com/Dangerous-Days-Elizabethan-England-Terry-Deary/9781780226378?ref=grid-view&qid=167448959708790745706&sr=1-13" rel="nofollow"> Buy on BookDepository</a>  
@@ -78,7 +79,7 @@ During the height of World War I, a New Zealand girl quits school to help her wi
 
 <img src="https://imgur.com/Q0ARLiL.png" width="25%" />
 
-By the author of the Horrible Histories series, this new series is a bit longer for older readers.  It still provides the humor, despite the 
+By the author of the Horrible Histories series, this new series is a bit longer for older readers.  It still provides the humor, despite the the sometimes heavy subject matter.  
 
 <a href="https://www.bookdepository.com/Dangerous-Days-on-Victorian-Railways-Terry-Deary/9781780226361?ref=grid-view&qid=1674491074938&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034790323" rel="nofollow">Buy on  Orell Füssli</a>
@@ -93,7 +94,7 @@ By the author of the Horrible Histories series, this new series is a bit longer 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDUwODk1MCw5MTgwMTg3OTYsLTIwOT
+eyJoaXN0b3J5IjpbMTc1MDcxNDc2MCw5MTgwMTg3OTYsLTIwOT
 EzMTM3MzAsNTM3NTM5MzMxLDM3ODkzNTkzMywyMDE3MDQ4NTY3
 LDMwNDI5MjA0NSw1MDEzODY2MTcsMjc4MTMxMzg5LC04NjA1MT
 g1NjgsMTU4Njg5MjM4NSwtNjMyMjAwNDY4LDExMjM4MjY3NTgs
