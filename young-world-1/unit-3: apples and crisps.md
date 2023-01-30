@@ -90,7 +90,7 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 
 # Supplemental Booklets
 Designed to be used with this unit. Available on request.
-<img src="https://i.imgur.com/EIwoUmT.png" width="20%" />
+<img src="https://i.imgur.com/jvptxBS.png" width="25%" />
 
 
 
@@ -98,6 +98,6 @@ Designed to be used with this unit. Available on request.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk5Mjc4MjUsMTgyNzczNjA0OSw0MD
-AzMTYyMzUsLTgzNDc3MDQ5OV19
+eyJoaXN0b3J5IjpbMjYyOTcwNDAzLC0xNjU5OTI3ODI1LDE4Mj
+c3MzYwNDksNDAwMzE2MjM1LC04MzQ3NzA0OTldfQ==
 -->
