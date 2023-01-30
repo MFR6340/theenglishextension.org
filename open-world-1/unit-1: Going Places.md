@@ -28,7 +28,7 @@ summary here.  (Lexile )
 
 <img src="https://imgur.com/LquXPjQ.png" width="25%" />
 
-summary here.  (Lexile level       )
+summary here.  (Lexile 790L )
 
 <a href="https://www.bookdepository.com/Gruesome-Guide-Edinburgh-newspaper-edition-Terry-Deary/9780702318122?ref=grid-view&qid=1674500219627&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -61,6 +61,7 @@ You don't need to leave Switzerland to see **Highland Dancing** or to learn how 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTUyNjY1NTMsLTIwNjI0MTI5MywxNz
-k5MzE4MjEyLDc4ODAxNzc4OSwtMTcyOTMwNjA0OV19
+eyJoaXN0b3J5IjpbLTE5OTYzMzcyODcsLTE4NTUyNjY1NTMsLT
+IwNjI0MTI5MywxNzk5MzE4MjEyLDc4ODAxNzc4OSwtMTcyOTMw
+NjA0OV19
 -->
