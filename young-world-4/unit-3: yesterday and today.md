@@ -17,7 +17,7 @@ The author chronicles his life in Utah (USA) in 1896 as the younger brother of t
 
 <img src="https://imgur.com/0Yih5hU.png" width="25%" />
 
-Winner of the Newbery Medal.  Adam is the son of a minstrel in 13th century England who goes on a journey to find his father which is filled with robbers, thi, and  summary here. (Lexile 1030L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+Winner of the Newbery Medal.  Adam is the son of a minstrel in 13th century England who goes on a journey to find his father which is filled with robbers, narrow escapes, and daring deeds.  A wonderful story of a resilient and brave boy during  Medieval times.  (Lexile 1030L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Adam-Road-Elizabeth-Janet-Gray/9780140324648?ref=grid-view&qid=1665930041706&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354191" rel="nofollow">Buy on Orell Füssli</a>
@@ -29,8 +29,6 @@ Winner of the Newbery Medal.  Adam is the son of a minstrel in 13th century Engl
 A story of the Canadian gold rush told by 13 year old Tim who heads out with his older brother to try to make their fortune. Tells of the difficulty of Chilkoot Pass, the lawlessness on the way, and the backbreaking work once they arrived.  Historical fiction account with some black and white photos included.  (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005058189" rel="nofollow">Buy on Orell Füssli</a>
-
-
 
 
 
@@ -95,7 +93,7 @@ During the height of World War I, a New Zealand girl quits school to help her wi
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyMjE1MjQ1LDM3ODkzNTkzMywyMDE3MD
+eyJoaXN0b3J5IjpbNTM3NTM5MzMxLDM3ODkzNTkzMywyMDE3MD
 Q4NTY3LDMwNDI5MjA0NSw1MDEzODY2MTcsMjc4MTMxMzg5LC04
 NjA1MTg1NjgsMTU4Njg5MjM4NSwtNjMyMjAwNDY4LDExMjM4Mj
 Y3NTgsMTI3MzE4Mjc3OCwtMTgwNDEzMDU0LC0yMTIxMTQ3Mjk5
