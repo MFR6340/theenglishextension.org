@@ -26,7 +26,7 @@ Winner of the Newbery Medal.  Adam is the son of a minstrel in 13th century Engl
 
 <img src="https://imgur.com/guWmras.png" width="25%" />
 
-A story of the Canadian gold rush told by 13 year old Tim who heads out with his older brother to try to make their fortune. Tells of the difficulty of Chilkoot Pass, the lawlessness on the way, and the backbreaking work once they arrived.  Historical fiction account with some black and white photos included.  (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+A story of the Canadian gold rush told by 13 year old Tim, who heads out with his older brother to try to make their fortune. He tells of the difficulty of Chilkoot Pass, the lawlessness on the way, and the backbreaking work once they arrived.  Historical fiction account with some black and white photos included.  (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005058189" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -93,10 +93,11 @@ During the height of World War I, a New Zealand girl quits school to help her wi
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NTM5MzMxLDM3ODkzNTkzMywyMDE3MD
-Q4NTY3LDMwNDI5MjA0NSw1MDEzODY2MTcsMjc4MTMxMzg5LC04
-NjA1MTg1NjgsMTU4Njg5MjM4NSwtNjMyMjAwNDY4LDExMjM4Mj
-Y3NTgsMTI3MzE4Mjc3OCwtMTgwNDEzMDU0LC0yMTIxMTQ3Mjk5
-LC0xMzgzMTU1MTA1LC0xMDE5OTQxNzkxLDU1ODI5ODMwLC01Nj
-YxNTg1MTAsODIyOTI4Mjk3LDc4MDM4MzBdfQ==
+eyJoaXN0b3J5IjpbLTIwOTEzMTM3MzAsNTM3NTM5MzMxLDM3OD
+kzNTkzMywyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2MTcs
+Mjc4MTMxMzg5LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwtNjMyMj
+AwNDY4LDExMjM4MjY3NTgsMTI3MzE4Mjc3OCwtMTgwNDEzMDU0
+LC0yMTIxMTQ3Mjk5LC0xMzgzMTU1MTA1LC0xMDE5OTQxNzkxLD
+U1ODI5ODMwLC01NjYxNTg1MTAsODIyOTI4Mjk3LDc4MDM4MzBd
+fQ==
 -->
