@@ -23,15 +23,6 @@ A comprehensive visual journey of the human body from cells to systems. Highly d
 <a href="https://www.bookdepository.com/Weird-But-True-Human-Body-National-Geographic-KIds/9781426327261?ref=grid-view&qid=1664279994796&sr=1-1" rel="nofollow"> Buy on Book Depository </a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1040208620" rel="nofollow">Buy on Orell Füssli</a>
 
-## Magic School Bus (non fiction series) Human Body, by Joanna Cole
-
-<img src="https://imgur.com/M96Ip5G.png" width="25%" />
-
-summary here.
-
-<a href="https://www.bookdepository.com/The-Magic-School-Bus-Presents-The-Human-Body-Dan-Green-Carolyn-Bracken/9780545683647" rel="nofollow"> Buy on BookDepository</a>
-
-
 
 
 ## 1,000 Amazing Human Body Facts, by DK
@@ -73,10 +64,10 @@ Designed to be used with this unit. Available on request.
 <img src="https://i.imgur.com/EIwoUmT.png" width="20%" />
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTYwNTg4MTUsMTAyODk5ODI4NCwxMz
-Q0NzAzNTU0LDE1NzgxNTg0NzYsLTU5MTI5MDMxMiwtMjgwMjQ4
-MzcsLTE1NjY5Mjk3NTQsMzI1MTg0NTEyLC0xNjI0NDA3NTIwLD
-EzODYwNjUxNjAsMjEwODk1NTc3OCwtMjY5MzIwNzIzLDgxMzEz
-NDUyLC0yMzgxNDIyMDgsMTMzOTI2Nzg5MiwtMjA5MzE0ODE2NC
-wxNDcyNjg5Njk0LDQ1Mzk4NDEzM119
+eyJoaXN0b3J5IjpbLTEyNTMyNDQzMzYsLTE0OTYwNTg4MTUsMT
+AyODk5ODI4NCwxMzQ0NzAzNTU0LDE1NzgxNTg0NzYsLTU5MTI5
+MDMxMiwtMjgwMjQ4MzcsLTE1NjY5Mjk3NTQsMzI1MTg0NTEyLC
+0xNjI0NDA3NTIwLDEzODYwNjUxNjAsMjEwODk1NTc3OCwtMjY5
+MzIwNzIzLDgxMzEzNDUyLC0yMzgxNDIyMDgsMTMzOTI2Nzg5Mi
+wtMjA5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1Mzk4NDEzM119
 -->
