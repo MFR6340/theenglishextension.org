@@ -25,7 +25,7 @@ summary here. (Lexile 800L)
 
 summary here.  (Lexile )
 
-<a href="https://www.bookdepository.com/Shackletons-Journey-William-Grill/9781909263109?ref=grid-view&qid=1674909553977&sr=1-1" rel="nofollow"> Buy on ref=res" rel="nofollow">Buy on esi</a> 
+<a href="https://www.bookdepository.com/Shackletons-Journey-William-Grill/9781909263109?ref=grid-view&qid=1674909553977&sr=1-1" rel="nofollow"> Buy on ref=res" rel="nofollow">Buy on</a> 
 
 ### Shackleton’s Endurance, by Joanna Grochowicz
 <img src="https://imgur.com/MnTpNOE.png" width="25%" />
@@ -76,10 +76,10 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjkyMTgxODcsMjI1NjQxNTE4LC0xNT
-Y4NTQ5MzU5LDUxMjc2NDcyLDU4MzY3OTU3MywtMTg0NzkyNjUx
-NCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYsLTE4NzMxOTY2ODAsMz
-cyNTg4NDcsMTkwODg2Njg1MywxMjAwMTgwMTUzLDQzOTY1MTI5
-OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEsMTQ3MTQyMTg1Nyw2MT
-Q1NzE5NDYsLTIwNzM5MjI2MzVdfQ==
+eyJoaXN0b3J5IjpbNDg4NjczMjY0LDIyNTY0MTUxOCwtMTU2OD
+U0OTM1OSw1MTI3NjQ3Miw1ODM2Nzk1NzMsLTE4NDc5MjY1MTQs
+MTc5OTg1MzYyOSwxMDc2NTI4Mzk2LC0xODczMTk2NjgwLDM3Mj
+U4ODQ3LDE5MDg4NjY4NTMsMTIwMDE4MDE1Myw0Mzk2NTEyOTks
+LTE3MTM5Mzg3NjEsNDQ5MjExNTgxLDE0NzE0MjE4NTcsNjE0NT
+cxOTQ2LC0yMDczOTIyNjM1XX0=
 -->
