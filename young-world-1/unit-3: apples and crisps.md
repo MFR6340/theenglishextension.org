@@ -65,7 +65,7 @@ Third-grade Phoebe has a new classmate from France who expands her knowledge and
 
 <img src="https://imgur.com/BIkI5aV.png" width="25%" />
 
-A girl with cystic fibrosis loves to bake and wins a spot on baking challenge.  A delicious story of overcoming a huge challenge.  Compl  (940L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+A girl with cystic fibrosis loves to bake and wins a spot on baking challenge.  A delicious story of overcoming a huge challenge.  Complete with recipes  (940L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Baking-Life-Amelie-Day-Vanessa-Curtis/9781496541383?ref=grid-view&qid=1673793543676&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038920519" rel="nofollow"> Buy on Orell Füssli</a>
@@ -88,11 +88,16 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 <a href="https://www.bookdepository.com/Nachos-Nachos-Sandra-Nickel/9781620143698?ref=grid-view&qid=1673793907326&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1057057543" rel="nofollow"> Buy on Orell Füssli</a>
 
+# Supplemental Booklets
+Designed to be used with this unit. Available on request.
+<img src="https://i.imgur.com/EIwoUmT.png" width="20%" />
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Mzk4NjM0NywxODI3NzM2MDQ5LDQwMD
-MxNjIzNSwtODM0NzcwNDk5XX0=
+eyJoaXN0b3J5IjpbLTE2NTk5Mjc4MjUsMTgyNzczNjA0OSw0MD
+AzMTYyMzUsLTgzNDc3MDQ5OV19
 -->
