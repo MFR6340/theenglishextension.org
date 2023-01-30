@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/njY8PTT.png" width="25%" />
 
-Tom Fitzger.  (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+Tom Fitzgerald has a great brain, he is always managing to convince .  (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Great-Brain-John-D-Fitzgerald/9780142400586?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003007318" rel="nofollow">Buy on Orell Füssli</a>
@@ -95,9 +95,9 @@ During the height of World War I, a New Zealand girl quits school to help her wi
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODIxNDA3MiwyNzgxMzEzODksLTg2MD
-UxODU2OCwxNTg2ODkyMzg1LC02MzIyMDA0NjgsMTEyMzgyNjc1
-OCwxMjczMTgyNzc4LC0xODA0MTMwNTQsLTIxMjExNDcyOTksLT
-EzODMxNTUxMDUsLTEwMTk5NDE3OTEsNTU4Mjk4MzAsLTU2NjE1
-ODUxMCw4MjI5MjgyOTcsNzgwMzgzMF19
+eyJoaXN0b3J5IjpbNTAxMzg2NjE3LDI3ODEzMTM4OSwtODYwNT
+E4NTY4LDE1ODY4OTIzODUsLTYzMjIwMDQ2OCwxMTIzODI2NzU4
+LDEyNzMxODI3NzgsLTE4MDQxMzA1NCwtMjEyMTE0NzI5OSwtMT
+M4MzE1NTEwNSwtMTAxOTk0MTc5MSw1NTgyOTgzMCwtNTY2MTU4
+NTEwLDgyMjkyODI5Nyw3ODAzODMwXX0=
 -->
