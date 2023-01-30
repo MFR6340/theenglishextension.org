@@ -46,9 +46,14 @@ Written in rhyming couplets, imaginative Jack wants to design his own house.  He
 
 Explore the structures on many acres of the Ballenberg Open-Air Museum.  It has over 100 different traditional buildings which have been transported from regions all over Switzerland.  See houses of farmers, craftsmen and labourers, as well as industrial and crafting buildings which are still used for demonstrations.  Listed as a heritage site of national significance, it is a wonderful way to spend a day. 
 https://www.ballenberg.ch/en/
+
+## Extension Booklet
+Designed to be used with this unit. Available on request.
+<img src="https://i.imgur.com/gFJu87j.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTEzMTU4MDAsMjA5NDg0MTM2OCwtMT
-Q4NDQ2OTE4OCwyMDQ3ODczMDE1LDk5NTIwNjcwNCwxMTk1MjYy
-NzYsLTExNDQyODY5ODEsLTEyMDE3MTYwOSwxMjM2NjM5NDQsLT
-E2NDYxNDMzNzAsMjExNjU5NTIxOSwtODkxODg0ODkzXX0=
+eyJoaXN0b3J5IjpbMzYxNzgyNTIsLTEyOTEzMTU4MDAsMjA5ND
+g0MTM2OCwtMTQ4NDQ2OTE4OCwyMDQ3ODczMDE1LDk5NTIwNjcw
+NCwxMTk1MjYyNzYsLTExNDQyODY5ODEsLTEyMDE3MTYwOSwxMj
+M2NjM5NDQsLTE2NDYxNDMzNzAsMjExNjU5NTIxOSwtODkxODg0
+ODkzXX0=
 -->
