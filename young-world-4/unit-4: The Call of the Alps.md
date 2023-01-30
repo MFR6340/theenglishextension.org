@@ -55,7 +55,7 @@ Summary here.  (Lexile 680L )
 
 # Supplemental Activities
 
-Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri grew up.  Come visit and learn all about the author who wrote the world-famous book, Heidi. <a href="https://spyri-museum.ch/en/" rel="nofollow">Spyri m </a>
+Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri grew up.  Come visit and learn all about the author who wrote the world-famous book, Heidi. 
 
 Keeping along the Heidi theme, visit <af= enolo it Heidi  via spot which is designed to look like the area where Heidi lived. <a href="https://www.ourswissexperience.com/en/2021/09/23/heididorf-heidis-village-maienfeld-visiting-the-worlds-most-famous-swiss-girl/ " rel="nofollow">Visiting Heidi's village</a>
 
@@ -68,8 +68,8 @@ nspunnenchwinget/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTg2Nzg5MSwtMTE2MDQ1OTAyMCwyND
-IyMjg4ODgsMTA4NDA5MzM0OSwxMzYzNjYxNTkxLC02MDQ3NDc3
-NjIsNDMyMDYyMTc2LC0xODk0NjAwODUzLDE4NDg4NTQxMjIsND
-U5MTgzMDU1XX0=
+eyJoaXN0b3J5IjpbLTEwNjcxMjY5MjksLTExNjA0NTkwMjAsMj
+QyMjI4ODg4LDEwODQwOTMzNDksMTM2MzY2MTU5MSwtNjA0NzQ3
+NzYyLDQzMjA2MjE3NiwtMTg5NDYwMDg1MywxODQ4ODU0MTIyLD
+Q1OTE4MzA1NV19
 -->
