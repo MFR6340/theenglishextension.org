@@ -65,11 +65,11 @@ During the height of World War I, a New Zealand girl quits school to help her wi
 
 <a href="https://www.bookdepository.com/The-Telegram-Philippa-Werry/9780473462826" rel="nofollow"> Buy on BookDepository</a>
  
-### Dangerous Days in Elizabethan England, by Terry Deary
+### Terrible Tudors, by Terry Deary
 
 <img src="https://imgur.com/qcFwwBW.png" width="25%" />
 
-By the author of the Horrible Histories series, this new series is a bit longer for older readers.  It still provides the humor, despite the the sometimes heavy subject matter.  
+Honestly, any of the books in the Horrible Histories series is good fun - a nicthis new series is a bit longer for older readers.  It still provides the humor, despite the the sometimes heavy subject matter.  
 
 
 <a href="https://www.bookdepository.com/Dangerous-Days-Elizabethan-England-Terry-Deary/9781780226378?ref=grid-view&qid=167448959708790745706&sr=1-13" rel="nofollow"> Buy on BookDepository</a>  
@@ -94,11 +94,11 @@ By the author of the Horrible Histories series, this new series is a bit longer 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1Mjg0NzA0OSwxNzUwNzE0NzYwLDkxOD
-AxODc5NiwtMjA5MTMxMzczMCw1Mzc1MzkzMzEsMzc4OTM1OTMz
-LDIwMTcwNDg1NjcsMzA0MjkyMDQ1LDUwMTM4NjYxNywyNzgxMz
-EzODksLTg2MDUxODU2OCwxNTg2ODkyMzg1LC02MzIyMDA0Njgs
-MTEyMzgyNjc1OCwxMjczMTgyNzc4LC0xODA0MTMwNTQsLTIxMj
-ExNDcyOTksLTEzODMxNTUxMDUsLTEwMTk5NDE3OTEsNTU4Mjk4
-MzBdfQ==
+eyJoaXN0b3J5IjpbLTEzNDY2NjQxODgsLTc1Mjg0NzA0OSwxNz
+UwNzE0NzYwLDkxODAxODc5NiwtMjA5MTMxMzczMCw1Mzc1Mzkz
+MzEsMzc4OTM1OTMzLDIwMTcwNDg1NjcsMzA0MjkyMDQ1LDUwMT
+M4NjYxNywyNzgxMzEzODksLTg2MDUxODU2OCwxNTg2ODkyMzg1
+LC02MzIyMDA0NjgsMTEyMzgyNjc1OCwxMjczMTgyNzc4LC0xOD
+A0MTMwNTQsLTIxMjExNDcyOTksLTEzODMxNTUxMDUsLTEwMTk5
+NDE3OTFdfQ==
 -->
