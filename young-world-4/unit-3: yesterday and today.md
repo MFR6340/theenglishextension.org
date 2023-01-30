@@ -40,8 +40,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 
 <a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
-"<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005058189" rel="nofollow">Buy on Orell Füssli</a>" rel="nofollow">Buy on Orell Füssli</a>
-
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005058189" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -90,11 +89,11 @@ Honestly, any of the books in the Horrible Histories series serve as a funny and
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ2MDY5NzkyLDE5NDkyODEwMTAsLTIwOT
-ExNTUzNzQsLTc1Mjg0NzA0OSwxNzUwNzE0NzYwLDkxODAxODc5
-NiwtMjA5MTMxMzczMCw1Mzc1MzkzMzEsMzc4OTM1OTMzLDIwMT
-cwNDg1NjcsMzA0MjkyMDQ1LDUwMTM4NjYxNywyNzgxMzEzODks
-LTg2MDUxODU2OCwxNTg2ODkyMzg1LC02MzIyMDA0NjgsMTEyMz
-gyNjc1OCwxMjczMTgyNzc4LC0xODA0MTMwNTQsLTIxMjExNDcy
-OTldfQ==
+eyJoaXN0b3J5IjpbLTgxMjUyODY3MCwxOTQ5MjgxMDEwLC0yMD
+kxMTU1Mzc0LC03NTI4NDcwNDksMTc1MDcxNDc2MCw5MTgwMTg3
+OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMxLDM3ODkzNTkzMywyMD
+E3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2MTcsMjc4MTMxMzg5
+LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwtNjMyMjAwNDY4LDExMj
+M4MjY3NTgsMTI3MzE4Mjc3OCwtMTgwNDEzMDU0LC0yMTIxMTQ3
+Mjk5XX0=
 -->
