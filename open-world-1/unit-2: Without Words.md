@@ -28,13 +28,13 @@ This is one of Mark Twain's most famous short stories.  It was adapted from a ca
 
 
 <a href="https://www.bookdepository.com/The-Science-of-Ant-Communication-Pamela-Paterson/9781479174416" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://zoboko.com/text/yqg01ye1/the-science-of-ant-communication-a-discussion-of-how-ants-talk-to-each-other/4" rel="nofollow">Available online</a> 
+<a href="https://zoboko.com/text/yqg01ye1/the-science-of-ant-communication-a-discussion-of-how-ants-talk-to-each-other/4" rel="nofollow">Available to read online</a> 
 
 ### Song for a Whale, by Lynne Kelly
 
 <img src="https://imgur.com/60HQpez.png" width="25%" />
 
-summary here.  (Lexile level       )
+summary here.  (Lexile 800L )
 
 <a href="https://www.bookdepository.com/Song-for-Whale-Lynne-Kelly/9781848126916?ref=grid-view&qid=1674838236128&sr=1-1 hereTitle  itr  a herei r="lnre.png" width="25%" />
 
@@ -56,7 +56,7 @@ summary here.  (Lexile level       )
 <a href="https://www.bookdepository.com/How-Speak-Animal-BUSHEL--PECK-BOOKS/9781638190431 link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1061657549 link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTc5ODM0NywtMTM3MzI4NzIyLC0yMT
+eyJoaXN0b3J5IjpbLTM1MzU3MTE2NCwtMTM3MzI4NzIyLC0yMT
 cwNTU0NjMsLTE2NzE2NzM1ODYsMTEwODc0NTg4MCwyMDg4NjM5
 NDM5LC0xNjM4OTQ5NjUzLC0xNDc5Mjk2MTMsMTc4ODI0Mjg2MS
 wtMTAyMzA2NzY0Nl19
