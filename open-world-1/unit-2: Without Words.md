@@ -18,7 +18,7 @@ This is one of Mark Twain's most famous short stories.  It was adapted from a ca
 
 <img src="https://imgur.com/pqlnouL.png" width="25%" />
 
- (Lexile 750L)
+ (Lexile 750L)   <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Trumpet-Swan-E-B-White/9780064408677?ref=grid-view&qid=1675111332931&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
 
@@ -26,7 +26,7 @@ This is one of Mark Twain's most famous short stories.  It was adapted from a ca
 
 <img src="https://imgur.com/GM680ip.png" width="25%" />
 
-summary here.  (Lexile level       )
+ (Lexile level       )
 
 <a href="https://www.bookdepository.com/The-Science-of-Ant-Communication-Pamela-Paterson/9781479174416" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://zoboko.com/text/yqg01ye1/the-science-of-ant-communication-a-discussion-of-how-ants-talk-to-each-other/4" rel="nofollow">Available online</a> 
@@ -57,7 +57,7 @@ summary here.  (Lexile level       )
 <a href="https://www.bookdepository.com/How-Speak-Animal-BUSHEL--PECK-BOOKS/9781638190431 link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1061657549 link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc4NDI0MjY2LC0xMzczMjg3MjIsLTIxNz
+eyJoaXN0b3J5IjpbNDczOTQxMDk5LC0xMzczMjg3MjIsLTIxNz
 A1NTQ2MywtMTY3MTY3MzU4NiwxMTA4NzQ1ODgwLDIwODg2Mzk0
 MzksLTE2Mzg5NDk2NTMsLTE0NzkyOTYxMywxNzg4MjQyODYxLC
 0xMDIzMDY3NjQ2XX0=
