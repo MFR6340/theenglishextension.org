@@ -59,16 +59,16 @@ At the Kultura Museum des Mensches in Zurich, learn all about human development 
 
 The exhibition BodyWorlds is not currently showing in Switzerland, but one can still visit BodyWorlds relatively close by.  Read up to make sure it is appropriate for your kids, then hop on a train to Milan, and see this exhibition that shows real human bodies.  https://bodyworlds.com/city/milan/
 
-## Supplemental Booklets
+## Extension Booklet
 Designed to be used with this unit. Available on request.
 <img src="https://i.imgur.com/EIwoUmT.png" width="20%" />
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDk1MzkxNCwtMTI1MzI0NDMzNiwtMT
-Q5NjA1ODgxNSwxMDI4OTk4Mjg0LDEzNDQ3MDM1NTQsMTU3ODE1
-ODQ3NiwtNTkxMjkwMzEyLC0yODAyNDgzNywtMTU2NjkyOTc1NC
-wzMjUxODQ1MTIsLTE2MjQ0MDc1MjAsMTM4NjA2NTE2MCwyMTA4
-OTU1Nzc4LC0yNjkzMjA3MjMsODEzMTM0NTIsLTIzODE0MjIwOC
-wxMzM5MjY3ODkyLC0yMDkzMTQ4MTY0LDE0NzI2ODk2OTQsNDUz
-OTg0MTMzXX0=
+eyJoaXN0b3J5IjpbLTEyMTg3OTEzMjIsLTEyNTMyNDQzMzYsLT
+E0OTYwNTg4MTUsMTAyODk5ODI4NCwxMzQ0NzAzNTU0LDE1Nzgx
+NTg0NzYsLTU5MTI5MDMxMiwtMjgwMjQ4MzcsLTE1NjY5Mjk3NT
+QsMzI1MTg0NTEyLC0xNjI0NDA3NTIwLDEzODYwNjUxNjAsMjEw
+ODk1NTc3OCwtMjY5MzIwNzIzLDgxMzEzNDUyLC0yMzgxNDIyMD
+gsMTMzOTI2Nzg5MiwtMjA5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1
+Mzk4NDEzM119
 -->
