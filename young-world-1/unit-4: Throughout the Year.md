@@ -15,9 +15,10 @@ The fascinating true story of Wilson Bentley who patiently persevered to find a 
 ### The Long Winter, by Laura Ingalls Wilder
 Newbery Honor Award
 
-<img src="https://imgur.com/.png" width="25%" />
+<img src="https://i.imgur.com/xsQgG8a.png" width="25%" />
 
-Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dakota Territory is covered is snow up to the rooftops and food supplies run dangerously low.  The sixth book in the beloved "Little House" Series.  (Lexile 790L)
+Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dakota Territory is covered is snow up to the rooftops and food supplies run dangerously low.  The sixth book in the beloved "Little House" Series.  (Lexile 790L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
 
 <a href="https://www.bookdepository.com/Long-Winter-Laura-Ingalls-Wilder/9780064400060?ref=grid-view&qid=1656000948255&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036075756" rel="nofollow">Buy on Orell Füssli</a>
@@ -77,10 +78,11 @@ summary here. (Lexile AD620L)
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051788134" rel="nofollow"> Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwOTc4OTYyNiw1MzIyMDkyMzAsOTgwMz
-k0MDc1LDkyMjU2NDE0MSwxMzM4MjQ2OTc4LDEzMDQ0MDU3MzYs
-MzUwMTYwNzk0LC0zMjYxMzA3NDcsLTMwODM4OTgyOSwxMjY3Mz
-k0MTEzLDM0NjM5ODQ5MSwtMjE5MjgzMzE0LC04NzE4MTM3MDMs
-MTg5MDU1MTAxOCwxNzg0MDczODg1LDg5OTM1Nzc3OSwtNzcyMz
-I0NDA1LDEzMTUwMTA5MjgsMTMwNDY2MjI4OV19
+eyJoaXN0b3J5IjpbNzA2ODk3Nzc1LDE0MDk3ODk2MjYsNTMyMj
+A5MjMwLDk4MDM5NDA3NSw5MjI1NjQxNDEsMTMzODI0Njk3OCwx
+MzA0NDA1NzM2LDM1MDE2MDc5NCwtMzI2MTMwNzQ3LC0zMDgzOD
+k4MjksMTI2NzM5NDExMywzNDYzOTg0OTEsLTIxOTI4MzMxNCwt
+ODcxODEzNzAzLDE4OTA1NTEwMTgsMTc4NDA3Mzg4NSw4OTkzNT
+c3NzksLTc3MjMyNDQwNSwxMzE1MDEwOTI4LDEzMDQ2NjIyODld
+fQ==
 -->
