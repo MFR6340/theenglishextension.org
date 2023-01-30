@@ -22,7 +22,7 @@ summary here. (Lexile 1030L) <sup>[what is this?](/resources/Lexile%20Levels)</s
 <a href="https://www.bookdepository.com/Adam-Road-Elizabeth-Janet-Gray/9780140324648?ref=grid-view&qid=1665930041706&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354191" rel="nofollow">Buy on Orell Füssli</a>
 
-### Gold Rush Fever, the Story of the Klondike, by Barbara Greenwood
+### Gold Rush Fever, a Story of the Klondike, by Barbara Greenwood
 
 <img src="https://imgur.com/guWmras.png" width="25%" />
 
@@ -95,9 +95,9 @@ During the height of World War I, a New Zealand girl quits school to help her wi
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTM5NTU2NSwtODYwNTE4NTY4LDE1OD
-Y4OTIzODUsLTYzMjIwMDQ2OCwxMTIzODI2NzU4LDEyNzMxODI3
-NzgsLTE4MDQxMzA1NCwtMjEyMTE0NzI5OSwtMTM4MzE1NTEwNS
-wtMTAxOTk0MTc5MSw1NTgyOTgzMCwtNTY2MTU4NTEwLDgyMjky
-ODI5Nyw3ODAzODMwXX0=
+eyJoaXN0b3J5IjpbMjc4MTMxMzg5LC04NjA1MTg1NjgsMTU4Nj
+g5MjM4NSwtNjMyMjAwNDY4LDExMjM4MjY3NTgsMTI3MzE4Mjc3
+OCwtMTgwNDEzMDU0LC0yMTIxMTQ3Mjk5LC0xMzgzMTU1MTA1LC
+0xMDE5OTQxNzkxLDU1ODI5ODMwLC01NjYxNTg1MTAsODIyOTI4
+Mjk3LDc4MDM4MzBdfQ==
 -->
