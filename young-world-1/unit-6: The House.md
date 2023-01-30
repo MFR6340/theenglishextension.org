@@ -49,11 +49,11 @@ https://www.ballenberg.ch/en/
 
 ## Extension Booklet
 Designed to be used with this unit. Available on request.
-<img src="https://i.imgur.com/gFJu87j.png" width="25%" />
+<img src="https://i.imgur.com/syadHg4.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxNzgyNTIsLTEyOTEzMTU4MDAsMjA5ND
-g0MTM2OCwtMTQ4NDQ2OTE4OCwyMDQ3ODczMDE1LDk5NTIwNjcw
-NCwxMTk1MjYyNzYsLTExNDQyODY5ODEsLTEyMDE3MTYwOSwxMj
-M2NjM5NDQsLTE2NDYxNDMzNzAsMjExNjU5NTIxOSwtODkxODg0
-ODkzXX0=
+eyJoaXN0b3J5IjpbLTI1OTY4NDQ4OSwzNjE3ODI1MiwtMTI5MT
+MxNTgwMCwyMDk0ODQxMzY4LC0xNDg0NDY5MTg4LDIwNDc4NzMw
+MTUsOTk1MjA2NzA0LDExOTUyNjI3NiwtMTE0NDI4Njk4MSwtMT
+IwMTcxNjA5LDEyMzY2Mzk0NCwtMTY0NjE0MzM3MCwyMTE2NTk1
+MjE5LC04OTE4ODQ4OTNdfQ==
 -->
