@@ -84,16 +84,18 @@ Honestly, any of the books in the Horrible Histories series serve as a funny and
 
 <img src="https://imgur.com/eDd7MVX.png" width="25%" />
 
+First book in a series about the author's life growing up in the Vermont (USA) countryside in the 1920's with his friend, who was nicknamed Soup.  A story of friendship
+
 
 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjUyODY3MCwxOTQ5MjgxMDEwLC0yMD
-kxMTU1Mzc0LC03NTI4NDcwNDksMTc1MDcxNDc2MCw5MTgwMTg3
-OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMxLDM3ODkzNTkzMywyMD
-E3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2MTcsMjc4MTMxMzg5
-LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwtNjMyMjAwNDY4LDExMj
-M4MjY3NTgsMTI3MzE4Mjc3OCwtMTgwNDEzMDU0LC0yMTIxMTQ3
-Mjk5XX0=
+eyJoaXN0b3J5IjpbLTk3NTAyMTAsLTgxMjUyODY3MCwxOTQ5Mj
+gxMDEwLC0yMDkxMTU1Mzc0LC03NTI4NDcwNDksMTc1MDcxNDc2
+MCw5MTgwMTg3OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMxLDM3OD
+kzNTkzMywyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2MTcs
+Mjc4MTMxMzg5LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwtNjMyMj
+AwNDY4LDExMjM4MjY3NTgsMTI3MzE4Mjc3OCwtMTgwNDEzMDU0
+XX0=
 -->
