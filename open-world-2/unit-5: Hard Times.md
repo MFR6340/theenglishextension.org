@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/ukCZSwz.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+summary here.  (Lexile 810L  ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Villainous-Victorians-Terry-Deary/9781407178684?ref=grid-view&qid=1674999131666&sr=1-10" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1042907997" rel="nofollow">Buy on Orell Füssli</a> 
@@ -119,8 +119,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 <a href="https://www.bookdepository.com/Queen-Victoria-Kate-Hubbard/9781904095828?ref=grid-view&qid=1675002186535&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzgxNzA2OCwxNDg2MDU4OTQ5LC0xOD
-k1MDk5NzI4LDE0MTc2MTQ2NTIsLTQ2NDM1NzAwMCwtMjAzMDkx
-NjE5MiwxMzUzNjM4MjEsLTEzNzk2NzI3ODksMTkyNDgyNzI3NC
-wtODU1OTA3MjMsLTExNjg0MDU0MjldfQ==
+eyJoaXN0b3J5IjpbLTcyMjU1NzA2OSwyMTQzODE3MDY4LDE0OD
+YwNTg5NDksLTE4OTUwOTk3MjgsMTQxNzYxNDY1MiwtNDY0MzU3
+MDAwLC0yMDMwOTE2MTkyLDEzNTM2MzgyMSwtMTM3OTY3Mjc4OS
+wxOTI0ODI3Mjc0LC04NTU5MDcyMywtMTE2ODQwNTQyOV19
 -->
