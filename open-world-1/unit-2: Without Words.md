@@ -43,17 +43,15 @@ summary here.  (Lexile 800L )  <sup>[what is this?](/resources/Lexile%20measures
 
 ### How to Speak Animal, by Lindy Mattice
 
-<img src="https://imgur.com/kfaWJyOTitle here, by author here
-
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/kfaWJyO.png" width="25%" />
 
 summary here.  (Lexile level       )
 
 <a href="https://www.bookdepository.com/How-Speak-Animal-BUSHEL--PECK-BOOKS/9781638190431 link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1061657549 link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM5NDE5MzksLTEzNzMyODcyMiwtMj
-E3MDU1NDYzLC0xNjcxNjczNTg2LDExMDg3NDU4ODAsMjA4ODYz
-OTQzOSwtMTYzODk0OTY1MywtMTQ3OTI5NjEzLDE3ODgyNDI4Nj
-EsLTEwMjMwNjc2NDZdfQ==
+eyJoaXN0b3J5IjpbMTQyNzE1MTI0MywtMTM3MzI4NzIyLC0yMT
+cwNTU0NjMsLTE2NzE2NzM1ODYsMTEwODc0NTg4MCwyMDg4NjM5
+NDM5LC0xNjM4OTQ5NjUzLC0xNDc5Mjk2MTMsMTc4ODI0Mjg2MS
+wtMTAyMzA2NzY0Nl19
 -->
