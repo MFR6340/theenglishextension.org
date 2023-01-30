@@ -61,19 +61,11 @@ It's one of the shortest books to win the Newbery Medal, so it won't take long t
 <a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=16744&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
 
-### The Telegram, by Philippa Werry
-
-<img src="https://imgur.com/G2oI2PD.png" width="25%" />
-
-During the height of World War I, a New Zealand girl quits school to help her widowed mother and takes on the job of delivering telegrams, many which give the worst possible news.  (No lexile measure)
-
-<a href="https://www.bookdepository.com/The-Telegram-Philippa-Werry/9780473462826" rel="nofollow"> Buy on BookDepository</a>
- 
 ### Terrible Tudors, by Terry Deary
 
 <img src="https://i.imgur.com/JovaVRX.png" width="25%" />
 
-Honestly, any of the books in the Horrible Histories series serve as a funny and sometimes gory non-fiction introduction to an interesting period in history. If you like this one, get the whole series.  (840L)
+Honestly, any of the books in the Horrible Histories series serve as a funny and sometimes gory non-fiction introduction to an interesting period in history. If you like this one, get the whole series.  (840L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 
 <a href="https://www.bookdepository.com/Terrible-Tudors-Terry-Deary/9781407104898?ref=grid-view&qid=1675094181535&sr=1-4" rel="nofollow"> Buy on BookDepository</a>  
@@ -84,18 +76,17 @@ Honestly, any of the books in the Horrible Histories series serve as a funny and
 
 <img src="https://imgur.com/eDd7MVX.png" width="25%" />
 
-First book in a hilarious series about the author's life growing up in the Vermont (USA) countryside in the 1920's with his friend, who was nicknamed Soup.  A story of friendship, crazy antics and times gone by. 
-
+First book in a hilarious series about the author's life growing up in the Vermont (USA) countryside in the 1920's with his friend, who was nicknamed Soup.  A story of friendship, crazy antics and times gone by.  (Lexile 740L)   <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQzMTIxOTgsLTgxMjUyODY3MCwxOT
-Q5MjgxMDEwLC0yMDkxMTU1Mzc0LC03NTI4NDcwNDksMTc1MDcx
-NDc2MCw5MTgwMTg3OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMxLD
-M3ODkzNTkzMywyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2
-MTcsMjc4MTMxMzg5LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwtNj
-MyMjAwNDY4LDExMjM4MjY3NTgsMTI3MzE4Mjc3OCwtMTgwNDEz
-MDU0XX0=
+eyJoaXN0b3J5IjpbNDEyMjU2NTA4LC04MTI1Mjg2NzAsMTk0OT
+I4MTAxMCwtMjA5MTE1NTM3NCwtNzUyODQ3MDQ5LDE3NTA3MTQ3
+NjAsOTE4MDE4Nzk2LC0yMDkxMzEzNzMwLDUzNzUzOTMzMSwzNz
+g5MzU5MzMsMjAxNzA0ODU2NywzMDQyOTIwNDUsNTAxMzg2NjE3
+LDI3ODEzMTM4OSwtODYwNTE4NTY4LDE1ODY4OTIzODUsLTYzMj
+IwMDQ2OCwxMTIzODI2NzU4LDEyNzMxODI3NzgsLTE4MDQxMzA1
+NF19
 -->
