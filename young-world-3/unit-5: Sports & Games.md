@@ -102,13 +102,7 @@ This is a book about several famous sports stars and the struggles they had to b
 <a href="https://www.bookdepository.com/Kid-Athletes-David-Stabler/9781594748028?ref=grid-view&qid=1665928260307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035793246" rel="nofollow">Buy on Orell Füssli</a>
 
-### DK: Children’s Book of Sport
 
-<img src="https://imgur.com/COT8oyE.png" width="25%" />
-
-This encyclopaedia of sport gives a lot of information on all sorts of sports. It also includes information about the Olympics, Paralympics and sport in Ancient Greek times. It features more than one hundred sports with history, rules and trivia related to that sport. It is well set out with great photos and it's easy to find information.
-
-<a href="https://www.bookdepository.com/Childrens-Book-Sport-DK/9781405368506?ref=grid-view&qid=1665929123129&sr=1-4" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Sportopedia, by Adam Skinner
 
@@ -133,11 +127,11 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTg4ODk3LC01MDg3NzM1NDIsOTYyNz
-YzOTAzLC0yOTU1NjI4MDMsNTkxOTE1MjcsLTEwMDY1NDI5NDUs
-NDU4MDUxNjgwLC0xNzUwOTc0MTQyLDE3NDcxNzExNTEsMjA5Mj
-A3MDYxMywtODI2MjY5ODc1LC00NzA3MTcxNjQsOTg1Mzg1OTgs
-LTEyMDUxOTM0MjUsLTEyOTc2MTI2NzgsLTE2MDk0OTkxNTQsLT
-k1ODYzMDIxNSwtMTU1Mzg5NjM0MywtMTQwNjk2NTg5NSwtNzE2
-ODk3OTIzXX0=
+eyJoaXN0b3J5IjpbOTIzMTg5MDM1LC01MTk4ODg5NywtNTA4Nz
+czNTQyLDk2Mjc2MzkwMywtMjk1NTYyODAzLDU5MTkxNTI3LC0x
+MDA2NTQyOTQ1LDQ1ODA1MTY4MCwtMTc1MDk3NDE0MiwxNzQ3MT
+cxMTUxLDIwOTIwNzA2MTMsLTgyNjI2OTg3NSwtNDcwNzE3MTY0
+LDk4NTM4NTk4LC0xMjA1MTkzNDI1LC0xMjk3NjEyNjc4LC0xNj
+A5NDk5MTU0LC05NTg2MzAyMTUsLTE1NTM4OTYzNDMsLTE0MDY5
+NjU4OTVdfQ==
 -->
