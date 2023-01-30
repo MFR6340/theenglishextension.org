@@ -69,7 +69,7 @@ During the height of World War I, a New Zealand girl quits school to help her wi
 
 <img src="https://imgur.com/qcFwwBW.png" width="25%" />
 
-Honestly, any of the books in the Horrible Histories series is good fun - a funny introduction to a time period this new series is a bit longer for older readers.  It still provides the humor, despite the the sometimes heavy subject matter.  
+Honestly, any of the books in the Horrible Histories series is good fun - a funny and sometimes gory non-fiction introduction to an interesting period in history. 
 
 
 <a href="https://www.bookdepository.com/Dangerous-Days-Elizabethan-England-Terry-Deary/9781780226378?ref=grid-view&qid=167448959708790745706&sr=1-13" rel="nofollow"> Buy on BookDepository</a>  
@@ -94,11 +94,11 @@ By the author of the Horrible Histories series, this new series is a bit longer 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI4MDU3OTgsLTc1Mjg0NzA0OSwxNz
-UwNzE0NzYwLDkxODAxODc5NiwtMjA5MTMxMzczMCw1Mzc1Mzkz
-MzEsMzc4OTM1OTMzLDIwMTcwNDg1NjcsMzA0MjkyMDQ1LDUwMT
-M4NjYxNywyNzgxMzEzODksLTg2MDUxODU2OCwxNTg2ODkyMzg1
-LC02MzIyMDA0NjgsMTEyMzgyNjc1OCwxMjczMTgyNzc4LC0xOD
-A0MTMwNTQsLTIxMjExNDcyOTksLTEzODMxNTUxMDUsLTEwMTk5
-NDE3OTFdfQ==
+eyJoaXN0b3J5IjpbODM2OTIzNjQyLC03NTI4NDcwNDksMTc1MD
+cxNDc2MCw5MTgwMTg3OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMx
+LDM3ODkzNTkzMywyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzOD
+Y2MTcsMjc4MTMxMzg5LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwt
+NjMyMjAwNDY4LDExMjM4MjY3NTgsMTI3MzE4Mjc3OCwtMTgwND
+EzMDU0LC0yMTIxMTQ3Mjk5LC0xMzgzMTU1MTA1LC0xMDE5OTQx
+NzkxXX0=
 -->
