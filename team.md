@@ -20,7 +20,7 @@ Paula holds a BA as a QTS (Qualified Teacher Status) British Primary teacher. Sh
 
 
 **Stormy Berney**
-Stormy currently runs the English Mentoring Program for the primary schools of the city of Zug to work with children who are fluent in spoken English. Her teaching career spans 25 years and includes English, early childhood development, music appreciation, golf and American accent adoption. She has taught in Paris, Geneva and Zug. She is a published writer and was Managing Editor for *The Currier* in Geneva and _Connect_ magazine in Zug. She holds an MA in Career Counseling and a BS in Psychology with a focus on early childhood development.
+Stormy currently runs the English Mentoring Program for the primary schools of the city of Zug to work with children who are fluent in spoken English. Her teaching career spans 25 years and includes English, early childhood development, music appreciation, golf and American accent adoption. She has taught in Paris, Geneva and Zug. She is a published writer and was Managing Editor for *The Currier* in Geneva and _Connect_magazine in Zug. She holds an MA in Career Counseling and a BS in Psychology with a focus on early childhood development.
 
 
 
@@ -35,7 +35,7 @@ Stormy currently runs the English Mentoring Program for the primary schools of t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjIzNTcxMywtMTE1NTk3NzE5LDk2Mj
+eyJoaXN0b3J5IjpbMTA4MDA1NjA0NSwtMTE1NTk3NzE5LDk2Mj
 Y0NTUyMCwtMTM2NTc1MDgyMiwtMTgzMTI5NDgxNCwyMTE1MzMy
 Mzk2LDIzMTY3NDQ2NCwtMjA1MDE5MTgwOCwtMTAyNDI2NDUyMi
 wtMTA3NDc0NjIxMywtMTAzNzQwMzk1NCwxMzg0MzU0MDY1LDEx
