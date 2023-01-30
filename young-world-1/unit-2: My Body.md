@@ -29,7 +29,7 @@ A comprehensive visual journey of the human body from cells to systems. Highly d
 
 <img src="https://i.imgur.com/jEDLHLM.png" width="25%" />
 
-An informative resource for age-appropriate childr
+An informative resource to learn about human anatomy and physiology with fanastic illustrations.  
 
 <a href="https://www.bookdepository.com/Knowledge-Encyclopedia-Human-Body-DK/9780241286852?ref=grid-view&qid=1675115738228&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1043965515?sq=Knowledge%20Encyclopedia%20Human%20Body!&stype=productName" rel="nofollow"> Buy on Orell Füssli</a>
@@ -64,7 +64,7 @@ Designed to be used with this unit. Available on request.
 <img src="https://i.imgur.com/EIwoUmT.png" width="20%" />
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4ODc5Mzk0NSwtMTI1MzI0NDMzNiwtMT
+eyJoaXN0b3J5IjpbMTk3MjY1NTMxNSwtMTI1MzI0NDMzNiwtMT
 Q5NjA1ODgxNSwxMDI4OTk4Mjg0LDEzNDQ3MDM1NTQsMTU3ODE1
 ODQ3NiwtNTkxMjkwMzEyLC0yODAyNDgzNywtMTU2NjkyOTc1NC
 wzMjUxODQ1MTIsLTE2MjQ0MDc1MjAsMTM4NjA2NTE2MCwyMTA4
