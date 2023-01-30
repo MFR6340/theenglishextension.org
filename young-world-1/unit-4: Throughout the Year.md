@@ -80,9 +80,9 @@ summary here. (Lexile AD620L)  <sup>[what is this?](/resources/Lexile%20measures
 
 # Supplemental Booklets
 Designed to be used with this unit. Available on request.
-<img src="https://i.imgur.com/jvptxBS.png" width="25%" />
+<img src="https://i.imgur.com/e9jsiaz.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Nzc1OTQ3NSwtMTE5Mzg3NDYwMiw3MD
+eyJoaXN0b3J5IjpbMTIwOTA0NDM1MSwtMTE5Mzg3NDYwMiw3MD
 Y4OTc3NzUsMTQwOTc4OTYyNiw1MzIyMDkyMzAsOTgwMzk0MDc1
 LDkyMjU2NDE0MSwxMzM4MjQ2OTc4LDEzMDQ0MDU3MzYsMzUwMT
 YwNzk0LC0zMjYxMzA3NDcsLTMwODM4OTgyOSwxMjY3Mzk0MTEz
