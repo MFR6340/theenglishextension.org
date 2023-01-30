@@ -2,6 +2,7 @@
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 **This unit describes homes around the world and discusses the materials used to build them.  Here are some suggestions for native English speakers to delve deeper into this theme:**
+## Book list
 
 ### If You Lived Here, Houses of the World by Giles Laroche
 
@@ -51,7 +52,7 @@ https://www.ballenberg.ch/en/
 Designed to be used with this unit. Available on request.
 <img src="https://i.imgur.com/syadHg4.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1OTY4NDQ4OSwzNjE3ODI1MiwtMTI5MT
+eyJoaXN0b3J5IjpbLTE5MTA2NzM0NCwzNjE3ODI1MiwtMTI5MT
 MxNTgwMCwyMDk0ODQxMzY4LC0xNDg0NDY5MTg4LDIwNDc4NzMw
 MTUsOTk1MjA2NzA0LDExOTUyNjI3NiwtMTE0NDI4Njk4MSwtMT
 IwMTcxNjA5LDEyMzY2Mzk0NCwtMTY0NjE0MzM3MCwyMTE2NTk1
