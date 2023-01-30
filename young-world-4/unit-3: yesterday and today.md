@@ -26,7 +26,7 @@ summary here. (Lexile 1030L) <sup>[what is this?](/resources/Lexile%20Levels)</s
 
 <img src="https://imgur.com/guWmras.png" width="25%" />
 
-A story of the gold rush told by 13 year old Tim as he heads out with his older brother to try to make their fortune. . (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+A story of the gold rush told by 13 year old Tim as he heads out with his older brother to try to make their fortune. Tells of the difficulty of Chilkoot Pass, the lawlessness on the way, and the backbreaking work once they arrived. (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005058189" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -95,9 +95,10 @@ During the height of World War I, a New Zealand girl quits school to help her wi
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0MjkyMDQ1LDUwMTM4NjYxNywyNzgxMz
-EzODksLTg2MDUxODU2OCwxNTg2ODkyMzg1LC02MzIyMDA0Njgs
-MTEyMzgyNjc1OCwxMjczMTgyNzc4LC0xODA0MTMwNTQsLTIxMj
-ExNDcyOTksLTEzODMxNTUxMDUsLTEwMTk5NDE3OTEsNTU4Mjk4
-MzAsLTU2NjE1ODUxMCw4MjI5MjgyOTcsNzgwMzgzMF19
+eyJoaXN0b3J5IjpbOTExNTAzMDgyLDMwNDI5MjA0NSw1MDEzOD
+Y2MTcsMjc4MTMxMzg5LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwt
+NjMyMjAwNDY4LDExMjM4MjY3NTgsMTI3MzE4Mjc3OCwtMTgwND
+EzMDU0LC0yMTIxMTQ3Mjk5LC0xMzgzMTU1MTA1LC0xMDE5OTQx
+NzkxLDU1ODI5ODMwLC01NjYxNTg1MTAsODIyOTI4Mjk3LDc4MD
+M4MzBdfQ==
 -->
