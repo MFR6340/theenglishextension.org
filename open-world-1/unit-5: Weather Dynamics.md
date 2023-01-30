@@ -36,7 +36,7 @@ summary here.  (Lexile 1110L)
 
 <img src="https://imgur.com/SedEZb6.png" width="25%" />
 
-summary here.  (lexile m      )
+summary here.  (lexile      )
 
 <a href="https://www.bookdepository link here.com/Its-Raining-Fish-and-Spiders-Bill-Evans/9780765321329" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1011949467" rel="nofollow">Bu
@@ -53,7 +53,7 @@ summary here.  (Lexile        )
 Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit  [Technorama](https://www.technorama.ch/en/home), the science center in Wintertur, Zurich, and see how lightening is formed. Performances are at 11.30 and 14.30.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2MDk5ODQxLC00OTQzODQ2NDYsLTQ1Mz
+eyJoaXN0b3J5IjpbMTU5NzMzMDQ0LC00OTQzODQ2NDYsLTQ1Mz
 AxNjU4OCwxMTcwNTI2MTk1LDEzNDU0MzQxMjQsLTEwMDgwMDEy
 NDAsLTc0NDI1MjUxNl19
 -->
