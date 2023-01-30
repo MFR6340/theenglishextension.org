@@ -18,10 +18,9 @@ summary here.  (Lexile 1030L)
 
 summary here. (Lexile 800L)
 
-<a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9781782957393?ref=grid-view&qid=1674909364444&sr=1-4 link hereolonsory href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1022805518" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9781782957393?ref=grid-view&qid=1674909364444&sr=1-4 href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1022805518" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Shackleton’s Journey, by William Grilll Title here, by author here
-
+### Shackleton’s Journey, by William Grill
 <img src="https://imgur.com/pkkgkac.png" width="25%" />
 
 summary here.  (Lexile )
@@ -77,10 +76,10 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1NjQxNTE4LC0xNTY4NTQ5MzU5LDUxMj
-c2NDcyLDU4MzY3OTU3MywtMTg0NzkyNjUxNCwxNzk5ODUzNjI5
-LDEwNzY1MjgzOTYsLTE4NzMxOTY2ODAsMzcyNTg4NDcsMTkwOD
-g2Njg1MywxMjAwMTgwMTUzLDQzOTY1MTI5OSwtMTcxMzkzODc2
-MSw0NDkyMTE1ODEsMTQ3MTQyMTg1Nyw2MTQ1NzE5NDYsLTIwNz
-M5MjI2MzVdfQ==
+eyJoaXN0b3J5IjpbLTE2NjkyMTgxODcsMjI1NjQxNTE4LC0xNT
+Y4NTQ5MzU5LDUxMjc2NDcyLDU4MzY3OTU3MywtMTg0NzkyNjUx
+NCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYsLTE4NzMxOTY2ODAsMz
+cyNTg4NDcsMTkwODg2Njg1MywxMjAwMTgwMTUzLDQzOTY1MTI5
+OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEsMTQ3MTQyMTg1Nyw2MT
+Q1NzE5NDYsLTIwNzM5MjI2MzVdfQ==
 -->
