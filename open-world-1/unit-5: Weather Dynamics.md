@@ -50,9 +50,9 @@ summary here.  (Lexile        )
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036942730" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Supplemental Activities
-Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit the science center in Z
+Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit the  science center in Z
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDUyNjE5NSwxMzQ1NDM0MTI0LC0xMD
-A4MDAxMjQwLC03NDQyNTI1MTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NDk4NjIzNjcsMTE3MDUyNjE5NSwxMz
+Q1NDM0MTI0LC0xMDA4MDAxMjQwLC03NDQyNTI1MTZdfQ==
 -->
