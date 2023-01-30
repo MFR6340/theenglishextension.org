@@ -55,7 +55,7 @@ Newbery Award Winner, this story about a boy named Robin is set in the 14th Cent
 It's one of the shortest books to win the Newbery Medal, so it won't take long to read this beautiful tale of family in rural America in the 1800s.  Written from the perspective of the boy, it describes what happens after his mother dies and his the father advertises for a mail order bride.  A wonderful story of starting a new life while still remembering the old one.   (Lexile 660L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=16744&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfueli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
 
 ### The Telegram, by Philippa Werry
 
@@ -85,11 +85,11 @@ Honestly, any of the books in the Horrible Histories series serve as a funny and
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTExNTUzNzQsLTc1Mjg0NzA0OSwxNz
-UwNzE0NzYwLDkxODAxODc5NiwtMjA5MTMxMzczMCw1Mzc1Mzkz
-MzEsMzc4OTM1OTMzLDIwMTcwNDg1NjcsMzA0MjkyMDQ1LDUwMT
-M4NjYxNywyNzgxMzEzODksLTg2MDUxODU2OCwxNTg2ODkyMzg1
-LC02MzIyMDA0NjgsMTEyMzgyNjc1OCwxMjczMTgyNzc4LC0xOD
-A0MTMwNTQsLTIxMjExNDcyOTksLTEzODMxNTUxMDUsLTEwMTk5
-NDE3OTFdfQ==
+eyJoaXN0b3J5IjpbMTk0OTI4MTAxMCwtMjA5MTE1NTM3NCwtNz
+UyODQ3MDQ5LDE3NTA3MTQ3NjAsOTE4MDE4Nzk2LC0yMDkxMzEz
+NzMwLDUzNzUzOTMzMSwzNzg5MzU5MzMsMjAxNzA0ODU2NywzMD
+QyOTIwNDUsNTAxMzg2NjE3LDI3ODEzMTM4OSwtODYwNTE4NTY4
+LDE1ODY4OTIzODUsLTYzMjIwMDQ2OCwxMTIzODI2NzU4LDEyNz
+MxODI3NzgsLTE4MDQxMzA1NCwtMjEyMTE0NzI5OSwtMTM4MzE1
+NTEwNV19
 -->
