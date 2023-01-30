@@ -80,13 +80,16 @@ First book in a hilarious series about the author's life growing up in the Vermo
 
 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1007307425" rel="nofollow">Buy on  Orell Füssli</a>
+
+https://www.orellfuessli.ch/shop/home/artikeldetails/A1006201678
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMjU2NTA4LC04MTI1Mjg2NzAsMTk0OT
-I4MTAxMCwtMjA5MTE1NTM3NCwtNzUyODQ3MDQ5LDE3NTA3MTQ3
-NjAsOTE4MDE4Nzk2LC0yMDkxMzEzNzMwLDUzNzUzOTMzMSwzNz
-g5MzU5MzMsMjAxNzA0ODU2NywzMDQyOTIwNDUsNTAxMzg2NjE3
-LDI3ODEzMTM4OSwtODYwNTE4NTY4LDE1ODY4OTIzODUsLTYzMj
-IwMDQ2OCwxMTIzODI2NzU4LDEyNzMxODI3NzgsLTE4MDQxMzA1
-NF19
+eyJoaXN0b3J5IjpbLTE2MTc2NDQwNjcsLTgxMjUyODY3MCwxOT
+Q5MjgxMDEwLC0yMDkxMTU1Mzc0LC03NTI4NDcwNDksMTc1MDcx
+NDc2MCw5MTgwMTg3OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMxLD
+M3ODkzNTkzMywyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2
+MTcsMjc4MTMxMzg5LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwtNj
+MyMjAwNDY4LDExMjM4MjY3NTgsMTI3MzE4Mjc3OCwtMTgwNDEz
+MDU0XX0=
 -->
