@@ -94,15 +94,15 @@ Switzerland, world-famous for its clocks and watches, has 7 public museums focus
 
 ## Supplemental Booklets
 Designed to be used with this unit. Available on request.
-<img src="https://i.imgur.com/e9jsiaz.png" width="25%" />
+<img src="https://i.imgur.com/gFJu87j.png" width="25%" />
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4NjAxMjQxLC0xMDE5NzY5ODEsLTE1Nz
-cwNzg0NDEsMTEyMDgzNTYyNSwxMDE2MDM4MjEwLC0xMjg4ODM5
-NTkxLC0yMjEzMDM2ODMsMTk4OTY4MzAyNiwyMDQ1MjAxMzYsMT
-k3Mjk3ODIyM119
+eyJoaXN0b3J5IjpbLTMxNzIxMjkxLDgyODYwMTI0MSwtMTAxOT
+c2OTgxLC0xNTc3MDc4NDQxLDExMjA4MzU2MjUsMTAxNjAzODIx
+MCwtMTI4ODgzOTU5MSwtMjIxMzAzNjgzLDE5ODk2ODMwMjYsMj
+A0NTIwMTM2LDE5NzI5NzgyMjNdfQ==
 -->
