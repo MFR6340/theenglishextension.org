@@ -88,7 +88,7 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 <a href="https://www.bookdepository.com/Nachos-Nachos-Sandra-Nickel/9781620143698?ref=grid-view&qid=1673793907326&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1057057543" rel="nofollow"> Buy on Orell Füssli</a>
 
-# Supplemental Booklets
+## Supplemental Booklets
 Designed to be used with this unit. Available on request.
 <img src="https://i.imgur.com/jvptxBS.png" width="25%" />
 
@@ -98,6 +98,6 @@ Designed to be used with this unit. Available on request.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyOTcwNDAzLC0xNjU5OTI3ODI1LDE4Mj
+eyJoaXN0b3J5IjpbNTQzMDYyOTQyLC0xNjU5OTI3ODI1LDE4Mj
 c3MzYwNDksNDAwMzE2MjM1LC04MzQ3NzA0OTldfQ==
 -->
