@@ -67,13 +67,13 @@ During the height of World War I, a New Zealand girl quits school to help her wi
  
 ### Terrible Tudors, by Terry Deary
 
-<img src="https://imgur.com/qcFwwBW.png" width="25%" />
+<img src="https://i.imgur.com/JovaVRX.png" width="25%" />
 
 Honestly, any of the books in the Horrible Histories series serve as a funny and sometimes gory non-fiction introduction to an interesting period in history. If you like this one, get the whole series.  (840L)
 
 
 <a href="https://www.bookdepository.com/Terrible-Tudors-Terry-Deary/9781407104898?ref=grid-view&qid=1675094181535&sr=1-4" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036886384" rel="nofollow">Buy on  Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1007307425" rel="nofollow">Buy on  Orell Füssli</a>
 
 ### Dangerous Days on the Victorian Railways, by Terry Deary
 
@@ -94,11 +94,11 @@ By the author of the Horrible Histories series, this new series is a bit longer 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY3Njg5MTE4LC03NTI4NDcwNDksMTc1MD
-cxNDc2MCw5MTgwMTg3OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMx
-LDM3ODkzNTkzMywyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzOD
-Y2MTcsMjc4MTMxMzg5LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwt
-NjMyMjAwNDY4LDExMjM4MjY3NTgsMTI3MzE4Mjc3OCwtMTgwND
-EzMDU0LC0yMTIxMTQ3Mjk5LC0xMzgzMTU1MTA1LC0xMDE5OTQx
-NzkxXX0=
+eyJoaXN0b3J5IjpbMTM3OTkxNzAxMiwtNzUyODQ3MDQ5LDE3NT
+A3MTQ3NjAsOTE4MDE4Nzk2LC0yMDkxMzEzNzMwLDUzNzUzOTMz
+MSwzNzg5MzU5MzMsMjAxNzA0ODU2NywzMDQyOTIwNDUsNTAxMz
+g2NjE3LDI3ODEzMTM4OSwtODYwNTE4NTY4LDE1ODY4OTIzODUs
+LTYzMjIwMDQ2OCwxMTIzODI2NzU4LDEyNzMxODI3NzgsLTE4MD
+QxMzA1NCwtMjEyMTE0NzI5OSwtMTM4MzE1NTEwNSwtMTAxOTk0
+MTc5MV19
 -->
