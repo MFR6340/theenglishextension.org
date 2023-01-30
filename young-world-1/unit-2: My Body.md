@@ -25,7 +25,7 @@ A comprehensive visual journey of the human body from cells to systems. Highly d
 
 
 
-## 1,000 Amazing Human Body Facts, by DK
+## # Knowledge Encyclopedia Human Body!, by DK
 
 <img src="https://imgur.com/F3TnTUH.png" width="25%" />
 
@@ -64,10 +64,11 @@ Designed to be used with this unit. Available on request.
 <img src="https://i.imgur.com/EIwoUmT.png" width="20%" />
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTMyNDQzMzYsLTE0OTYwNTg4MTUsMT
-AyODk5ODI4NCwxMzQ0NzAzNTU0LDE1NzgxNTg0NzYsLTU5MTI5
-MDMxMiwtMjgwMjQ4MzcsLTE1NjY5Mjk3NTQsMzI1MTg0NTEyLC
-0xNjI0NDA3NTIwLDEzODYwNjUxNjAsMjEwODk1NTc3OCwtMjY5
-MzIwNzIzLDgxMzEzNDUyLC0yMzgxNDIyMDgsMTMzOTI2Nzg5Mi
-wtMjA5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1Mzk4NDEzM119
+eyJoaXN0b3J5IjpbNjczNDU3MDA3LC0xMjUzMjQ0MzM2LC0xND
+k2MDU4ODE1LDEwMjg5OTgyODQsMTM0NDcwMzU1NCwxNTc4MTU4
+NDc2LC01OTEyOTAzMTIsLTI4MDI0ODM3LC0xNTY2OTI5NzU0LD
+MyNTE4NDUxMiwtMTYyNDQwNzUyMCwxMzg2MDY1MTYwLDIxMDg5
+NTU3NzgsLTI2OTMyMDcyMyw4MTMxMzQ1MiwtMjM4MTQyMjA4LD
+EzMzkyNjc4OTIsLTIwOTMxNDgxNjQsMTQ3MjY4OTY5NCw0NTM5
+ODQxMzNdfQ==
 -->
