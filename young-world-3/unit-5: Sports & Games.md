@@ -81,11 +81,11 @@ This book is written about three time Olympic gold medalist Florence Griffith Jo
 ### The Race of the Century: The Battle to Break the Four-Minute Mile by Neal Bascomb
 <img src="https://i.imgur.com/fOLrBmZ.png" width="25%" />
 
-The book is centred on three athletes in three continents trying to run a mile as fast as four minutes. The athletes were in the UK, USA and Australia. At the time it was considered by most to be too dangerous to run so fast and foolhardy to try, but at the same time, it was extremely interesting to find out if anyone could do it. It's a gripping read, telling of injuries, family issues and overbearing coaches making the reader unsure of what might happen next and who would be the first to run the four minute mile.
+The book is centered on three athletes in three continents trying to run a mile as fast as four minutes. The athletes were in the UK, USA and Australia. At the time it was considered by most to be too dangerous to run so fast and foolhardy to try, but at the same time, it was extremely interesting to find out if anyone could do it. It's a gripping read, telling of injuries, family issues and overbearing coaches making the reader unsure of what might happen next and who would be the first to run the four minute mile.
 
 This book is an adaptation for younger readers of Neal Bascomb's bestselling book The Perfect Mile. (1030L)
  
-<a href="https://www.bookdepository.co/search?searchTerm=The+Race+of+the+Century%3A+The+Battle+to+Break+the+Four-Minute+Mile&search=Find+book" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Race-Century-Battle-Break-Four-Minute-Mile-Scholastic-Focus-Neal-Bascomb/9781338628463?ref=grid-view&qid=1675098579055&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1060524135" rel="nofollow">Buy on Orell Füssli</a>
 
 
@@ -133,7 +133,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4OTcxNjE1LC01MDg3NzM1NDIsOTYyNz
+eyJoaXN0b3J5IjpbLTUxOTg4ODk3LC01MDg3NzM1NDIsOTYyNz
 YzOTAzLC0yOTU1NjI4MDMsNTkxOTE1MjcsLTEwMDY1NDI5NDUs
 NDU4MDUxNjgwLC0xNzUwOTc0MTQyLDE3NDcxNzExNTEsMjA5Mj
 A3MDYxMywtODI2MjY5ODc1LC00NzA3MTcxNjQsOTg1Mzg1OTgs
