@@ -12,15 +12,16 @@ In Switzerland, English instruction is mandatory beginning in the third grade.
 
 We know that it is difficult for teachers to provide special instruction and materials to native English speakers while simultaneously teaching the regular curriculum to the non-native English students.  We aim to support  teachers so that they don't have to scramble around trying to find ideas and reinvent the wheel.  We have developed supplemental booklets which native speakers can use independently in the classroom.  We have also collected a list of books for each unit so that teachers can provide supplemental literature for students to read.  We are also developing lesson plans which can be used with some of those books. 
 
-We understand that parents want to make sure that their children have access to good, quality literature.  Reading improves vocabulary development, writing skills, analytical abilities, and so much more.  We have spent countless hours identifying good books that align with the curriculum so that you don't have to.  
+We understand that parents want to make sure that their children have access to good, quality literature.  Reading improves vocabulary development, writing skills, analytical abilities, and so much more.  We have spent countless hours identifying good books that align with the curriculum so that you don't have to.  Currently, there are over 200 books, with more being added every day.
 
 We believe that literacy is essential and that every child can become a better reader.  We hope this website provides useful information, book lists and resources to provide support for native English learners in the local Swiss schools.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTY1MjE0NiwtNDI3MzI0MzU1LC05Nj
-M1NTQ0NTUsMjA3NjMyMDI2OCwtNDkwNTgwMzc5LC04MTQ3MTQ3
-NTgsLTIwMzQzMDE1NjksLTEwODUwNjM2OTgsLTE2MjQ3NDYyNz
-AsLTEwNTMzOTc0MDEsLTE2MjQ3NDYyNzAsNzMwNTI4ODI4LC05
-NTM4NTQyNzUsLTk1Mzg1NDI3NSwtMjkzODA1NjAwLDE0NzU0Nj
-k1MDgsLTE3Njc2NDc4MjgsLTExNzA3MDM1NjZdfQ==
+eyJoaXN0b3J5IjpbLTgwMDEzODU2OSwxMzQxNjUyMTQ2LC00Mj
+czMjQzNTUsLTk2MzU1NDQ1NSwyMDc2MzIwMjY4LC00OTA1ODAz
+NzksLTgxNDcxNDc1OCwtMjAzNDMwMTU2OSwtMTA4NTA2MzY5OC
+wtMTYyNDc0NjI3MCwtMTA1MzM5NzQwMSwtMTYyNDc0NjI3MCw3
+MzA1Mjg4MjgsLTk1Mzg1NDI3NSwtOTUzODU0Mjc1LC0yOTM4MD
+U2MDAsMTQ3NTQ2OTUwOCwtMTc2NzY0NzgyOCwtMTE3MDcwMzU2
+Nl19
 -->
