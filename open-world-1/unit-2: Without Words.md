@@ -47,11 +47,11 @@ summary here.  (Lexile 800L )  <sup>[what is this?](/resources/Lexile%20measures
 
 summary here.  (Lexile level       )
 
-<a href="https://www.bookdepository.com/How-Speak-Animal-BUSHEL--PECK-BOOKS/9781638190431 link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1061657549 link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/How-Speak-Animal-National-Geographic-Kids/9781426372384?ref=grid-view&qid=1675112239922&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1061657549" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzE1MTI0MywtMTM3MzI4NzIyLC0yMT
-cwNTU0NjMsLTE2NzE2NzM1ODYsMTEwODc0NTg4MCwyMDg4NjM5
-NDM5LC0xNjM4OTQ5NjUzLC0xNDc5Mjk2MTMsMTc4ODI0Mjg2MS
-wtMTAyMzA2NzY0Nl19
+eyJoaXN0b3J5IjpbMTYzMzQ2Mjk4NSwxNDI3MTUxMjQzLC0xMz
+czMjg3MjIsLTIxNzA1NTQ2MywtMTY3MTY3MzU4NiwxMTA4NzQ1
+ODgwLDIwODg2Mzk0MzksLTE2Mzg5NDk2NTMsLTE0NzkyOTYxMy
+wxNzg4MjQyODYxLC0xMDIzMDY3NjQ2XX0=
 -->
