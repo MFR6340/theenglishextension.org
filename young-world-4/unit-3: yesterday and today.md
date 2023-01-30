@@ -40,7 +40,7 @@ summary here. (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</su
 
 The chimney sweep is a job from times gone by.  For those who prefer fiction to non-fiction, this is a fun book to read and compare to the more familiar movie.  (Lexile 830L )  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
-<a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepoository</a>
+<a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
 
  ### The Door in the Wall, by Marguerite de Angeli
 
@@ -54,7 +54,7 @@ Newbery Award Winner, this story about a boy named Robin is set in the 14th Cent
 
 <img src="https://imgur.com/53YvdAS.png" width="25%" />
 
-It's one of the shortest books to win the Newbery Medal, so it won't take long to read this beautiful tale of family in rural America in the 1800s.  Written from the perspective of the boy, it describes what happens after his mother dies and his the father advertises for a mail order bride.  A wonderful story of starting a new life while still remember the old one.   (Lexile 660L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+It's one of the shortest books to win the Newbery Medal, so it won't take long to read this beautiful tale of family in rural America in the 1800s.  Written from the perspective of the boy, it describes what happens after his mother dies and his the father advertises for a mail order bride.  A wonderful story of starting a new life while still remembering the old one.   (Lexile 660L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=16744&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfueli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
@@ -95,9 +95,9 @@ During the height of World War I, a New Zealand girl quits school to help her wi
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDUxNzE1NDgsLTg2MDUxODU2OCwxNT
-g2ODkyMzg1LC02MzIyMDA0NjgsMTEyMzgyNjc1OCwxMjczMTgy
-Nzc4LC0xODA0MTMwNTQsLTIxMjExNDcyOTksLTEzODMxNTUxMD
-UsLTEwMTk5NDE3OTEsNTU4Mjk4MzAsLTU2NjE1ODUxMCw4MjI5
-MjgyOTcsNzgwMzgzMF19
+eyJoaXN0b3J5IjpbMTMyNTM5NTU2NSwtODYwNTE4NTY4LDE1OD
+Y4OTIzODUsLTYzMjIwMDQ2OCwxMTIzODI2NzU4LDEyNzMxODI3
+NzgsLTE4MDQxMzA1NCwtMjEyMTE0NzI5OSwtMTM4MzE1NTEwNS
+wtMTAxOTk0MTc5MSw1NTgyOTgzMCwtNTY2MTU4NTEwLDgyMjky
+ODI5Nyw3ODAzODMwXX0=
 -->
