@@ -115,6 +115,7 @@ Yes, yes this book was in the previous "School" Unit as well.  But it's really a
 ### The Beatryce Prophecy, Kate DiCamillo
 <img src="https://imgur.com/QijlQfu.png" width="25%" />
 
+(no Lexile measure available)
 
 
 <a href="https://www.bookdepository.com/Beatryce-Prophecy-Kate-DiCamillo/9781529503623?ref=grid-view&qid=1674317393158&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
@@ -149,11 +150,11 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODI2MjkwNiwtMjAwMjkwMTA0NiwtMT
-Y1Mzk3MTU3OCw4MDU1Njk3MjMsMjEzMTA5NjM1NywtMTY1MTAx
-NzI1MCwxNDk1NzUwNjA1LDY2NTEyNTEyMSwxODI5MTc5MTUxLD
-E5MDk1NDUwMjgsLTQ0OTgxNjg0NSwtMTU3NDgzNDYyNCwtMTMw
-MDM3MTI0NCwtMTI0NjIxMzg3MywxMDgyNTI1ODk1LC0xMjc0OT
-kwNjYyLC0xNzg4NjQ3MDQ5LDEzNjg1NzQ3MDksMzE4NjEwNzIz
-LDExNDYwNzMyNDddfQ==
+eyJoaXN0b3J5IjpbMTEyMjY5MDc4OCwtNzU4MjYyOTA2LC0yMD
+AyOTAxMDQ2LC0xNjUzOTcxNTc4LDgwNTU2OTcyMywyMTMxMDk2
+MzU3LC0xNjUxMDE3MjUwLDE0OTU3NTA2MDUsNjY1MTI1MTIxLD
+E4MjkxNzkxNTEsMTkwOTU0NTAyOCwtNDQ5ODE2ODQ1LC0xNTc0
+ODM0NjI0LC0xMzAwMzcxMjQ0LC0xMjQ2MjEzODczLDEwODI1Mj
+U4OTUsLTEyNzQ5OTA2NjIsLTE3ODg2NDcwNDksMTM2ODU3NDcw
+OSwzMTg2MTA3MjNdfQ==
 -->
