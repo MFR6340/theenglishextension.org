@@ -45,7 +45,8 @@
 On School Library Journal's list of the Top 100 Children's Novels 
 
 <a href="https://www.bookdepository.com/Twenty-One-Balloons-William-Pene-du-Bois/9780140320978?ref=grid-view&qid=1675162115237&sr=1-1" rel="nofollow"> Buy on BookDepository </a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1060473120" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1003331053?sq=The%20Twenty-One%20Balloons&stype=productName" rel="nofollow">Buy on Orell Füssli</a> 
+
 ### Dove, by Robin Lee Graham
 
 <img src="https://imgur.com/Ex7dpP0.png" width="25%" />
@@ -80,7 +81,7 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMDg5NDE3NSw0ODg2NzMyNjQsMjI1Nj
+eyJoaXN0b3J5IjpbLTU1NDU5NTkwNyw0ODg2NzMyNjQsMjI1Nj
 QxNTE4LC0xNTY4NTQ5MzU5LDUxMjc2NDcyLDU4MzY3OTU3Mywt
 MTg0NzkyNjUxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYsLTE4Nz
 MxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMTgwMTUz
