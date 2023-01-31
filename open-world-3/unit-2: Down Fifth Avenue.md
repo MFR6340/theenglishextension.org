@@ -9,7 +9,6 @@
 <img src="https://imgur.com/HCcKBVI.png" width="25%" />
 
 (No Lexile measure available )
-
 <a href="https://www.bookdepository.com/New-York-Underground-Julia-Solis/9780415963107?ref=grid-view&qid=1674587892650&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002727034" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -17,15 +16,13 @@
 
 <img src="https://imgur.com/V6HMoFv.png" width="25%" />
 
-summary here.  (Lexile Level     )
-
+(No Lexile measure available )
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1011336941" rel="nofollow">Buy on Orell Füssli</a>  
 
 ### Liar and Spy, by Rebecca Stead
 <img src="https://imgur.com/DkJi9Pm.png" width="25%" />
 
-summary here.  (Lexile 670L)
-
+(Lexile 670L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Liar-Spy-Rebecca-Stead/9780375850875?ref=grid-view&qid=1674588491058&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1028996647" rel="nofollow">Buy on Orell Füssli</a> 
@@ -75,7 +72,7 @@ summary here.  (Lexile 810L)
 <a href="https://www.bookdepository.com/Vanderbeekers-Hidden-Garden-Karina-Yan-Glaser/9780358117346?ref=grid-view&qid=1674589448653&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1049694429" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzYzOTU0NzEsLTE3MjgyOTQ1ODUsLT
+eyJoaXN0b3J5IjpbLTEzMjAzODkyODgsLTE3MjgyOTQ1ODUsLT
 E0NzgwMzM0NzQsLTE2NTk1NDMxNzksMTA5NTUzMDE2NywtMTA1
 Nzc4NDU3NSwyMDEyMjYxNzE2XX0=
 -->
