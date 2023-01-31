@@ -8,7 +8,7 @@
 
 <img src="https://i.imgur.com/eWdCAYe.png" width="35%" />
 
- (Lexile level)
+ (Lexile NC 1170L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/If-You-Lived-Here-Houses-of-the-World-Giles-Laroche/9780547238920" rel="nofollow"> Buy on BookDepository</a> 
 
@@ -18,7 +18,7 @@
 
 <img src="https://i.imgur.com/jvkWz2c.png" width="35%" />
 
-While essentially a picture book, the story of Mr. Plumbean house is much more than that.  It is a story of nonconformity and creativity and remaining true to yourself.  It's hard to believe this book isn't more well-known.  ( Lexile 550L)
+While essentially a picture book, the story of Mr. Plumbean house is much more than that.  It is a story of nonconformity and creativity and remaining true to yourself.  It's hard to believe this book isn't more well-known.  ( Lexile 550L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/The-Big-Orange-Splot-Daniel-Manus-Pinkwater/9780590445108" rel="nofollow"> Buy on BookDepository</a> 
 
@@ -28,7 +28,7 @@ While essentially a picture book, the story of Mr. Plumbean house is much more t
 
 <img src="https://i.imgur.com/kUye1iH.png" width="25%" />
 
-Written in rhyming couplets, imaginative Jack wants to design his own house.  He includes some fantastic ideas from an aquarium room to a robot room, a flying room, and even a race track.  This is a wonderful foundation for a descriptive writing project.  (Lexile 550L)
+Written in rhyming couplets, imaginative Jack wants to design his own house.  He includes some fantastic ideas from an aquarium room to a robot room, a flying room, and even a race track.  This is a wonderful foundation for a descriptive writing project.  (Lexile 550L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/If-I-Built-House-Chris-Van-Dusen/9781984814845?ref=grid-view&qid=1673968527570&sr=1-4" rel="nofollow"> Buy on BookDepository</a> 
 
@@ -40,7 +40,7 @@ Written in rhyming couplets, imaginative Jack wants to design his own house.  He
 
 <img src="https://i.imgur.com/S2EMoZM.png" width="35%" />
 
- Historical ficition story of American pioneer life.  The Ingalls family leaves Wisconsin and heads toward Wisconsin where they set up their house on the prairie and  plant, plow, hunt and gather.  The comments about the native Americans are negative but historically accurate for the times which makes for some interesting discussion points. (Lexile level not available)
+ Historical ficition story of American pioneer life.  The Ingalls family leaves Wisconsin and heads toward Wisconsin where they set up their house on the prairie and  plant, plow, hunt and gather.  The comments about the native Americans are negative but historically accurate for the times which makes for some interesting discussion points. (Lexile 760L level not available)
 
 <a href="https://www.bookdepository.com/Little-House-on-Prairie-Laura-Ingalls-Wilder/9780064400022?ref=grid-view&qid=1673964359936&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 
@@ -57,9 +57,9 @@ Designed to be used with this unit. Available on request.
 
 <img src="https://i.imgur.com/syadHg4.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQzMDk1NjU5LC0xOTEwNjczNDQsMzYxNz
-gyNTIsLTEyOTEzMTU4MDAsMjA5NDg0MTM2OCwtMTQ4NDQ2OTE4
-OCwyMDQ3ODczMDE1LDk5NTIwNjcwNCwxMTk1MjYyNzYsLTExND
-QyODY5ODEsLTEyMDE3MTYwOSwxMjM2NjM5NDQsLTE2NDYxNDMz
-NzAsMjExNjU5NTIxOSwtODkxODg0ODkzXX0=
+eyJoaXN0b3J5IjpbLTEwNjQ0MjE5MTcsLTE5MTA2NzM0NCwzNj
+E3ODI1MiwtMTI5MTMxNTgwMCwyMDk0ODQxMzY4LC0xNDg0NDY5
+MTg4LDIwNDc4NzMwMTUsOTk1MjA2NzA0LDExOTUyNjI3NiwtMT
+E0NDI4Njk4MSwtMTIwMTcxNjA5LDEyMzY2Mzk0NCwtMTY0NjE0
+MzM3MCwyMTE2NTk1MjE5LC04OTE4ODQ4OTNdfQ==
 -->
