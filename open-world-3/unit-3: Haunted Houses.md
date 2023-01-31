@@ -14,16 +14,14 @@
 
 <img src="https://i.imgur.com/Vh1YQiO.png" width="25%" />
 
-summary here.  (Lexile 890L)
-
+ (Lexile 890L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.bookdepository.com/Miss-Peregrines-Home-for-Peculiar-Children-Ransom-Riggs/9781594746031?ref=grid-view&qid=1674662411641&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1027813874" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Lockwood & Company: The Screaming Staircase by Jonathan Stroud
 <img src="https://i.imgur.com/BB5CeuU.png" width="25%" />
 
-summary here.  (Lexile 720L)
-
+(Lexile 720L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.bookdepository.com/Lockwood-Co-Screaming-Staircase-Jonathan-Stroud/9780552566797?ref=grid-view&qid=1674661950396&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033516174" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -56,8 +54,8 @@ This fantastic story by famous author Oscar Wilde is mentioned in this unit.  He
 
 The book is now in public domain.  Available for free on Project Gutenberg https://www.gutenberg.org/ebooks/14522
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTgzNjM1NCwtMTE3MDE3MzEyNiwtNT
-AzNzQzMjQ2LDEzODU0NDE5NTcsLTE2MjM1OTYyOTQsLTEyMjE3
-MDY2NzMsLTE3NTUwMDQwMzMsLTIwNjk4NDI4NSwzNTUwOTA2OT
-UsLTEyMjM2MTEwMDldfQ==
+eyJoaXN0b3J5IjpbLTE4MzMzNTUyOTQsLTExNzAxNzMxMjYsLT
+UwMzc0MzI0NiwxMzg1NDQxOTU3LC0xNjIzNTk2Mjk0LC0xMjIx
+NzA2NjczLC0xNzU1MDA0MDMzLC0yMDY5ODQyODUsMzU1MDkwNj
+k1LC0xMjIzNjExMDA5XX0=
 -->
