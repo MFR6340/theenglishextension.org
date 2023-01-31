@@ -78,15 +78,24 @@ summary here. (Lexile AD620L)  <sup>[what is this?](/resources/Lexile%20measures
 <a href="https://www.bookdepository.com/Reasons-for-Seasons-New-Updated-Edition-Gail-Gibbons/9780823442720?ref=grid-view&qid=1673794906175&sr=1-2" rel="nofollow"> Buy on BookDepository</a> 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051788134" rel="nofollow"> Buy on Orell Füssli</a>
 
+### DK- Eyewitness Weather
+
+<img src="https://i.imgur.com/QdEVKWh.png" width="25%" />
+
+A useful introduction to all things weather-related with fantastic photographs. 
+
+<a href="https://www.bookdepository.com/search?searchTerm=DK+Weather&search=Find+book" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037970652" rel="nofollow">Buy on Orell Füssli</a>
+
 ## Extension Booklet
 Designed to be used with this unit. Available on request.
 <img src="https://i.imgur.com/e9jsiaz.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDQ5OTQyMTAsLTExOTM4NzQ2MDIsNz
-A2ODk3Nzc1LDE0MDk3ODk2MjYsNTMyMjA5MjMwLDk4MDM5NDA3
-NSw5MjI1NjQxNDEsMTMzODI0Njk3OCwxMzA0NDA1NzM2LDM1MD
-E2MDc5NCwtMzI2MTMwNzQ3LC0zMDgzODk4MjksMTI2NzM5NDEx
-MywzNDYzOTg0OTEsLTIxOTI4MzMxNCwtODcxODEzNzAzLDE4OT
-A1NTEwMTgsMTc4NDA3Mzg4NSw4OTkzNTc3NzksLTc3MjMyNDQw
-NV19
+eyJoaXN0b3J5IjpbMTgzMTI3NDYxMSwtMTE5Mzg3NDYwMiw3MD
+Y4OTc3NzUsMTQwOTc4OTYyNiw1MzIyMDkyMzAsOTgwMzk0MDc1
+LDkyMjU2NDE0MSwxMzM4MjQ2OTc4LDEzMDQ0MDU3MzYsMzUwMT
+YwNzk0LC0zMjYxMzA3NDcsLTMwODM4OTgyOSwxMjY3Mzk0MTEz
+LDM0NjM5ODQ5MSwtMjE5MjgzMzE0LC04NzE4MTM3MDMsMTg5MD
+U1MTAxOCwxNzg0MDczODg1LDg5OTM1Nzc3OSwtNzcyMzI0NDA1
+XX0=
 -->
