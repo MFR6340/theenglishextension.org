@@ -8,7 +8,7 @@
 
 <img src="https://i.imgur.com/g0kZ505.png" width="25%" />
 
-This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who was trained in some of the finest kitchens in Europe.  As a child in Ethiopia, his mother died and he was adopted by a family in Sweden who gave him a love for cooking.  He wanted to become a soccer player but instead has become one of the "great chefs of the world".  (1080L)
+This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who was trained in some of the finest kitchens in Europe.  As a child in Ethiopia, his mother died and he was adopted by a family in Sweden who gave him a love for cooking.  He wanted to become a soccer player but instead has become one of the "great chefs of the world".  (1080L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034596066" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -16,7 +16,7 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <img src="https://imgur.com/F5RchNv.png" width="25%" />
 
-summary here.  (Lexile level     )
+(Lexile 1110L )
 
 <a href="https://www.bookdepository.com/Chew-on-This-Dr-Charles-Wilson/9780618593941?ref=grid-view&qid=1674908155890&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002859046" rel="nofollow">Buy on Orell Füssli</a> 
@@ -47,6 +47,6 @@ summary here.  (Lexile level       )
 <a href="https://www.bookdepository.com/Trust-the-Grind-Jeremy-Bhandari/9781642502442" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056274723" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjE1Mzc0LDE4NzQyNDkxMzUsNTgyND
-g3MjcwXX0=
+eyJoaXN0b3J5IjpbLTg3MjQ2NjUwNiwxODc0MjQ5MTM1LDU4Mj
+Q4NzI3MF19
 -->
