@@ -4,13 +4,14 @@
 
 **This unit is about theatre and film production.  There is lots of literature about being in the limelight.  Here are some:** 
 
-### Theatre Shoes, by Noel Streatfeild
+### Theater Shoes, by Noel Streatfeild
 
 <img src="https://imgur.com/ZFaHybq.png" width="25%" />
 
-summary here.  (Lexile Level     )
+ (Lexile 890L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Theater-Shoes-Noel-Streatfeild/9780679854340?ref=grid-view&qid=1674667051322&sr=1-5" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033451881" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 ### Hope in a Ballet Shoe by Michaela and Elaine DePrince
@@ -51,6 +52,6 @@ summary here.  (Lexile Level     )
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056523340" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODI4MTkzNzgsLTE1MDQ2MzIyNzQsOD
-AzNTc4NTMzLDE2MjMzNzE2OTZdfQ==
+eyJoaXN0b3J5IjpbLTE5MjY4Mjk3NywtMTU4MjgxOTM3OCwtMT
+UwNDYzMjI3NCw4MDM1Nzg1MzMsMTYyMzM3MTY5Nl19
 -->
