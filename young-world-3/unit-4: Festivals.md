@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/iVed7IA.png" width="25%" />
 
-(No lexile measure available)
+(Lexile IG 1000L)
 
 <a href="https://www.bookdepository.com/Children-Just-Like-Me-Celebrations-Anabel-Kindersley/9780789420275?ref=grid-view&qid=1675199787140&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003413361" rel="nofollow">Buy on Orell Füssli</a>
@@ -27,7 +27,7 @@
 <a href="https://www.bookdepository.com/Kids-Around-World-Celebrate-Best-Feasts-Festivals-from-Many-Lands-L-Jones/9780471345275?ref=grid-view&qid=1674321111991&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005087127" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3MjUzMzcsLTExNzMxNTgxODAsLTczMz
-E1NDA5NiwtMTIxNjQ0MDgxNywyNjQ5Njg5NDYsLTExMzE4MDMx
-NTZdfQ==
+eyJoaXN0b3J5IjpbNTQ0NzczNDAyLC0xMTczMTU4MTgwLC03Mz
+MxNTQwOTYsLTEyMTY0NDA4MTcsMjY0OTY4OTQ2LC0xMTMxODAz
+MTU2XX0=
 -->
