@@ -51,7 +51,7 @@ On School Library Journal's list of the Top 100 Children's Novels
 
 <img src="https://imgur.com/Ex7dpP0.png" width="25%" />
 
-A 16 year old sails around the world alone. (Lexile 1020L )
+The true story of a  16 year old boy who sails around the world alone. (Lexile 1020L )
 
 <a href="https://www.bookdepository.com/search?searchTerm=+Dove%2C+by+Robin+Lee+Graham&search=Find+book" rel="nofollow"> Buy on BookDepository </a>  
 
@@ -81,11 +81,11 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUzMjY1MTUsLTU1NDU5NTkwNyw0ODg2Nz
-MyNjQsMjI1NjQxNTE4LC0xNTY4NTQ5MzU5LDUxMjc2NDcyLDU4
-MzY3OTU3MywtMTg0NzkyNjUxNCwxNzk5ODUzNjI5LDEwNzY1Mj
-gzOTYsLTE4NzMxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1Mywx
-MjAwMTgwMTUzLDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0NDkyMT
-E1ODEsMTQ3MTQyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVd
-fQ==
+eyJoaXN0b3J5IjpbNzMzOTk5MDI4LC01NTQ1OTU5MDcsNDg4Nj
+czMjY0LDIyNTY0MTUxOCwtMTU2ODU0OTM1OSw1MTI3NjQ3Miw1
+ODM2Nzk1NzMsLTE4NDc5MjY1MTQsMTc5OTg1MzYyOSwxMDc2NT
+I4Mzk2LC0xODczMTk2NjgwLDM3MjU4ODQ3LDE5MDg4NjY4NTMs
+MTIwMDE4MDE1Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5Mj
+ExNTgxLDE0NzE0MjE4NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1
+XX0=
 -->
