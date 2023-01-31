@@ -29,7 +29,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 ### Why Humans Work, by Monique Polak
 <img src="https://imgur.com/JeDdslN.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+ (Lexile 1020L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Why-Humans-Work-How-Jobs-Shape-Our-Lives-and-Our-World-Monique-Polak/9781459827950" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062248015" rel="nofollow">Buy on Orell Füssli</a> 
@@ -37,7 +37,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 ### Women in Science, Rachel Ignotofsky
 <img src="https://imgur.com/328RevQ.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile 990L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Women-Science-Rachel-Ignotofsky/9781607749769?ref=grid-view&qid=1674997828920&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1041003989" rel="nofollow">Buy on Orell Füssli</a> 
@@ -45,7 +45,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 ### The Midwife Apprentice, by Karen Cushman
 <img src="https://imgur.com/ZmvH8GT.png" width="25%" />
 
-summary here. (Lexile 1150L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile 1150L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Midwifes-Apprentice-Karen-Cushman/9781328631121?ref=grid-view&qid=1674998000572&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006265686" rel="nofollow">Buy on Orell Füssli</a> 
@@ -94,7 +94,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODMzODU0OTUsMTI0NzYyODc1MywtNz
+eyJoaXN0b3J5IjpbLTE1NDg1NTQ4MjIsMTI0NzYyODc1MywtNz
 g2Nzk1NDUzLC0xNDA5Mjk4NzMzLC0xMTE4MzQzNzU1LDE5NjEx
 Nzg5MywtMTYyNjkyOTU0MywtNjQ4Mzg4NDIyLDIwODA3MzQ3MD
 YsOTYxMjE0OTMzXX0=
