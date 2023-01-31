@@ -4,7 +4,7 @@
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
 **As though the 2nd year of Sekundarschule isn't stressful enough already with the constant reminders and emphasis on finding an apprenticeship, finding a job is also the focus of this Klett English unit. It covers filling out an application, and the skills required for various professions from chef to rocket scientist.  Here is some literature to supplement this unit:** 
-
+ 
 
 ## Fiction 
 
@@ -94,7 +94,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Njc5NTQ1MywtMTQwOTI5ODczMywtMT
-ExODM0Mzc1NSwxOTYxMTc4OTMsLTE2MjY5Mjk1NDMsLTY0ODM4
-ODQyMiwyMDgwNzM0NzA2LDk2MTIxNDkzM119
+eyJoaXN0b3J5IjpbMTI0NzYyODc1MywtNzg2Nzk1NDUzLC0xND
+A5Mjk4NzMzLC0xMTE4MzQzNzU1LDE5NjExNzg5MywtMTYyNjky
+OTU0MywtNjQ4Mzg4NDIyLDIwODA3MzQ3MDYsOTYxMjE0OTMzXX
+0=
 -->
