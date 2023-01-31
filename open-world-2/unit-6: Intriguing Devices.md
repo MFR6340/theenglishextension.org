@@ -4,7 +4,7 @@
 
 **This unit covers inventions and technology from cameras to computers and robots.  Here are some additional suggestions for this theme:**
 
-### The Story of Inventions, by Anna Clayboure & Adam Larakum
+### The Story of Inventions, by Anna Claybourne & Adam Larakum
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -13,6 +13,6 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjM4NzA3OSw1MzY2NDQzODMsMTgxNT
-c1LC04MjE3MDczMTNdfQ==
+eyJoaXN0b3J5IjpbLTE2NDUzMTM1NDksMTg3MjM4NzA3OSw1Mz
+Y2NDQzODMsMTgxNTc1LC04MjE3MDczMTNdfQ==
 -->
