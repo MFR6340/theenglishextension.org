@@ -6,13 +6,13 @@
 
 ### The Story of Inventions, by Anna Claybourne & Adam Larakum
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://i.imgur.com/5VAMs9I.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDUzMTM1NDksMTg3MjM4NzA3OSw1Mz
+eyJoaXN0b3J5IjpbLTE4MDYzNzY4NzEsMTg3MjM4NzA3OSw1Mz
 Y2NDQzODMsMTgxNTc1LC04MjE3MDczMTNdfQ==
 -->
