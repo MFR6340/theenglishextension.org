@@ -10,18 +10,18 @@ The English Extension Organization (TEEO) is a collaboration of experienced teac
 <img src="https://i.imgur.com/msRysTK.png" width="75%" style="display:block;margin-left:auto;margin-right:auto;"/>
 In Switzerland, English instruction is mandatory beginning in the third grade.  
 
-We know that it is difficult for teachers to provide special instruction and materials to native English speakers while simultaneously teaching the regular curriculum to the non-native English students.  We aim to support  teachers so that they don't have to scramble around trying to find ideas and reinvent the wheel.  We have developed supplemental booklets which native speakers can use independently in the classroom.  We have also collected a list of books for each unit so that teachers can provide supplemental literature for students to read.  We are also developing lesson plans which can be used with some of those books. 
+We know that it is difficult for teachers to provide special instruction and materials to native English speakers while simultaneously teaching the regular curriculum to the non-native English students.  We aim to support  teachers so that they don't have to scramble around trying to find ideas and reinvent the wheel.  We have developed supplemental booklets which native speakers can use independently in the classroom.  Included here is a collection of books that are interesting and inspirational for each unit so that teachers can provide supplemental literature for students to read.  We are also developing lesson plans which can be used with some of those books. 
 
-We understand that parents want to make sure that their children have access to good, quality literature.  Reading improves vocabulary development, writing skills, analytical abilities, and so much more.  We have spent countless hours identifying good books that align with the curriculum so that you don't have to.  Currently, there are over 200 books, with more being added every day.
+We understand that parents want to make sure that their children have access to good, quality literature.  Reading improves vocabulary development, writing skills, analytical abilities, and so much more.  We have spent countless hours identifying quality books that align with the curriculum so that you don't have to.  Currently, there are over 200 books, with more being added every day.
 
 We believe that literacy is essential and that every child can become a better reader.  We hope this website provides useful information, book lists and resources to provide support for native English learners in the local Swiss schools.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDEzODU2OSwxMzQxNjUyMTQ2LC00Mj
-czMjQzNTUsLTk2MzU1NDQ1NSwyMDc2MzIwMjY4LC00OTA1ODAz
-NzksLTgxNDcxNDc1OCwtMjAzNDMwMTU2OSwtMTA4NTA2MzY5OC
-wtMTYyNDc0NjI3MCwtMTA1MzM5NzQwMSwtMTYyNDc0NjI3MCw3
-MzA1Mjg4MjgsLTk1Mzg1NDI3NSwtOTUzODU0Mjc1LC0yOTM4MD
-U2MDAsMTQ3NTQ2OTUwOCwtMTc2NzY0NzgyOCwtMTE3MDcwMzU2
-Nl19
+eyJoaXN0b3J5IjpbMTgyNDg4NDkzNCwtODAwMTM4NTY5LDEzND
+E2NTIxNDYsLTQyNzMyNDM1NSwtOTYzNTU0NDU1LDIwNzYzMjAy
+NjgsLTQ5MDU4MDM3OSwtODE0NzE0NzU4LC0yMDM0MzAxNTY5LC
+0xMDg1MDYzNjk4LC0xNjI0NzQ2MjcwLC0xMDUzMzk3NDAxLC0x
+NjI0NzQ2MjcwLDczMDUyODgyOCwtOTUzODU0Mjc1LC05NTM4NT
+QyNzUsLTI5MzgwNTYwMCwxNDc1NDY5NTA4LC0xNzY3NjQ3ODI4
+LC0xMTcwNzAzNTY2XX0=
 -->
