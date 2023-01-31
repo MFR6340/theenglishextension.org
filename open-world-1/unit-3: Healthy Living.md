@@ -43,11 +43,11 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 ### Trust the Grind, by Jeremy Bhandari
 <img src="https://imgur.com/TyTZs4o.png" width="25%" />
 
-summary here.  (Lexile level       )
+(No Lexile measure available )
 
 <a href="https://www.bookdepository.com/Trust-the-Grind-Jeremy-Bhandari/9781642502442" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056274723" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwOTA1MTAwOSwxODc0MjQ5MTM1LDU4Mj
-Q4NzI3MF19
+eyJoaXN0b3J5IjpbLTEwNTU4MTgxOTcsMTg3NDI0OTEzNSw1OD
+I0ODcyNzBdfQ==
 -->
