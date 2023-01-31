@@ -69,7 +69,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 ### Odd Jobs, by Nancy Rica Schiff
 <img src="https://i.imgur.com/9EMqQaL.png" width="25%" />
 
-There are some strange jobs out there, including arm-pit sniffer.  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+There are some strange jobs out there, including arm-pit sniffer and duck-walker.  If these are not enough, there's a follow-up book called *Odder Jobs*.  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Odd-Jobs-Nancy-Rica-Schiff/9781580084574?ref=grid-view&qid=1675181962338&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005333166" rel="nofollow">Buy on Orell Füssli</a> 
@@ -94,8 +94,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjMxNTk4MiwxMzU0MDU5OTc3LDEyND
-c2Mjg3NTMsLTc4Njc5NTQ1MywtMTQwOTI5ODczMywtMTExODM0
-Mzc1NSwxOTYxMTc4OTMsLTE2MjY5Mjk1NDMsLTY0ODM4ODQyMi
-wyMDgwNzM0NzA2LDk2MTIxNDkzM119
+eyJoaXN0b3J5IjpbLTEyNDkyMjQ3NjAsMTM1NDA1OTk3NywxMj
+Q3NjI4NzUzLC03ODY3OTU0NTMsLTE0MDkyOTg3MzMsLTExMTgz
+NDM3NTUsMTk2MTE3ODkzLC0xNjI2OTI5NTQzLC02NDgzODg0Mj
+IsMjA4MDczNDcwNiw5NjEyMTQ5MzNdfQ==
 -->
