@@ -61,14 +61,15 @@ The exhibition BodyWorlds is not currently showing in Switzerland, but one can s
 
 ## Extension Booklet
 Designed to be used with this unit. Available on request.
+
 <img src="https://i.imgur.com/EIwoUmT.png" width="20%" />
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg3OTEzMjIsLTEyNTMyNDQzMzYsLT
-E0OTYwNTg4MTUsMTAyODk5ODI4NCwxMzQ0NzAzNTU0LDE1Nzgx
-NTg0NzYsLTU5MTI5MDMxMiwtMjgwMjQ4MzcsLTE1NjY5Mjk3NT
-QsMzI1MTg0NTEyLC0xNjI0NDA3NTIwLDEzODYwNjUxNjAsMjEw
-ODk1NTc3OCwtMjY5MzIwNzIzLDgxMzEzNDUyLC0yMzgxNDIyMD
-gsMTMzOTI2Nzg5MiwtMjA5MzE0ODE2NCwxNDcyNjg5Njk0LDQ1
-Mzk4NDEzM119
+eyJoaXN0b3J5IjpbNzc4Mzk4MjAwLC0xMjE4NzkxMzIyLC0xMj
+UzMjQ0MzM2LC0xNDk2MDU4ODE1LDEwMjg5OTgyODQsMTM0NDcw
+MzU1NCwxNTc4MTU4NDc2LC01OTEyOTAzMTIsLTI4MDI0ODM3LC
+0xNTY2OTI5NzU0LDMyNTE4NDUxMiwtMTYyNDQwNzUyMCwxMzg2
+MDY1MTYwLDIxMDg5NTU3NzgsLTI2OTMyMDcyMyw4MTMxMzQ1Mi
+wtMjM4MTQyMjA4LDEzMzkyNjc4OTIsLTIwOTMxNDgxNjQsMTQ3
+MjY4OTY5NF19
 -->
