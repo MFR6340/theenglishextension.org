@@ -40,6 +40,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 
 <a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
+
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005058189" rel="nofollow">Buy on Orell Füssli</a>
 
 
@@ -49,6 +50,7 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 <img src="https://imgur.com/z9a1nk1.png" width="25%" />
 
 Newbery Award Winner, this story about a boy named Robin is set in the 14th Century.  Due to plague and warfare, he is separated from his parents and then develops an illness where he loses the use of his legs.  A kind monk teaches him determination and compassion.  (Lexile 920L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+
 <a href="https://www.bookdepository.com/Door-Wall-Marguerite-de-Angeli/9780440402831?ref=grid-view&qid=166593094936774489174439&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006455515" rel="nofollow">Buy on  Orell Füssli</a>
 
@@ -85,11 +87,11 @@ First book in a hilarious series about the author's life growing up in the Vermo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTc3NzQ0MTQsLTgxMjUyODY3MCwxOT
-Q5MjgxMDEwLC0yMDkxMTU1Mzc0LC03NTI4NDcwNDksMTc1MDcx
-NDc2MCw5MTgwMTg3OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMxLD
-M3ODkzNTkzMywyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2
-MTcsMjc4MTMxMzg5LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwtNj
-MyMjAwNDY4LDExMjM4MjY3NTgsMTI3MzE4Mjc3OCwtMTgwNDEz
-MDU0XX0=
+eyJoaXN0b3J5IjpbMTQ4MTA3MDYwNiwtMTYxNzc3NDQxNCwtOD
+EyNTI4NjcwLDE5NDkyODEwMTAsLTIwOTExNTUzNzQsLTc1Mjg0
+NzA0OSwxNzUwNzE0NzYwLDkxODAxODc5NiwtMjA5MTMxMzczMC
+w1Mzc1MzkzMzEsMzc4OTM1OTMzLDIwMTcwNDg1NjcsMzA0Mjky
+MDQ1LDUwMTM4NjYxNywyNzgxMzEzODksLTg2MDUxODU2OCwxNT
+g2ODkyMzg1LC02MzIyMDA0NjgsMTEyMzgyNjc1OCwxMjczMTgy
+Nzc4XX0=
 -->
