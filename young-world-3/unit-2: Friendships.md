@@ -52,6 +52,7 @@ Who could ever imagine that a spider and a pig could hit it off?  But Charlotte'
 ### The BFG, by Roald Dahl
 
 <img src="https://imgur.com/FKsGdaK.png" width="25%" />
+
 (Lexile 720L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/BFG-Roald-Dahl/9780141365428?ref=grid-view&qid=1665855539620&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
@@ -132,6 +133,7 @@ Yes, yes this book was in the previous "School" Unit as well.  But it's really a
 ### The Jungle Book, by Rudyard Kipling
 <img src="https://imgur.com/GGwF3Zo.png" width="25%" />
 
+A must read classic.  Set in central India, this famous story tells the tale of of Mowgli, a boy who is raised by a pack of wolves. He meets Shere Khan, the tiger, Baloo the bear, and Bagheera panther and learns the laws of the jungle. ( Lexile 1020L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 
 <a href="https://www.bookdepository.com/Jungle-Book-by-Rudyard-Kipling-Rudyard-Kipling/9781940177595?ref=grid-view&qid=1674317834532&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -150,7 +152,7 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTExNzkyOCwtNzU4MjYyOTA2LC0yMD
+eyJoaXN0b3J5IjpbMTIwODY2NzkxOSwtNzU4MjYyOTA2LC0yMD
 AyOTAxMDQ2LC0xNjUzOTcxNTc4LDgwNTU2OTcyMywyMTMxMDk2
 MzU3LC0xNjUxMDE3MjUwLDE0OTU3NTA2MDUsNjY1MTI1MTIxLD
 E4MjkxNzkxNTEsMTkwOTU0NTAyOCwtNDQ5ODE2ODQ1LC0xNTc0
