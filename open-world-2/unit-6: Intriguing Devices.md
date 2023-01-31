@@ -8,11 +8,10 @@
 
 <img src="https://i.imgur.com/5VAMs9I.png" width="25%" />
 
-(Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
-
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDYzNzY4NzEsMTg3MjM4NzA3OSw1Mz
-Y2NDQzODMsMTgxNTc1LC04MjE3MDczMTNdfQ==
+eyJoaXN0b3J5IjpbLTg3MjQxNjc4MiwtMTgwNjM3Njg3MSwxOD
+cyMzg3MDc5LDUzNjY0NDM4MywxODE1NzUsLTgyMTcwNzMxM119
+
 -->
