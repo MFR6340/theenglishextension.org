@@ -1,6 +1,13 @@
 # Young World 3, Unit 4: Festivals
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
+###  Children Just Like Me: Celebrations! : Festivals, Carnivals, and Feast Days from Around the World
 
+<img src="https://imgur.com/fZ4PdHh.png" width="25%" />
+
+(No lexile measure available)
+
+<a href="https://www.bookdepository.com/Kids-Around-World-Celebrate-Best-Feasts-Festivals-from-Many-Lands-L-Jones/9780471345275?ref=grid-view&qid=1674321111991&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005087127" rel="nofollow">Buy on Orell Füssli</a>
 
 ### The Diplomat’s Travel Guide to Festivals, Holidays, and Celebrations in India
 
@@ -20,7 +27,7 @@
 <a href="https://www.bookdepository.com/Kids-Around-World-Celebrate-Best-Feasts-Festivals-from-Many-Lands-L-Jones/9780471345275?ref=grid-view&qid=1674321111991&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005087127" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDEyMzY0NiwtMTE3MzE1ODE4MCwtNz
-MzMTU0MDk2LC0xMjE2NDQwODE3LDI2NDk2ODk0NiwtMTEzMTgw
-MzE1Nl19
+eyJoaXN0b3J5IjpbLTE3NDAzOTgwOTEsLTExNzMxNTgxODAsLT
+czMzE1NDA5NiwtMTIxNjQ0MDgxNywyNjQ5Njg5NDYsLTExMzE4
+MDMxNTZdfQ==
 -->
