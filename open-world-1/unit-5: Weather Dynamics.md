@@ -18,16 +18,16 @@ Strongly recommend the movie by the same name.
 
 <img src="https://i.imgur.com/QdEVKWh.png" width="25%" />
 
-A useful introduction to all things weather-related.  Includes fantastic photographs. 
+A useful introduction to all things weather-related with fantastic photographs. 
 
 <a href="https://www.bookdepository.com/search?searchTerm=DK+Weather&search=Find+book" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037970652" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Weather, by John Farndon
 
-<img src="https://i.imgur.com/QdEVKWh.png" width="25%" />
+<img src="https://i.imgur.com/VXPAjuO.png" width="25%" />
 
-A useful introduction to all things weather-related.  Includes fantastic photographs. 
+An incredibly comprehensive weather book 
 
 <a href="https://www.bookdepository.com/Weather-John-Farndon/9781338608946?ref=grid-view&qid=1675171661197&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037970652" rel="nofollow">Buy on Orell Füssli</a>
@@ -62,8 +62,8 @@ summary here.  (Lexile        )
 Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit  [Technorama](https://www.technorama.ch/en/home), the science center in Wintertur, Zurich, and see how lightening is formed. Performances are at 11.30 and 14.30.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTI3NDAyMiwtOTYxMzc0NjAxLDk4Mz
-M0NzMzMSw3NjMxMDQ0MzYsMTMxNzg5OTk0OSwtNDk0Mzg0NjQ2
-LC00NTMwMTY1ODgsMTE3MDUyNjE5NSwxMzQ1NDM0MTI0LC0xMD
-A4MDAxMjQwLC03NDQyNTI1MTZdfQ==
+eyJoaXN0b3J5IjpbNTAzNjk1NjUwLC05NjEzNzQ2MDEsOTgzMz
+Q3MzMxLDc2MzEwNDQzNiwxMzE3ODk5OTQ5LC00OTQzODQ2NDYs
+LTQ1MzAxNjU4OCwxMTcwNTI2MTk1LDEzNDU0MzQxMjQsLTEwMD
+gwMDEyNDAsLTc0NDI1MjUxNl19
 -->
