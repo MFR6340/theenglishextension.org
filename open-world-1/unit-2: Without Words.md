@@ -56,15 +56,15 @@ This is one of Mark Twain's most famous short stories.  It was adapted from a ca
 
 <img src="https://i.imgur.com/MAgpIvR.png" width="25%" />
 
-(Lexile 960L) 
+(Lexile 960L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/How-Speak-Animal-National-Geographic-Kids/9781426372384?ref=grid-view&qid=1675112239922&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062972106" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5ODA1NzIxMiwxNDI3MTUxMjQzLC0xMz
-czMjg3MjIsLTIxNzA1NTQ2MywtMTY3MTY3MzU4NiwxMTA4NzQ1
-ODgwLDIwODg2Mzk0MzksLTE2Mzg5NDk2NTMsLTE0NzkyOTYxMy
-wxNzg4MjQyODYxLC0xMDIzMDY3NjQ2XX0=
+eyJoaXN0b3J5IjpbNzI2MTQ5ODAxLDE0MjcxNTEyNDMsLTEzNz
+MyODcyMiwtMjE3MDU1NDYzLC0xNjcxNjczNTg2LDExMDg3NDU4
+ODAsMjA4ODYzOTQzOSwtMTYzODk0OTY1MywtMTQ3OTI5NjEzLD
+E3ODgyNDI4NjEsLTEwMjMwNjc2NDZdfQ==
 -->
