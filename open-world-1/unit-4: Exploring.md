@@ -60,8 +60,7 @@ The true story of a  16 year old boy who sails around the world alone. (Lexile 1
 
  <img src="https://imgur.com/CfRRQoR.png" width="25%" />
 
-Most explorers had a plan of where there were going, but often those plans didn't work out quite as they expected.  
- (Lexile 1000L )
+Most explorers had a plan of where there were going, but often those plans didn't work out quite as they expected.  Learn what happened instead.  Find out about the trips of Cabot, Hudson, Magellan, and other great explorers. (Lexile 1000L )
 
 <a href="https://www.bookdepository.com/Explorers-Who-Got-Lost-Diane-Sansevere-Dreher/9780765381514?ref=grid-view&qid=1674913369118&sr=1-1 link here" rel="nofollow"> Buy on href=res""https://www.orellfuessli.ch/shop/home/artikeldetails/A1036084575" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -82,11 +81,11 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczNDE4NjMwLC01NTQ1OTU5MDcsNDg4Nj
-czMjY0LDIyNTY0MTUxOCwtMTU2ODU0OTM1OSw1MTI3NjQ3Miw1
-ODM2Nzk1NzMsLTE4NDc5MjY1MTQsMTc5OTg1MzYyOSwxMDc2NT
-I4Mzk2LC0xODczMTk2NjgwLDM3MjU4ODQ3LDE5MDg4NjY4NTMs
-MTIwMDE4MDE1Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5Mj
-ExNTgxLDE0NzE0MjE4NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1
-XX0=
+eyJoaXN0b3J5IjpbLTk0NzEzMTUwNCwtNTU0NTk1OTA3LDQ4OD
+Y3MzI2NCwyMjU2NDE1MTgsLTE1Njg1NDkzNTksNTEyNzY0NzIs
+NTgzNjc5NTczLC0xODQ3OTI2NTE0LDE3OTk4NTM2MjksMTA3Nj
+UyODM5NiwtMTg3MzE5NjY4MCwzNzI1ODg0NywxOTA4ODY2ODUz
+LDEyMDAxODAxNTMsNDM5NjUxMjk5LC0xNzEzOTM4NzYxLDQ0OT
+IxMTU4MSwxNDcxNDIxODU3LDYxNDU3MTk0NiwtMjA3MzkyMjYz
+NV19
 -->
