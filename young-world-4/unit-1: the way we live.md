@@ -4,6 +4,14 @@
 
 **This unit covers: healthy eating, recipes, developing shopping lists, and what different families eat during a week.   Here are some suggestions for native English speakers to read more about cooking and baking, both fiction and non-fiction.  There are also books in Young World 1, Unit 3, and Open World 1, Unit 3 that are appropriate for this theme.** 
 
+### Eat This!, by Andrea Curtis
+
+<img src="https://imgur.com/JerfxFx.png" width="25%" />
+
+(No Lexile measure available)
+
+<a href="https://www.bookdepository.com/Eat-This-Andrea-Curtis-Peggy-Collins/9780889955325" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037393229" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 ### Make it Messy, by Marcus Samuelsson
@@ -14,6 +22,6 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034596066" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM2NzkxMjMsLTE2NDk4NTc0NzldfQ
-==
+eyJoaXN0b3J5IjpbLTQ5ODYwNjA1NSwtMTQ4MzY3OTEyMywtMT
+Y0OTg1NzQ3OV19
 -->
