@@ -18,7 +18,7 @@ A lovely book that explains festivals and gatherings that take place throughout 
 
 <img src="https://imgur.com/DsPI10e.png" width="25%" />
 
-Newberry Honor Book.  The story of William Tell, who shot an apple of the head of his son in 1291.  Written from the viewpoint of his son Walter.  (Lexile 750L) 
+Newberry Honor Book.  The story of William Tell, who shot an apple of the head of his son in 1291.  Written from the viewpoint of his son Walter.  (Lexile 750L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Apple-Arrow-Buff-M/9780618128099?ref=grid-view&qid=1665931458861&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002594722" rel="nofollow">Buy on Orell Füssli</a>
@@ -26,7 +26,7 @@ Newberry Honor Book.  The story of William Tell, who shot an apple of the head o
 ### Heidi, by Johanna Spyri
 <img src="https://imgur.com/XPkX05Y.png" width="25%" />
 
-The classic children's novel, originally published in German, is about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  You can’t be a child in Switzerland and not read this classic. It’s an excellent way to learn about descriptive settings and to learn about using landscapes to create atmospheric writing.Originally published in 1880-81 in two parts.  As it is now out of copyright there are quite a few English translations available including for free on<a href="http://www.gutenberg.org/ebooks/1448" rel="nofollow">  Gutenberg.  Lexile level varies based on translation. 
+The classic children's novel, originally published in German, is about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  You can’t be a child in Switzerland and not read this classic. It’s an excellent way to learn about descriptive settings and to learn about using landscapes to create atmospheric writing.Originally published in 1880-81 in two parts.  As it is now out of copyright there are quite a few English translations available including for free on<a href="http://www.gutenberg.org/ebooks/1448" rel="nofollow">  Gutenberg.  Lexile measure varies based on translation. 
 
 <a href="https://www.bookdepository.com/Heidi-Johanna-Spyri/9780141322568?ref=grid-view&qid=1665931270781&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005226950" rel="nofollow">Buy on Orell Füssli</a>
@@ -35,7 +35,7 @@ The classic children's novel, originally published in German, is about an charmi
 
 <img src="https://imgur.com/dtqp6SI.png" width="25%" />
 
-A mystery adventure of the Hollister family while visiting Switzerland.  The five children track down the leads to finding missing Mr. Meyer and a diamond and learn about Swiss life and customs.  This book is #25 in a series, but none of the books need to be read in any order.  (Lexile 730L)
+A mystery adventure of the Hollister family while visiting Switzerland.  The five children track down the leads to finding missing Mr. Meyer and a diamond and learn about Swiss life and customs.  This book is #25 in a series, but none of the books need to be read in any order.  (Lexile 730L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Happy-Hollisters-Swiss-Echo-Mystery-Jerry-West/9781949436587?ref=grid-view&qid=1665931110999&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053696383" rel="nofollow">Buy on Orell Füssli</a>
@@ -44,7 +44,7 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 <img src="https://imgur.com/biY69Qr.png" width="25%" />
 
-Summary here.  (Lexile 680L )
+Summary here.  (Lexile 680L ) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 
 
@@ -68,8 +68,8 @@ Attend a traditional Schwingfest.  Schwingen is only for the biggest and toughes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM3NjgzNiwtMTE2MDQ1OTAyMCwyND
-IyMjg4ODgsMTA4NDA5MzM0OSwxMzYzNjYxNTkxLC02MDQ3NDc3
-NjIsNDMyMDYyMTc2LC0xODk0NjAwODUzLDE4NDg4NTQxMjIsND
-U5MTgzMDU1XX0=
+eyJoaXN0b3J5IjpbMTg5MTM2Mzk1OSwtMTgwMzc2ODM2LC0xMT
+YwNDU5MDIwLDI0MjIyODg4OCwxMDg0MDkzMzQ5LDEzNjM2NjE1
+OTEsLTYwNDc0Nzc2Miw0MzIwNjIxNzYsLTE4OTQ2MDA4NTMsMT
+g0ODg1NDEyMiw0NTkxODMwNTVdfQ==
 -->
