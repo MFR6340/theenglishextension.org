@@ -77,23 +77,20 @@ Who could ever imagine that a spider and a pig could hit it off?  But Charlotte'
 
 
 
-
-
 ### The Mouse and the Motorcycle, by Beverly Cleary
 <img src="https://i.imgur.com/OgQl0CA.png" width="25%" />
 
-summary here.
 (Lexile 860L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Mouse-Motorcycle-Beverly-Cleary/9780380709243?ref=grid-view&qid=1674048077748&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003100657" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Harry Potter and the Philosopher's Stone, by J. K. Rowling 
-Sold under the title *Harry Potter and the Sorcerer's Stone* in the US
+Published under the title *Harry Potter and the Sorcerer's Stone* in the US
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
-Yes, yes this book was in the previous "School" Unit as well.  But it's really a great book for this unit, too, as the friendship between Harry, Ron and Hermione is so well portrayed.  (Lexile 880L )   <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
+Yes, yes this book was in the previous "School" Unit as well.  But it's really a great book for this unit, too.  The friendship between Harry, Ron and Hermione is so well portrayed.  (Lexile 880L )   <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
@@ -101,7 +98,7 @@ Yes, yes this book was in the previous "School" Unit as well.  But it's really a
 ### Liar and Spy, by Rebecca Stead
 <img src="https://i.imgur.com/EpgD5sN.png" width="25%" />
 
-summary here.  (Lexile 670L )   <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
+ (Lexile 670L )   <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Liar-Spy-Rebecca-Stead/9780375850875?ref=grid-view&qid=1674048861048&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1030255728" rel="nofollow">Buy on Orell Füssli</a>
@@ -110,7 +107,6 @@ summary here.  (Lexile 670L )   <sup>[what is a lexile level?](/resources/Lexile
 
 <img src="https://i.imgur.com/JH1m5Xw.png" width="25%" />
 
-summary here.
   (Lexile  690L)   <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Song-from-Somewhere-Else-F-Harrold/9781408884751?ref=grid-view&qid=1674049448289&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -153,11 +149,11 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDczMjIxMzQsLTIwMDI5MDEwNDYsLT
-E2NTM5NzE1NzgsODA1NTY5NzIzLDIxMzEwOTYzNTcsLTE2NTEw
-MTcyNTAsMTQ5NTc1MDYwNSw2NjUxMjUxMjEsMTgyOTE3OTE1MS
-wxOTA5NTQ1MDI4LC00NDk4MTY4NDUsLTE1NzQ4MzQ2MjQsLTEz
-MDAzNzEyNDQsLTEyNDYyMTM4NzMsMTA4MjUyNTg5NSwtMTI3ND
-k5MDY2MiwtMTc4ODY0NzA0OSwxMzY4NTc0NzA5LDMxODYxMDcy
-MywxMTQ2MDczMjQ3XX0=
+eyJoaXN0b3J5IjpbLTc1ODI2MjkwNiwtMjAwMjkwMTA0NiwtMT
+Y1Mzk3MTU3OCw4MDU1Njk3MjMsMjEzMTA5NjM1NywtMTY1MTAx
+NzI1MCwxNDk1NzUwNjA1LDY2NTEyNTEyMSwxODI5MTc5MTUxLD
+E5MDk1NDUwMjgsLTQ0OTgxNjg0NSwtMTU3NDgzNDYyNCwtMTMw
+MDM3MTI0NCwtMTI0NjIxMzg3MywxMDgyNTI1ODk1LC0xMjc0OT
+kwNjYyLC0xNzg4NjQ3MDQ5LDEzNjg1NzQ3MDksMzE4NjEwNzIz
+LDExNDYwNzMyNDddfQ==
 -->
