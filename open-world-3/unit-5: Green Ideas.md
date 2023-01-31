@@ -47,12 +47,11 @@ summary here.  (Lexile Level     )
 ### Escape From Chernobyl, by Andy Marino
 <img src="https://imgur.com/V3fdyctimgurlinkere.png" width="25%" />
 
-summary here.  (Lexile Level     )
-
+(Lexile 820L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 <a href="https://www.bookdepository.com/Escape-from-Chernobyl-Andy-Marino/9780702322167?ref=grid-view&qid=1674669099998&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061776983" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTk0MTg5MSwtODUzMDMxNjk1LC0xOT
+eyJoaXN0b3J5IjpbLTc1OTc2NTIxMiwtODUzMDMxNjk1LC0xOT
 YxODAwMDE3LDM1MDM2ODU1MywxMDY5Mjk1NTAyLC0yMDU1ODYy
 NjI4LC0yNzg2OTE3ODAsODc5NzEwNDI2LC0xMDk2NzUzNzAxXX
 0=
