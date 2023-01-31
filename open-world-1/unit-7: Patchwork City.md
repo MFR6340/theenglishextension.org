@@ -6,7 +6,7 @@
 
 <img src="https://imgur.com/sU4mlZA.png" width="25%" />
 
-summary here.  (Lexile )
+Okay, fine.  This is really a picture book for younger kids, but it takes place in Toronto and is fun story of a boy who wakes up to discover that there is now a subway stop in his bedroom.  A  (Lexile 570L)
 
 <a href="https://www.bookdepository.com/Jonathan-Cleaned-Up-Then-He-Heard-Sound-Robert-Munsch/9781773210889?ref=grid-view&qid=1674500497806&sr=1-2 link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005972253" rel="nofollow">Buy on Orell Füssli</a> 
@@ -46,9 +46,9 @@ summary here.  (Lexile NC1190L)
 <a href="https://www.amazon.com/-/de/dp/0516220349/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1674926987&sr=8-1" rel="nofollow"> Buy on Amazon</a>  Only available used
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTYzNzY0NTksMTcyNjk4NTEzLDk0Mj
-Y0MTMxOCwxNDE0MjUxNTk1LC0yMTQ2MDE0Njk3LDcyMjQ2MjE3
-MywtMTI2Mzg2NTEyMiwtNzU1OTg3MzkwLC0xMjI3MTM1OTY0LC
-03OTQxNjA2LC0zMjI5NzQyNjEsLTEyNTc4MDA5NjMsLTU5MTk3
-MjU4NCwxMDQzNjY0MDk2XX0=
+eyJoaXN0b3J5IjpbNzYwMjUxMzA4LDE3MjY5ODUxMyw5NDI2ND
+EzMTgsMTQxNDI1MTU5NSwtMjE0NjAxNDY5Nyw3MjI0NjIxNzMs
+LTEyNjM4NjUxMjIsLTc1NTk4NzM5MCwtMTIyNzEzNTk2NCwtNz
+k0MTYwNiwtMzIyOTc0MjYxLC0xMjU3ODAwOTYzLC01OTE5NzI1
+ODQsMTA0MzY2NDA5Nl19
 -->
