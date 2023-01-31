@@ -27,7 +27,7 @@ Also try the Audio book version read by Eric Idle
 ### The Great Chocoplot, by Chris Callaghan
 <img src="https://imgur.com/PvuDfbY.png" width="25%" />
 
-
+(Lexile 790L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=1674493914769&sr=1-1"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038196486" rel="nofollow">Buy on Orell Füssli</a>
@@ -35,6 +35,7 @@ Also try the Audio book version read by Eric Idle
 ### The Whizz Pop Chocolate Shop, by Kate Saunders
 <img src="https://imgur.com/O9Uy0I3.png" width="25%" />
 
+(Lexile 700L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 
 <a href="https://www.bookdepository.com/Whizz-Pop-Chocolate-Shop-Kate-Saunders/9780385743020?ref=grid-view&qid=1674494&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -59,11 +60,11 @@ This fantastic article gives suggestions for even more [Chocolate factories and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MjUxMTMwNCwtMTQ0OTk2NDIyOCwzOD
-IxNzc1NDEsLTExOTEyMDI2NTUsLTEyMDA0MTI2OSw3MTE3NDUz
-NjYsMTE3MDEzODMwNSwtODYxNDQ2MSwtNTU3MjY0MzgzLC0xOT
-Q0NjU4MDQ3LDY3NzczNzYwOCw2Njg2MDk0NzUsMTE5NTk4NjI5
-LC0xNDcxNDMwMDEsLTM3Njk4MTgzMSwtMTU0NDU0NzEwNywtMT
-U3NDU5OTExMiwtNTkyNjY5NDU2LDg5MTc4MTMzMCw4NzM1MTYy
-NjRdfQ==
+eyJoaXN0b3J5IjpbNDY3MTIyODc1LC0xNDQ5OTY0MjI4LDM4Mj
+E3NzU0MSwtMTE5MTIwMjY1NSwtMTIwMDQxMjY5LDcxMTc0NTM2
+NiwxMTcwMTM4MzA1LC04NjE0NDYxLC01NTcyNjQzODMsLTE5ND
+Q2NTgwNDcsNjc3NzM3NjA4LDY2ODYwOTQ3NSwxMTk1OTg2Mjks
+LTE0NzE0MzAwMSwtMzc2OTgxODMxLC0xNTQ0NTQ3MTA3LC0xNT
+c0NTk5MTEyLC01OTI2Njk0NTYsODkxNzgxMzMwLDg3MzUxNjI2
+NF19
 -->
