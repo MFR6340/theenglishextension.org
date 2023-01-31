@@ -1,6 +1,14 @@
 # Open World 1, Unit 7: Patchwork City
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
-**This unit focuses on the city of Toronto, the various neighborhoods and the many languages spoken in the city. It's not easy to find, but here is some literature that goes with this theme:**  
+**This unit focuses on the city of Toronto, the various neighborhoods, and the many languages spoken in the city. It's not easy to find litert, but here is some literature that goes with this theme:**  
+
+### Runaway Rodents: The Untold Story of Toronto's Infamous Capybaras, by Dogmara Bociek
+
+<img src="https://imgur.com/SP7Ahul.png" width="25%" />
+
+A fun story about about two renegade capybara who escape from the Toronto Zoo and spend 36 days in freedom before eventually being caught.  Based on a true event which the author heard about on the radio while driving to her teaching job.  (No lexile measure available).
+
+<a href="https://www.bookdepository.com/Runaway-Rodents-Dagmara-Bociek/9781777996840?ref=grid-view&qid=1674926518140&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Jonathan Cleaned Up ... Then He Heard a Sound, by Robert Munsch
 
@@ -20,13 +28,8 @@ Set in Toronto in 1942, this book is about a little girl who discovers that her 
 <a href="https://www.bookdepository.com/Lucy-Maud-Me-Mary-Frances-Coady/9780888783981?ref=grid-view&qid=1674500880491&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004813404" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Runaway Rodents: The Untold Story of Toronto's Infamous Capybaras, by Dogmara Bociek
 
-<img src="https://imgur.com/SP7Ahul.png" width="25%" />
 
-A fun story about about two renegade capybara who escape from the Toronto Zoo and spend 36 days in freedom before eventually being caught.  Based on a true event which the author heard about on the radio while driving to her teaching job.  (No lexile measure available).
-
-<a href="https://www.bookdepository.com/Runaway-Rodents-Dagmara-Bociek/9781777996840?ref=grid-view&qid=1674926518140&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ### The Night They Stole the Stanley Cup, by Roy MacGregor
 
@@ -46,10 +49,10 @@ A general overview of the city, along with photos, a map and timeline.
 <a href="https://www.bookdepository.com/Explore-Toronto-Patricia-Hutchison/9781632358417" rel="nofollow"> Buy on Book Depository </a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NzQwNDIwMCwtNzAzOTQ3MzE4LDQyNj
-EyOTEzMSwxNzI2OTg1MTMsOTQyNjQxMzE4LDE0MTQyNTE1OTUs
-LTIxNDYwMTQ2OTcsNzIyNDYyMTczLC0xMjYzODY1MTIyLC03NT
-U5ODczOTAsLTEyMjcxMzU5NjQsLTc5NDE2MDYsLTMyMjk3NDI2
-MSwtMTI1NzgwMDk2MywtNTkxOTcyNTg0LDEwNDM2NjQwOTZdfQ
-==
+eyJoaXN0b3J5IjpbMjA0Mjk3OTg4NCwxNzk3NDA0MjAwLC03MD
+M5NDczMTgsNDI2MTI5MTMxLDE3MjY5ODUxMyw5NDI2NDEzMTgs
+MTQxNDI1MTU5NSwtMjE0NjAxNDY5Nyw3MjI0NjIxNzMsLTEyNj
+M4NjUxMjIsLTc1NTk4NzM5MCwtMTIyNzEzNTk2NCwtNzk0MTYw
+NiwtMzIyOTc0MjYxLC0xMjU3ODAwOTYzLC01OTE5NzI1ODQsMT
+A0MzY2NDA5Nl19
 -->
