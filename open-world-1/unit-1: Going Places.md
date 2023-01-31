@@ -28,7 +28,7 @@ summary here.  (Lexile )
 
 <img src="https://imgur.com/LquXPjQ.png" width="25%" />
 
-summary here.  (Lexile 790L )
+(Lexile 790L )  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Gruesome-Guide-Edinburgh-newspaper-edition-Terry-Deary/9780702318122?ref=grid-view&qid=1674500219627&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -37,7 +37,7 @@ summary here.  (Lexile 790L )
 
 <img src="https://imgur.com/Cr0Zde3.png" width="25%" />
 
-summary here.  (Lexile level       )
+(Lexile HL 650L  )  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Divided-City-Theresa-Breslin/9780552551885?ref=grid-view&qid=1674837430467&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -61,7 +61,7 @@ You don't need to leave Switzerland to see **Highland Dancing** or to learn how 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTYzMzcyODcsLTE4NTUyNjY1NTMsLT
+eyJoaXN0b3J5IjpbLTE3OTc5Njc1NTYsLTE4NTUyNjY1NTMsLT
 IwNjI0MTI5MywxNzk5MzE4MjEyLDc4ODAxNzc4OSwtMTcyOTMw
 NjA0OV19
 -->
