@@ -25,7 +25,7 @@
 ### Shackleton’s Journey, by William Grill
 <img src="https://imgur.com/pkkgkac.png" width="25%" />
 
-summary here.  (Lexile )
+(Lexile 1140L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Shackletons-Journey-William-Grill/9781909263109?ref=grid-view&qid=1674909553977&sr=1-1" rel="nofollow"> Buy on ref=res" rel="nofollow">Buy on</a> 
 
@@ -78,10 +78,10 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI0NDgwNDIsNDg4NjczMjY0LDIyNT
-Y0MTUxOCwtMTU2ODU0OTM1OSw1MTI3NjQ3Miw1ODM2Nzk1NzMs
-LTE4NDc5MjY1MTQsMTc5OTg1MzYyOSwxMDc2NTI4Mzk2LC0xOD
-czMTk2NjgwLDM3MjU4ODQ3LDE5MDg4NjY4NTMsMTIwMDE4MDE1
-Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgxLDE0Nz
-E0MjE4NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1XX0=
+eyJoaXN0b3J5IjpbMTIxOTI5NTMwOSw0ODg2NzMyNjQsMjI1Nj
+QxNTE4LC0xNTY4NTQ5MzU5LDUxMjc2NDcyLDU4MzY3OTU3Mywt
+MTg0NzkyNjUxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYsLTE4Nz
+MxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMTgwMTUz
+LDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEsMTQ3MT
+QyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVdfQ==
 -->
