@@ -7,8 +7,7 @@
 ### Around the World in 80 Days, by Jules Vern
 <img src="https://imgur.com/2UEqt4e.png" width="25%" />
 
-summary here.  (Lexile 1030L)
-
+ (Lexile 1030L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.bookdepository.com/Around-World-Eighty-Days-Jules-Verne/9780007350940?ref=grid-view&qid=1674908924094&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009059697" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -16,7 +15,7 @@ summary here.  (Lexile 1030L)
 
 <img src="https://imgur.com/ZZ1fVsn.png" width="25%" />
 
-summary here. (Lexile 800L)
+ (Lexile 800L)   <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9781782957393?ref=grid-view&qid=1674909364444&sr=1-4 href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1022805518" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -76,10 +75,10 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4NjczMjY0LDIyNTY0MTUxOCwtMTU2OD
-U0OTM1OSw1MTI3NjQ3Miw1ODM2Nzk1NzMsLTE4NDc5MjY1MTQs
-MTc5OTg1MzYyOSwxMDc2NTI4Mzk2LC0xODczMTk2NjgwLDM3Mj
-U4ODQ3LDE5MDg4NjY4NTMsMTIwMDE4MDE1Myw0Mzk2NTEyOTks
-LTE3MTM5Mzg3NjEsNDQ5MjExNTgxLDE0NzE0MjE4NTcsNjE0NT
-cxOTQ2LC0yMDczOTIyNjM1XX0=
+eyJoaXN0b3J5IjpbNjQ5MTcxNjgyLDQ4ODY3MzI2NCwyMjU2ND
+E1MTgsLTE1Njg1NDkzNTksNTEyNzY0NzIsNTgzNjc5NTczLC0x
+ODQ3OTI2NTE0LDE3OTk4NTM2MjksMTA3NjUyODM5NiwtMTg3Mz
+E5NjY4MCwzNzI1ODg0NywxOTA4ODY2ODUzLDEyMDAxODAxNTMs
+NDM5NjUxMjk5LC0xNzEzOTM4NzYxLDQ0OTIxMTU4MSwxNDcxND
+IxODU3LDYxNDU3MTk0NiwtMjA3MzkyMjYzNV19
 -->
