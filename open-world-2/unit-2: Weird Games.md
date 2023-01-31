@@ -22,7 +22,7 @@
 
 
 
-### Title here, by author here
+### # Sporran Explains Highland Games, by Linda 
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -42,8 +42,8 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzMDc1MzIyLC04NjM1MDEyNzAsMTY4Nj
-I2NjQ4LDEzMTM1MDQ5ODgsLTE5NzY3NjkwNDcsMTU4ODM5MTg0
-NiwtMjU2NTU4Nzk4LC01ODc3NDY2MzksMTE5OTc4NzUzNywtMT
-EzNTQ2MDUwN119
+eyJoaXN0b3J5IjpbLTE0NzQ4NTUwMjUsLTg2MzUwMTI3MCwxNj
+g2MjY2NDgsMTMxMzUwNDk4OCwtMTk3Njc2OTA0NywxNTg4Mzkx
+ODQ2LC0yNTY1NTg3OTgsLTU4Nzc0NjYzOSwxMTk5Nzg3NTM3LC
+0xMTM1NDYwNTA3XX0=
 -->
