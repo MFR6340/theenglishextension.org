@@ -6,18 +6,15 @@
 ### Grayfriars Bobby, by Eleanor Atkinson
 <img src="https://imgur.com/RRgkUnc.png" width="25%" />
 
-summary here.  (Lexile level       )
-
+(No Lexile measure available)
 <a href="https://www.bookdepository.com/Greyfriars-Bobby-Eleanor-Atkinson/9780140367423?ref=grid-view&qid=1674499920738&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
  
- 
-
 ### Harry Potter and the Philosopher's Stone, by J. K. Rowling
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
-summary here.  (Lexile )  
+ (Lexile 880L)  
 
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a> 
@@ -59,7 +56,7 @@ You don't need to leave Switzerland to see **Highland Dancing** or to learn how 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY4NjU5MTIsLTE4NTUyNjY1NTMsLT
+eyJoaXN0b3J5IjpbLTE3ODI0Mzc0NzIsLTE4NTUyNjY1NTMsLT
 IwNjI0MTI5MywxNzk5MzE4MjEyLDc4ODAxNzc4OSwtMTcyOTMw
 NjA0OV19
 -->
