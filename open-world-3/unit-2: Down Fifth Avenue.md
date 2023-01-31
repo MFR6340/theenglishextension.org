@@ -54,8 +54,7 @@
 
 <img src="https://imgur.com/iSNHBmc.png" width="25%" />
 
-summary here.  (Lexile Level     )
-
+(No Lexile measure available)
 <a href="https://www.bookdepository.com/Nightfall-New-York-Katherine-Woodfine/9781405293273?ref=grid-view&qid=1674589229049&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1059792723" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -63,12 +62,12 @@ summary here.  (Lexile Level     )
 
 <img src="https://imgur.com/4gmrEE9.png" width="25%" />
 
-summary here.  (Lexile 810L)
+ (Lexile 810L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Vanderbeekers-Hidden-Garden-Karina-Yan-Glaser/9780358117346?ref=grid-view&qid=1674589448653&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1049694429" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDM0Mzc5OSwtMTcyODI5NDU4NSwtMT
-Q3ODAzMzQ3NCwtMTY1OTU0MzE3OSwxMDk1NTMwMTY3LC0xMDU3
-Nzg0NTc1LDIwMTIyNjE3MTZdfQ==
+eyJoaXN0b3J5IjpbNzg0MjUxNDM2LC0xNzI4Mjk0NTg1LC0xND
+c4MDMzNDc0LC0xNjU5NTQzMTc5LDEwOTU1MzAxNjcsLTEwNTc3
+ODQ1NzUsMjAxMjI2MTcxNl19
 -->
