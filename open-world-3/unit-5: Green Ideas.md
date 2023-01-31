@@ -6,7 +6,7 @@
 ### The Boy Who Harnessed the Wind (YA version), by William Kampwamba
 <img src="https://imgur.com/XF93Hnq.png" width="25%" />
 
-This inspirational true story is about a boy from Africa who uses items around him to build a pump to get water to grow crops. This edition has been retold for a younger audience.  The story has also been made into a film which can be seen on Netflix. (Lexile 860L) <sup>[what is this?](/resources/Lexile%20measures)</sup> There is also an edition which is harder to read with  a Lexile measure of 960L.
+This inspirational true story is about a boy from Africa who uses items around him to build a pump to get water to grow crops. This edition has been retold for a younger audience.  The story has also been made into a film which can be seen on Netflix. (Lexile 860L) <sup>[what is this?](/resources/Lexile%20measures)</sup> There is also an unabridged edition which is harder to read with  a Lexile measure of 960L.
 
 <a href="https://www.bookdepository.com/Boy-Who-Harnessed-Wind-William-Kamkwamba/9780147510426?ref=grid-view&qid=1665854100400&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -50,8 +50,8 @@ This inspirational true story is about a boy from Africa who uses items around h
 <a href="https://www.bookdepository.com/Escape-from-Chernobyl-Andy-Marino/9780702322167?ref=grid-view&qid=1674669099998&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061776983" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg1NjY0NTEsLTg1MzAzMTY5NSwtMT
-k2MTgwMDAxNywzNTAzNjg1NTMsMTA2OTI5NTUwMiwtMjA1NTg2
-MjYyOCwtMjc4NjkxNzgwLDg3OTcxMDQyNiwtMTA5Njc1MzcwMV
-19
+eyJoaXN0b3J5IjpbMTkzNzkwNTU3MCwtODUzMDMxNjk1LC0xOT
+YxODAwMDE3LDM1MDM2ODU1MywxMDY5Mjk1NTAyLC0yMDU1ODYy
+NjI4LC0yNzg2OTE3ODAsODc5NzEwNDI2LC0xMDk2NzUzNzAxXX
+0=
 -->
