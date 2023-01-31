@@ -8,7 +8,7 @@
 
 <img src="https://i.imgur.com/g0kZ505.png" width="25%" />
 
-This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who was trained in some of the finest kitchens in Europe.  As a child in Ethiopia, his mother died and he was adopted by a loving family in Sweden who gave him a love for cooking.  He wanted to become a soccer player but instead has become one of the "great chefs of the world".  (1080L)
+This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who was trained in some of the finest kitchens in Europe.  As a child in Ethiopia, his mother died and he was adopted by a family in Sweden who gave him a love for cooking.  He wanted to become a soccer player but instead has become one of the "great chefs of the world".  (1080L)
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034596066" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -47,6 +47,6 @@ summary here.  (Lexile level       )
 <a href="https://www.bookdepository.com/Trust-the-Grind-Jeremy-Bhandari/9781642502442" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056274723" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNjc4NDIwOSwxODc0MjQ5MTM1LDU4Mj
-Q4NzI3MF19
+eyJoaXN0b3J5IjpbMTQ3MjE1Mzc0LDE4NzQyNDkxMzUsNTgyND
+g3MjcwXX0=
 -->
