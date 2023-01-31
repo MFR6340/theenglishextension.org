@@ -21,7 +21,7 @@ Strongly recommend the movie by the same name.
 summary here.  (Lexile level )
 
 <a href="https://www.bookdepository link here.com/Weather-DK/9780241228265?ref=grid-view&qid=1674914545643&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1002540123" rel="nofollow">Buy here y oy on Orell Füssli</a>
+<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1002540123" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Chasing the Storm: Tornadoes, Meteorology and Weather Watching, by Ron Miller
 
@@ -53,7 +53,7 @@ summary here.  (Lexile        )
 Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit  [Technorama](https://www.technorama.ch/en/home), the science center in Wintertur, Zurich, and see how lightening is formed. Performances are at 11.30 and 14.30.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMTAwMzIxOSwxMzE3ODk5OTQ5LC00OT
-QzODQ2NDYsLTQ1MzAxNjU4OCwxMTcwNTI2MTk1LDEzNDU0MzQx
-MjQsLTEwMDgwMDEyNDAsLTc0NDI1MjUxNl19
+eyJoaXN0b3J5IjpbNzYzMTA0NDM2LDEzMTc4OTk5NDksLTQ5ND
+M4NDY0NiwtNDUzMDE2NTg4LDExNzA1MjYxOTUsMTM0NTQzNDEy
+NCwtMTAwODAwMTI0MCwtNzQ0MjUyNTE2XX0=
 -->
