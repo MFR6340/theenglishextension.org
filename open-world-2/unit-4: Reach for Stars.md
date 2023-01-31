@@ -77,8 +77,7 @@ This is more of a coffee table book with its striking photographs showing some o
 ### Incredible Jobs You’ve (Probably) Never Heard Of, by Natalie Labarre
 <img src="https://imgur.com/Iikcg3x.png" width="25%" />
 
-(No Lexile measure available ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
-
+(No Lexile measure available ) 
 <a href="https://www.bookdepository.com/Incredible-Jobs-Youve-Probably-Never-Heard-Natalie-Labarre/9781788008488?ref=grid-view&qid=1674998557421&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054247992" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -94,8 +93,8 @@ This is more of a coffee table book with its striking photographs showing some o
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ5MzE2MTcsMTM1NDA1OTk3NywxMj
-Q3NjI4NzUzLC03ODY3OTU0NTMsLTE0MDkyOTg3MzMsLTExMTgz
-NDM3NTUsMTk2MTE3ODkzLC0xNjI2OTI5NTQzLC02NDgzODg0Mj
-IsMjA4MDczNDcwNiw5NjEyMTQ5MzNdfQ==
+eyJoaXN0b3J5IjpbMzAxNTEyMjg4LDEzNTQwNTk5NzcsMTI0Nz
+YyODc1MywtNzg2Nzk1NDUzLC0xNDA5Mjk4NzMzLC0xMTE4MzQz
+NzU1LDE5NjExNzg5MywtMTYyNjkyOTU0MywtNjQ4Mzg4NDIyLD
+IwODA3MzQ3MDYsOTYxMjE0OTMzXX0=
 -->
