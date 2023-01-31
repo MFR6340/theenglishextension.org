@@ -31,8 +31,7 @@
 
 <img src="https://imgur.com/yr0PYaL.png" width="25%" />
 
- (No Lexile measure available ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
-
+ (No Lexile measure available )
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035334235" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Cleared for Take Off, by Rowland White
@@ -46,7 +45,7 @@ summary here. (Lexile 1240L) <sup>[what is this?](/resources/Lexile%20measures)<
 ### High Flyers, by Ann McCallum Staats
 <img src="https://imgur.com/dv50K6D.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile 990L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/High-Flyers-Ann-McCallum-Staats/9781641605892" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1062625845" rel="nofollow">Buy on Orell Füssli</a> 
@@ -55,7 +54,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 <img src="https://imgur.com/rAGLCcH.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile 1000L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Statistical-Probability-Love-at-First-Sight-Jennifer-E-Smith/9780755384020?ref=grid-view&qid=1674928665185&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018775330" rel="nofollow">Buy on Orell Füssli</a> 
@@ -110,7 +109,7 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTg5OTA2MDAsLTQ0Mzg0NDM1MiwzMz
+eyJoaXN0b3J5IjpbLTE0NTQyMjI3NzIsLTQ0Mzg0NDM1MiwzMz
 YyNDQ0NDksLTg3NTU3NjA5LDE4MTUxODQ1MDAsLTYyMzQ0NzE1
 OSwtMTY0NjU2OTEwMywtMTIzNDA5NzYxOCwzMjE1NDIzNDMsMT
 QwMjQ5MjY0LC0yMDg4MjEyMzUzLC03OTEwMzQwNzMsMTk1NTIx
