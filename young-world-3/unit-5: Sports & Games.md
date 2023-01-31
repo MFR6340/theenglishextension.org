@@ -84,7 +84,7 @@ This book is written about three time Olympic gold medalist Florence Griffith Jo
 
 The book is centered on three athletes in three continents trying to run a mile as fast as four minutes. The athletes were in the UK, USA and Australia. At the time it was considered by most to be too dangerous to run so fast and foolhardy to try, but at the same time, it was extremely interesting to find out if anyone could do it. It's a gripping read, telling of injuries, family issues and overbearing coaches making the reader unsure of what might happen next and who would be the first to run the four minute mile.
 
-This book is an adaptation for younger readers of Neal Bascomb's bestselling book The Perfect Mile. (1030L)
+This book is an adaptation for younger readers of Neal Bascomb's bestselling book The Perfect Mile. (Lexile 1030L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
  
 <a href="https://www.bookdepository.com/Race-Century-Battle-Break-Four-Minute-Mile-Scholastic-Focus-Neal-Bascomb/9781338628463?ref=grid-view&qid=1675098579055&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1060524135" rel="nofollow">Buy on Orell Füssli</a>
@@ -98,7 +98,7 @@ This book is an adaptation for younger readers of Neal Bascomb's bestselling boo
 
 <img src="https://imgur.com/ovWMRrl.png" width="25%" />
 
-This is a book about several famous sports stars and the struggles they had to become successful. Most had one person in their corner who helped and encouraged them to get where they wanted to go. The athletes include Tiger Woods, Billy Jean King, Babe Ruth, Jackie Robinson, Gabby Douglas and Michael Jordan. Did you know that Michael Jordan (marvelous, talented basketball player) was clumsy when he was a boy? Or that Babe Ruth, the baseball star was sent to reform school? The book included great illustrations of the stars.
+This is a book about several famous sports stars and the struggles they had to become successful. Most had one person in their corner who helped and encouraged them to get where they wanted to go. The athletes include Tiger Woods, Billy Jean King, Babe Ruth, Jackie Robinson, Gabby Douglas and Michael Jordan. Did you know that Michael Jordan (marvelous, talented basketball player) was clumsy when he was a boy? Or that Babe Ruth, the baseball star was sent to reform school? The book included great illustrations of the stars. (Lexile 960L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Kid-Athletes-David-Stabler/9781594748028?ref=grid-view&qid=1665928260307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1035793246" rel="nofollow">Buy on Orell Füssli</a>
@@ -128,7 +128,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzcxMjk0MSw5MjMxODkwMzUsLTUxOT
+eyJoaXN0b3J5IjpbMTU5MDM3MTQ1NSw5MjMxODkwMzUsLTUxOT
 g4ODk3LC01MDg3NzM1NDIsOTYyNzYzOTAzLC0yOTU1NjI4MDMs
 NTkxOTE1MjcsLTEwMDY1NDI5NDUsNDU4MDUxNjgwLC0xNzUwOT
 c0MTQyLDE3NDcxNzExNTEsMjA5MjA3MDYxMywtODI2MjY5ODc1
