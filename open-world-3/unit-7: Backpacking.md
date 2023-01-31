@@ -63,7 +63,7 @@ summary here.  (Lexile Level     )
 ### The Dogs that Made Australia, by Guy Hull
 <img src="https://imgur.com/cNa6aXK.png" width="25%" />
 
-summary here.  (Lexile Level     )
+(No Lexile measure available)
 
 <a href="https://www.bookdepository.com/Dogs-that-Made-Australia-Guy-Hull/9781460756454?ref=grid-view&qid=1674835994590&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1057758148" rel="nofollow">Buy on Orell Füssli</a> 
@@ -86,7 +86,7 @@ summary here.  (Lexile Level     )
 <a href="https://www.bookdepository.com/Follow-Rabbit-Proof-Fence-Doris-Nugi-Garimara-Pilkington/9780702233555?ref=grid-view&qid=1674836408037&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1025148937" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTk0MjAyMCwyODYyMjc2NDksLTQyND
+eyJoaXN0b3J5IjpbLTQxNTc3MzY4MCwyODYyMjc2NDksLTQyND
 c4MDkzMywtMTgxNjcyMzk1MSwxOTc5OTIwNTkyLC03NDU3MDU2
 NjksNDkwMjIxMDY4LDE5MzY0MjY5LDM4NzQ0ODA3NSwtMzA2Nj
 QxMDQyXX0=
