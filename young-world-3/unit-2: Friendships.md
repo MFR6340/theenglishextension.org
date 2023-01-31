@@ -124,7 +124,7 @@ Yes, yes this book was in the previous "School" Unit as well.  But it's really a
 ### Tale of Despereaux, by Kate DiCamillo
 <img src="https://imgur.com/kjho9rF.png" width="25%" />
 
-
+(Lexile 670L) <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Tale-Despereaux-Kate-DiCamillo/9780763680893?ref=grid-view&qid=1674317662193&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001321590" rel="nofollow">Buy on Orell Füssli</a>
@@ -150,7 +150,7 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjY5MDc4OCwtNzU4MjYyOTA2LC0yMD
+eyJoaXN0b3J5IjpbMTc3OTExNzkyOCwtNzU4MjYyOTA2LC0yMD
 AyOTAxMDQ2LC0xNjUzOTcxNTc4LDgwNTU2OTcyMywyMTMxMDk2
 MzU3LC0xNjUxMDE3MjUwLDE0OTU3NTA2MDUsNjY1MTI1MTIxLD
 E4MjkxNzkxNTEsMTkwOTU0NTAyOCwtNDQ5ODE2ODQ1LC0xNTc0
