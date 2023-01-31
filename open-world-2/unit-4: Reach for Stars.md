@@ -5,7 +5,6 @@
 
 **As though the 2nd year of Sekundarschule isn't stressful enough already with the constant reminders and emphasis on finding an apprenticeship, finding a job is also the focus of this Klett English unit. It covers filling out an application, and the skills required for various professions from chef to rocket scientist.  Here is some literature to supplement this unit:** 
 
-https://www.bookdepository.com/Sporran-Explains-Highland-Games-Linda-J-Purves/9781434345530
 
 ## Fiction 
 
@@ -17,6 +16,7 @@ This fun short story is about an odd-looking hitchhiker who turns out to have a 
 
 Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnston/short%20stories/The%20Hitchhicker%20-Roald%20Dahl.pdf" rel="nofollow">PDF</a> 
 
+## Non-Fiction
 
 ### Hidden Figures, by Margot Lee Shetterly
 <img src="https://imgur.com/bbQEOqQ.png" width="25%" />
@@ -94,7 +94,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjczMDM3NDcsLTE0MDkyOTg3MzMsLT
-ExMTgzNDM3NTUsMTk2MTE3ODkzLC0xNjI2OTI5NTQzLC02NDgz
-ODg0MjIsMjA4MDczNDcwNiw5NjEyMTQ5MzNdfQ==
+eyJoaXN0b3J5IjpbLTc4Njc5NTQ1MywtMTQwOTI5ODczMywtMT
+ExODM0Mzc1NSwxOTYxMTc4OTMsLTE2MjY5Mjk1NDMsLTY0ODM4
+ODQyMiwyMDgwNzM0NzA2LDk2MTIxNDkzM119
 -->
