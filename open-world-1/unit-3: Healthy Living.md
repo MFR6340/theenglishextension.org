@@ -4,6 +4,15 @@
 
 **This unit covers fitness, sport, good nutrition and healthy recipes.  Some books from Young World 1, Unit 3, and Young World 4, Unit 1 may also be appropriate for this unit.** 
 
+### Your Food is Fooling You, by David A.Kessler
+
+<img src="https://imgur.com/RRXPgcs.png" width="25%" />
+
+ (Lexile 830L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="https://www.bookdepository.com/Your-Food-Is-Fooling-You-David-Kessler/9781596438316?ref=grid-view&qid=1674908352756&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1023704754" rel="nofollow">Buy on Orell Füssli</a> 
+
 ### Make it Messy, by Marcus Samuelsson
 
 <img src="https://i.imgur.com/g0kZ505.png" width="25%" />
@@ -25,19 +34,11 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <img src="https://imgur.com/JerfxFx.png" width="25%" />
 
-No Lexile measure available)
+(No Lexile measure available)
 
 <a href="https://www.bookdepository.com/Eat-This-Andrea-Curtis-Peggy-Collins/9780889955325" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037393229" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Your Food is Fooling You, by David A.Kessler
-
-<img src="https://imgur.com/RRXPgcs.png" width="25%" />
-
- (Lexile 830L )
-
-<a href="https://www.bookdepository.com/Your-Food-Is-Fooling-You-David-Kessler/9781596438316?ref=grid-view&qid=1674908352756&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1023704754" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Trust the Grind, by Jeremy Bhandari
 <img src="https://imgur.com/TyTZs4o.png" width="25%" />
@@ -47,6 +48,6 @@ summary here.  (Lexile level       )
 <a href="https://www.bookdepository.com/Trust-the-Grind-Jeremy-Bhandari/9781642502442" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056274723" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTY0MDg2OCwxODc0MjQ5MTM1LDU4Mj
+eyJoaXN0b3J5IjpbMjAwOTA1MTAwOSwxODc0MjQ5MTM1LDU4Mj
 Q4NzI3MF19
 -->
