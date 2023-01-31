@@ -40,7 +40,7 @@
 
 
 ### The 21 Balloons, by William Pène du Bois
-<img src="https://imgur.com/PZrokS5imgur.png" width="25%" />
+<img src="https://i.imgur.com/5210C7C.png" width="25%" />
 
 
 
@@ -80,10 +80,10 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NTIzNjk0LDQ4ODY3MzI2NCwyMjU2ND
-E1MTgsLTE1Njg1NDkzNTksNTEyNzY0NzIsNTgzNjc5NTczLC0x
-ODQ3OTI2NTE0LDE3OTk4NTM2MjksMTA3NjUyODM5NiwtMTg3Mz
-E5NjY4MCwzNzI1ODg0NywxOTA4ODY2ODUzLDEyMDAxODAxNTMs
-NDM5NjUxMjk5LC0xNzEzOTM4NzYxLDQ0OTIxMTU4MSwxNDcxND
-IxODU3LDYxNDU3MTk0NiwtMjA3MzkyMjYzNV19
+eyJoaXN0b3J5IjpbLTIwNzQ1MzE5MDIsNDg4NjczMjY0LDIyNT
+Y0MTUxOCwtMTU2ODU0OTM1OSw1MTI3NjQ3Miw1ODM2Nzk1NzMs
+LTE4NDc5MjY1MTQsMTc5OTg1MzYyOSwxMDc2NTI4Mzk2LC0xOD
+czMTk2NjgwLDM3MjU4ODQ3LDE5MDg4NjY4NTMsMTIwMDE4MDE1
+Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgxLDE0Nz
+E0MjE4NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1XX0=
 -->
