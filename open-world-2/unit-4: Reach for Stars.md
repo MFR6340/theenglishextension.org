@@ -64,12 +64,12 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 (Lexile 940L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Writing-Radar-Jack-Gantos/9780374304560?ref=grid-view&qid=1674998340487&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
--pit sniffer.  <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051619065" rel="nofollow">Buy on Orell Füssli</a> 
+  <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051619065" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Odd Jobs, by Nancy Rica Schiff
 <img src="https://i.imgur.com/9EMqQaL.png" width="25%" />
 
-There are some strange jobs out there, including arm<sup>[what is this?](/resources/Lexile%20measures)</sup>
+There are some strange jobs out there, including arm-pit sniffer.  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Odd-Jobs-Nancy-Rica-Schiff/9781580084574?ref=grid-view&qid=1675181962338&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005333166" rel="nofollow">Buy on Orell Füssli</a> 
@@ -94,7 +94,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTI0MzA0NiwxMzU0MDU5OTc3LDEyND
+eyJoaXN0b3J5IjpbMTY2NjMxNTk4MiwxMzU0MDU5OTc3LDEyND
 c2Mjg3NTMsLTc4Njc5NTQ1MywtMTQwOTI5ODczMywtMTExODM0
 Mzc1NSwxOTYxMTc4OTMsLTE2MjY5Mjk1NDMsLTY0ODM4ODQyMi
 wyMDgwNzM0NzA2LDk2MTIxNDkzM119
