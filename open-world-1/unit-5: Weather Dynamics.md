@@ -23,7 +23,7 @@ A useful introduction to all things weather-related.  Includes fantastic photogr
 <a href="https://www.bookdepository.com/search?searchTerm=DK+Weather&search=Find+book" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037970652" rel="nofollow">Buy on Orell Füssli</a>
 
-###Weather, John Farndon
+### Weather, by John Farndon
 
 <img src="https://i.imgur.com/QdEVKWh.png" width="25%" />
 
@@ -62,7 +62,7 @@ summary here.  (Lexile        )
 Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit  [Technorama](https://www.technorama.ch/en/home), the science center in Wintertur, Zurich, and see how lightening is formed. Performances are at 11.30 and 14.30.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTA1Mjk0NCw5ODMzNDczMzEsNzYzMT
+eyJoaXN0b3J5IjpbLTk2MTM3NDYwMSw5ODMzNDczMzEsNzYzMT
 A0NDM2LDEzMTc4OTk5NDksLTQ5NDM4NDY0NiwtNDUzMDE2NTg4
 LDExNzA1MjYxOTUsMTM0NTQzNDEyNCwtMTAwODAwMTI0MCwtNz
 Q0MjUyNTE2XX0=
