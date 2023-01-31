@@ -26,9 +26,9 @@ This 2016 updated version of a DK classic shows children from Botswana to Turkey
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038917790" rel="nofollow">Buy on Orell Füssli</a>
 
 ### The Boy Who Harnessed the Wind, by William Kampwamba
-<img src="https://imgur.com/XF93Hnq.png" width="25%" />
+<img src="https://i.imgur.com/S7dibmw.png" width="25%" />
 
-This inspirational true story is about a boy from Africa who uses items around him to build a pump to get water to grow crops. This edition has been retold for a younger audience.  The story has also been made into a film which can be seen on Netflix. (860L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+This inspirational true story is about a boy from Africa who uses items around him to build a pump to get water to grow crops. This edition has been retold for a younger audience.  The story has also been made into a film which can be seen on Netflix. ( Lexile 860L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Boy-Who-Harnessed-Wind-William-Kamkwamba/9780147510426?ref=grid-view&qid=1665854100400&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -87,9 +87,9 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM4NjMzOTEsLTk4NjA4NzUyNSwtOT
-Q3MzgxMjk1LDkwMzIyMzI2OCwyODMxNzg1OTksNzA4NTI1NTg3
-LDE2MzM1MTMyOTEsLTE2MTY0NjM1ODAsNTE3MDU3NjA4LDExOD
-U2MjU3MjgsLTE0MjU2NjgwMzIsMTEzNDE5MDc4LDE1NzMwMjYy
-MjVdfQ==
+eyJoaXN0b3J5IjpbNzcwMDg2NDI1LC0xNjEzODYzMzkxLC05OD
+YwODc1MjUsLTk0NzM4MTI5NSw5MDMyMjMyNjgsMjgzMTc4NTk5
+LDcwODUyNTU4NywxNjMzNTEzMjkxLC0xNjE2NDYzNTgwLDUxNz
+A1NzYwOCwxMTg1NjI1NzI4LC0xNDI1NjY4MDMyLDExMzQxOTA3
+OCwxNTczMDI2MjI1XX0=
 -->
