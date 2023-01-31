@@ -44,7 +44,7 @@
 <a href="https://www.bookdepository.com/Eat-This-Andrea-Curtis-Peggy-Collins/9780889955325" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037393229" rel="nofollow">Buy on Orell Füssli</a> 
 
-###  , by Kenra Rankin
+###  Start it Up, by Kenra Rankin
 
 <img src="https://imgur.com/8BuCCub.png" width="25%" />
 
@@ -52,7 +52,7 @@
 
 <a href="https://www.bookdepository.com/Start-It-Up-Kenrya-Rankin-Eriko-Takada/9780981973357" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3OTY4MzcwOSwxODAxMDEwNDIxLDIxND
-Y2MDUzNzcsLTI4NzAwMzQ4NCwtMTgxOTQ3NjE5NywtNzAyMzIy
-OTc1LC0yMDEwNTkyNjQ4LDEyNzA2MzgzNzhdfQ==
+eyJoaXN0b3J5IjpbLTE5NjA5MDg1ODksMTgwMTAxMDQyMSwyMT
+Q2NjA1Mzc3LC0yODcwMDM0ODQsLTE4MTk0NzYxOTcsLTcwMjMy
+Mjk3NSwtMjAxMDU5MjY0OCwxMjcwNjM4Mzc4XX0=
 -->
