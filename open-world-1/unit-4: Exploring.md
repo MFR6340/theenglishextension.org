@@ -17,7 +17,7 @@
 
  (Lexile 800L)   <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9781782957393?ref=grid-view&qid=1674909364444&sr=1-4 href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1022805518" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9781782957393?ref=grid-view&qid=1674909364444&sr=1-4 <a href="https://www.orellfuessli link here.ch/shop/home/artikeldetails/A1022805518" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Shackleton’s Journey, by William Grill
 <img src="https://imgur.com/pkkgkac.png" width="25%" />
@@ -75,10 +75,10 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5MTcxNjgyLDQ4ODY3MzI2NCwyMjU2ND
-E1MTgsLTE1Njg1NDkzNTksNTEyNzY0NzIsNTgzNjc5NTczLC0x
-ODQ3OTI2NTE0LDE3OTk4NTM2MjksMTA3NjUyODM5NiwtMTg3Mz
-E5NjY4MCwzNzI1ODg0NywxOTA4ODY2ODUzLDEyMDAxODAxNTMs
-NDM5NjUxMjk5LC0xNzEzOTM4NzYxLDQ0OTIxMTU4MSwxNDcxND
-IxODU3LDYxNDU3MTk0NiwtMjA3MzkyMjYzNV19
+eyJoaXN0b3J5IjpbLTg2OTkzNjY0MSw0ODg2NzMyNjQsMjI1Nj
+QxNTE4LC0xNTY4NTQ5MzU5LDUxMjc2NDcyLDU4MzY3OTU3Mywt
+MTg0NzkyNjUxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYsLTE4Nz
+MxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMTgwMTUz
+LDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEsMTQ3MT
+QyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVdfQ==
 -->
