@@ -16,7 +16,7 @@ A fun story about about two renegade capybara who escape from the Toronto Zoo an
 
 Admittedly, this is really a picture book for younger kids, but it *does* takes place in Toronto.  It is fun story of a boy who wakes up to discover that there is now a subway stop in his apartment.  This is a great foundation for a creative writing project.  Learn  [how the author got inspired here](https://robertmunsch.com/book/jonathan-cleaned-up) (Lexile 570L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="https://www.bookdepository.com/Jonathan-Cleaned-Up-Then-He-Heard-Sound-Robert-Munsch/9781773210889?ref=grid-view&qid=1674500497806&sr=1-2 link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Jonathan-Cleaned-Up-Then-He-Heard-Sound-Robert-Munsch/9781773210889?ref=grid-view&qid=1674500497806&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005972253" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Lucy Maud and Me, by Mary Francis Coady
@@ -49,7 +49,7 @@ A general overview of the city, along with photos, a map and timeline.
 <a href="https://www.bookdepository.com/Explore-Toronto-Patricia-Hutchison/9781632358417" rel="nofollow"> Buy on Book Depository </a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjYwOTcxMjMsMTc5NzQwNDIwMCwtNz
+eyJoaXN0b3J5IjpbLTE3ODE5Nzg1ODUsMTc5NzQwNDIwMCwtNz
 AzOTQ3MzE4LDQyNjEyOTEzMSwxNzI2OTg1MTMsOTQyNjQxMzE4
 LDE0MTQyNTE1OTUsLTIxNDYwMTQ2OTcsNzIyNDYyMTczLC0xMj
 YzODY1MTIyLC03NTU5ODczOTAsLTEyMjcxMzU5NjQsLTc5NDE2
