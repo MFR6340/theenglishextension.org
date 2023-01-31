@@ -38,7 +38,7 @@ Sold under the title *Harry Potter and the Sorcerer's Stone* in the US
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
-Young Harry Potter goes to the most amazing and fascinating boarding school.   (Lexile 880L)  
+Young Harry Potter goes to the most amazing and fascinating boarding school.   (Lexile 880L)   <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
@@ -90,7 +90,7 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNjYxOTc3LC0xNjEzODYzMzkxLC05OD
+eyJoaXN0b3J5IjpbMzg0MTc5NTE2LC0xNjEzODYzMzkxLC05OD
 YwODc1MjUsLTk0NzM4MTI5NSw5MDMyMjMyNjgsMjgzMTc4NTk5
 LDcwODUyNTU4NywxNjMzNTEzMjkxLC0xNjE2NDYzNTgwLDUxNz
 A1NzYwOCwxMTg1NjI1NzI4LC0xNDI1NjY4MDMyLDExMzQxOTA3
