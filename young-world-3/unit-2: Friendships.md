@@ -52,8 +52,7 @@ Who could ever imagine that a spider and a pig could hit it off?  But Charlotte'
 ### The BFG, by Roald Dahl
 
 <img src="https://imgur.com/FKsGdaK.png" width="25%" />
-
-summary here.
+(Lexile 720L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/BFG-Roald-Dahl/9780141365428?ref=grid-view&qid=1665855539620&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801519" rel="nofollow">Buy on Orell Füssli</a>
@@ -153,11 +152,11 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDI5MDEwNDYsLTE2NTM5NzE1NzgsOD
-A1NTY5NzIzLDIxMzEwOTYzNTcsLTE2NTEwMTcyNTAsMTQ5NTc1
-MDYwNSw2NjUxMjUxMjEsMTgyOTE3OTE1MSwxOTA5NTQ1MDI4LC
-00NDk4MTY4NDUsLTE1NzQ4MzQ2MjQsLTEzMDAzNzEyNDQsLTEy
-NDYyMTM4NzMsMTA4MjUyNTg5NSwtMTI3NDk5MDY2MiwtMTc4OD
-Y0NzA0OSwxMzY4NTc0NzA5LDMxODYxMDcyMywxMTQ2MDczMjQ3
-XX0=
+eyJoaXN0b3J5IjpbMTE1MjE5OTQwOCwtMjAwMjkwMTA0NiwtMT
+Y1Mzk3MTU3OCw4MDU1Njk3MjMsMjEzMTA5NjM1NywtMTY1MTAx
+NzI1MCwxNDk1NzUwNjA1LDY2NTEyNTEyMSwxODI5MTc5MTUxLD
+E5MDk1NDUwMjgsLTQ0OTgxNjg0NSwtMTU3NDgzNDYyNCwtMTMw
+MDM3MTI0NCwtMTI0NjIxMzg3MywxMDgyNTI1ODk1LC0xMjc0OT
+kwNjYyLC0xNzg4NjQ3MDQ5LDEzNjg1NzQ3MDksMzE4NjEwNzIz
+LDExNDYwNzMyNDddfQ==
 -->
