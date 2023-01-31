@@ -58,8 +58,9 @@ The true story of a  16 year old boy who sails around the world alone. (Lexile 1
 
 ### Explorers Who Got Lost, by Diane Sansevere Dreher
 
-<img src="https://imgur.com/CfRRQoR.png" width="25%" />
+ <img src="https://imgur.com/CfRRQoR.png" width="25%" />
 
+Most explorers had a plan of where there were going, but often those plans didn't work out quite as they expected.  
  (Lexile 1000L )
 
 <a href="https://www.bookdepository.com/Explorers-Who-Got-Lost-Diane-Sansevere-Dreher/9780765381514?ref=grid-view&qid=1674913369118&sr=1-1 link here" rel="nofollow"> Buy on href=res""https://www.orellfuessli.ch/shop/home/artikeldetails/A1036084575" rel="nofollow">Buy on Orell Füssli</a> 
@@ -81,7 +82,7 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMzOTk5MDI4LC01NTQ1OTU5MDcsNDg4Nj
+eyJoaXN0b3J5IjpbNjczNDE4NjMwLC01NTQ1OTU5MDcsNDg4Nj
 czMjY0LDIyNTY0MTUxOCwtMTU2ODU0OTM1OSw1MTI3NjQ3Miw1
 ODM2Nzk1NzMsLTE4NDc5MjY1MTQsMTc5OTg1MzYyOSwxMDc2NT
 I4Mzk2LC0xODczMTk2NjgwLDM3MjU4ODQ3LDE5MDg4NjY4NTMs
