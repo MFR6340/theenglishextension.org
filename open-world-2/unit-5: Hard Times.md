@@ -2,7 +2,7 @@
 # Open World 2, Unit 5: Hard Times
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission which will be used to purchase books for classrooms.*
 
-**This unit focuses on what life was like 150 years ago in the British Empire during the times of Queen Victoria.  The period span from 1837-1901 in the UK.  Victorian influence was felt in other English-speaking countries. Here are some literature ideas to delve further into this theme:** 
+**This unit focuses on what life was like 150 years ago in the British Empire during the times of Queen Victoria, the period from 1837-1901.  Victorian influence was felt in other English-speaking countries as well. Here are some literature ideas to delve further into this theme:** 
 
 ### Horrible Histories: Villainous Victorians, by Terry Deary
 
@@ -118,9 +118,9 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 <a href="https://www.bookdepository.com/Queen-Victoria-Kate-Hubbard/9781904095828?ref=grid-view&qid=1675002186535&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc3NzYyNDEsLTcyMjU1NzA2OSwyMT
-QzODE3MDY4LDE0ODYwNTg5NDksLTE4OTUwOTk3MjgsMTQxNzYx
-NDY1MiwtNDY0MzU3MDAwLC0yMDMwOTE2MTkyLDEzNTM2MzgyMS
-wtMTM3OTY3Mjc4OSwxOTI0ODI3Mjc0LC04NTU5MDcyMywtMTE2
-ODQwNTQyOV19
+eyJoaXN0b3J5IjpbMTk2NTk4NjExNSwtNzIyNTU3MDY5LDIxND
+M4MTcwNjgsMTQ4NjA1ODk0OSwtMTg5NTA5OTcyOCwxNDE3NjE0
+NjUyLC00NjQzNTcwMDAsLTIwMzA5MTYxOTIsMTM1MzYzODIxLC
+0xMzc5NjcyNzg5LDE5MjQ4MjcyNzQsLTg1NTkwNzIzLC0xMTY4
+NDA1NDI5XX0=
 -->
