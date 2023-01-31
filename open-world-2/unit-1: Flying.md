@@ -64,8 +64,7 @@ summary here. (Lexile 1240L) <sup>[what is this?](/resources/Lexile%20measures)<
 <img src="https://imgur.com/3I4qFfq
 .png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
-
+(Lexile 1020L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.bookdepository.com/Code-Name-Verity-Elizabeth-Wein/9781423152880?ref=grid-view&qid=1674994734866&sr=1-2 link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1062213649 link here" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -109,7 +108,7 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQyMjI3NzIsLTQ0Mzg0NDM1MiwzMz
+eyJoaXN0b3J5IjpbLTIwMjE2MDgxMTEsLTQ0Mzg0NDM1MiwzMz
 YyNDQ0NDksLTg3NTU3NjA5LDE4MTUxODQ1MDAsLTYyMzQ0NzE1
 OSwtMTY0NjU2OTEwMywtMTIzNDA5NzYxOCwzMjE1NDIzNDMsMT
 QwMjQ5MjY0LC0yMDg4MjEyMzUzLC03OTEwMzQwNzMsMTk1NTIx
