@@ -8,7 +8,7 @@
 
 <img src="https://i.imgur.com/1vNX6Ux.jpg" width="25%" />
 
-In one of the worst storms that ever hit the coast of Massachusetts (USA), two oil tankers split in half.  This book is the young readers edition of the story one of the most dangerous rescues in US Coast Guard history.  (Lexile 1140L)
+In one of the worst storms that ever hit the coast of Massachusetts (USA), two oil tankers split in half.  This book is the young readers edition of the story one of the most dangerous rescues in US Coast Guard history.  (Lexile 1140L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 Strongly recommend the movie by the same name. 
 
 <a href="https://www.bookdepository.com/Finest-Hours-Young-Readers-Edition-Michael-J-Tougias/9780805097641?ref=grid-view&qid=1674482601270&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -53,7 +53,7 @@ summary here.  (Lexile        )
 Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit  [Technorama](https://www.technorama.ch/en/home), the science center in Wintertur, Zurich, and see how lightening is formed. Performances are at 11.30 and 14.30.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzMzMDQ0LC00OTQzODQ2NDYsLTQ1Mz
-AxNjU4OCwxMTcwNTI2MTk1LDEzNDU0MzQxMjQsLTEwMDgwMDEy
-NDAsLTc0NDI1MjUxNl19
+eyJoaXN0b3J5IjpbMTMxNzg5OTk0OSwtNDk0Mzg0NjQ2LC00NT
+MwMTY1ODgsMTE3MDUyNjE5NSwxMzQ1NDM0MTI0LC0xMDA4MDAx
+MjQwLC03NDQyNTI1MTZdfQ==
 -->
