@@ -114,13 +114,13 @@ By the author of the Horrible Histories series, this new series is a bit longer 
 ### The Story of Queen Victoria, by Kate Hubbard
 <img src="https://imgur.com/e26BVLM.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(No Lexile measure available ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Queen-Victoria-Kate-Hubbard/9781904095828?ref=grid-view&qid=1675002186535&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE5MTAzNywtNzIyNTU3MDY5LDIxND
-M4MTcwNjgsMTQ4NjA1ODk0OSwtMTg5NTA5OTcyOCwxNDE3NjE0
-NjUyLC00NjQzNTcwMDAsLTIwMzA5MTYxOTIsMTM1MzYzODIxLC
-0xMzc5NjcyNzg5LDE5MjQ4MjcyNzQsLTg1NTkwNzIzLC0xMTY4
-NDA1NDI5XX0=
+eyJoaXN0b3J5IjpbODEyMjExMTQ5LC03MjI1NTcwNjksMjE0Mz
+gxNzA2OCwxNDg2MDU4OTQ5LC0xODk1MDk5NzI4LDE0MTc2MTQ2
+NTIsLTQ2NDM1NzAwMCwtMjAzMDkxNjE5MiwxMzUzNjM4MjEsLT
+EzNzk2NzI3ODksMTkyNDgyNzI3NCwtODU1OTA3MjMsLTExNjg0
+MDU0MjldfQ==
 -->
