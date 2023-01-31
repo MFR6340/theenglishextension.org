@@ -41,10 +41,10 @@ Also try the Audio book version read by Eric Idle
 <a href="https://www.bookdepository.com/Whizz-Pop-Chocolate-Shop-Kate-Saunders/9780385743020?ref=grid-view&qid=1674494&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033680556" rel="nofollow">Buy on Orell Füssli</a>
 
-### This Book is Not Good For You, by Pseudonymou Bosch
+### This Book is Not Good For You, by Pseudonymous Bosch
 <img src="https://imgur.com/USP4SsA.png" width="25%" />
 
-
+(Lexile 690L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/This-Book-Is-Not-Good-For-You-Pseudonymous-Bosch/9780316040853?ref=grid-view&qid=1674494&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1010873165" rel="nofollow">Buy on Orell Füssli</a>
@@ -60,11 +60,11 @@ This fantastic article gives suggestions for even more [Chocolate factories and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3MTIyODc1LC0xNDQ5OTY0MjI4LDM4Mj
-E3NzU0MSwtMTE5MTIwMjY1NSwtMTIwMDQxMjY5LDcxMTc0NTM2
-NiwxMTcwMTM4MzA1LC04NjE0NDYxLC01NTcyNjQzODMsLTE5ND
-Q2NTgwNDcsNjc3NzM3NjA4LDY2ODYwOTQ3NSwxMTk1OTg2Mjks
-LTE0NzE0MzAwMSwtMzc2OTgxODMxLC0xNTQ0NTQ3MTA3LC0xNT
-c0NTk5MTEyLC01OTI2Njk0NTYsODkxNzgxMzMwLDg3MzUxNjI2
-NF19
+eyJoaXN0b3J5IjpbNjcwNzc5OTIsLTE0NDk5NjQyMjgsMzgyMT
+c3NTQxLC0xMTkxMjAyNjU1LC0xMjAwNDEyNjksNzExNzQ1MzY2
+LDExNzAxMzgzMDUsLTg2MTQ0NjEsLTU1NzI2NDM4MywtMTk0ND
+Y1ODA0Nyw2Nzc3Mzc2MDgsNjY4NjA5NDc1LDExOTU5ODYyOSwt
+MTQ3MTQzMDAxLC0zNzY5ODE4MzEsLTE1NDQ1NDcxMDcsLTE1Nz
+Q1OTkxMTIsLTU5MjY2OTQ1Niw4OTE3ODEzMzAsODczNTE2MjY0
+XX0=
 -->
