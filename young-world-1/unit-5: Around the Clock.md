@@ -75,11 +75,10 @@ It's up to Eliza and her brother Johnnie to save their parents by travelling bac
 
 ### My Watch, by Mark Twain
 Mark Twain can tell a tale like few others.  This funny short story about a man taking his watch into the watchmaker for repairs, which some say is one of the most dangerous things you can do to a watch.  
-Freely available online.  
 
 <img src="https://i.imgur.com/bqXIsES.png" width="25%" />
 
-<a href="https://omegaforums.net/threads/mark-twains-my-watch-short-story.16423/" rel="nofollow"> My Watch </a>
+Freely available here online.  <a href="https://omegaforums.net/threads/mark-twains-my-watch-short-story.16423/" rel="nofollow"> My Watch </a>
 
 ## Supplemental Activities
 ### Climb a Clock Tower
@@ -104,7 +103,7 @@ Designed to be used with this unit. Available on request.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2OTM0MjU3LDgyODYwMTI0MSwtMTAxOT
+eyJoaXN0b3J5IjpbODk1NDkxNzE5LDgyODYwMTI0MSwtMTAxOT
 c2OTgxLC0xNTc3MDc4NDQxLDExMjA4MzU2MjUsMTAxNjAzODIx
 MCwtMTI4ODgzOTU5MSwtMjIxMzAzNjgzLDE5ODk2ODMwMjYsMj
 A0NTIwMTM2LDE5NzI5NzgyMjNdfQ==
