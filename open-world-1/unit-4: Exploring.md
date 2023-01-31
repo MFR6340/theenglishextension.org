@@ -71,7 +71,7 @@ Most explorers had a plan of where there were going, but often those plans didn'
 
 <img src="https://imgur.com/3yHmxXg.png" width="25%" />
 
-A big coffee-table book full of fascinating stories of many different people who have taken a trip around the world, including a Swiss couple who have been driving around the world in their cara 
+A big coffee-table book that's nice to dip in and out of.  It's full of fascinating stories of many different people who have taken a trip around the world, including a Swiss couple who have been driving around the world in their caravan for more than two decades!  Complete with wonderful photos and maps.  
 
 <a href="https://www.bookdepository.com/Lonely-Planet-Around-World-Lonely-Planet/9781788689373?ref=grid-view&qid=1674913654930&sr=1-6" rel="nofollow"> Buy on Bookdepository
 <a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1056729026" rel="nofollow">Buy on Orell Füssli</a> 
@@ -84,11 +84,11 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTc5NjM2Miw2MDI0NjYxNTYsLTU1ND
-U5NTkwNyw0ODg2NzMyNjQsMjI1NjQxNTE4LC0xNTY4NTQ5MzU5
-LDUxMjc2NDcyLDU4MzY3OTU3MywtMTg0NzkyNjUxNCwxNzk5OD
-UzNjI5LDEwNzY1MjgzOTYsLTE4NzMxOTY2ODAsMzcyNTg4NDcs
-MTkwODg2Njg1MywxMjAwMTgwMTUzLDQzOTY1MTI5OSwtMTcxMz
-kzODc2MSw0NDkyMTE1ODEsMTQ3MTQyMTg1Nyw2MTQ1NzE5NDZd
-fQ==
+eyJoaXN0b3J5IjpbNjMyMTI3OTA0LDYwMjQ2NjE1NiwtNTU0NT
+k1OTA3LDQ4ODY3MzI2NCwyMjU2NDE1MTgsLTE1Njg1NDkzNTks
+NTEyNzY0NzIsNTgzNjc5NTczLC0xODQ3OTI2NTE0LDE3OTk4NT
+M2MjksMTA3NjUyODM5NiwtMTg3MzE5NjY4MCwzNzI1ODg0Nywx
+OTA4ODY2ODUzLDEyMDAxODAxNTMsNDM5NjUxMjk5LC0xNzEzOT
+M4NzYxLDQ0OTIxMTU4MSwxNDcxNDIxODU3LDYxNDU3MTk0Nl19
+
 -->
