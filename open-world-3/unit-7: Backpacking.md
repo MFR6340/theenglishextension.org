@@ -15,7 +15,7 @@
 ### **What’s the Big Idea? Australian Inventions that Changed the World, by Sue Lawson**
 <img src="https://imgur.com/LRi0qHR.png" width="25%" />
 
-summary here.  (Lexile Level     )
+(No Lexile measure available)
 
 <a href="https://www.bookdepository.com/Whats-the-Big-Idea-Sue-Lawson-Karen-Tayleur/9781742036267" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -23,7 +23,7 @@ summary here.  (Lexile Level     )
 
 <img src="https://imgur.com/afdE6FI.png" width="25%" />
 
-summary here.  (Lexile Level     )
+(No Lexile measure available)
 
 <a href="https://www.bookdepository.com/Show-me-the-Money-Sue-Lawson-Karen-Tayleur/9781742035895" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -95,8 +95,8 @@ summary here.  (Lexile Level     )
 <a href="https://www.bookdepository.com/Follow-Rabbit-Proof-Fence-Doris-Nugi-Garimara-Pilkington/9780702233555?ref=grid-view&qid=1674836408037&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1025148937" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0OTc5ODQzLDI4NjIyNzY0OSwtNDI0Nz
-gwOTMzLC0xODE2NzIzOTUxLDE5Nzk5MjA1OTIsLTc0NTcwNTY2
-OSw0OTAyMjEwNjgsMTkzNjQyNjksMzg3NDQ4MDc1LC0zMDY2ND
-EwNDJdfQ==
+eyJoaXN0b3J5IjpbLTEwNzA5NTA0NzUsMjg2MjI3NjQ5LC00Mj
+Q3ODA5MzMsLTE4MTY3MjM5NTEsMTk3OTkyMDU5MiwtNzQ1NzA1
+NjY5LDQ5MDIyMTA2OCwxOTM2NDI2OSwzODc0NDgwNzUsLTMwNj
+Y0MTA0Ml19
 -->
