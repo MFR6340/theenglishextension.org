@@ -88,11 +88,12 @@ summary here.
 <a href="https://www.bookdepository.com/Mouse-Motorcycle-Beverly-Cleary/9780380709243?ref=grid-view&qid=1674048077748&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003100657" rel="nofollow">Buy on Orell Füssli</a>
 
-### Harry Potter and the Philosopher's Stone, by J. K. Rowling
+### Harry Potter and the Philosopher's Stone, by J. K. Rowling 
+Sold under the title *Harry Potter and the Sorcerer's Stone* in the US
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
-Yes, this book was in the "School" Unit as well.  But it's really a great book for this unit  (Lexile )  
+Yes, yes this book was in the previous "School" Unit as well.  But it's really a great book for this unit, too, as the friendship between Harry, Ron and Hermione is so well portrayed.  (Lexile 880L )  
 
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
@@ -152,11 +153,11 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQxNzc4MzIsLTE2NTM5NzE1NzgsOD
-A1NTY5NzIzLDIxMzEwOTYzNTcsLTE2NTEwMTcyNTAsMTQ5NTc1
-MDYwNSw2NjUxMjUxMjEsMTgyOTE3OTE1MSwxOTA5NTQ1MDI4LC
-00NDk4MTY4NDUsLTE1NzQ4MzQ2MjQsLTEzMDAzNzEyNDQsLTEy
-NDYyMTM4NzMsMTA4MjUyNTg5NSwtMTI3NDk5MDY2MiwtMTc4OD
-Y0NzA0OSwxMzY4NTc0NzA5LDMxODYxMDcyMywxMTQ2MDczMjQ3
-XX0=
+eyJoaXN0b3J5IjpbMTk5NTA0MDEwOSwtMTY1Mzk3MTU3OCw4MD
+U1Njk3MjMsMjEzMTA5NjM1NywtMTY1MTAxNzI1MCwxNDk1NzUw
+NjA1LDY2NTEyNTEyMSwxODI5MTc5MTUxLDE5MDk1NDUwMjgsLT
+Q0OTgxNjg0NSwtMTU3NDgzNDYyNCwtMTMwMDM3MTI0NCwtMTI0
+NjIxMzg3MywxMDgyNTI1ODk1LC0xMjc0OTkwNjYyLC0xNzg4Nj
+Q3MDQ5LDEzNjg1NzQ3MDksMzE4NjEwNzIzLDExNDYwNzMyNDdd
+fQ==
 -->
