@@ -42,12 +42,11 @@
 <a href="https://www.bookdepository.com/Catcher-Rye-J-D-Salinger/9780316769488?ref=grid-view&qid=1674588767157&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001544993" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Some Places more than Others, by Renée Watson
+### Some Places More Than Others, by Renée Watson
 
 <img src="https://imgur.com/DaaW1jT.png" width="25%" />
 
-summary here.  (Lexile Level L)
-
+(No Lexile measure available)
 <a href="https://www.bookdepository.com/Some-Places-More-Than-Others-Ren%C3%A9e-Watson/9781681191102?ref=grid-view&qid=1674589062511&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054837702" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -69,7 +68,7 @@ summary here.  (Lexile 810L)
 <a href="https://www.bookdepository.com/Vanderbeekers-Hidden-Garden-Karina-Yan-Glaser/9780358117346?ref=grid-view&qid=1674589448653&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1049694429" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDYxNTIxMywtMTcyODI5NDU4NSwtMT
+eyJoaXN0b3J5IjpbMTUyMDM0Mzc5OSwtMTcyODI5NDU4NSwtMT
 Q3ODAzMzQ3NCwtMTY1OTU0MzE3OSwxMDk1NTMwMTY3LC0xMDU3
 Nzg0NTc1LDIwMTIyNjE3MTZdfQ==
 -->
