@@ -51,13 +51,10 @@ On School Library Journal's list of the Top 100 Children's Novels
 
 <img src="https://imgur.com/Ex7dpP0.png" width="25%" />
 
-(Lexile 1020L )
+A 16 year old sails around the wr(Lexile 1020L )
 
-<a href="https://www.bookdepository.com/Twenty-One-Balloons-William-Pene-du-Bois/9780140320978?ref=grid-view&qid=1675162115237&sr=1-1" rel="nofollow"> Buy on BookDepository </a>  
-<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1003331053?sq=The%20Twenty-One%20Balloons&stype=productName" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/search?searchTerm=+Dove%2C+by+Robin+Lee+Graham&search=Find+book" rel="nofollow"> Buy on BookDepository </a>  
 
-<a href="https://www.bookdepository link here BookDepository</a>  
-<aref=" rel="nofollow">Buy on Orell Füssli</a>.com/Dove-Robin-Lee-Graham/9780060920470?ref=grid-view&qid=1674913250011&sr=1-1" rel="nofollow">Buy on a>  
 
 ### Explorers Who Got Lost, by Diane Sansevere Dreher
 
@@ -84,7 +81,7 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MTU2NTg5NCwtNTU0NTk1OTA3LDQ4OD
+eyJoaXN0b3J5IjpbMTg5Mjg4MjcyNiwtNTU0NTk1OTA3LDQ4OD
 Y3MzI2NCwyMjU2NDE1MTgsLTE1Njg1NDkzNTksNTEyNzY0NzIs
 NTgzNjc5NTczLC0xODQ3OTI2NTE0LDE3OTk4NTM2MjksMTA3Nj
 UyODM5NiwtMTg3MzE5NjY4MCwzNzI1ODg0NywxOTA4ODY2ODUz
