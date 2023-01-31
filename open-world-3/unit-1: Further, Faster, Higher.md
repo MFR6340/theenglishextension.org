@@ -6,7 +6,7 @@
 ### No Summit out of Sight, by Jordan Romero
 <img src="https://i.imgur.com/y5UjtmX.jpg" width="25%" />
 
-summary here.  (Lexile 850L)
+(Lexile 850L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/No-Summit-out-Sight-Jordan-Romero/9781481432764?ref=grid-view&qid=1674579431307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034721479" rel="nofollow">Buy on Orell Füssli</a> 
@@ -16,14 +16,14 @@ summary here.  (Lexile 850L)
 ### Winterdance: The Fine Madness of Alaskan Dog Racing, by Gary Paulsen
 <img src="https://i.imgur.com/D4rBCsL.png" width="25%" />
 
-summary here.  (Lexile 1060L)
+(Lexile 1060L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002615795" rel="nofollow">Buy on Orell Füssli</a> 
 
- ### The Impossible Climb (Young Readers Adaptation): Alex Honnold, El Capitan, and a Climber's Life, by Mark Synnott
+### The Impossible Climb (Young Readers Adaptation): Alex Honnold, El Capitan, and a Climber's Life, by Mark Synnott
 <img src="https://i.imgur.com/Zxuz7N8.png" width="25%" />
 
-summary here.  (Lexile Level unavailable)
+ (Lexile measure unavailable)
 
 <a href="https://www.bookdepository.com/Impossible-Climb-Young-Readers-Adaptation-Mark-Synnott/9780593203934?ref=grid-view&qid=1674577500528&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061902668" rel="nofollow">Buy on Orell Füssli</a> 
@@ -80,9 +80,9 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODM4OTE3OCwtMjkwODcxODAyLDE1MD
-I0MDUzNiwzNDc2NjI2MjgsLTI3NzkzNDY5NCw4MDgyMzQyMzcs
-MTgwNjc4ODUyOSwxODA2Nzg4NTI5LC05OTExODk5MDEsLTI3Nz
-U4Mjc5OSwtOTM1ODE2NjExLDExNjE5NTE3MCwxMDAxNDM2ODUz
-XX0=
+eyJoaXN0b3J5IjpbLTE0MDEzOTY5MzYsLTI5MDg3MTgwMiwxNT
+AyNDA1MzYsMzQ3NjYyNjI4LC0yNzc5MzQ2OTQsODA4MjM0MjM3
+LDE4MDY3ODg1MjksMTgwNjc4ODUyOSwtOTkxMTg5OTAxLC0yNz
+c1ODI3OTksLTkzNTgxNjYxMSwxMTYxOTUxNzAsMTAwMTQzNjg1
+M119
 -->
