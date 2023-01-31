@@ -62,7 +62,7 @@ summary here.
 
 <img src="https://imgur.com/LpSxmOD.png" width="25%" />
 
-summary here.
+(Lexile 870L)
 
 <a href="https://www.bookdepository.com/Hundred-Dresses-Eleanor-Estes/9780152052607?ref=grid-view&qid=1665855691211&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006423614" rel="nofollow">Buy on Orell Füssli</a>
@@ -152,10 +152,11 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM5NzE1NzgsODA1NTY5NzIzLDIxMz
-EwOTYzNTcsLTE2NTEwMTcyNTAsMTQ5NTc1MDYwNSw2NjUxMjUx
-MjEsMTgyOTE3OTE1MSwxOTA5NTQ1MDI4LC00NDk4MTY4NDUsLT
-E1NzQ4MzQ2MjQsLTEzMDAzNzEyNDQsLTEyNDYyMTM4NzMsMTA4
-MjUyNTg5NSwtMTI3NDk5MDY2MiwtMTc4ODY0NzA0OSwxMzY4NT
-c0NzA5LDMxODYxMDcyMywxMTQ2MDczMjQ3XX0=
+eyJoaXN0b3J5IjpbLTE3MTUyOTU0MSwtMTY1Mzk3MTU3OCw4MD
+U1Njk3MjMsMjEzMTA5NjM1NywtMTY1MTAxNzI1MCwxNDk1NzUw
+NjA1LDY2NTEyNTEyMSwxODI5MTc5MTUxLDE5MDk1NDUwMjgsLT
+Q0OTgxNjg0NSwtMTU3NDgzNDYyNCwtMTMwMDM3MTI0NCwtMTI0
+NjIxMzg3MywxMDgyNTI1ODk1LC0xMjc0OTkwNjYyLC0xNzg4Nj
+Q3MDQ5LDEzNjg1NzQ3MDksMzE4NjEwNzIzLDExNDYwNzMyNDdd
+fQ==
 -->
