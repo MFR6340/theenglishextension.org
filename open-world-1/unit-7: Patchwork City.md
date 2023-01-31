@@ -20,7 +20,7 @@ Set in Toronto in 1942, this book is about a little girl who discovers that her 
 <a href="https://www.bookdepository.com/Lucy-Maud-Me-Mary-Frances-Coady/9780888783981?ref=grid-view&qid=1674500880491&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004813404" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Runaway Rodents, by Dogmara Bociek
+### Runaway Rodents: The Untold Story of Toronto's Infamous Capybaras, by Dogmara Bociek
 
 <img src="https://imgur.com/SP7Ahul.png" width="25%" />
 
@@ -46,7 +46,7 @@ summary here.  (Lexile NC1190L)
 <a href="https://www.amazon.com/-/de/dp/0516220349/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1674926987&sr=8-1" rel="nofollow"> Buy on Amazon</a>  Only available used
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTc2MTA3LDE3MjY5ODUxMyw5NDI2ND
+eyJoaXN0b3J5IjpbNDI2MTI5MTMxLDE3MjY5ODUxMyw5NDI2ND
 EzMTgsMTQxNDI1MTU5NSwtMjE0NjAxNDY5Nyw3MjI0NjIxNzMs
 LTEyNjM4NjUxMjIsLTc1NTk4NzM5MCwtMTIyNzEzNTk2NCwtNz
 k0MTYwNiwtMzIyOTc0MjYxLC0xMjU3ODAwOTYzLC01OTE5NzI1
