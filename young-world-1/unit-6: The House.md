@@ -11,7 +11,6 @@
  (Lexile NC 1170L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/If-You-Lived-Here-Houses-of-the-World-Giles-Laroche/9780547238920" rel="nofollow"> Buy on BookDepository</a> 
-
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690154" rel="nofollow"> Buy on Orell Füssli</a>
 
 ###  The Big Orange Splot, by Daniel Pinkwater
@@ -21,7 +20,6 @@
 While essentially a picture book, the story of Mr. Plumbean house is much more than that.  It is a story of nonconformity and creativity and remaining true to yourself.  It's hard to believe this book isn't more well-known.  ( Lexile 550L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/The-Big-Orange-Splot-Daniel-Manus-Pinkwater/9780590445108" rel="nofollow"> Buy on BookDepository</a> 
-
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1006324946?sq=The%20Big%20Orange%20Splot&stype=productName" rel="nofollow"> Buy on Orell Füssli</a>
 
 ###  If I Built a House, by Chris Van Dusen
@@ -31,7 +29,6 @@ While essentially a picture book, the story of Mr. Plumbean house is much more t
 Written in rhyming couplets, imaginative Jack wants to design his own house.  He includes some fantastic ideas from an aquarium room to a robot room, a flying room, and even a race track.  This is a wonderful foundation for a descriptive writing project.  (Lexile 550L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/If-I-Built-House-Chris-Van-Dusen/9781984814845?ref=grid-view&qid=1673968527570&sr=1-4" rel="nofollow"> Buy on BookDepository</a> 
-
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052959598" rel="nofollow"> Buy on Orell Füssli</a>
 
 
@@ -40,10 +37,9 @@ Written in rhyming couplets, imaginative Jack wants to design his own house.  He
 
 <img src="https://i.imgur.com/S2EMoZM.png" width="35%" />
 
- Historical ficition story of American pioneer life.  The Ingalls family leaves Wisconsin and heads toward Wisconsin where they set up their house on the prairie and  plant, plow, hunt and gather.  The comments about the native Americans are negative but historically accurate for the times which makes for some interesting discussion points. (Lexile 760L level not available)
+ Historical ficition story of American pioneer life.  The Ingalls family leaves Wisconsin and heads toward Wisconsin where they set up their house on the prairie and  plant, plow, hunt and gather.  The comments about the native Americans are negative but historically accurate for the times which makes for some interesting discussion points. (Lexile 760L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Little-House-on-Prairie-Laura-Ingalls-Wilder/9780064400022?ref=grid-view&qid=1673964359936&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
-
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021757944" rel="nofollow"> Buy on Orell Füssli</a>
 
 
@@ -57,7 +53,7 @@ Designed to be used with this unit. Available on request.
 
 <img src="https://i.imgur.com/syadHg4.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ0MjE5MTcsLTE5MTA2NzM0NCwzNj
+eyJoaXN0b3J5IjpbLTEwNjAzOTc3NDAsLTE5MTA2NzM0NCwzNj
 E3ODI1MiwtMTI5MTMxNTgwMCwyMDk0ODQxMzY4LC0xNDg0NDY5
 MTg4LDIwNDc4NzMwMTUsOTk1MjA2NzA0LDExOTUyNjI3NiwtMT
 E0NDI4Njk4MSwtMTIwMTcxNjA5LDEyMzY2Mzk0NCwtMTY0NjE0
