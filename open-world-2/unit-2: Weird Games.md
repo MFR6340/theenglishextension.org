@@ -26,7 +26,8 @@
 
 <img src="https://i.imgur.com/ilYWizK.png" width="30%" />
 
-A short easy bo
+An short book with illustrations explaining the Highland games. 
+<a href="https://www.bookdepository.com/Sporran-Explains-Highland-Games-Linda-J-Purves/9781434345530" rel="nofollow"> Buy on BookDepository</a>  
 
 
 
@@ -44,7 +45,7 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTMzNTM2OCwtODYzNTAxMjcwLDE2OD
+eyJoaXN0b3J5IjpbLTQwMzk4MTg1NCwtODYzNTAxMjcwLDE2OD
 YyNjY0OCwxMzEzNTA0OTg4LC0xOTc2NzY5MDQ3LDE1ODgzOTE4
 NDYsLTI1NjU1ODc5OCwtNTg3NzQ2NjM5LDExOTk3ODc1MzcsLT
 ExMzU0NjA1MDddfQ==
