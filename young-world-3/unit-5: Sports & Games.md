@@ -1,6 +1,7 @@
 # Young World 3, Unit 5: Sports & Games
 
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
+
 **This unit covers Sports Day (also called Field Day), a popular tradition in schools to celebrate the end of the year.  The day usually consists in a variety of outdoor games focusing often on running and  relay races as well as  other activities.   This is not an easy topic on which to find supplemental literature.  The books below have therefore expanded on the Field Day theme to include information on famous runners and sports in general.** 
 
 ## Sports Day
@@ -25,7 +26,7 @@ Sam Kerr is brilliant at playing soccer. Her school sports day is coming up but 
 
 Grant is a really talented runner, he enters a race to win a million dollars sponsored by a large corporation. He faces difficulties when it is discovered that his parents didn't officially get him a birth certificate and with the help of his brother he creates a new country so that he may compete. His best friend is in the race too, can he beat him? Does he want to? You'll have to read it to find out!
 
-This book is about friendships, families, (unconventional they may be) and sports. It touches on issues like big businesses and working conditions. (590L)
+This book is about friendships, families, (unconventional they may be) and sports. It touches on issues like big businesses and working conditions. (Lexile 590L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
  
 <a href="https://www.bookdepository.com/Million-Dollar-Race-Matthew-Ross-Smith/9781534420281?ref=grid-view&qid=1674391451966&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061778845" rel="nofollow">Buy on Orell Füssli</a>
@@ -55,7 +56,7 @@ Jesse Owens is the most famous athlete in Track and Field history despite many o
 
 <img src="https://i.imgur.com/2cuSvsV.jpg" width="25%" />
 
-Maureen Wilton won a marathon at age thirteen in a world record time but she was not heralded, instead she was accused of cheating and was told that women should not run such long distances. This is her story, it follows her running career, her quitting running and later returning to it as well as her life as the mother of a runner. (950L)
+Maureen Wilton won a marathon at age thirteen in a world record time but she was not heralded, instead she was accused of cheating and was told that women should not run such long distances. This is her story, it follows her running career, her quitting running and later returning to it as well as her life as the mother of a runner. (Lexile 950L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
  
 <a href="https://www.bookdepository.com/Mighty-Moe-Rachel-Swaby/9780374311605?ref=grid-view&qid=1674390756973&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052970723" rel="nofollow">Buy on Orell Füssli</a>
@@ -127,11 +128,11 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzMTg5MDM1LC01MTk4ODg5NywtNTA4Nz
-czNTQyLDk2Mjc2MzkwMywtMjk1NTYyODAzLDU5MTkxNTI3LC0x
-MDA2NTQyOTQ1LDQ1ODA1MTY4MCwtMTc1MDk3NDE0MiwxNzQ3MT
-cxMTUxLDIwOTIwNzA2MTMsLTgyNjI2OTg3NSwtNDcwNzE3MTY0
-LDk4NTM4NTk4LC0xMjA1MTkzNDI1LC0xMjk3NjEyNjc4LC0xNj
-A5NDk5MTU0LC05NTg2MzAyMTUsLTE1NTM4OTYzNDMsLTE0MDY5
-NjU4OTVdfQ==
+eyJoaXN0b3J5IjpbMTc1MzcxMjk0MSw5MjMxODkwMzUsLTUxOT
+g4ODk3LC01MDg3NzM1NDIsOTYyNzYzOTAzLC0yOTU1NjI4MDMs
+NTkxOTE1MjcsLTEwMDY1NDI5NDUsNDU4MDUxNjgwLC0xNzUwOT
+c0MTQyLDE3NDcxNzExNTEsMjA5MjA3MDYxMywtODI2MjY5ODc1
+LC00NzA3MTcxNjQsOTg1Mzg1OTgsLTEyMDUxOTM0MjUsLTEyOT
+c2MTI2NzgsLTE2MDk0OTkxNTQsLTk1ODYzMDIxNSwtMTU1Mzg5
+NjM0M119
 -->
