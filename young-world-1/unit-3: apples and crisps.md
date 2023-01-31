@@ -3,6 +3,16 @@
 
 **This Klett unit covers food, shopping and writing a list.  Here are some suggestions for native English speakers to delve deeper into this theme:**
 
+###  What's on Your Plate: Exploring the World of Food, by Whitney Stewart
+
+<img src="https://imgur.com/6jRsXaK.png" width="25%"  />
+
+Explores the cuisine from 14 different countries discussing the foods they eat and how they prepare and eat it.  (Lexile 1100L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+
+<a href="https://www.bookdepository.com/Whats-on-Your-Plate-Whitney-Stewart/9781454926726?ref=grid-view&qid=1656000036768&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046425427" rel="nofollow">Buy on Orell Füssli</a>
+
 ### Apples, by Ken Robbins
 
 <img src="https://imgur.com/F78MUbL.png" width="25%"  />
@@ -42,15 +52,6 @@ A very easy read about tThree hungry soldiers convince an unwilling town to make
 <a href="https://www.bookdepository.com/Stone-Soup-Marcia-Brown/9780689711039?ref=grid-view&qid=1654272719571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1028650164" rel="nofollow">Buy on Orell Füssli</a>
 
-###  What's on Your Plate: Exploring the World of Food, by Whitney Stewart
-
-<img src="https://imgur.com/6jRsXaK.png" width="25%"  />
-
-Explores the cuisine from 14 different countries discussing the foods they eat and how they prepare and eat it.  (Lexile 1100L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
-
-
-<a href="https://www.bookdepository.com/Whats-on-Your-Plate-Whitney-Stewart/9781454926726?ref=grid-view&qid=1656000036768&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046425427" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Lunch will Never Be the Same, by Veera Hiranandani
 
@@ -90,6 +91,7 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 
 ## Extension Booklet
 Designed to be used with this unit. Available on request.
+
 <img src="https://i.imgur.com/jvptxBS.png" width="25%" />
 
 
@@ -98,6 +100,7 @@ Designed to be used with this unit. Available on request.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyOTk2NTU0LC0xNjU5OTI3ODI1LDE4Mj
-c3MzYwNDksNDAwMzE2MjM1LC04MzQ3NzA0OTldfQ==
+eyJoaXN0b3J5IjpbNTIxNjY5NjU2LDI1Mjk5NjU1NCwtMTY1OT
+kyNzgyNSwxODI3NzM2MDQ5LDQwMDMxNjIzNSwtODM0NzcwNDk5
+XX0=
 -->
