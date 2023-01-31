@@ -13,14 +13,14 @@
 
 <a href="https://www.bookdepository.com/Plastic-Ocean-Charles-Moore/9781583335017?ref=grid-view&qid=1675189454682&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-### Title, author
+### Plastic Soup, by Michiel Roscam Abbing
 
 <img src="Link.png" width="25%" />
 
 (Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="Link" rel="nofollow"> Buy on BookDepository</a>  
-<a href="Link" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Plastic-Soup-Michiel-Roscam-Abbing/9781642830088" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052916672" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Title, author
 
@@ -85,7 +85,7 @@ In the past, Sea Life Konstanz, just across the border in Germany, hasn't been p
 
 While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting and useful extension.  Try visiting <a href="https://www.aquatis.ch/en/ " rel="nofollow">Aquatis Aquarium </a> in Lausanne which focuses on freshwater ecosystems on five continents. Compare animals that live in salt-water vs fresh-water , their survival techniques and the obstacles they face. The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE1MDEzMzMsLTEyNTE4OTU3NjEsMT
+eyJoaXN0b3J5IjpbLTEzMjU1ODY2ODYsLTEyNTE4OTU3NjEsMT
 M3OTAxNTg2OCw4MjY3MDU0MTAsNjcyMzQ4NDI1LDEwOTMyMDY0
 OTAsMTAxODg3OTQ0MSwtNjY1MTAzMTc1LDIwNTcwMTk0MiwtMj
 M1MTc2MzQ1LC0xMzE3NTMzNDM4LDEyMDQ4ODIwNjIsLTE2MTQy
