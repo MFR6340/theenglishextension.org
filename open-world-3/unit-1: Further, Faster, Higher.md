@@ -47,16 +47,9 @@
 
 
 ### No Barriers,(YA edition) by Erik Weihenmayer 
-
-A blind man’s kayaks the Grand Canyon
-
-
-
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link the Grand Canyon)
 <img src="https://i.imgur.com/O95O5Dk.png" width="25%" />
 
-summary here.  (Lexile 1010L)
+A blind man kayaks the Grand Canyon (Lexile 1010L)
 
 <a href="https://www.bookdepository.com/No-Barriers-Young-Adult-Adaptation-Erik-Weihenmayer/9781250206770?ref=grid-view&qid=1674579740096&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051880195re" rel="nofollow">Buy on Orell Füssli</a> 
@@ -78,9 +71,9 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTE3ODQ0ODUsLTI5MDg3MTgwMiwxNT
-AyNDA1MzYsMzQ3NjYyNjI4LC0yNzc5MzQ2OTQsODA4MjM0MjM3
-LDE4MDY3ODg1MjksMTgwNjc4ODUyOSwtOTkxMTg5OTAxLC0yNz
-c1ODI3OTksLTkzNTgxNjYxMSwxMTYxOTUxNzAsMTAwMTQzNjg1
-M119
+eyJoaXN0b3J5IjpbMTgyNzgzNDI1MiwtMjkwODcxODAyLDE1MD
+I0MDUzNiwzNDc2NjI2MjgsLTI3NzkzNDY5NCw4MDgyMzQyMzcs
+MTgwNjc4ODUyOSwxODA2Nzg4NTI5LC05OTExODk5MDEsLTI3Nz
+U4Mjc5OSwtOTM1ODE2NjExLDExNjE5NTE3MCwxMDAxNDM2ODUz
+XX0=
 -->
