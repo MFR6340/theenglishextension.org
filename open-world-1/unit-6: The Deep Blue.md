@@ -64,16 +64,7 @@
 (Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Science-Ocean-DK/9780241631348?ref=grid-view&qid=1675190380287&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
-<a href="Link" rel="nofollow">Buy on Orell Füssli</a> 
-
-### Title, author
-
-<img src="Link.png" width="25%" />
-
-(Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
-
-<a href="Link" rel="nofollow"> Buy on BookDepository</a>  
-<a href="Link" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1057252613" rel="nofollow">Buy on Orell Füssli</a> 
 
 ## Supplemental Activities
 
@@ -84,7 +75,7 @@ In the past, Sea Life Konstanz, just across the border in Germany, hasn't been p
 
 While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting and useful extension.  Try visiting <a href="https://www.aquatis.ch/en/ " rel="nofollow">Aquatis Aquarium </a> in Lausanne which focuses on freshwater ecosystems on five continents. Compare animals that live in salt-water vs fresh-water , their survival techniques and the obstacles they face. The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTg2MTI3MCwtMTI1MTg5NTc2MSwxMz
+eyJoaXN0b3J5IjpbMTc0NTYxNjY5MiwtMTI1MTg5NTc2MSwxMz
 c5MDE1ODY4LDgyNjcwNTQxMCw2NzIzNDg0MjUsMTA5MzIwNjQ5
 MCwxMDE4ODc5NDQxLC02NjUxMDMxNzUsMjA1NzAxOTQyLC0yMz
 UxNzYzNDUsLTEzMTc1MzM0MzgsMTIwNDg4MjA2MiwtMTYxNDI0
