@@ -43,6 +43,7 @@ Written in rhyming couplets, imaginative Jack wants to design his own house.  He
  Historical ficition story of American pioneer life.  The Ingalls family leaves Wisconsin and heads toward Wisconsin where they set up their house on the prairie and  plant, plow, hunt and gather.  The comments about the native Americans are negative but historically accurate for the times which makes for some interesting discussion points. (Lexile level not available)
 
 <a href="https://www.bookdepository.com/Little-House-on-Prairie-Laura-Ingalls-Wilder/9780064400022?ref=grid-view&qid=1673964359936&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
+
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021757944" rel="nofollow"> Buy on Orell Füssli</a>
 
 
@@ -53,9 +54,10 @@ https://www.ballenberg.ch/en/
 
 ## Extension Booklet
 Designed to be used with this unit. Available on request.
+
 <img src="https://i.imgur.com/syadHg4.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwOTc0OTgzLC0xOTEwNjczNDQsMzYxNz
+eyJoaXN0b3J5IjpbMjQzMDk1NjU5LC0xOTEwNjczNDQsMzYxNz
 gyNTIsLTEyOTEzMTU4MDAsMjA5NDg0MTM2OCwtMTQ4NDQ2OTE4
 OCwyMDQ3ODczMDE1LDk5NTIwNjcwNCwxMTk1MjYyNzYsLTExND
 QyODY5ODEsLTEyMDE3MTYwOSwxMjM2NjM5NDQsLTE2NDYxNDMz
