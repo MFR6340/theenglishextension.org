@@ -21,7 +21,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 ### Hidden Figures, by Margot Lee Shetterly
 <img src="https://imgur.com/bbQEOqQ.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile 1120L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Hidden-Figures-Margot-Lee-Shetterly/9780008201326?ref=grid-view&qid=1674997402860&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039658063" rel="nofollow">Buy on Orell Füssli</a> 
@@ -94,8 +94,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzYyODc1MywtNzg2Nzk1NDUzLC0xND
-A5Mjk4NzMzLC0xMTE4MzQzNzU1LDE5NjExNzg5MywtMTYyNjky
-OTU0MywtNjQ4Mzg4NDIyLDIwODA3MzQ3MDYsOTYxMjE0OTMzXX
-0=
+eyJoaXN0b3J5IjpbLTExODMzODU0OTUsMTI0NzYyODc1MywtNz
+g2Nzk1NDUzLC0xNDA5Mjk4NzMzLC0xMTE4MzQzNzU1LDE5NjEx
+Nzg5MywtMTYyNjkyOTU0MywtNjQ4Mzg4NDIyLDIwODA3MzQ3MD
+YsOTYxMjE0OTMzXX0=
 -->
