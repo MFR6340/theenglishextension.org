@@ -8,17 +8,18 @@
 
 <img src="https://imgur.com/2EH1s9G.png" width="25%" />
 
-It's impossible to include a list of chocolate-themed books without including this classic tale of a poor boy who wins a golden ticket to enter Willy Wonka's Chocolate Factory.  Many kids have seen the movie.  Everyone should read the book.  (Lexile 810)
+It's impossible to include a list of chocolate-themed books without including this classic tale of a poor boy who wins a golden ticket to enter Willy Wonka's Chocolate Factory.  Many kids have seen the movie.  Everyone should read the book.  (Lexile 810) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Charlie-Chocolate-Factory-Roald-Dahl/9780142410318?ref=grid-view&qid=1674499490062&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801520" rel="nofollow">Buy on Orell Füssli</a>
+
 Also try the Audio book version read by Eric Idle
 
 ### The Candy Bomber, by Michael O. Tunnell
 
 <img src="https://imgur.com/oMtnFMg.png" width="25%" />
 
- (Lexile 1130L)
+ (Lexile 1130L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Candy-Bomber-Michael-O-Tunnell/9781580893374?ref=grid-view&qid=1674493085238&sr=1-12&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009294094" rel="nofollow">Buy on Orell Füssli</a>
@@ -58,11 +59,11 @@ This fantastic article gives suggestions for even more [Chocolate factories and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk5NjQyMjgsMzgyMTc3NTQxLC0xMT
-kxMjAyNjU1LC0xMjAwNDEyNjksNzExNzQ1MzY2LDExNzAxMzgz
-MDUsLTg2MTQ0NjEsLTU1NzI2NDM4MywtMTk0NDY1ODA0Nyw2Nz
-c3Mzc2MDgsNjY4NjA5NDc1LDExOTU5ODYyOSwtMTQ3MTQzMDAx
-LC0zNzY5ODE4MzEsLTE1NDQ1NDcxMDcsLTE1NzQ1OTkxMTIsLT
-U5MjY2OTQ1Niw4OTE3ODEzMzAsODczNTE2MjY0LDYxNzAzNzgx
-OF19
+eyJoaXN0b3J5IjpbLTQ5MjUxMTMwNCwtMTQ0OTk2NDIyOCwzOD
+IxNzc1NDEsLTExOTEyMDI2NTUsLTEyMDA0MTI2OSw3MTE3NDUz
+NjYsMTE3MDEzODMwNSwtODYxNDQ2MSwtNTU3MjY0MzgzLC0xOT
+Q0NjU4MDQ3LDY3NzczNzYwOCw2Njg2MDk0NzUsMTE5NTk4NjI5
+LC0xNDcxNDMwMDEsLTM3Njk4MTgzMSwtMTU0NDU0NzEwNywtMT
+U3NDU5OTExMiwtNTkyNjY5NDU2LDg5MTc4MTMzMCw4NzM1MTYy
+NjRdfQ==
 -->
