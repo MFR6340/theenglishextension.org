@@ -23,7 +23,6 @@
 <img src="https://imgur.com/DkJi9Pm.png" width="25%" />
 
 (Lexile 670L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
-
 <a href="https://www.bookdepository.com/Liar-Spy-Rebecca-Stead/9780375850875?ref=grid-view&qid=1674588491058&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1028996647" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -31,8 +30,7 @@
 
 <img src="https://imgur.com/94rfcoo.png" width="25%" />
 
-summary here.  (Lexile Level     )
-
+ (Lexile 810L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.bookdepository.com/Tree-Grows-Brooklyn-Betty-Smith/9780099427575?ref=grid-view&qid=1674588632087&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002863487" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -40,8 +38,7 @@ summary here.  (Lexile Level     )
 
 <img src="https://imgur.com/wNw0Jzo.png" width="25%" />
 
-summary here.  (Lexile 790L)
-
+ (Lexile 790L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.bookdepository.com/Catcher-Rye-J-D-Salinger/9780316769488?ref=grid-view&qid=1674588767157&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001544993" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -72,7 +69,7 @@ summary here.  (Lexile 810L)
 <a href="https://www.bookdepository.com/Vanderbeekers-Hidden-Garden-Karina-Yan-Glaser/9780358117346?ref=grid-view&qid=1674589448653&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1049694429" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjAzODkyODgsLTE3MjgyOTQ1ODUsLT
-E0NzgwMzM0NzQsLTE2NTk1NDMxNzksMTA5NTUzMDE2NywtMTA1
-Nzc4NDU3NSwyMDEyMjYxNzE2XX0=
+eyJoaXN0b3J5IjpbLTkzNDYxNTIxMywtMTcyODI5NDU4NSwtMT
+Q3ODAzMzQ3NCwtMTY1OTU0MzE3OSwxMDk1NTMwMTY3LC0xMDU3
+Nzg0NTc1LDIwMTIyNjE3MTZdfQ==
 -->
