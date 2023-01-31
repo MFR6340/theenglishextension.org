@@ -78,17 +78,17 @@ A big coffee-table book that's nice to dip in and out of.  It's full of fascinat
 
 ### True Spirit, by Jessica Watson
 
-<img src="imgurlinkherehttps://imgur.com/z1r8C0N.png" width="25%" />
+<img src="https://imgur.com/z1r8C0N.png" width="25%" />
 
 summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyMTI3OTA0LDYwMjQ2NjE1NiwtNTU0NT
-k1OTA3LDQ4ODY3MzI2NCwyMjU2NDE1MTgsLTE1Njg1NDkzNTks
-NTEyNzY0NzIsNTgzNjc5NTczLC0xODQ3OTI2NTE0LDE3OTk4NT
-M2MjksMTA3NjUyODM5NiwtMTg3MzE5NjY4MCwzNzI1ODg0Nywx
-OTA4ODY2ODUzLDEyMDAxODAxNTMsNDM5NjUxMjk5LC0xNzEzOT
-M4NzYxLDQ0OTIxMTU4MSwxNDcxNDIxODU3LDYxNDU3MTk0Nl19
+eyJoaXN0b3J5IjpbNDc1MDc0NzM2LDYzMjEyNzkwNCw2MDI0Nj
+YxNTYsLTU1NDU5NTkwNyw0ODg2NzMyNjQsMjI1NjQxNTE4LC0x
+NTY4NTQ5MzU5LDUxMjc2NDcyLDU4MzY3OTU3MywtMTg0NzkyNj
+UxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYsLTE4NzMxOTY2ODAs
+MzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMTgwMTUzLDQzOTY1MT
+I5OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEsMTQ3MTQyMTg1N119
 
 -->
