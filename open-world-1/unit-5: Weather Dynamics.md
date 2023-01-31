@@ -42,7 +42,7 @@ Most of us run inside when a storm is coming, but there are others who actually 
 summary here.  (lexile      )
 
 <a href="https://www.bookdepository link here.com/Its-Raining-Fish-and-Spiders-Bill-Evans/9780765321329" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1011949467" rel="nofollow">Bu
+<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1011949467" rel="nofollow"> Buy on Orell Füssli </a>
 
 ### Horrible Geography: Stormy Weather, by Anita Ganeri
 <img src="https://imgur.com/YFYgjak.png" width="25%" />
@@ -56,7 +56,7 @@ summary here.  (Lexile        )
 Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit  [Technorama](https://www.technorama.ch/en/home), the science center in Wintertur, Zurich, and see how lightening is formed. Performances are at 11.30 and 14.30.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjM4MjQ0OSwtOTYxMzc0NjAxLDk4Mz
+eyJoaXN0b3J5IjpbLTc4MDIyNDk5OCwtOTYxMzc0NjAxLDk4Mz
 M0NzMzMSw3NjMxMDQ0MzYsMTMxNzg5OTk0OSwtNDk0Mzg0NjQ2
 LC00NTMwMTY1ODgsMTE3MDUyNjE5NSwxMzQ1NDM0MTI0LC0xMD
 A4MDAxMjQwLC03NDQyNTI1MTZdfQ==
