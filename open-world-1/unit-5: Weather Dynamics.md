@@ -31,7 +31,7 @@ An incredibly comprehensive weather book which is fantastic both for older kids 
 
 (Lexile 1110L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="https://www.bookdepository.com/Finest-Hours-Young-Readers-Edition-Michael-J-Tougias/9780805097641?ref=grid-view&qid=1674482601270&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Chasing-Storm-Ron-Miller/9781467712842?ref=grid-view&qid=1675172290039&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034069963" rel="nofollow">Buy on Orell Füssli</a>
 
 
@@ -56,7 +56,7 @@ summary here.  (Lexile        )
 Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit  [Technorama](https://www.technorama.ch/en/home), the science center in Wintertur, Zurich, and see how lightening is formed. Performances are at 11.30 and 14.30.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzAxNjA5MSwtOTYxMzc0NjAxLDk4Mz
+eyJoaXN0b3J5IjpbMTI5MjA3ODY4NywtOTYxMzc0NjAxLDk4Mz
 M0NzMzMSw3NjMxMDQ0MzYsMTMxNzg5OTk0OSwtNDk0Mzg0NjQ2
 LC00NTMwMTY1ODgsMTE3MDUyNjE5NSwxMzQ1NDM0MTI0LC0xMD
 A4MDAxMjQwLC03NDQyNTI1MTZdfQ==
