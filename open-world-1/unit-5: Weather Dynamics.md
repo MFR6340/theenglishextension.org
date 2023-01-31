@@ -46,6 +46,7 @@ Senior meteorologist Bill Evans wrote this book to inspire kids to become meteor
 
 ### Horrible Geography: Stormy Weather, by Anita Ganeri
 <img src="https://imgur.com/YFYgjak.png" width="25%" />
+
 Written in the style of Terry Deary of Horrible Histories fame, this book explains different types of weather with humor and fun facts.
 
 <a href="https://www.bookdepository.com/Stormy-Weather-Anita-Ganeri/9781407196244?ref=grid-view&qid=1674915008947&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
@@ -55,7 +56,7 @@ Written in the style of Terry Deary of Horrible Histories fame, this book explai
 Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit  [Technorama](https://www.technorama.ch/en/home), the science center in Wintertur, Zurich, and see how lightening is formed. Performances are at 11.30 and 14.30.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTE1MTMwMjUsLTExNDAzMTU1ODMsLT
+eyJoaXN0b3J5IjpbLTE1NTAzNDk0MjMsLTExNDAzMTU1ODMsLT
 k2MTM3NDYwMSw5ODMzNDczMzEsNzYzMTA0NDM2LDEzMTc4OTk5
 NDksLTQ5NDM4NDY0NiwtNDUzMDE2NTg4LDExNzA1MjYxOTUsMT
 M0NTQzNDEyNCwtMTAwODAwMTI0MCwtNzQ0MjUyNTE2XX0=
