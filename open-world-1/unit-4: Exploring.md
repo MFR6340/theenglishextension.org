@@ -51,7 +51,7 @@ On School Library Journal's list of the Top 100 Children's Novels
 
 <img src="https://imgur.com/Ex7dpP0.png" width="25%" />
 
-The true story of a  16 year old boy who sails around the world alone. (Lexile 1020L )
+The true story of a  16 year old boy who sails around the world alone. (Lexile 1020L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/search?searchTerm=+Dove%2C+by+Robin+Lee+Graham&search=Find+book" rel="nofollow"> Buy on BookDepository </a>  
 
@@ -60,9 +60,12 @@ The true story of a  16 year old boy who sails around the world alone. (Lexile 1
 
  <img src="https://imgur.com/CfRRQoR.png" width="25%" />
 
-Most explorers had a plan of where there were going, but often those plans didn't work out quite as they expected.  Learn what happened instead.  Find out about the trips of Cabot, Hudson, Magellan, and other great explorers. (Lexile 1000L )
+Most explorers had a plan of where there were going, but often those plans didn't work out quite as they expected.  Learn what happened instead.  Find out about the trips of Cabot, Hudson, Magellan, and other great explorers. (Lexile 1000L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="https://www.bookdepository.com/Explorers-Who-Got-Lost-Diane-Sansevere-Dreher/9780765381514?ref=grid-view&qid=1674913369118&sr=1-1 link here" rel="nofollow"> Buy on href=res""https://www.orellfuessli.ch/shop/home/artikeldetails/A1036084575" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Explorers-Who-Got-Lost-Diane-Sansevere-Dreher/9780765381514?ref=grid-view&qid=1675168612567&sr=1-1" rel="nofollow"> Buy on BookDepository </a>  
+<a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1003331053?sq=The%20Twenty-One%20Balloons&stype=productName" rel="nofollow">Buy on Orell Füssli</a> 
+
+
 
 ### Around the World: A Celebration of Circumnavigation, by Lonely Planet
 
@@ -81,7 +84,7 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NzEzMTUwNCwtNTU0NTk1OTA3LDQ4OD
+eyJoaXN0b3J5IjpbMjAyMjkxODEyMSwtNTU0NTk1OTA3LDQ4OD
 Y3MzI2NCwyMjU2NDE1MTgsLTE1Njg1NDkzNTksNTEyNzY0NzIs
 NTgzNjc5NTczLC0xODQ3OTI2NTE0LDE3OTk4NTM2MjksMTA3Nj
 UyODM5NiwtMTg3MzE5NjY4MCwzNzI1ODg0NywxOTA4ODY2ODUz
