@@ -53,7 +53,7 @@ Also available as a <a href=" http://web1.nbed.nb.ca/sites/ASD-S/1820/J%20Johnst
 ### Flying to the Moon, by Michael Collins
 <img src="https://imgur.com/r7eskTB.png" width="25%" />
 
-summary here.  (Lexile 1170L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile 1170L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Flying-Moon-Michael-Collins/9780374312022?ref=grid-view&qid=1674998202472&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051969164" rel="nofollow">Buy on Orell Füssli</a> 
@@ -61,7 +61,7 @@ summary here.  (Lexile 1170L) <sup>[what is this?](/resources/Lexile%20measures)
 ### Writing Radar, by Jack Gantos
 <img src="https://imgur.com/texpFez.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile 940L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Writing-Radar-Jack-Gantos/9780374304560?ref=grid-view&qid=1674998340487&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051619065" rel="nofollow">Buy on Orell Füssli</a> 
@@ -94,8 +94,8 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg1NTQ4MjIsMTI0NzYyODc1MywtNz
-g2Nzk1NDUzLC0xNDA5Mjk4NzMzLC0xMTE4MzQzNzU1LDE5NjEx
-Nzg5MywtMTYyNjkyOTU0MywtNjQ4Mzg4NDIyLDIwODA3MzQ3MD
-YsOTYxMjE0OTMzXX0=
+eyJoaXN0b3J5IjpbMTM1NDA1OTk3NywxMjQ3NjI4NzUzLC03OD
+Y3OTU0NTMsLTE0MDkyOTg3MzMsLTExMTgzNDM3NTUsMTk2MTE3
+ODkzLC0xNjI2OTI5NTQzLC02NDgzODg0MjIsMjA4MDczNDcwNi
+w5NjEyMTQ5MzNdfQ==
 -->
