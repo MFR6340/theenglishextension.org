@@ -6,7 +6,7 @@
 
 (No lexile measure available)
 
-<a href="https://www.bookdepository.com/Kids-Around-World-Celebrate-Best-Feasts-Festivals-from-Many-Lands-L-Jones/9780471345275?ref=grid-view&qid=1674321111991&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Children-Just-Like-Me-Celebrations-Anabel-Kindersley/9780789420275?ref=grid-view&qid=1675199787140&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005087127" rel="nofollow">Buy on Orell Füssli</a>
 
 ### The Diplomat’s Travel Guide to Festivals, Holidays, and Celebrations in India
@@ -27,7 +27,7 @@
 <a href="https://www.bookdepository.com/Kids-Around-World-Celebrate-Best-Feasts-Festivals-from-Many-Lands-L-Jones/9780471345275?ref=grid-view&qid=1674321111991&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005087127" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDAzOTgwOTEsLTExNzMxNTgxODAsLT
-czMzE1NDA5NiwtMTIxNjQ0MDgxNywyNjQ5Njg5NDYsLTExMzE4
-MDMxNTZdfQ==
+eyJoaXN0b3J5IjpbMTQ4NjIxMTcxMiwtMTE3MzE1ODE4MCwtNz
+MzMTU0MDk2LC0xMjE2NDQwODE3LDI2NDk2ODk0NiwtMTEzMTgw
+MzE1Nl19
 -->
