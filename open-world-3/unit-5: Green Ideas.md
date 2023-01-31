@@ -16,8 +16,7 @@ This inspirational true story is about a boy from Africa who uses items around h
 
 <img src="https://imgur.com/Wlry933.png" width="25%" />
 
-summary here.  (Lexile Level     )
-
+ (Lexile 730L )  <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 <a href="https://www.bookdepository.com/Finding-Out-About-Solar-Energy-Matt-Doeden/9781467745574?ref=grid-view&qid=1674668108701&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033492039" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -54,8 +53,8 @@ summary here.  (Lexile Level     )
 <a href="https://www.bookdepository.com/Escape-from-Chernobyl-Andy-Marino/9780702322167?ref=grid-view&qid=1674669099998&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061776983" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTAxMjI0LC04NTMwMzE2OTUsLTE5Nj
-E4MDAwMTcsMzUwMzY4NTUzLDEwNjkyOTU1MDIsLTIwNTU4NjI2
-MjgsLTI3ODY5MTc4MCw4Nzk3MTA0MjYsLTEwOTY3NTM3MDFdfQ
-==
+eyJoaXN0b3J5IjpbLTg5NzIzMjM1MSwtODUzMDMxNjk1LC0xOT
+YxODAwMDE3LDM1MDM2ODU1MywxMDY5Mjk1NTAyLC0yMDU1ODYy
+NjI4LC0yNzg2OTE3ODAsODc5NzEwNDI2LC0xMDk2NzUzNzAxXX
+0=
 -->
