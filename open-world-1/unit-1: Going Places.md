@@ -29,16 +29,14 @@ summary here.  (Lexile )
 <img src="https://imgur.com/LquXPjQ.png" width="25%" />
 
 (Lexile 790L )  <sup>[what is this?](/resources/Lexile%20measures)</sup>
-
 <a href="https://www.bookdepository.com/Gruesome-Guide-Edinburgh-newspaper-edition-Terry-Deary/9780702318122?ref=grid-view&qid=1674500219627&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-### Divided City by Theresa Breslin
+### Divided City, by Theresa Breslin
 
 
 <img src="https://imgur.com/Cr0Zde3.png" width="25%" />
 
-(Lexile HL 650L  )  <sup>[what is this?](/resources/Lexile%20measures)</sup>
-
+(Lexile HL 650L )  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.bookdepository.com/Divided-City-Theresa-Breslin/9780552551885?ref=grid-view&qid=1674837430467&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Let's Explore Edinburgh Old Town, by Anne Bruce English
@@ -46,7 +44,7 @@ summary here.  (Lexile )
 
 <img src="https://imgur.com/GwVHfXr.png" width="25%" />
 
-summary here.  (Lexile level       )
+(No Lexile measure available )
 
 <a href="https://www.bookdepository.com/Lets-Explore-Edinburgh-Old-Town-Anne-Bruce-English-Cinders-McLeod/9780946487981" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006003282" rel="nofollow">Buy on Orell Füssli</a> 
@@ -61,7 +59,7 @@ You don't need to leave Switzerland to see **Highland Dancing** or to learn how 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTc5Njc1NTYsLTE4NTUyNjY1NTMsLT
+eyJoaXN0b3J5IjpbLTE3ODY4NjU5MTIsLTE4NTUyNjY1NTMsLT
 IwNjI0MTI5MywxNzk5MzE4MjEyLDc4ODAxNzc4OSwtMTcyOTMw
 NjA0OV19
 -->
