@@ -22,13 +22,15 @@
 
 
 
-### # Sporran Explains Highland Games, by Linda 
+### Sporran Explains Highland Games, by Linda J. Purves
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://i.imgur.com/ilYWizK.png" width="30%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+A short easy bo
 
-<a href="bookdepository i here ell     <a hreoresilere re="ooesi 
+
+
+
 # Supplemental Activities
 
  Without even having to leave Switzerland, you have a chance to go see one of these amazing events.  The Highland Games Verband Schweiz organizes events every year.  For the program for this year.  https://www.hgvs.ch/saison-2023
@@ -42,8 +44,8 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ4NTUwMjUsLTg2MzUwMTI3MCwxNj
-g2MjY2NDgsMTMxMzUwNDk4OCwtMTk3Njc2OTA0NywxNTg4Mzkx
-ODQ2LC0yNTY1NTg3OTgsLTU4Nzc0NjYzOSwxMTk5Nzg3NTM3LC
-0xMTM1NDYwNTA3XX0=
+eyJoaXN0b3J5IjpbMTkzOTMzNTM2OCwtODYzNTAxMjcwLDE2OD
+YyNjY0OCwxMzEzNTA0OTg4LC0xOTc2NzY5MDQ3LDE1ODgzOTE4
+NDYsLTI1NjU1ODc5OCwtNTg3NzQ2NjM5LDExOTk3ODc1MzcsLT
+ExMzU0NjA1MDddfQ==
 -->
