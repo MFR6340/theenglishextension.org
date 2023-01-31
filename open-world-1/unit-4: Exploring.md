@@ -80,11 +80,12 @@ A big coffee-table book that's nice to dip in and out of.  It's full of fascinat
 
 <img src="https://imgur.com/z1r8C0N.png" width="25%" />
 
-It's hard to top the amazing story of Robin Lee Graham about, but Jessica Watson did it.  At 16, she took off by herself  and sailed all the way around the world in 210 days.  An amazing autobiography. (Lexile level       )
+It's hard to top the amazing story of Robin Lee Graham about, but Jessica Watson did it.  At 16, she took off by herself  and sailed all the way around the world in 210 days.  An amazing autobiography.
+(No lexile measure available)
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjQ4MTk2NSw2MzIxMjc5MDQsNjAyND
+eyJoaXN0b3J5IjpbMTI5NTk2MzAwMSw2MzIxMjc5MDQsNjAyND
 Y2MTU2LC01NTQ1OTU5MDcsNDg4NjczMjY0LDIyNTY0MTUxOCwt
 MTU2ODU0OTM1OSw1MTI3NjQ3Miw1ODM2Nzk1NzMsLTE4NDc5Mj
 Y1MTQsMTc5OTg1MzYyOSwxMDc2NTI4Mzk2LC0xODczMTk2Njgw
