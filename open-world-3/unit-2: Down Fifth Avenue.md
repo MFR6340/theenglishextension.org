@@ -2,7 +2,7 @@
 # Open World 3, Unit 2: Down Fifth Avenue
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
-**New York has always been considered to be an intriguing city, so of course there is a unit on visiting the city.  There is lots of literature based in New York or about the city.  Here is a sampling:** 
+**New York has always been considered to be an intriguing city, so of course there is a unit on visiting the city.  There is lots of literature based in New York or about the city.  Here is just a sampling:** 
 
 ### New York Underground, by Julia Solis
 
@@ -75,7 +75,7 @@ summary here.  (Lexile 810L)
 <a href="https://www.bookdepository.com/Vanderbeekers-Hidden-Garden-Karina-Yan-Glaser/9780358117346?ref=grid-view&qid=1674589448653&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1049694429" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjgyOTQ1ODUsLTE0NzgwMzM0NzQsLT
-E2NTk1NDMxNzksMTA5NTUzMDE2NywtMTA1Nzc4NDU3NSwyMDEy
-MjYxNzE2XX0=
+eyJoaXN0b3J5IjpbMTA2Njg0MDA3LC0xNzI4Mjk0NTg1LC0xND
+c4MDMzNDc0LC0xNjU5NTQzMTc5LDEwOTU1MzAxNjcsLTEwNTc3
+ODQ1NzUsMjAxMjI2MTcxNl19
 -->
