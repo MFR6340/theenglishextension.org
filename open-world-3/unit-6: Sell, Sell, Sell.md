@@ -48,11 +48,11 @@
 
 <img src="https://imgur.com/8BuCCub.png" width="25%" />
 
-summary here.  (Lexile 1090L)
+ (Lexile 1090L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Start-It-Up-Kenrya-Rankin-Eriko-Takada/9780981973357" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTYwMTExNjgsMjE0NjYwNTM3NywtMj
-g3MDAzNDg0LC0xODE5NDc2MTk3LC03MDIzMjI5NzUsLTIwMTA1
-OTI2NDgsMTI3MDYzODM3OF19
+eyJoaXN0b3J5IjpbMTgwMTAxMDQyMSwyMTQ2NjA1Mzc3LC0yOD
+cwMDM0ODQsLTE4MTk0NzYxOTcsLTcwMjMyMjk3NSwtMjAxMDU5
+MjY0OCwxMjcwNjM4Mzc4XX0=
 -->
