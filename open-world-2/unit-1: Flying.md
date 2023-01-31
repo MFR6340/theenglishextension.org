@@ -100,7 +100,7 @@ summary here. (Lexile 1240L) <sup>[what is this?](/resources/Lexile%20measures)<
 (No Lexile measure available ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Avion-My-Uncle-Flew-Cyrus-Fisher/9781948959001?ref=grid-view&qid=1675178032121&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1057556198" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1057556198" rel="nofollow">Buy on Orell Füssli</a> 
 
 ## Supplemental Activities
 if you've ever had dreams of flying, the final venue of the Parachute World Cup Finals in Locarno from September 22-24, 2023,  might be an event that's worth going to.  Over 200 of the top sky divers from 20 nations compete for the titles with a focus on the accuracy of their landing.  And it's all happening while you're working on this unit.  A great excuse to go!  <a href="https://yellow-target.ch/" rel="nofollow">Yellow Target Skydiving World Cup</a>
@@ -108,7 +108,7 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTg3OTc1MjgsLTIwMjE2MDgxMTEsLT
+eyJoaXN0b3J5IjpbLTExODg4MTk2MDYsLTIwMjE2MDgxMTEsLT
 Q0Mzg0NDM1MiwzMzYyNDQ0NDksLTg3NTU3NjA5LDE4MTUxODQ1
 MDAsLTYyMzQ0NzE1OSwtMTY0NjU2OTEwMywtMTIzNDA5NzYxOC
 wzMjE1NDIzNDMsMTQwMjQ5MjY0LC0yMDg4MjEyMzUzLC03OTEw
