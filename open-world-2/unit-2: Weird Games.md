@@ -7,14 +7,12 @@
 
 ### The Highland Games, by Gareth Ainsworth
 
-<img src="title here, by author here
+<img src="https://i.imgur.com/JjowLfe.png" width="25%" />
 
-<img src="https://imgur.com/OtAdiM189WHQ9" width="25%" />
-
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(No Lexile measure available ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/The-Highland-Games-Gareth-Ainsworth/9781735688565" rel="nofollow"> Buy on BookDepository</a>  
-# Murder at the Village Fete, by Catherine Coles
+## Murder at the Village Fete, by Catherine Coles
 
 <img src="https://imgur.com/ztsUlCp link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -49,7 +47,7 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTgxNjY2MzEsMTMxMzUwNDk4OCwtMT
-k3Njc2OTA0NywxNTg4MzkxODQ2LC0yNTY1NTg3OTgsLTU4Nzc0
-NjYzOSwxMTk5Nzg3NTM3LC0xMTM1NDYwNTA3XX0=
+eyJoaXN0b3J5IjpbNTgxNjg3Mzc4LDEzMTM1MDQ5ODgsLTE5Nz
+Y3NjkwNDcsMTU4ODM5MTg0NiwtMjU2NTU4Nzk4LC01ODc3NDY2
+MzksMTE5OTc4NzUzNywtMTEzNTQ2MDUwN119
 -->
