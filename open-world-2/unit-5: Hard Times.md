@@ -36,7 +36,7 @@ By the author of the Horrible Histories series, this new series is a bit longer 
 
 <img src="https://imgur.com/4rASVmM.png" width="25%" />
 
-(Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(No Lexile measure available ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Scenes-London-Life-Charles-Dickens/9781509854288?ref=grid-view&qid=1675000616291&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1045168410" rel="nofollow">Buy on Orell Füssli</a> 
@@ -46,7 +46,7 @@ By the author of the Horrible Histories series, this new series is a bit longer 
 
 <img src="https://imgur.com/arvSVsq.png" width="25%" />
 
-summary here. (Lexile 1020L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+ (Lexile 1020L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Wolves-Willoughby-Chase-Joan-Aiken/9780099572879?ref=grid-view&qid=1675000762212&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1022805699" rel="nofollow">Buy on Orell Füssli</a> 
@@ -56,7 +56,7 @@ summary here. (Lexile 1020L) <sup>[what is this?](/resources/Lexile%20measures)<
 
 <img src="https://imgur.com/IprW6iG.png" width="25%" />
 
-summary here. (Lexile 1070L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile 1070L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Jack-Ripper-Burgan-Michael/9781481479455?ref=grid-view&qid=1675001028543&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1042241071" rel="nofollow">Buy on Orell Füssli</a> 
@@ -66,7 +66,7 @@ summary here. (Lexile 1070L) <sup>[what is this?](/resources/Lexile%20measures)<
 
 <img src="https://imgur.com/WXIdg7z.png" width="25%" />
 
-summary here. (Lexile 1060L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+ (Lexile 1060L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Strange-Case-Dr-Jekyll-Mr-Hyde-Robert-Louis-Stevenson/9780486266886?ref=grid-view&qid=1675001336150&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006331195" rel="nofollow">Buy on Orell Füssli</a> 
@@ -76,7 +76,7 @@ summary here. (Lexile 1060L) <sup>[what is this?](/resources/Lexile%20measures)<
 
 <img src="https://imgur.com/1NRWo11.png" width="25%" />
 
-summary here. (Lexile 1090L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+ (Lexile 1090L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Tess-DUrbervilles-Thomas-Hardy/9780007350919?ref=grid-view&qid=1675001514627&sr=1-8" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009059670" rel="nofollow">Buy on Orell Füssli</a> 
@@ -85,7 +85,7 @@ summary here. (Lexile 1090L) <sup>[what is this?](/resources/Lexile%20measures)<
 
 <img src="https://imgur.com/7Xarioo.png" width="25%" />
 
-summary here. (Lexile 1090L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+ (Lexile 1090L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Mayor-Casterbridge-Thomas-Hardy/9781853260988?ref=grid-view&qid=1675001779892&sr=1-4" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1045804321" rel="nofollow">Buy on Orell Füssli</a> 
@@ -95,7 +95,7 @@ summary here. (Lexile 1090L) <sup>[what is this?](/resources/Lexile%20measures)<
 
 <img src="https://imgur.com/p2j5eY3.png" width="25%" />
 
-summary here. (Lexile 890L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+ (Lexile 890L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Jane-Eyre-Charlotte-Bront%C3%AB/9781853260209?ref=grid-view&qid=1675001842086&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009059674" rel="nofollow">Buy on Orell Füssli</a> 
@@ -105,7 +105,7 @@ summary here. (Lexile 890L) <sup>[what is this?](/resources/Lexile%20measures)</
 
 <img src="https://imgur.com/qe40UqG.png" width="25%" />
 
-summary here. (Lexile 1190L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+ (Lexile 1190L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Tenant-Wildfell-Hall-Vintage-Classics-Bronte-Series-Anne-Bronte/9781784870751?ref=grid-view&qid=1675002048263&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1019220526" rel="nofollow">Buy on Orell Füssli</a> 
@@ -118,9 +118,9 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 <a href="https://www.bookdepository.com/Queen-Victoria-Kate-Hubbard/9781904095828?ref=grid-view&qid=1675002186535&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTA2NjI3LC03MjI1NTcwNjksMjE0Mz
-gxNzA2OCwxNDg2MDU4OTQ5LC0xODk1MDk5NzI4LDE0MTc2MTQ2
-NTIsLTQ2NDM1NzAwMCwtMjAzMDkxNjE5MiwxMzUzNjM4MjEsLT
-EzNzk2NzI3ODksMTkyNDgyNzI3NCwtODU1OTA3MjMsLTExNjg0
-MDU0MjldfQ==
+eyJoaXN0b3J5IjpbLTE2MTE5MTAzNywtNzIyNTU3MDY5LDIxND
+M4MTcwNjgsMTQ4NjA1ODk0OSwtMTg5NTA5OTcyOCwxNDE3NjE0
+NjUyLC00NjQzNTcwMDAsLTIwMzA5MTYxOTIsMTM1MzYzODIxLC
+0xMzc5NjcyNzg5LDE5MjQ4MjcyNzQsLTg1NTkwNzIzLC0xMTY4
+NDA1NDI5XX0=
 -->
