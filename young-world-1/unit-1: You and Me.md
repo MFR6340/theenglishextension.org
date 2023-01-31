@@ -100,6 +100,7 @@ This is the young adult version of the autobiographical story of Trevor Noah, a 
 
 ### Extension Booklet
 Designed to be used with this unit. Available on request.
+
 <img src="https://i.imgur.com/b5coB3O.png" width="25%" />
 
 ### Describing Emotions
@@ -109,9 +110,9 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc4OTk4ODIxLC0xMjkyMTc3MDczLDE1NT
-c5MTY4MzcsLTMxNzc1MDAzNyw4ODY0MzQwMzcsNjc0NjY4NjM0
-LC01MzYxMDE2NjUsLTIwMzgxNzMwOTEsMTAyMDE3NzczNCw0Mj
-UxOTcwNzgsNTYyNTIzNjEwLDE4NzY3MjM0NiwtOTA4NjE3MCwt
-NTgxNDc3NTkwXX0=
+eyJoaXN0b3J5IjpbMTEzMTQ1ODYxNSwtMTI5MjE3NzA3MywxNT
+U3OTE2ODM3LC0zMTc3NTAwMzcsODg2NDM0MDM3LDY3NDY2ODYz
+NCwtNTM2MTAxNjY1LC0yMDM4MTczMDkxLDEwMjAxNzc3MzQsND
+I1MTk3MDc4LDU2MjUyMzYxMCwxODc2NzIzNDYsLTkwODYxNzAs
+LTU4MTQ3NzU5MF19
 -->
