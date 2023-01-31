@@ -23,23 +23,19 @@ Strongly recommend the movie by the same name.
 An incredibly comprehensive weather book which is fantastic both for older kids and even adults.  (Lexile IG1110L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Weather-John-Farndon/9781338608946?ref=grid-view&qid=1675171661197&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037970652" rel="nofollow">Buy on Orell Füssli</a>
+
 
 ### Chasing the Storm: Tornadoes, Meteorology and Weather Watching, by Ron Miller
 
 <img src="https://imgur.com/o5k2D8p.png" width="25%" />
 
-(Lexile 1110L) ### DK- Eyewitness Weather
+(Lexile 1110L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<img src="https://i.imgur.com/QdEVKWh.png" width="25%" />
-
-A useful introduction to all things weather-related with fantastic photographs. 
-
-<a href="https://www.bookdepository.com/search?searchTerm=DK+Weather&search=Find+book" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037970652" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.bookdepository.com/Finest-Hours-Young-Readers-Edition-Michael-J-Tougias/9780805097641?ref=grid-view&qid=1674482601270&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034069963" rel="nofollow">Buy on Orell Füssli</a>
 
 <a href="https://www.bookdepository.com/Chasing-the-Storm-Ron-Miller/9781467712842" rel="nofollow"> Buy on BookDepository</a>  " rel="nofollow"> Buy on BookDepository</a>  
-<a href="orellfussli" rel="nofollow">Bu##  ai hy on Orell Füssli</a>
+<a href="orellfussli" rel="nofollow">Buy on Orell Füssli</a>
 
 ### It's Raining Fish and Spiders, by Bill Evans
 
@@ -62,8 +58,8 @@ summary here.  (Lexile        )
 Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit  [Technorama](https://www.technorama.ch/en/home), the science center in Wintertur, Zurich, and see how lightening is formed. Performances are at 11.30 and 14.30.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDczMTc5MTEsLTk2MTM3NDYwMSw5ODMzND
-czMzEsNzYzMTA0NDM2LDEzMTc4OTk5NDksLTQ5NDM4NDY0Niwt
-NDUzMDE2NTg4LDExNzA1MjYxOTUsMTM0NTQzNDEyNCwtMTAwOD
-AwMTI0MCwtNzQ0MjUyNTE2XX0=
+eyJoaXN0b3J5IjpbMjEzMDAwNTEzOCwtOTYxMzc0NjAxLDk4Mz
+M0NzMzMSw3NjMxMDQ0MzYsMTMxNzg5OTk0OSwtNDk0Mzg0NjQ2
+LC00NTMwMTY1ODgsMTE3MDUyNjE5NSwxMzQ1NDM0MTI0LC0xMD
+A4MDAxMjQwLC03NDQyNTI1MTZdfQ==
 -->
