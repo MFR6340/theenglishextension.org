@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/ukCZSwz.png" width="25%" />
 
-summary here.  (Lexile 810L  ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile 810L  ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Villainous-Victorians-Terry-Deary/9781407178684?ref=grid-view&qid=1674999131666&sr=1-10" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1042907997" rel="nofollow">Buy on Orell Füssli</a> 
@@ -17,7 +17,7 @@ summary here.  (Lexile 810L  ) <sup>[what is this?](/resources/Lexile%20measures
 
 <img src="https://imgur.com/Q0ARLiL.png" width="25%" />
 
-By the author of the Horrible Histories series, this new series is a bit longer for older readers.  It still provides the humor, despite the sometimes heavy subject matter.  
+By the author of the Horrible Histories series, this new series is a bit longer for older readers.  It still provides the humor, despite the sometimes heavy subject matter.  (No Lexile measure available)
 
 <a href="https://www.bookdepository.com/Dangerous-Days-on-Victorian-Railways-Terry-Deary/9781780226361?ref=grid-view&qid=1674491074938&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034790323" rel="nofollow">Buy on  Orell Füssli</a>
@@ -26,7 +26,7 @@ By the author of the Horrible Histories series, this new series is a bit longer 
 ### Oliver Twist, by Charles Dickens
 <img src="https://imgur.com/8HtdNnp.png" width="25%" />
 
-summary here. (1060L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(1060L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Oliver-Twist-Charles-Dickens/9781853260124?ref=grid-view&qid=1675000362314&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001321736" rel="nofollow">Buy on Orell Füssli</a> 
@@ -36,7 +36,7 @@ summary here. (1060L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <img src="https://imgur.com/4rASVmM.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Scenes-London-Life-Charles-Dickens/9781509854288?ref=grid-view&qid=1675000616291&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1045168410" rel="nofollow">Buy on Orell Füssli</a> 
@@ -118,9 +118,9 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 <a href="https://www.bookdepository.com/Queen-Victoria-Kate-Hubbard/9781904095828?ref=grid-view&qid=1675002186535&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTk4NjExNSwtNzIyNTU3MDY5LDIxND
-M4MTcwNjgsMTQ4NjA1ODk0OSwtMTg5NTA5OTcyOCwxNDE3NjE0
-NjUyLC00NjQzNTcwMDAsLTIwMzA5MTYxOTIsMTM1MzYzODIxLC
-0xMzc5NjcyNzg5LDE5MjQ4MjcyNzQsLTg1NTkwNzIzLC0xMTY4
-NDA1NDI5XX0=
+eyJoaXN0b3J5IjpbMTc1MTA2NjI3LC03MjI1NTcwNjksMjE0Mz
+gxNzA2OCwxNDg2MDU4OTQ5LC0xODk1MDk5NzI4LDE0MTc2MTQ2
+NTIsLTQ2NDM1NzAwMCwtMjAzMDkxNjE5MiwxMzUzNjM4MjEsLT
+EzNzk2NzI3ODksMTkyNDgyNzI3NCwtODU1OTA3MjMsLTExNjg0
+MDU0MjldfQ==
 -->
