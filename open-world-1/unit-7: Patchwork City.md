@@ -32,7 +32,7 @@ A fun story about about two renegade capybara who escape from the Toronto Zoo an
 
 <img src="https://imgur.com/O1clI7O.png" width="25%" />
 
-I  (Lexile   
+An easy read, intended for kids who like hockey.  The Screech Owls hockey team heads to Toronto for a tournament.  While there, they   (Lexile   
 
 <a href="https://www.bookdepository.com/Night-They-Stole-Stanley-Cup-Roy-Macgregor/9781770494145?ref=grid-view&qid=1674926818968&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1023376588rel" rel="nofollow">Buy on Orell Füssli</a> 
@@ -46,9 +46,9 @@ summary here.  (Lexile NC1190L)
 <a href="https://www.amazon.com/-/de/dp/0516220349/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1674926987&sr=8-1" rel="nofollow"> Buy on Amazon</a>  Only available used
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzMzMzAzNSw0MjYxMjkxMzEsMTcyNj
-k4NTEzLDk0MjY0MTMxOCwxNDE0MjUxNTk1LC0yMTQ2MDE0Njk3
-LDcyMjQ2MjE3MywtMTI2Mzg2NTEyMiwtNzU1OTg3MzkwLC0xMj
-I3MTM1OTY0LC03OTQxNjA2LC0zMjI5NzQyNjEsLTEyNTc4MDA5
-NjMsLTU5MTk3MjU4NCwxMDQzNjY0MDk2XX0=
+eyJoaXN0b3J5IjpbLTIwMzA0NDY4MjQsNDI2MTI5MTMxLDE3Mj
+Y5ODUxMyw5NDI2NDEzMTgsMTQxNDI1MTU5NSwtMjE0NjAxNDY5
+Nyw3MjI0NjIxNzMsLTEyNjM4NjUxMjIsLTc1NTk4NzM5MCwtMT
+IyNzEzNTk2NCwtNzk0MTYwNiwtMzIyOTc0MjYxLC0xMjU3ODAw
+OTYzLC01OTE5NzI1ODQsMTA0MzY2NDA5Nl19
 -->
