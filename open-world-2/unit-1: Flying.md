@@ -79,7 +79,7 @@ summary here. (Lexile 1240L) <sup>[what is this?](/resources/Lexile%20measures)<
 ### Grandpa’s Great Escape, by David Walliams
 <img src="https://imgur.com/OYpHfi9.png" width="25%" /> 
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile  760L  ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Grandpas-Great-Escape-David-Walliams/9780008183424?ref=grid-view&qid=1674995059873&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1045189505" rel="nofollow">Buy on Orell Füssli</a> 
@@ -88,7 +88,7 @@ summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20meas
 
 <img src="https://imgur.com/kjW7pCO.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile 850L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Up-Air-Terry-Deary/9780702305856?ref=grid-view&qid=1674995144420&sr=1-5" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1058835634 link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -108,7 +108,7 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODQ5MzA1NiwtMjAyMTYwODExMSwtND
+eyJoaXN0b3J5IjpbLTk4Mjc0NDQyOCwtMjAyMTYwODExMSwtND
 QzODQ0MzUyLDMzNjI0NDQ0OSwtODc1NTc2MDksMTgxNTE4NDUw
 MCwtNjIzNDQ3MTU5LC0xNjQ2NTY5MTAzLC0xMjM0MDk3NjE4LD
 MyMTU0MjM0MywxNDAyNDkyNjQsLTIwODgyMTIzNTMsLTc5MTAz
