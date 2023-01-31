@@ -42,8 +42,9 @@
 ### The 21 Balloons, by William Pène du Bois
 <img src="https://i.imgur.com/5210C7C.png" width="25%" />
 
+On School Library Journal's list of the Top 100 Children's Novels 
 
-<a href="https://www.bookdepository.com/Shackletons-Endurance-Joanna-Grochowicz/9781911679158?ref=grid-view&qid=1675161871201&sr=1-3" rel="nofollow"> Buy on BookDepository </a>  
+<a href="https://www.bookdepository.com/Twenty-One-Balloons-William-Pene-du-Bois/9780140320978?ref=grid-view&qid=1675162115237&sr=1-1" rel="nofollow"> Buy on BookDepository </a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1060473120" rel="nofollow">Buy on Orell Füssli</a> 
 ### Dove, by Robin Lee Graham
 
@@ -79,10 +80,10 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTEzNDgsNDg4NjczMjY0LDIyNTY0MT
-UxOCwtMTU2ODU0OTM1OSw1MTI3NjQ3Miw1ODM2Nzk1NzMsLTE4
-NDc5MjY1MTQsMTc5OTg1MzYyOSwxMDc2NTI4Mzk2LC0xODczMT
-k2NjgwLDM3MjU4ODQ3LDE5MDg4NjY4NTMsMTIwMDE4MDE1Myw0
-Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgxLDE0NzE0Mj
-E4NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1XX0=
+eyJoaXN0b3J5IjpbLTQwMDg5NDE3NSw0ODg2NzMyNjQsMjI1Nj
+QxNTE4LC0xNTY4NTQ5MzU5LDUxMjc2NDcyLDU4MzY3OTU3Mywt
+MTg0NzkyNjUxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYsLTE4Nz
+MxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMTgwMTUz
+LDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEsMTQ3MT
+QyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVdfQ==
 -->
