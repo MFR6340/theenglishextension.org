@@ -109,7 +109,7 @@ This is a book about several famous sports stars and the struggles they had to b
 
 <img src="https://imgur.com/4TlTy00.png" width="25%" />
 
-Sportopedia is a sports encyclopaedia full of information, facts, pictures and history. It features information on ball sports, racket sports, athletics, gymnastics, water sports, motor sports, target sports, combat sports and sporting events.A sports fan's dream book, it is easy to read and well laid out.
+Sportopedia is a sports encyclopaedia full of information, facts, pictures and history. It features information on ball sports, racket sports, athletics, gymnastics, water sports, motor sports, target sports, combat sports and sporting events.A sports fan's dream book, it is easy to read and well laid out. (No Lexile measure available)
 
 <a href="https://www.bookdepository.com/Sportopedia-Adam-Skinner/9781786030849?ref=grid-view&qid=1665928910005&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1048100234" rel="nofollow">Buy on Orell Füssli</a>
@@ -128,7 +128,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDM3MTQ1NSw5MjMxODkwMzUsLTUxOT
+eyJoaXN0b3J5IjpbLTIyNTQ0MTM1Myw5MjMxODkwMzUsLTUxOT
 g4ODk3LC01MDg3NzM1NDIsOTYyNzYzOTAzLC0yOTU1NjI4MDMs
 NTkxOTE1MjcsLTEwMDY1NDI5NDUsNDU4MDUxNjgwLC0xNzUwOT
 c0MTQyLDE3NDcxNzExNTEsMjA5MjA3MDYxMywtODI2MjY5ODc1
