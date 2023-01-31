@@ -15,7 +15,10 @@
 
 ### Murder at the Village Fete, by Catherine Coles
 
-<img src="https://imgur.com/ztsUlCp link here" rel="nofollow"> Buy on BookDepository</a>  
+<img src="https://i.imgur.com/7DWK34X.png" width="25%" />
+
+
+<img src="https://imgur.com/7DWK34X" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
 
@@ -48,8 +51,8 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzUwMTI3MCwxNjg2MjY2NDgsMTMxMz
-UwNDk4OCwtMTk3Njc2OTA0NywxNTg4MzkxODQ2LC0yNTY1NTg3
-OTgsLTU4Nzc0NjYzOSwxMTk5Nzg3NTM3LC0xMTM1NDYwNTA3XX
-0=
+eyJoaXN0b3J5IjpbLTE4NzI3NzI5MCwtODYzNTAxMjcwLDE2OD
+YyNjY0OCwxMzEzNTA0OTg4LC0xOTc2NzY5MDQ3LDE1ODgzOTE4
+NDYsLTI1NjU1ODc5OCwtNTg3NzQ2NjM5LDExOTk3ODc1MzcsLT
+ExMzU0NjA1MDddfQ==
 -->
