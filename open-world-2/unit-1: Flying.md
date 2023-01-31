@@ -15,7 +15,6 @@
 
 <img src="https://imgur.com/9CrMx4t.png" width="25%" />
 
-summary here.  (Lexile Level     )
 
 <a href="https://www.bookdepository.com/Born-Fly-Ryan-Campbell/9781734382105?ref=grid-view&qid=1674927916688&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -23,7 +22,7 @@ summary here.  (Lexile Level     )
 
 <img src="https://imgur.com/RxAbeiz.png" width="25%" />
 
-summary here.   (Lexile 1100L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+ (Lexile 1100L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/First-Flight-Around-World-Tim-Grove/9781419714825?ref=grid-view&qid=1674928121459&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034708168" rel="nofollow">Buy on Orell Füssli</a> 
@@ -111,10 +110,10 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjQzODMyLC00NDM4NDQzNTIsMzM2Mj
-Q0NDQ5LC04NzU1NzYwOSwxODE1MTg0NTAwLC02MjM0NDcxNTks
-LTE2NDY1NjkxMDMsLTEyMzQwOTc2MTgsMzIxNTQyMzQzLDE0MD
-I0OTI2NCwtMjA4ODIxMjM1MywtNzkxMDM0MDczLDE5NTUyMTU3
-MzgsLTEwMjI4MTQ2NDQsMjA5ODkxMzM2LC0xNDI1MDM1ODYyXX
-0=
+eyJoaXN0b3J5IjpbLTE0NjcxNDg2MDgsLTQ0Mzg0NDM1MiwzMz
+YyNDQ0NDksLTg3NTU3NjA5LDE4MTUxODQ1MDAsLTYyMzQ0NzE1
+OSwtMTY0NjU2OTEwMywtMTIzNDA5NzYxOCwzMjE1NDIzNDMsMT
+QwMjQ5MjY0LC0yMDg4MjEyMzUzLC03OTEwMzQwNzMsMTk1NTIx
+NTczOCwtMTAyMjgxNDY0NCwyMDk4OTEzMzYsLTE0MjUwMzU4Nj
+JdfQ==
 -->
