@@ -20,12 +20,11 @@
 <a href="https://www.bookdepository.com/Lemonade-War-Ms-Jacqueline-Davies/9780547237657?ref=grid-view&qid=1674674259530&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1007188410" rel="nofollow">Buy on Orell Füssli</a> 
 
-### How to Start Your Very First Business Warren Buffett's Secret Millionaires Club
+### How to Start Your Very First Business, Warren Buffett's Secret Millionaires Club
 
 <img src="https://imgur.com/TSdM0uY.png" width="25%" />
 
-summary here.  (Lexile Level     )
-
+(No Lexile measure available)
 <a href="https://www.bookdepository.com/How-Start-Your-Very-First-Business-The-Creators-of-Warren-Buffetts-Secret-Millionaires-Club-Julie-Merberg-Sarah-Parvis-Warren-Buffett/9781941367117" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Taking a Bite out of the Apple, by Rob Janoff
@@ -53,7 +52,7 @@ summary here.  (Lexile 1090L)
 
 <a href="https://www.bookdepository.com/Start-It-Up-Kenrya-Rankin-Eriko-Takada/9780981973357" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzY1ODU4MiwyMTQ2NjA1Mzc3LC0yOD
+eyJoaXN0b3J5IjpbLTY3MzUzMzczMCwyMTQ2NjA1Mzc3LC0yOD
 cwMDM0ODQsLTE4MTk0NzYxOTcsLTcwMjMyMjk3NSwtMjAxMDU5
 MjY0OCwxMjcwNjM4Mzc4XX0=
 -->
