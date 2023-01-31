@@ -59,9 +59,9 @@
 
 ### Oceanology: The Secrets of the Sea Revealed, by DK
 
-<img src="Link.png" width="25%" />
+<img src="https://i.imgur.com/aUt9RHs.png" width="25%" />
 
-(Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile measure not available)  
 
 <a href="https://www.bookdepository.com/Oceanology-Dk/9780744020502?ref=grid-view&qid=1675191492238&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1057252613" rel="nofollow">Buy on Orell Füssli</a> 
@@ -75,10 +75,10 @@ In the past, Sea Life Konstanz, just across the border in Germany, hasn't been p
 
 While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting and useful extension.  Try visiting <a href="https://www.aquatis.ch/en/ " rel="nofollow">Aquatis Aquarium </a> in Lausanne which focuses on freshwater ecosystems on five continents. Compare animals that live in salt-water vs fresh-water , their survival techniques and the obstacles they face. The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjU4OTQwNjEsMTc0NTYxNjY5MiwtMT
-I1MTg5NTc2MSwxMzc5MDE1ODY4LDgyNjcwNTQxMCw2NzIzNDg0
-MjUsMTA5MzIwNjQ5MCwxMDE4ODc5NDQxLC02NjUxMDMxNzUsMj
-A1NzAxOTQyLC0yMzUxNzYzNDUsLTEzMTc1MzM0MzgsMTIwNDg4
-MjA2MiwtMTYxNDI0MDkyNiwtMTE2MzQ5MjI5NSw1NDY3NDI1MT
-YsMzMzNDI4MjE1XX0=
+eyJoaXN0b3J5IjpbMjEzNDk2OTYyLDE3NDU2MTY2OTIsLTEyNT
+E4OTU3NjEsMTM3OTAxNTg2OCw4MjY3MDU0MTAsNjcyMzQ4NDI1
+LDEwOTMyMDY0OTAsMTAxODg3OTQ0MSwtNjY1MTAzMTc1LDIwNT
+cwMTk0MiwtMjM1MTc2MzQ1LC0xMzE3NTMzNDM4LDEyMDQ4ODIw
+NjIsLTE2MTQyNDA5MjYsLTExNjM0OTIyOTUsNTQ2NzQyNTE2LD
+MzMzQyODIxNV19
 -->
