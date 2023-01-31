@@ -33,15 +33,15 @@
 ### Shackleton’s Endurance, by Joanna Grochowicz
 <img src="https://imgur.com/MnTpNOE.png" width="25%" />
 
-summary here.  (Lexile level       )
+(Lexile 930L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="https://www.bookdepository link here.com/Shackletons-Endurance-Joanna-Grochowicz/9781911679158?ref=grid-view&qid=1674909811258&sr=1-1" rel="nofollow">Buy on a>  
+<a href="https://www.bookdepository link here.com/Shackletons-Endurance-Joanna-Grochowicz/9781911679158?ref=grid-view&qid=1674909811258&sr=1-1" rel="nofollow">Buy on Book Depository>  
 <a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1060473120" rel="nofollow">Buy on esi</a> 
 
 ### The 21 Balloons, by William Pène du Bois
 <img src="https://imgur.com/PZrokS5imgur.png" width="25%" />
 
-summary here.  (Lexile level       )
+
 
 <a href="https://www.bookdepository.com/Twenty-One-Balloons-Puffin-Modern-Classics-William-Pene-du-Bois/9780142403303?ref=grid-view&qid=1674913134702&sr=1-2" rel="nofollow"> Buy on esi</a>ahref=resBookDepository</i" rel="nofollow">Buy on esi</a> 
 
@@ -79,10 +79,10 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODUyODM2MzksNDg4NjczMjY0LDIyNT
-Y0MTUxOCwtMTU2ODU0OTM1OSw1MTI3NjQ3Miw1ODM2Nzk1NzMs
-LTE4NDc5MjY1MTQsMTc5OTg1MzYyOSwxMDc2NTI4Mzk2LC0xOD
-czMTk2NjgwLDM3MjU4ODQ3LDE5MDg4NjY4NTMsMTIwMDE4MDE1
-Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgxLDE0Nz
-E0MjE4NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1XX0=
+eyJoaXN0b3J5IjpbMjA4NDQ4NDYwNCw0ODg2NzMyNjQsMjI1Nj
+QxNTE4LC0xNTY4NTQ5MzU5LDUxMjc2NDcyLDU4MzY3OTU3Mywt
+MTg0NzkyNjUxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYsLTE4Nz
+MxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMTgwMTUz
+LDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEsMTQ3MT
+QyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVdfQ==
 -->
