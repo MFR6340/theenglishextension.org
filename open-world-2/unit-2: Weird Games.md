@@ -7,9 +7,9 @@
 
 ### The Highland Games, by Gareth Ainsworth
 
-<img src="https://imgur.com/OtAdiM189WHQ9title here, by author here
+<img src="title here, by author here
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/OtAdiM189WHQ9" width="25%" />
 
 summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
@@ -49,7 +49,7 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzUwNDk4OCwtMTk3Njc2OTA0NywxNT
-g4MzkxODQ2LC0yNTY1NTg3OTgsLTU4Nzc0NjYzOSwxMTk5Nzg3
-NTM3LC0xMTM1NDYwNTA3XX0=
+eyJoaXN0b3J5IjpbLTE4MTgxNjY2MzEsMTMxMzUwNDk4OCwtMT
+k3Njc2OTA0NywxNTg4MzkxODQ2LC0yNTY1NTg3OTgsLTU4Nzc0
+NjYzOSwxMTk5Nzg3NTM3LC0xMTM1NDYwNTA3XX0=
 -->
