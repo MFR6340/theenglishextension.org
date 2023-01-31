@@ -1,16 +1,17 @@
 # Open World 3, Unit 1: Further, faster, higher
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-**This unit is on extreme sports.  There is a lot of literature that covers this theme.  Here are some suggestions to get you started:** 
+**This unit is on extreme sports.  There is a lot of literature that covers this theme, most that is incredibly inspirational, some that is just down-right funny.  Here are some suggestions to get you started:** 
 
-### How Angel Peterson Got His Name, by Gary Paulsen
+### No Summit out of Sight, by Jordan Romero
+<img src="https://i.imgur.com/y5UjtmX.jpg" width="25%" />
 
-<img src="https://i.imgur.com/xpmy1nB.png" width="25%" />
+summary here.  (Lexile 850L)
 
-summary here.  (Lexile 1180L)
+<a href="https://www.bookdepository.com/No-Summit-out-Sight-Jordan-Romero/9781481432764?ref=grid-view&qid=1674579431307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034721479" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005962607" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Winterdance: The Fine Madness of Alaskan Dog Racing, by Gary Paulsen
 <img src="https://i.imgur.com/D4rBCsL.png" width="25%" />
@@ -35,13 +36,17 @@ summary here.  (Lexile 880L)
 <a href="https://www.bookdepository.com/Be-Unstoppable-Bethany-Hamilton/9780310764854" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1047658847" rel="nofollow">Buy on Orell Füssli</a> 
 
-### No Summit out of Sight, by Jordan Romero
-<img src="https://i.imgur.com/y5UjtmX.jpg" width="25%" />
+### How Angel Peterson Got His Name, by Gary Paulsen
 
-summary here.  (Lexile 850L)
+<img src="https://i.imgur.com/xpmy1nB.png" width="25%" />
 
-<a href="https://www.bookdepository.com/No-Summit-out-Sight-Jordan-Romero/9781481432764?ref=grid-view&qid=1674579431307&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034721479" rel="nofollow">Buy on Orell Füssli</a> 
+summary here.  (Lexile 1180L)
+
+
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005962607" rel="nofollow">Buy on Orell Füssli</a> 
+
+
+
 
 ### No Barriers,(YA edition) by Erik Weihenmayer (A Blind Man’s Journey to Kaya## Title here, by author here
 
@@ -75,8 +80,9 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MDg3MTgwMiwxNTAyNDA1MzYsMzQ3Nj
-YyNjI4LC0yNzc5MzQ2OTQsODA4MjM0MjM3LDE4MDY3ODg1Mjks
-MTgwNjc4ODUyOSwtOTkxMTg5OTAxLC0yNzc1ODI3OTksLTkzNT
-gxNjYxMSwxMTYxOTUxNzAsMTAwMTQzNjg1M119
+eyJoaXN0b3J5IjpbLTQ5ODM4OTE3OCwtMjkwODcxODAyLDE1MD
+I0MDUzNiwzNDc2NjI2MjgsLTI3NzkzNDY5NCw4MDgyMzQyMzcs
+MTgwNjc4ODUyOSwxODA2Nzg4NTI5LC05OTExODk5MDEsLTI3Nz
+U4Mjc5OSwtOTM1ODE2NjExLDExNjE5NTE3MCwxMDAxNDM2ODUz
+XX0=
 -->
