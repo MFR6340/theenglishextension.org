@@ -17,12 +17,9 @@
 
 <img src="https://i.imgur.com/7DWK34X.png" width="25%" />
 
-
-
-
 <a href="https://www.bookdepository.com/Murder-at-Village-Fete-Catherine-Coles/9781838441104?ref=grid-view&qid=1674996450982&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+
 
 
 ### Title here, by author here
@@ -45,8 +42,8 @@ Of special note, The Highland Games Masters World Championship will take place f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjgzNTg1MywtODYzNTAxMjcwLDE2OD
-YyNjY0OCwxMzEzNTA0OTg4LC0xOTc2NzY5MDQ3LDE1ODgzOTE4
-NDYsLTI1NjU1ODc5OCwtNTg3NzQ2NjM5LDExOTk3ODc1MzcsLT
-ExMzU0NjA1MDddfQ==
+eyJoaXN0b3J5IjpbNTMzMDc1MzIyLC04NjM1MDEyNzAsMTY4Nj
+I2NjQ4LDEzMTM1MDQ5ODgsLTE5NzY3NjkwNDcsMTU4ODM5MTg0
+NiwtMjU2NTU4Nzk4LC01ODc3NDY2MzksMTE5OTc4NzUzNywtMT
+EzNTQ2MDUwN119
 -->
