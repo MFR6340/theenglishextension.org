@@ -24,7 +24,7 @@ Set in Toronto in 1942, this book is about a little girl who discovers that her 
 
 <img src="https://imgur.com/SP7Ahul.png" width="25%" />
 
-Written after the author heard about about two caon the radio while driving to her teaching job.  Two capybaras are delivered to the Toronto High Park Zoo. When an opportunity to escape comes up, they take it! This sets off a frenzy across the city, with some Torontonians cheering the renegades on, and others plotting their downfall.
+Written after the author heard about about two capybara who escape from the Toronto Zoo and spend 36 days in freedom before eventually being caught.  on the radio while driving to her teaching job.  Two capybaras are delivered to the Toronto High Park Zoo. When an opportunity to escape comes up, they take it! This sets off a frenzy across the city, with some Torontonians cheering the renegades on, and others plotting their downfall.
 
 <a href="https://www.bookdepository.com/Runaway-Rodents-Dagmara-Bociek/9781777996840?ref=grid-view&qid=1674926518140&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -46,7 +46,7 @@ summary here.  (Lexile NC1190L)
 <a href="https://www.amazon.com/-/de/dp/0516220349/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1674926987&sr=8-1" rel="nofollow"> Buy on Amazon</a>  Only available used
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzAxMjEzOTAsNDI2MTI5MTMxLDE3Mj
+eyJoaXN0b3J5IjpbLTE5Njc2Mzc4MzEsNDI2MTI5MTMxLDE3Mj
 Y5ODUxMyw5NDI2NDEzMTgsMTQxNDI1MTU5NSwtMjE0NjAxNDY5
 Nyw3MjI0NjIxNzMsLTEyNjM4NjUxMjIsLTc1NTk4NzM5MCwtMT
 IyNzEzNTk2NCwtNzk0MTYwNiwtMzIyOTc0MjYxLC0xMjU3ODAw
