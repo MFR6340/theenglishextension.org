@@ -7,7 +7,7 @@
 
 ### Animal Senses: How Animals See, Hear, Taste, Smell and Feel by, Pamela Hickman
 
-<img src="https://i.imgur.com/rGB3XMj.png" width="45%" />
+<img src="https://i.imgur.com/rGB3XMj.png" width="25%" />
 
 Learn more about how various animals see, hear and smell and how it compares to our human senses.  Has ideas for experiments to better understand the differences.  (Lexile 930L) <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
@@ -107,6 +107,7 @@ Donate an audio book or make an appointment to visit the SBS Schweizerische Bibl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDQ3Mzc2OSwtMTQzNDg1MTc1Nyw4OT
-kzMDE5NTgsMjA0MjM0NDM2MiwtNzU5Njg4NjUwXX0=
+eyJoaXN0b3J5IjpbLTEwMTM1OTUxMTEsLTU4NDQ3Mzc2OSwtMT
+QzNDg1MTc1Nyw4OTkzMDE5NTgsMjA0MjM0NDM2MiwtNzU5Njg4
+NjUwXX0=
 -->
