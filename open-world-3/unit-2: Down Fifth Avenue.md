@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/HCcKBVI.png" width="25%" />
 
-summary here.  (Lexile Level     )
+(No Lexile measure available )
 
 <a href="https://www.bookdepository.com/New-York-Underground-Julia-Solis/9780415963107?ref=grid-view&qid=1674587892650&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002727034" rel="nofollow">Buy on Orell Füssli</a> 
@@ -75,7 +75,7 @@ summary here.  (Lexile 810L)
 <a href="https://www.bookdepository.com/Vanderbeekers-Hidden-Garden-Karina-Yan-Glaser/9780358117346?ref=grid-view&qid=1674589448653&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1049694429" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Njg0MDA3LC0xNzI4Mjk0NTg1LC0xND
-c4MDMzNDc0LC0xNjU5NTQzMTc5LDEwOTU1MzAxNjcsLTEwNTc3
-ODQ1NzUsMjAxMjI2MTcxNl19
+eyJoaXN0b3J5IjpbLTE1MzYzOTU0NzEsLTE3MjgyOTQ1ODUsLT
+E0NzgwMzM0NzQsLTE2NTk1NDMxNzksMTA5NTUzMDE2NywtMTA1
+Nzc4NDU3NSwyMDEyMjYxNzE2XX0=
 -->
