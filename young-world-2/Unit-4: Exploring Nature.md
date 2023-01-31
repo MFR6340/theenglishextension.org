@@ -17,9 +17,8 @@ This is the first in an engaging series about the life of the author. This book 
 
 ## Non-Fiction
 
-
 ### Guts, by Gary Paulsen
-<img src="https://i.imgur.com/iPL74ef.png" width="25%" />
+<img src="https://i.imgur.com/HW6UqhK.png" width="25%" />
 
 At some point during Oberstufe (Swiss Middle School), there's a huge chance your child will be required to read "Hatchet",  a fictional book by Gary Paulsen.  "Guts" tells some of the real stories behind "Hatchet" of surviving in the woods.  Full of humor.  ( Lexile NC1230L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.bookdepository.com/Guts-Gary-Paulsen/9780440407126?ref=grid-view&qid=1673879187868&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -78,7 +77,7 @@ The Swiss Museum of Transport also has an IMAX Theatre.  Currently they are show
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMjQwMjcxLC0xMDYwOTgzOTU2LC02Nj
+eyJoaXN0b3J5IjpbNTMyMTg1ODE4LC0xMDYwOTgzOTU2LC02Nj
 UyNTQ5NTQsLTc1OTg1NTM3NSwxMTUyNjQzNjkyLDE4MTAxMDk3
 NSwyMDY1Mjg4NjI5XX0=
 -->
