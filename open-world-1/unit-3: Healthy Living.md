@@ -16,12 +16,12 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <img src="https://imgur.com/F5RchNv.png" width="25%" />
 
-(Lexile 1110L )
+(Lexile 1110L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Chew-on-This-Dr-Charles-Wilson/9780618593941?ref=grid-view&qid=1674908155890&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002859046" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Eat This! by Andrea Curtis
+### Eat This!, by Andrea Curtis
 
 <img src="https://imgur.com/JerfxFx.png" width="25%" />
 
@@ -47,6 +47,6 @@ summary here.  (Lexile level       )
 <a href="https://www.bookdepository.com/Trust-the-Grind-Jeremy-Bhandari/9781642502442" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056274723" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjQ2NjUwNiwxODc0MjQ5MTM1LDU4Mj
+eyJoaXN0b3J5IjpbMTE4MTYyMTYwNywxODc0MjQ5MTM1LDU4Mj
 Q4NzI3MF19
 -->
