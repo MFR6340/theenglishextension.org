@@ -8,8 +8,7 @@
 
 <img src="https://imgur.com/T3N9XfT.png" width="25%" />
 
-summary here.  (Lexile Level     )
-
+(No Lexile measure available)
 <a href="https://www.bookdepository.com/Seven-Little-Australians-Popular-Penguins-Ethel-Turner/9780143204862?ref=grid-view&qid=1674675738699&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053692600" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -96,7 +95,8 @@ summary here.  (Lexile Level     )
 <a href="https://www.bookdepository.com/Follow-Rabbit-Proof-Fence-Doris-Nugi-Garimara-Pilkington/9780702233555?ref=grid-view&qid=1674836408037&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1025148937" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2MjI3NjQ5LC00MjQ3ODA5MzMsLTE4MT
-Y3MjM5NTEsMTk3OTkyMDU5MiwtNzQ1NzA1NjY5LDQ5MDIyMTA2
-OCwxOTM2NDI2OSwzODc0NDgwNzUsLTMwNjY0MTA0Ml19
+eyJoaXN0b3J5IjpbNTU0OTc5ODQzLDI4NjIyNzY0OSwtNDI0Nz
+gwOTMzLC0xODE2NzIzOTUxLDE5Nzk5MjA1OTIsLTc0NTcwNTY2
+OSw0OTAyMjEwNjgsMTkzNjQyNjksMzg3NDQ4MDc1LC0zMDY2ND
+EwNDJdfQ==
 -->
