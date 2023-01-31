@@ -35,7 +35,7 @@
 
 <img src="https://imgur.com/RmLVEwt.png" width="25%" />
 
-(Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile measu)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Science-Ocean-DK/9780241631348?ref=grid-view&qid=1675189946756&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1066907416" rel="nofollow">Buy on Orell Füssli</a> 
@@ -44,7 +44,7 @@
 
 <img src="https://imgur.com/1EoTFVR.png" width="25%" />
 
-(Lexile L)  <sup> [what is this?](/resources/Lexile%20measures)</sup>
+(Lexile 1200L)  <sup> [what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003027928" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -52,7 +52,7 @@
 
 <img src="https://imgur.com/6rFuq1I.png" width="25%" />
 
-(Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile 790 L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Odious-Oceans-Anita-Ganeri/9781407196220?ref=grid-view&qid=1675190259418&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053530334" rel="nofollow">Buy on Orell Füssli</a> 
@@ -75,10 +75,10 @@ In the past, Sea Life Konstanz, just across the border in Germany, hasn't been p
 
 While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting and useful extension.  Try visiting <a href="https://www.aquatis.ch/en/ " rel="nofollow">Aquatis Aquarium </a> in Lausanne which focuses on freshwater ecosystems on five continents. Compare animals that live in salt-water vs fresh-water , their survival techniques and the obstacles they face. The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDk2OTYyLDE3NDU2MTY2OTIsLTEyNT
-E4OTU3NjEsMTM3OTAxNTg2OCw4MjY3MDU0MTAsNjcyMzQ4NDI1
-LDEwOTMyMDY0OTAsMTAxODg3OTQ0MSwtNjY1MTAzMTc1LDIwNT
-cwMTk0MiwtMjM1MTc2MzQ1LC0xMzE3NTMzNDM4LDEyMDQ4ODIw
-NjIsLTE2MTQyNDA5MjYsLTExNjM0OTIyOTUsNTQ2NzQyNTE2LD
-MzMzQyODIxNV19
+eyJoaXN0b3J5IjpbMTk4NzEwNTk0MCwxNzQ1NjE2NjkyLC0xMj
+UxODk1NzYxLDEzNzkwMTU4NjgsODI2NzA1NDEwLDY3MjM0ODQy
+NSwxMDkzMjA2NDkwLDEwMTg4Nzk0NDEsLTY2NTEwMzE3NSwyMD
+U3MDE5NDIsLTIzNTE3NjM0NSwtMTMxNzUzMzQzOCwxMjA0ODgy
+MDYyLC0xNjE0MjQwOTI2LC0xMTYzNDkyMjk1LDU0Njc0MjUxNi
+wzMzM0MjgyMTVdfQ==
 -->
