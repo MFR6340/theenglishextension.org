@@ -31,24 +31,19 @@
 
 <img src="https://imgur.com/06y6eJo.png" width="25%" />
 
-summary here.  (Lexile Level     )
+(No Lexile measure available)
 
 <a href="https://www.bookdepository.com/Waltz-for-Matilda-Matilda-Saga-1-Jackie-French/9780732290214?ref=grid-view&qid=1674835027042&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037840059" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Transported: The Diary of Elizabeth Harvey
 
-<img src="imgurlinkhere.png" width="25%" />
-
-summary here.  (Lexile Level     )
-
-<a href="https://www.bookdepository.com/Transported-Diary-Elizabeth-Harvey-Australia-1790-Goldie-Alexander/9780439981149?ref=grid-view&qid=1674835572591&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
-
-### Title here, by author here
-
 <img src="https://imgur.com/IOaClvV.png" width="25%" />
 
-summary here.  (Lexile Level     )
+
+<a href="https://www.bookdepository.com/Transported-Diary-Elizabeth-Harvey-Australia-1790-Goldie-Alexander/9780439981149?ref=grid-view&qid=1674835572591&sr=1-1" 
+
+
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
@@ -95,8 +90,8 @@ summary here.  (Lexile Level     )
 <a href="https://www.bookdepository.com/Follow-Rabbit-Proof-Fence-Doris-Nugi-Garimara-Pilkington/9780702233555?ref=grid-view&qid=1674836408037&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1025148937" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA5NTA0NzUsMjg2MjI3NjQ5LC00Mj
-Q3ODA5MzMsLTE4MTY3MjM5NTEsMTk3OTkyMDU5MiwtNzQ1NzA1
-NjY5LDQ5MDIyMTA2OCwxOTM2NDI2OSwzODc0NDgwNzUsLTMwNj
-Y0MTA0Ml19
+eyJoaXN0b3J5IjpbMTcxOTEzNzExOSwyODYyMjc2NDksLTQyND
+c4MDkzMywtMTgxNjcyMzk1MSwxOTc5OTIwNTkyLC03NDU3MDU2
+NjksNDkwMjIxMDY4LDE5MzY0MjY5LDM4NzQ0ODA3NSwtMzA2Nj
+QxMDQyXX0=
 -->
