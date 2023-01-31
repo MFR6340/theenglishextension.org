@@ -48,7 +48,7 @@
 
 <img src="https://imgur.com/DUuLdBl.png" width="25%" />
 
-summary here.  (Lexile Level     )
+(No Lexile measure available)
 
 <a href="https://www.bookdepository.com/Nanberry-Jackie-French/9780732290221?ref=grid-view&qid=1674835728543&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -56,7 +56,7 @@ summary here.  (Lexile Level     )
 
 <img src="https://imgur.com/7rQjBSR.png" width="25%" />
 
-summary here.  (Lexile Level     )
+(No Lexile measure available)
 
 <a href="https://www.bookdepository.com/That-Boy-Jack-Janeen-Brian/9781922179005?ref=grid-view&qid=1674835871439&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -86,7 +86,7 @@ summary here.  (Lexile Level     )
 <a href="https://www.bookdepository.com/Follow-Rabbit-Proof-Fence-Doris-Nugi-Garimara-Pilkington/9780702233555?ref=grid-view&qid=1674836408037&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1025148937" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTc3MzY4MCwyODYyMjc2NDksLTQyND
+eyJoaXN0b3J5IjpbLTk2NzMzNDgyMiwyODYyMjc2NDksLTQyND
 c4MDkzMywtMTgxNjcyMzk1MSwxOTc5OTIwNTkyLC03NDU3MDU2
 NjksNDkwMjIxMDY4LDE5MzY0MjY5LDM4NzQ0ODA3NSwtMzA2Nj
 QxMDQyXX0=
