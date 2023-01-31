@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/VmP0bSZ.png" width="25%" />
 
 A beautiful friendship between a New York City mouse, a cricket who accidentally arrived from a field in Connecticut, and a boy named Milo whose parents owned the news stand in the Subway station.
-(Lexile 780L)
+(Lexile 780L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Cricket-Times-Square-George-Selden/9780374390402?ref=grid-view&qid=1674047470378&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063464927" rel="nofollow">Buy on Orell Füssli</a>
@@ -18,7 +18,7 @@ A beautiful friendship between a New York City mouse, a cricket who accidentally
 
 <img src="https://i.imgur.com/wMmaATw.png" width="25%" />
 
-Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station. Their home becomes more lively with his adventures. (Lexile 750L) 
+Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station. Their home becomes more lively with his adventures. (Lexile 750L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Bear-Called-Paddington-Michael-Bond/9780007174164?ref=grid-view&qid=1654274489374&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036138534" rel="nofollow">Buy on Orell Füssli</a>
@@ -27,7 +27,7 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 ### Winnie-the-Pooh, by A.A. Milne
 <img src="https://i.imgur.com/inJU72d.png" width="25%" />
 
-One is never too old to read these classic tales of a hungry bear and his friends in the forest. (Lexile: 790L)
+One is never too old to read these classic tales of a hungry bear and his friends in the forest. (Lexile: 790L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Winnie-Pooh-Puffin-Modern-Classics-Milne/9780142404676?ref=grid-view&qid=1654274602318&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039078115" rel="nofollow">Buy on Orell Füssli</a>
@@ -36,7 +36,7 @@ One is never too old to read these classic tales of a hungry bear and his friend
 ### The Yearling, by Marjorie Kinnan Rawlings
 <img src="https://i.imgur.com/9byDLFn.png" width="25%" />
 
-A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn. (Lexile 750L)
+A beautiful story showing the love between a poor boy in the Florida backwoods and his adopted fawn. (Lexile 750L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Yearling-Marjorie-Kinnan-Rawlings/9780689846236?ref=grid-view&qid=1654272403026&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001523331" rel="nofollow">Buy on Orell Füssli</a>
@@ -45,7 +45,7 @@ A beautiful story showing the love between a poor boy in the Florida backwoods a
 
 <img src="https://imgur.com/VDv5kTJ.png" width="25%" />
 
-Who could ever imagine that a spider and a pig could hit it off?  But Charlotte's Web is one of literature's most fantastic examples of friendship.  A must-read classic.  (Lexile 680L)
+Who could ever imagine that a spider and a pig could hit it off?  But Charlotte's Web is one of literature's most fantastic examples of friendship.  A must-read classic.  (Lexile 680L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Charlottes-Web-E-B-White/9780141354828?ref=grid-view&qid=1665855328386&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -62,7 +62,7 @@ summary here.
 
 <img src="https://imgur.com/LpSxmOD.png" width="25%" />
 
-(Lexile 870L)
+(Lexile 870L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Hundred-Dresses-Eleanor-Estes/9780152052607?ref=grid-view&qid=1665855691211&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006423614" rel="nofollow">Buy on Orell Füssli</a>
@@ -153,11 +153,11 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTA0MDEwOSwtMTY1Mzk3MTU3OCw4MD
-U1Njk3MjMsMjEzMTA5NjM1NywtMTY1MTAxNzI1MCwxNDk1NzUw
-NjA1LDY2NTEyNTEyMSwxODI5MTc5MTUxLDE5MDk1NDUwMjgsLT
-Q0OTgxNjg0NSwtMTU3NDgzNDYyNCwtMTMwMDM3MTI0NCwtMTI0
-NjIxMzg3MywxMDgyNTI1ODk1LC0xMjc0OTkwNjYyLC0xNzg4Nj
-Q3MDQ5LDEzNjg1NzQ3MDksMzE4NjEwNzIzLDExNDYwNzMyNDdd
-fQ==
+eyJoaXN0b3J5IjpbNzU3OTI3NzgxLC0xNjUzOTcxNTc4LDgwNT
+U2OTcyMywyMTMxMDk2MzU3LC0xNjUxMDE3MjUwLDE0OTU3NTA2
+MDUsNjY1MTI1MTIxLDE4MjkxNzkxNTEsMTkwOTU0NTAyOCwtND
+Q5ODE2ODQ1LC0xNTc0ODM0NjI0LC0xMzAwMzcxMjQ0LC0xMjQ2
+MjEzODczLDEwODI1MjU4OTUsLTEyNzQ5OTA2NjIsLTE3ODg2ND
+cwNDksMTM2ODU3NDcwOSwzMTg2MTA3MjMsMTE0NjA3MzI0N119
+
 -->
