@@ -38,7 +38,7 @@ Sold under the title *Harry Potter and the Sorcerer's Stone* in the US
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
-Young Harry Potter goes to the most amazing and fascinating school.     (Lexile 880L)  
+Young Harry Potter goes to the most amazing and fascinating boarding school.   (Lexile 880L)  
 
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
@@ -46,8 +46,8 @@ Young Harry Potter goes to the most amazing and fascinating school.     (Lexile 
 ### The Whistling Schoolboy and Other Stories of School Life, by Ruskin Bond
 <img src="https://i.imgur.com/OZjUkIb.png" width="25%" />
 
-Summary here.
-(no Lexile level available)
+
+(no Lexile measure available)
 <a href="https://www.bookdepository.com/Whistling-Schoolboy-Other-Stories-School-Life-Ruskin-Bond/9788129135797?ref=grid-view&qid=1674045705891&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052836436
 " rel="nofollow">Buy on Orell Füssli</a>
@@ -55,9 +55,10 @@ Summary here.
 ### Linked, by Gordon Korman
 <img src="https://i.imgur.com/U0OkMM1.png" width="25%" />
 
-Summary here.
+
 ( Lexile 750L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
-<a href="https://www.bookdepository.com/Linked-Gordon-Korman/9781338629132?ref=grid-view&qid=1674046322823&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Linked-Gordon-Korman/9781338629132?ref=grid-view&qid=1674046322823&sr=1-2" rel="nofollow"> Buy on BookDepository</a>
+  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1065204796
 " rel="nofollow">Buy on Orell Füssli</a>
 
@@ -87,9 +88,9 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0NDY1MTU1LC0xNjEzODYzMzkxLC05OD
-YwODc1MjUsLTk0NzM4MTI5NSw5MDMyMjMyNjgsMjgzMTc4NTk5
-LDcwODUyNTU4NywxNjMzNTEzMjkxLC0xNjE2NDYzNTgwLDUxNz
-A1NzYwOCwxMTg1NjI1NzI4LC0xNDI1NjY4MDMyLDExMzQxOTA3
-OCwxNTczMDI2MjI1XX0=
+eyJoaXN0b3J5IjpbMTQzMjIzMDQxOSwtMTYxMzg2MzM5MSwtOT
+g2MDg3NTI1LC05NDczODEyOTUsOTAzMjIzMjY4LDI4MzE3ODU5
+OSw3MDg1MjU1ODcsMTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MT
+cwNTc2MDgsMTE4NTYyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkw
+NzgsMTU3MzAyNjIyNV19
 -->
