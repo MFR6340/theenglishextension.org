@@ -27,13 +27,16 @@
 
 (Lexile 1140L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="https://www.bookdepository.com/Shackletons-Journey-William-Grill/9781909263109?ref=grid-view&qid=1675161705129&sr=1-1" rel="nofollow"> Buy on BookDepository /a>  
+<a href="https://www.bookdepository.com/Shackletons-Journey-William-Grill/9781909263109?ref=grid-view&qid=1675161705129&sr=1-1" rel="nofollow"> Buy on BookDepository </a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1030268757" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Shackleton’s Endurance, by Joanna Grochowicz
 <img src="https://imgur.com/MnTpNOE.png" width="25%" />
 
 (Lexile 930L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="https://www.bookdepository.com/Shackletons-Journey-William-Grill/9781909263109?ref=grid-view&qid=1675161705129&sr=1-1" rel="nofollow"> Buy on BookDepository </a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1030268757" rel="nofollow">Buy on Orell Füssli</a> 
 
 <a href="https://www.bookdepository link here.com/Shackletons-Endurance-Joanna-Grochowicz/9781911679158?ref=grid-view&qid=1674909811258&sr=1-1" rel="nofollow">Buy on Book Depository>  
 <a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1060473120" rel="nofollow">Buy on esi</a> 
@@ -79,7 +82,7 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MTAxNDAwMyw0ODg2NzMyNjQsMjI1Nj
+eyJoaXN0b3J5IjpbMTU0NDQxOTc2OSw0ODg2NzMyNjQsMjI1Nj
 QxNTE4LC0xNTY4NTQ5MzU5LDUxMjc2NDcyLDU4MzY3OTU3Mywt
 MTg0NzkyNjUxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYsLTE4Nz
 MxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMTgwMTUz
