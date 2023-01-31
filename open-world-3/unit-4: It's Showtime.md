@@ -27,7 +27,7 @@
 
 <img src="https://imgur.com/sLxjnQb.png" width="25%" />
 
-summary here.  (Lexile Level     )
+(Lexile measure unavailable)
 
 <a href="https://www.bookdepository.com/Movie-Book-DK/9780241188026?ref=grid-view&qid=1674667346954&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1055251449" rel="nofollow">Buy on Orell Füssli</a> 
@@ -52,6 +52,7 @@ summary here.  (Lexile Level     )
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056523340" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDY1NzUzNiwtMTU4MjgxOTM3OCwtMT
-UwNDYzMjI3NCw4MDM1Nzg1MzMsMTYyMzM3MTY5Nl19
+eyJoaXN0b3J5IjpbLTE5NTY4MjQzODgsLTg0MDY1NzUzNiwtMT
+U4MjgxOTM3OCwtMTUwNDYzMjI3NCw4MDM1Nzg1MzMsMTYyMzM3
+MTY5Nl19
 -->
