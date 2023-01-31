@@ -93,7 +93,7 @@ summary here. (Lexile 1240L) <sup>[what is this?](/resources/Lexile%20measures)<
 <a href="https://www.bookdepository.com/Up-Air-Terry-Deary/9780702305856?ref=grid-view&qid=1674995144420&sr=1-5" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1058835634 link here" rel="nofollow">Buy on Orell Füssli</a> 
 
-### The Avion my Uncle Flew, by Crus Fisitle 
+### The Avion my Uncle Flew, by Cyrus Fisher
 
 <img src="https://imgur.com/Llo9joy.png" width="25%" />
 
@@ -108,10 +108,10 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Mjc0NDQyOCwtMjAyMTYwODExMSwtND
-QzODQ0MzUyLDMzNjI0NDQ0OSwtODc1NTc2MDksMTgxNTE4NDUw
-MCwtNjIzNDQ3MTU5LC0xNjQ2NTY5MTAzLC0xMjM0MDk3NjE4LD
-MyMTU0MjM0MywxNDAyNDkyNjQsLTIwODgyMTIzNTMsLTc5MTAz
-NDA3MywxOTU1MjE1NzM4LC0xMDIyODE0NjQ0LDIwOTg5MTMzNi
-wtMTQyNTAzNTg2Ml19
+eyJoaXN0b3J5IjpbLTExOTk1MTg1MzQsLTIwMjE2MDgxMTEsLT
+Q0Mzg0NDM1MiwzMzYyNDQ0NDksLTg3NTU3NjA5LDE4MTUxODQ1
+MDAsLTYyMzQ0NzE1OSwtMTY0NjU2OTEwMywtMTIzNDA5NzYxOC
+wzMjE1NDIzNDMsMTQwMjQ5MjY0LC0yMDg4MjEyMzUzLC03OTEw
+MzQwNzMsMTk1NTIxNTczOCwtMTAyMjgxNDY0NCwyMDk4OTEzMz
+YsLTE0MjUwMzU4NjJdfQ==
 -->
