@@ -5,15 +5,77 @@
 
 **This Klett unit covers the beauty in the ocean, the creatures in the sea, the Great Pacific garbage patch and the need for recycling.  Here are some books that supplement this unit:** 
 
-### Jonathan Cleaned Up ... Then He Heard a Sound, by Robert Munsch
+### Title, author
 
-<img src="https://imgur.com/sU4mlZA.png" width="25%" />
+<img src="Link.png" width="25%" />
 
-Admittedly, this is really a picture book for younger kids, but it *does* takes place in Toronto.  It is fun story of a boy who wakes up to discover that there is now a subway stop in his apartment.  This is a great foundation for a creative writing project.  Learn  [how the author got inspired here](https://robertmunsch.com/book/jonathan-cleaned-up) (Lexile 570L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="Link" rel="nofollow"> Buy on BookDepository</a>  
 <a href="Link" rel="nofollow">Buy on Orell Füssli</a> 
 
+### Title, author
+
+<img src="Link.png" width="25%" />
+
+(Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="Link" rel="nofollow"> Buy on BookDepository</a>  
+<a href="Link" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title, author
+
+<img src="Link.png" width="25%" />
+
+(Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="Link" rel="nofollow"> Buy on BookDepository</a>  
+<a href="Link" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title, author
+
+<img src="Link.png" width="25%" />
+
+(Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="Link" rel="nofollow"> Buy on BookDepository</a>  
+<a href="Link" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title, author
+
+<img src="Link.png" width="25%" />
+
+(Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="Link" rel="nofollow"> Buy on BookDepository</a>  
+<a href="Link" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title, author
+
+<img src="Link.png" width="25%" />
+
+(Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="Link" rel="nofollow"> Buy on BookDepository</a>  
+<a href="Link" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title, author
+
+<img src="Link.png" width="25%" />
+
+(Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="Link" rel="nofollow"> Buy on BookDepository</a>  
+<a href="Link" rel="nofollow">Buy on Orell Füssli</a> 
+
+### Title, author
+
+<img src="Link.png" width="25%" />
+
+(Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="Link" rel="nofollow"> Buy on BookDepository</a>  
+<a href="Link" rel="nofollow">Buy on Orell Füssli</a> 
 
 ## Supplemental Activities
 
@@ -24,7 +86,7 @@ In the past, Sea Life Konstanz, just across the border in Germany, hasn't been p
 
 While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting and useful extension.  Try visiting <a href="https://www.aquatis.ch/en/ " rel="nofollow">Aquatis Aquarium </a> in Lausanne which focuses on freshwater ecosystems on five continents. Compare animals that live in salt-water vs fresh-water , their survival techniques and the obstacles they face. The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzMDMxMjE3LC0xMjUxODk1NzYxLDEzNz
+eyJoaXN0b3J5IjpbMTc4NjQ5NzIxLC0xMjUxODk1NzYxLDEzNz
 kwMTU4NjgsODI2NzA1NDEwLDY3MjM0ODQyNSwxMDkzMjA2NDkw
 LDEwMTg4Nzk0NDEsLTY2NTEwMzE3NSwyMDU3MDE5NDIsLTIzNT
 E3NjM0NSwtMTMxNzUzMzQzOCwxMjA0ODgyMDYyLC0xNjE0MjQw
