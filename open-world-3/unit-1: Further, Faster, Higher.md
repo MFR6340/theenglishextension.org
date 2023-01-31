@@ -31,7 +31,7 @@
 ### Be Unstoppable: The Art of Never Giving Up by Bethany Hamilton
 <img src="https://i.imgur.com/K0y8ffg.png" width="25%" />
 
- (Lexile 880L)
+ (Lexile 880L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Be-Unstoppable-Bethany-Hamilton/9780310764854" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1047658847" rel="nofollow">Buy on Orell Füssli</a> 
@@ -40,7 +40,7 @@
 
 <img src="https://i.imgur.com/xpmy1nB.png" width="25%" />
 
-(Lexile 1180L)
+(Lexile 1180L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.bookdepository.com/How-Angel-Peterson-Got-His-Name-Gary-Paulsen/9780440229353?ref=grid-view&qid=1675183832231&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005962607" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -71,9 +71,9 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzgzNDI1MiwtMjkwODcxODAyLDE1MD
-I0MDUzNiwzNDc2NjI2MjgsLTI3NzkzNDY5NCw4MDgyMzQyMzcs
-MTgwNjc4ODUyOSwxODA2Nzg4NTI5LC05OTExODk5MDEsLTI3Nz
-U4Mjc5OSwtOTM1ODE2NjExLDExNjE5NTE3MCwxMDAxNDM2ODUz
-XX0=
+eyJoaXN0b3J5IjpbODQ5NTUzMzg4LC0yOTA4NzE4MDIsMTUwMj
+QwNTM2LDM0NzY2MjYyOCwtMjc3OTM0Njk0LDgwODIzNDIzNywx
+ODA2Nzg4NTI5LDE4MDY3ODg1MjksLTk5MTE4OTkwMSwtMjc3NT
+gyNzk5LC05MzU4MTY2MTEsMTE2MTk1MTcwLDEwMDE0MzY4NTNd
+fQ==
 -->
