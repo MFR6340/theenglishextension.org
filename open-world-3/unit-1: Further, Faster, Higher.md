@@ -42,17 +42,15 @@
 
 (Lexile 1180L)
 <a href="https://www.bookdepository.com/How-Angel-Peterson-Got-His-Name-Gary-Paulsen/9780440229353?ref=grid-view&qid=1675183832231&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005962607" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 
+### No Barriers,(YA edition) by Erik Weihenmayer 
 
-### No Barriers,(YA edition) by Erik Weihenmayer (A Blind Man’s Journey to Kaya## Title here, by author here
+A blind man’s kayaks the Grand Canyon
 
-<img src="imgurlinkhere.png" width="25%" />
 
-summary here.
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link the Grand Canyon)
@@ -80,9 +78,9 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTIzNTc1MCwtMjkwODcxODAyLDE1MD
-I0MDUzNiwzNDc2NjI2MjgsLTI3NzkzNDY5NCw4MDgyMzQyMzcs
-MTgwNjc4ODUyOSwxODA2Nzg4NTI5LC05OTExODk5MDEsLTI3Nz
-U4Mjc5OSwtOTM1ODE2NjExLDExNjE5NTE3MCwxMDAxNDM2ODUz
-XX0=
+eyJoaXN0b3J5IjpbLTE3OTE3ODQ0ODUsLTI5MDg3MTgwMiwxNT
+AyNDA1MzYsMzQ3NjYyNjI4LC0yNzc5MzQ2OTQsODA4MjM0MjM3
+LDE4MDY3ODg1MjksMTgwNjc4ODUyOSwtOTkxMTg5OTAxLC0yNz
+c1ODI3OTksLTkzNTgxNjYxMSwxMTYxOTUxNzAsMTAwMTQzNjg1
+M119
 -->
