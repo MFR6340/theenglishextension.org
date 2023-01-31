@@ -41,8 +41,7 @@ summary here.  (Lexile Level     )
 ### Meltdown!: The Nuclear Disaster in Japan and Our Energy Future, by Alfred B. Bortz
 <img src="https://imgur.com/Xuge7Ar.png" width="25%" />
 
-summary here.  (Lexile Level     )
-
+ (Lexile 1000L) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 <a href="https://www.bookdepository.com/Meltdown-Fred-Bortz/9780761386605" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Escape From Chernobyl, by Andy Marino
@@ -53,7 +52,7 @@ summary here.  (Lexile Level     )
 <a href="https://www.bookdepository.com/Escape-from-Chernobyl-Andy-Marino/9780702322167?ref=grid-view&qid=1674669099998&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061776983" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzIzMjM1MSwtODUzMDMxNjk1LC0xOT
+eyJoaXN0b3J5IjpbMjEwNTk0MTg5MSwtODUzMDMxNjk1LC0xOT
 YxODAwMDE3LDM1MDM2ODU1MywxMDY5Mjk1NTAyLC0yMDU1ODYy
 NjI4LC0yNzg2OTE3ODAsODc5NzEwNDI2LC0xMDk2NzUzNzAxXX
 0=
