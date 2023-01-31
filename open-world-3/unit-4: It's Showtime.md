@@ -46,13 +46,13 @@
 ### The Boy Who Made Everyone Laugh, by Helen Rutter
 <img src="https://imgur.com/7tsKYGR.png" width="25%" />
 
-summary here.  (Lexile Level     )
+(Lexile measure unavailable)
 
 <a href="https://www.bookdepository.com/Boy-Who-Made-Everyone-Laugh-Helen-Rutter/9780702300851?ref=grid-view&qid=1674667620786&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056523340" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjIzMDQwMCwtODQwNjU3NTM2LC0xNT
-gyODE5Mzc4LC0xNTA0NjMyMjc0LDgwMzU3ODUzMywxNjIzMzcx
-Njk2XX0=
+eyJoaXN0b3J5IjpbLTE2NjQxMzUxMDAsLTg0MDY1NzUzNiwtMT
+U4MjgxOTM3OCwtMTUwNDYzMjI3NCw4MDM1Nzg1MzMsMTYyMzM3
+MTY5Nl19
 -->
