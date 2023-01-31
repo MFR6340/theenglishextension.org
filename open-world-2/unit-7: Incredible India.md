@@ -8,10 +8,11 @@
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile Level     )
+summary here.  (Lexile measure     )
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjYzNTIyOSwtMTcxNzc0NjQ4NV19
+eyJoaXN0b3J5IjpbLTEyMTAwNDk4MjEsMTA2MjYzNTIyOSwtMT
+cxNzc0NjQ4NV19
 -->
