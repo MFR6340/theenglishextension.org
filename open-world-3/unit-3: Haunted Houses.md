@@ -29,7 +29,7 @@
 
 <img src="https://i.imgur.com/K4gyDHT.png" width="25%" />
 
-summary here.  (Lexile Level unavailable)
+( Lexile measure unavailable)
 
 <a href="https://www.bookdepository.com/Complete-Wandering-Ghosts-F-Marion-Crawford/9781592240395?ref=grid-view&qid=1674663246069&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006421072" rel="nofollow">Buy on Orell Füssli</a>
@@ -38,8 +38,7 @@ summary here.  (Lexile Level unavailable)
 
 <img src="https://i.imgur.com/m4YPtYv.png" width="25%" />
 
-summary here.  (Lexile Level 1350L)
-
+ (Lexile Level 1350L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.bookdepository.com/Tell-Tale-Heart-Edgar-Allan-Poe/9780141397269?ref=grid-view&qid=1674663558308&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1018013231" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -47,15 +46,15 @@ summary here.  (Lexile Level 1350L)
 
 <img src="https://i.imgur.com/HF91aHM.png" width="25%" />
 
-This fantastic story by famous author Oscar Wilde is mentioned in this unit.  Here's a chance to read it in full.  An American family moves to England to a house that is said to be inhabited by a ghost.  It becomes clear that the house is indeed haunted, so they start teasing and bothering the ghost until he's at his wits- end.  (Lexile Level 1360L )
+This fantastic story by famous author Oscar Wilde is mentioned in this unit.  Here's a chance to read it in full.  An American family moves to England to a house that is said to be inhabited by a ghost.  It becomes clear that the house is indeed haunted, so they start teasing and bothering the ghost until he's at his wits- end.  (Lexile 1360L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/The-Canterville-Ghost-and-Other-Stories-Oscar-Wilde/9781847496126" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038959456" rel="nofollow">Buy on Orell Füssli</a> 
 
 The book is now in public domain.  Available for free on Project Gutenberg https://www.gutenberg.org/ebooks/14522
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzMzNTUyOTQsLTExNzAxNzMxMjYsLT
-UwMzc0MzI0NiwxMzg1NDQxOTU3LC0xNjIzNTk2Mjk0LC0xMjIx
-NzA2NjczLC0xNzU1MDA0MDMzLC0yMDY5ODQyODUsMzU1MDkwNj
-k1LC0xMjIzNjExMDA5XX0=
+eyJoaXN0b3J5IjpbMjAwMTUwODA1MiwtMTE3MDE3MzEyNiwtNT
+AzNzQzMjQ2LDEzODU0NDE5NTcsLTE2MjM1OTYyOTQsLTEyMjE3
+MDY2NzMsLTE3NTUwMDQwMzMsLTIwNjk4NDI4NSwzNTUwOTA2OT
+UsLTEyMjM2MTEwMDldfQ==
 -->
