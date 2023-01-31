@@ -39,7 +39,7 @@ Most of us run inside when a storm is coming, but there are others who actually 
 
 <img src="https://imgur.com/SedEZb6.png" width="25%" />
 
-Meteorologist Bill Evans tells about extreme weather conditions and some 
+Senior Meteorologist Bill Evans wrote this book for kids to inspire them to become meteorologists themselves.  tells about extreme weather conditions and some 
 
 
 <a href="https://www.bookdepository.com/Its-Raining-Fish-and-Spiders-Bill-Evans/9780765321329" rel="nofollow"> Buy on BookDepository</a>  
@@ -57,8 +57,8 @@ summary here.  (Lexile        )
 Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit  [Technorama](https://www.technorama.ch/en/home), the science center in Wintertur, Zurich, and see how lightening is formed. Performances are at 11.30 and 14.30.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDAzMTU1ODMsLTk2MTM3NDYwMSw5OD
-MzNDczMzEsNzYzMTA0NDM2LDEzMTc4OTk5NDksLTQ5NDM4NDY0
-NiwtNDUzMDE2NTg4LDExNzA1MjYxOTUsMTM0NTQzNDEyNCwtMT
-AwODAwMTI0MCwtNzQ0MjUyNTE2XX0=
+eyJoaXN0b3J5IjpbLTE1NDc4NTQwNDgsLTExNDAzMTU1ODMsLT
+k2MTM3NDYwMSw5ODMzNDczMzEsNzYzMTA0NDM2LDEzMTc4OTk5
+NDksLTQ5NDM4NDY0NiwtNDUzMDE2NTg4LDExNzA1MjYxOTUsMT
+M0NTQzNDEyNCwtMTAwODAwMTI0MCwtNzQ0MjUyNTE2XX0=
 -->
