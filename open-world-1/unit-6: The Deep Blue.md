@@ -11,8 +11,7 @@
 
 (Lexile L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="Link" rel="nofollow"> Buy on BookDepository</a>  
-<a href="Link" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Plastic-Ocean-Charles-Moore/9781583335017?ref=grid-view&qid=1675189454682&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Title, author
 
@@ -86,10 +85,10 @@ In the past, Sea Life Konstanz, just across the border in Germany, hasn't been p
 
 While this unit focuses on ocean life, learning more about fresh-water habitats is still an interesting and useful extension.  Try visiting <a href="https://www.aquatis.ch/en/ " rel="nofollow">Aquatis Aquarium </a> in Lausanne which focuses on freshwater ecosystems on five continents. Compare animals that live in salt-water vs fresh-water , their survival techniques and the obstacles they face. The English Extension Organization will earn a small commission which will be used to purchase books for classrooms.* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjQ5NzIxLC0xMjUxODk1NzYxLDEzNz
-kwMTU4NjgsODI2NzA1NDEwLDY3MjM0ODQyNSwxMDkzMjA2NDkw
-LDEwMTg4Nzk0NDEsLTY2NTEwMzE3NSwyMDU3MDE5NDIsLTIzNT
-E3NjM0NSwtMTMxNzUzMzQzOCwxMjA0ODgyMDYyLC0xNjE0MjQw
-OTI2LC0xMTYzNDkyMjk1LDU0Njc0MjUxNiwzMzM0MjgyMTVdfQ
-==
+eyJoaXN0b3J5IjpbLTE1MjYzNjU5NjgsLTEyNTE4OTU3NjEsMT
+M3OTAxNTg2OCw4MjY3MDU0MTAsNjcyMzQ4NDI1LDEwOTMyMDY0
+OTAsMTAxODg3OTQ0MSwtNjY1MTAzMTc1LDIwNTcwMTk0MiwtMj
+M1MTc2MzQ1LC0xMzE3NTMzNDM4LDEyMDQ4ODIwNjIsLTE2MTQy
+NDA5MjYsLTExNjM0OTIyOTUsNTQ2NzQyNTE2LDMzMzQyODIxNV
+19
 -->
