@@ -37,7 +37,7 @@
 
 <img src="https://imgur.com/blwLMJc.png" width="25%" />
 
-summary here.  (Lexile Level     )
+(Lexile measure unavailable)
 
 <a href="https://www.bookdepository.com/Boy-Who-Got-Accidentally-Famous-David-Baddiel/9780008334277?ref=grid-view&qid=1674667518910&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061672511" rel="nofollow">Buy on Orell Füssli</a> 
@@ -52,7 +52,7 @@ summary here.  (Lexile Level     )
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056523340" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTY4MjQzODgsLTg0MDY1NzUzNiwtMT
-U4MjgxOTM3OCwtMTUwNDYzMjI3NCw4MDM1Nzg1MzMsMTYyMzM3
-MTY5Nl19
+eyJoaXN0b3J5IjpbMjAyNjIzMDQwMCwtODQwNjU3NTM2LC0xNT
+gyODE5Mzc4LC0xNTA0NjMyMjc0LDgwMzU3ODUzMywxNjIzMzcx
+Njk2XX0=
 -->
