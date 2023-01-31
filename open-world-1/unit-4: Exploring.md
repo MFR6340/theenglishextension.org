@@ -80,15 +80,15 @@ A big coffee-table book that's nice to dip in and out of.  It's full of fascinat
 
 <img src="https://imgur.com/z1r8C0N.png" width="25%" />
 
-summary here. (Lexile level       )
+It's hard to top the amazing story of Robin Lee Graham about, but Jessica Watson did it.  At 16, she set sail and t(Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1MDc0NzM2LDYzMjEyNzkwNCw2MDI0Nj
-YxNTYsLTU1NDU5NTkwNyw0ODg2NzMyNjQsMjI1NjQxNTE4LC0x
-NTY4NTQ5MzU5LDUxMjc2NDcyLDU4MzY3OTU3MywtMTg0NzkyNj
-UxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYsLTE4NzMxOTY2ODAs
-MzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMTgwMTUzLDQzOTY1MT
-I5OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEsMTQ3MTQyMTg1N119
-
+eyJoaXN0b3J5IjpbLTgxMjIxMjUxMiw2MzIxMjc5MDQsNjAyND
+Y2MTU2LC01NTQ1OTU5MDcsNDg4NjczMjY0LDIyNTY0MTUxOCwt
+MTU2ODU0OTM1OSw1MTI3NjQ3Miw1ODM2Nzk1NzMsLTE4NDc5Mj
+Y1MTQsMTc5OTg1MzYyOSwxMDc2NTI4Mzk2LC0xODczMTk2Njgw
+LDM3MjU4ODQ3LDE5MDg4NjY4NTMsMTIwMDE4MDE1Myw0Mzk2NT
+EyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgxLDE0NzE0MjE4NTdd
+fQ==
 -->
