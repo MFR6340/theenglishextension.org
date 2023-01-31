@@ -51,7 +51,7 @@ On School Library Journal's list of the Top 100 Children's Novels
 
 <img src="https://imgur.com/Ex7dpP0.png" width="25%" />
 
-The true story of a  16 year old boy who sails around the world alone. (Lexile 1020L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+The true story of a  16 year old boy who sails around the world and returns home five years later.  (Lexile 1020L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/search?searchTerm=+Dove%2C+by+Robin+Lee+Graham&search=Find+book" rel="nofollow"> Buy on BookDepository </a>  
 
@@ -80,15 +80,15 @@ A big coffee-table book that's nice to dip in and out of.  It's full of fascinat
 
 <img src="https://imgur.com/z1r8C0N.png" width="25%" />
 
-It's hard to top the amazing story of Robin Lee Graham about, but Jessica Watson did it.  At 16, she set sail and t(Lexile level       )
+It's hard to top the amazing story of Robin Lee Graham about, but Jessica Watson did it.  At 16, she took off by herself  and sailed all the way around the world in 210 days.  (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMjIxMjUxMiw2MzIxMjc5MDQsNjAyND
-Y2MTU2LC01NTQ1OTU5MDcsNDg4NjczMjY0LDIyNTY0MTUxOCwt
-MTU2ODU0OTM1OSw1MTI3NjQ3Miw1ODM2Nzk1NzMsLTE4NDc5Mj
-Y1MTQsMTc5OTg1MzYyOSwxMDc2NTI4Mzk2LC0xODczMTk2Njgw
-LDM3MjU4ODQ3LDE5MDg4NjY4NTMsMTIwMDE4MDE1Myw0Mzk2NT
-EyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgxLDE0NzE0MjE4NTdd
-fQ==
+eyJoaXN0b3J5IjpbMjkxNjA4NTEsNjMyMTI3OTA0LDYwMjQ2Nj
+E1NiwtNTU0NTk1OTA3LDQ4ODY3MzI2NCwyMjU2NDE1MTgsLTE1
+Njg1NDkzNTksNTEyNzY0NzIsNTgzNjc5NTczLC0xODQ3OTI2NT
+E0LDE3OTk4NTM2MjksMTA3NjUyODM5NiwtMTg3MzE5NjY4MCwz
+NzI1ODg0NywxOTA4ODY2ODUzLDEyMDAxODAxNTMsNDM5NjUxMj
+k5LC0xNzEzOTM4NzYxLDQ0OTIxMTU4MSwxNDcxNDIxODU3XX0=
+
 -->
