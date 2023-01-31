@@ -7,16 +7,15 @@
 
 <img src="https://imgur.com/de3Jo7z.png" width="25%" />
 
-summary here.  (Lexile Level     )
-
+(Lexile 860L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.bookdepository.com/Murder-Must-Advertise-Dorothy-L-Sayers/9781473621381?ref=grid-view&qid=1674674128936&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039812685" rel="nofollow">Buy on Orell Füssli</a> 
 
-### he lemonade War, by Jacqueline Davies
+### The lemonade War, by Jacqueline Davies
 
 <img src="https://imgur.com/YvKBqSa.png" width="25%" />
 
-summary here.  (Lexile Level     )
+ (Lexile 630L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Lemonade-War-Ms-Jacqueline-Davies/9780547237657?ref=grid-view&qid=1674674259530&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1007188410" rel="nofollow">Buy on Orell Füssli</a> 
@@ -54,7 +53,7 @@ summary here.  (Lexile 1090L)
 
 <a href="https://www.bookdepository.com/Start-It-Up-Kenrya-Rankin-Eriko-Takada/9780981973357" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjYwNTM3NywtMjg3MDAzNDg0LC0xOD
-E5NDc2MTk3LC03MDIzMjI5NzUsLTIwMTA1OTI2NDgsMTI3MDYz
-ODM3OF19
+eyJoaXN0b3J5IjpbLTYyNzY1ODU4MiwyMTQ2NjA1Mzc3LC0yOD
+cwMDM0ODQsLTE4MTk0NzYxOTcsLTcwMjMyMjk3NSwtMjAxMDU5
+MjY0OCwxMjcwNjM4Mzc4XX0=
 -->
