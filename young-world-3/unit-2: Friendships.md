@@ -83,7 +83,7 @@ summary here.
 <img src="https://i.imgur.com/OgQl0CA.png" width="25%" />
 
 summary here.
-(Lexile 860L)
+(Lexile 860L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Mouse-Motorcycle-Beverly-Cleary/9780380709243?ref=grid-view&qid=1674048077748&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003100657" rel="nofollow">Buy on Orell Füssli</a>
@@ -93,7 +93,7 @@ Sold under the title *Harry Potter and the Sorcerer's Stone* in the US
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
-Yes, yes this book was in the previous "School" Unit as well.  But it's really a great book for this unit, too, as the friendship between Harry, Ron and Hermione is so well portrayed.  (Lexile 880L )  
+Yes, yes this book was in the previous "School" Unit as well.  But it's really a great book for this unit, too, as the friendship between Harry, Ron and Hermione is so well portrayed.  (Lexile 880L )   <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
@@ -101,7 +101,7 @@ Yes, yes this book was in the previous "School" Unit as well.  But it's really a
 ### Liar and Spy, by Rebecca Stead
 <img src="https://i.imgur.com/EpgD5sN.png" width="25%" />
 
-summary here.  (Lexile 670L )  
+summary here.  (Lexile 670L )   <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Liar-Spy-Rebecca-Stead/9780375850875?ref=grid-view&qid=1674048861048&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1030255728" rel="nofollow">Buy on Orell Füssli</a>
@@ -111,7 +111,7 @@ summary here.  (Lexile 670L )
 <img src="https://i.imgur.com/JH1m5Xw.png" width="25%" />
 
 summary here.
-  (Lexile  690L)  
+  (Lexile  690L)   <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Song-from-Somewhere-Else-F-Harrold/9781408884751?ref=grid-view&qid=1674049448289&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1045131642" rel="nofollow">Buy on Orell Füssli</a>
@@ -119,7 +119,7 @@ summary here.
 ### The Beatryce Prophecy, Kate DiCamillo
 <img src="https://imgur.com/QijlQfu.png" width="25%" />
 
-Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station. Their home becomes more lively with his adventures. (Lexile 750L) 
+
 
 <a href="https://www.bookdepository.com/Beatryce-Prophecy-Kate-DiCamillo/9781529503623?ref=grid-view&qid=1674317393158&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064479198" rel="nofollow">Buy on Orell Füssli</a>
@@ -127,12 +127,12 @@ Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station
 ### Tale of Despereaux, by Kate DiCamillo
 <img src="https://imgur.com/kjho9rF.png" width="25%" />
 
-Mr. and Mrs. Brown find a bear from Darkest Peru at the Paddington train station. Their home becomes more lively with his adventures. (Lexile 750L) 
+
 
 <a href="https://www.bookdepository.com/Tale-Despereaux-Kate-DiCamillo/9780763680893?ref=grid-view&qid=1674317662193&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001321590" rel="nofollow">Buy on Orell Füssli</a>
 
-### Jungle book, by Rudyard Kipling
+### The Jungle Book, by Rudyard Kipling
 <img src="https://imgur.com/GGwF3Zo.png" width="25%" />
 
 
@@ -153,11 +153,11 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU3OTI3NzgxLC0xNjUzOTcxNTc4LDgwNT
-U2OTcyMywyMTMxMDk2MzU3LC0xNjUxMDE3MjUwLDE0OTU3NTA2
-MDUsNjY1MTI1MTIxLDE4MjkxNzkxNTEsMTkwOTU0NTAyOCwtND
-Q5ODE2ODQ1LC0xNTc0ODM0NjI0LC0xMzAwMzcxMjQ0LC0xMjQ2
-MjEzODczLDEwODI1MjU4OTUsLTEyNzQ5OTA2NjIsLTE3ODg2ND
-cwNDksMTM2ODU3NDcwOSwzMTg2MTA3MjMsMTE0NjA3MzI0N119
-
+eyJoaXN0b3J5IjpbLTIwMDI5MDEwNDYsLTE2NTM5NzE1NzgsOD
+A1NTY5NzIzLDIxMzEwOTYzNTcsLTE2NTEwMTcyNTAsMTQ5NTc1
+MDYwNSw2NjUxMjUxMjEsMTgyOTE3OTE1MSwxOTA5NTQ1MDI4LC
+00NDk4MTY4NDUsLTE1NzQ4MzQ2MjQsLTEzMDAzNzEyNDQsLTEy
+NDYyMTM4NzMsMTA4MjUyNTg5NSwtMTI3NDk5MDY2MiwtMTc4OD
+Y0NzA0OSwxMzY4NTc0NzA5LDMxODYxMDcyMywxMTQ2MDczMjQ3
+XX0=
 -->
