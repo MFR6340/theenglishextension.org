@@ -60,7 +60,7 @@ Strongly recommend the movie by the same name.
 
 <img src="https://i.imgur.com/ImwtDwl.png" width="25%" />
 
-This book is the first in a series on fictional Search and Rescue dogs.  For those who are love dogs or are interested in how dogs help in search and rescue missions, these are enjoyable reading.  (820L)
+This book is the first in a series on fictional Search and Rescue dogs.  For those who are love dogs or are interested in how dogs help in search and rescue missions, these are enjoyable reading.  (820L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Ember-Rescue-Dogs-1-Jane-B-Mason-Sarah-Hines-Stephens/9781338362022" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054550651" rel="nofollow">Buy on Orell Füssli</a>
@@ -72,10 +72,10 @@ This book is the first in a series on fictional Search and Rescue dogs.  For tho
 There is no organization that is more quintessential to provide help than the Red Cross.  And of course, this famous organization has a museum.  Located in Geneva, the <a href="https://www.redcrossmuseum.ch/" rel="nofollow">Red Cross Museum</a> is interactive and tells the history of the organization and shows artifacts.   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwNzI0MTEsNDAxNTk1NzY3LDEwMzIzOT
-M1MzksLTQzNTQ0ODQwMiwyOTIzODAzMDYsMTczODg2MTc4NSwt
-Mzc1Mjg3ODI1LC0xMjk2NDY4NjEsLTM2ODg4MDgzNywtMTkyNz
-g1NjYyMSwtMTE0MjU1ODk4NiwtMTg3ODUzNzI5NCwtOTgzMDMw
-MTAsOTgxOTA4NTcwLDE2MjMyODA1NTIsLTMwNzE4MTk0NCw3MT
-Q2MDcwMjEsMzA0NDM2MTI4XX0=
+eyJoaXN0b3J5IjpbLTgzMDE1NDE2Niw0MDE1OTU3NjcsMTAzMj
+M5MzUzOSwtNDM1NDQ4NDAyLDI5MjM4MDMwNiwxNzM4ODYxNzg1
+LC0zNzUyODc4MjUsLTEyOTY0Njg2MSwtMzY4ODgwODM3LC0xOT
+I3ODU2NjIxLC0xMTQyNTU4OTg2LC0xODc4NTM3Mjk0LC05ODMw
+MzAxMCw5ODE5MDg1NzAsMTYyMzI4MDU1MiwtMzA3MTgxOTQ0LD
+cxNDYwNzAyMSwzMDQ0MzYxMjhdfQ==
 -->
