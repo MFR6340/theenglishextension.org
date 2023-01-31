@@ -6,8 +6,7 @@
 ### The Haunting of Hill House, by Shirley Jackson
 <img src="https://i.imgur.com/z2Aw9xE.png" width="25%" />
 
-summary here.  (Lexile 920L)
-
+(Lexile 920L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.bookdepository.com/Haunting-Hill-House-Shirley-Jackson/9780143039983?ref=grid-view&qid=1674662812308&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1055995808" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -15,7 +14,7 @@ summary here.  (Lexile 920L)
 
 <img src="https://i.imgur.com/Vh1YQiO.png" width="25%" />
 
-summary here.  (Lexile Level unavailable)
+summary here.  (Lexile 890L)
 
 <a href="https://www.bookdepository.com/Miss-Peregrines-Home-for-Peculiar-Children-Ransom-Riggs/9781594746031?ref=grid-view&qid=1674662411641&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1027813874" rel="nofollow">Buy on Orell Füssli</a> 
@@ -57,8 +56,8 @@ This fantastic story by famous author Oscar Wilde is mentioned in this unit.  He
 
 The book is now in public domain.  Available for free on Project Gutenberg https://www.gutenberg.org/ebooks/14522
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzAxNzMxMjYsLTUwMzc0MzI0NiwxMz
-g1NDQxOTU3LC0xNjIzNTk2Mjk0LC0xMjIxNzA2NjczLC0xNzU1
-MDA0MDMzLC0yMDY5ODQyODUsMzU1MDkwNjk1LC0xMjIzNjExMD
-A5XX0=
+eyJoaXN0b3J5IjpbLTc1OTgzNjM1NCwtMTE3MDE3MzEyNiwtNT
+AzNzQzMjQ2LDEzODU0NDE5NTcsLTE2MjM1OTYyOTQsLTEyMjE3
+MDY2NzMsLTE3NTUwMDQwMzMsLTIwNjk4NDI4NSwzNTUwOTA2OT
+UsLTEyMjM2MTEwMDldfQ==
 -->
