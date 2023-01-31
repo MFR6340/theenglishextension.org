@@ -37,7 +37,7 @@ An easy read, intended for kids who like hockey and want some adventure.  The Sc
 <a href="https://www.bookdepository.com/Night-They-Stole-Stanley-Cup-Roy-Macgregor/9781770494145?ref=grid-view&qid=1674926818968&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1023376588rel" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Great Cities of the World: Explore Toronto: Cities of the World, by Barbara Radcliffe Rogers
+### Great Cities of the World: Explore Toronto, by Patricia Hutchison [Patricia Hutchison](https://www.bookdepository.com/author/Patricia+Hutchison)
 
 <img src="https://imgur.com/3cuW4Cp.png" width="25%" />
 
@@ -46,9 +46,10 @@ summary here.  (Lexile NC1190L)
 <a href="https://www.amazon.com/-/de/dp/0516220349/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1674926987&sr=8-1" rel="nofollow"> Buy on Amazon</a>  Only available used
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1Njc4NSwtNzAzOTQ3MzE4LDQyNjEyOT
-EzMSwxNzI2OTg1MTMsOTQyNjQxMzE4LDE0MTQyNTE1OTUsLTIx
-NDYwMTQ2OTcsNzIyNDYyMTczLC0xMjYzODY1MTIyLC03NTU5OD
-czOTAsLTEyMjcxMzU5NjQsLTc5NDE2MDYsLTMyMjk3NDI2MSwt
-MTI1NzgwMDk2MywtNTkxOTcyNTg0LDEwNDM2NjQwOTZdfQ==
+eyJoaXN0b3J5IjpbLTE5Njk3MTkzNzIsLTcwMzk0NzMxOCw0Mj
+YxMjkxMzEsMTcyNjk4NTEzLDk0MjY0MTMxOCwxNDE0MjUxNTk1
+LC0yMTQ2MDE0Njk3LDcyMjQ2MjE3MywtMTI2Mzg2NTEyMiwtNz
+U1OTg3MzkwLC0xMjI3MTM1OTY0LC03OTQxNjA2LC0zMjI5NzQy
+NjEsLTEyNTc4MDA5NjMsLTU5MTk3MjU4NCwxMDQzNjY0MDk2XX
+0=
 -->
