@@ -39,14 +39,14 @@ An easy read, intended for kids who like hockey and want some adventure.  The Sc
 
 ### Great Cities of the World: Explore Toronto, by Patricia Hutchison
 
-<img src="https://imgur.com/3cuW4Cp.png" width="25%" />
+<img src="https://i.imgur.com/LaPq6uF.png" width="25%" />
 
 A general overview of the city, along with photos, a map and timeline. 
 
 <a href="https://www.bookdepository.com/Explore-Toronto-Patricia-Hutchison/9781632358417" rel="nofollow"> Buy on Book Depository </a>  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTQ3NTc5NywtNzAzOTQ3MzE4LDQyNj
+eyJoaXN0b3J5IjpbMTc5NzQwNDIwMCwtNzAzOTQ3MzE4LDQyNj
 EyOTEzMSwxNzI2OTg1MTMsOTQyNjQxMzE4LDE0MTQyNTE1OTUs
 LTIxNDYwMTQ2OTcsNzIyNDYyMTczLC0xMjYzODY1MTIyLC03NT
 U5ODczOTAsLTEyMjcxMzU5NjQsLTc5NDE2MDYsLTMyMjk3NDI2
