@@ -68,11 +68,11 @@ summary here. (Lexile 1240L) <sup>[what is this?](/resources/Lexile%20measures)<
 <a href="https://www.bookdepository.com/Code-Name-Verity-Elizabeth-Wein/9781423152880?ref=grid-view&qid=1674994734866&sr=1-2 link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orell fuessli.ch/shop/home/artikeldetails/A1062213649 link here" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Airman, by Eoin Colf
+### Airman, by Eoin Colfer
 
 <img src="https://imgur.com/9oecQ5I.png" width="25%" />
 
-summary here.  (Lexile Level     ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile 800L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Airman-Eoin-Colfer/9780141322216?ref=grid-view&qid=1674994899322&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -108,10 +108,10 @@ if you've ever had dreams of flying, the final venue of the Parachute World Cup 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE2MDgxMTEsLTQ0Mzg0NDM1MiwzMz
-YyNDQ0NDksLTg3NTU3NjA5LDE4MTUxODQ1MDAsLTYyMzQ0NzE1
-OSwtMTY0NjU2OTEwMywtMTIzNDA5NzYxOCwzMjE1NDIzNDMsMT
-QwMjQ5MjY0LC0yMDg4MjEyMzUzLC03OTEwMzQwNzMsMTk1NTIx
-NTczOCwtMTAyMjgxNDY0NCwyMDk4OTEzMzYsLTE0MjUwMzU4Nj
-JdfQ==
+eyJoaXN0b3J5IjpbMTc5ODQ5MzA1NiwtMjAyMTYwODExMSwtND
+QzODQ0MzUyLDMzNjI0NDQ0OSwtODc1NTc2MDksMTgxNTE4NDUw
+MCwtNjIzNDQ3MTU5LC0xNjQ2NTY5MTAzLC0xMjM0MDk3NjE4LD
+MyMTU0MjM0MywxNDAyNDkyNjQsLTIwODgyMTIzNTMsLTc5MTAz
+NDA3MywxOTU1MjE1NzM4LC0xMDIyODE0NjQ0LDIwOTg5MTMzNi
+wtMTQyNTAzNTg2Ml19
 -->
