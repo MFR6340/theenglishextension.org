@@ -13,14 +13,14 @@
 
 ### Swallows and Amazons, by Arthur Ransome
 
-<img src="https://imgur.com/ZZ1fVsn.png" width="25%" />
+<img src="https://i.imgur.com/zgYTDtx.png" width="25%" />
 
  (Lexile 800L)   <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9780099503910?ref=grid-view&qid=1675161160944&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009059697" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003305451" rel="nofollow">Buy on Orell Füssli</a> 
 
-<a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9781782957393?ref=grid-view&qid=1674909364444&sr=1-4 <a href="https://www.orellfuessli link here.ch/shop/home/artikeldetails/A1022805518" rel="nofollow">Buy on Orell Füssli</a> 
+
 
 ### Shackleton’s Journey, by William Grill
 <img src="https://imgur.com/pkkgkac.png" width="25%" />
@@ -78,10 +78,10 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODI3NTY4Nyw0ODg2NzMyNjQsMjI1Nj
-QxNTE4LC0xNTY4NTQ5MzU5LDUxMjc2NDcyLDU4MzY3OTU3Mywt
-MTg0NzkyNjUxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYsLTE4Nz
-MxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMTgwMTUz
-LDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0NDkyMTE1ODEsMTQ3MT
-QyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVdfQ==
+eyJoaXN0b3J5IjpbLTEzODI0NDgwNDIsNDg4NjczMjY0LDIyNT
+Y0MTUxOCwtMTU2ODU0OTM1OSw1MTI3NjQ3Miw1ODM2Nzk1NzMs
+LTE4NDc5MjY1MTQsMTc5OTg1MzYyOSwxMDc2NTI4Mzk2LC0xOD
+czMTk2NjgwLDM3MjU4ODQ3LDE5MDg4NjY4NTMsMTIwMDE4MDE1
+Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgxLDE0Nz
+E0MjE4NTcsNjE0NTcxOTQ2LC0yMDczOTIyNjM1XX0=
 -->
