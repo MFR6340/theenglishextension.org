@@ -51,7 +51,7 @@ On School Library Journal's list of the Top 100 Children's Novels
 
 <img src="https://imgur.com/Ex7dpP0.png" width="25%" />
 
-A 16 year old sails around the wr(Lexile 1020L )
+A 16 year old sails around the world alone. (Lexile 1020L )
 
 <a href="https://www.bookdepository.com/search?searchTerm=+Dove%2C+by+Robin+Lee+Graham&search=Find+book" rel="nofollow"> Buy on BookDepository </a>  
 
@@ -60,7 +60,7 @@ A 16 year old sails around the wr(Lexile 1020L )
 
 <img src="https://imgur.com/CfRRQoR.png" width="25%" />
 
-summary here. (Lexile level       )
+ (Lexile 1000L )
 
 <a href="https://www.bookdepository.com/Explorers-Who-Got-Lost-Diane-Sansevere-Dreher/9780765381514?ref=grid-view&qid=1674913369118&sr=1-1 link here" rel="nofollow"> Buy on href=res""https://www.orellfuessli.ch/shop/home/artikeldetails/A1036084575" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -81,11 +81,11 @@ summary here. (Lexile level       )
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Mjg4MjcyNiwtNTU0NTk1OTA3LDQ4OD
-Y3MzI2NCwyMjU2NDE1MTgsLTE1Njg1NDkzNTksNTEyNzY0NzIs
-NTgzNjc5NTczLC0xODQ3OTI2NTE0LDE3OTk4NTM2MjksMTA3Nj
-UyODM5NiwtMTg3MzE5NjY4MCwzNzI1ODg0NywxOTA4ODY2ODUz
-LDEyMDAxODAxNTMsNDM5NjUxMjk5LC0xNzEzOTM4NzYxLDQ0OT
-IxMTU4MSwxNDcxNDIxODU3LDYxNDU3MTk0NiwtMjA3MzkyMjYz
-NV19
+eyJoaXN0b3J5IjpbNTUzMjY1MTUsLTU1NDU5NTkwNyw0ODg2Nz
+MyNjQsMjI1NjQxNTE4LC0xNTY4NTQ5MzU5LDUxMjc2NDcyLDU4
+MzY3OTU3MywtMTg0NzkyNjUxNCwxNzk5ODUzNjI5LDEwNzY1Mj
+gzOTYsLTE4NzMxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1Mywx
+MjAwMTgwMTUzLDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0NDkyMT
+E1ODEsMTQ3MTQyMTg1Nyw2MTQ1NzE5NDYsLTIwNzM5MjI2MzVd
+fQ==
 -->
