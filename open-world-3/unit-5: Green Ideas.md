@@ -33,7 +33,7 @@ summary here.  (Lexile Level     )
 
 <img src="https://imgur.com/te0zyyy.png" width="25%" />
 
-summary here.  (Lexile Level     )
+(Lexile 1210L  )
 
 <a href="https://www.bookdepository.com/Pros-Cons-Wind-Power-Louise-Spilsbury/9781404237452?ref=grid-view&qid=1674668652982&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005430888" rel="nofollow">Buy on Orell Füssli</a> 
@@ -45,13 +45,13 @@ summary here.  (Lexile Level     )
 <a href="https://www.bookdepository.com/Meltdown-Fred-Bortz/9780761386605" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Escape From Chernobyl, by Andy Marino
-<img src="https://imgur.com/V3fdyctimgurlinkere.png" width="25%" />
+<img src="https://i.imgur.com/vFFI62Y.png" width="25%" />
 
 (Lexile 820L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 <a href="https://www.bookdepository.com/Escape-from-Chernobyl-Andy-Marino/9780702322167?ref=grid-view&qid=1674669099998&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061776983" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTc2NTIxMiwtODUzMDMxNjk1LC0xOT
+eyJoaXN0b3J5IjpbMjAzMjU2Nzk4MiwtODUzMDMxNjk1LC0xOT
 YxODAwMDE3LDM1MDM2ODU1MywxMDY5Mjk1NTAyLC0yMDU1ODYy
 NjI4LC0yNzg2OTE3ODAsODc5NzEwNDI2LC0xMDk2NzUzNzAxXX
 0=
