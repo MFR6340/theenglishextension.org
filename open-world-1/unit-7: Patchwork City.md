@@ -15,7 +15,7 @@ Admittedly, this is really a picture book for younger kids, but it *does* takes 
 
 <img src="https://imgur.com/oCT9zRZ.png" width="25%" />
 
-Set in 1942, its(No Lexile measure available)
+Set in Toronto in 1942, this book is about a little girl who discovers that her neighbor is none other than her favorite author, Lucy Maud Montgomery.  This book would probably be best rest by those who are already familar with the famous Anne of Green(No Lexile measure available)
 
 <a href="https://www.bookdepository.com/Lucy-Maud-Me-Mary-Frances-Coady/9780888783981?ref=grid-view&qid=1674500880491&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1004813404" rel="nofollow">Buy on Orell Füssli</a> 
@@ -46,9 +46,9 @@ summary here.  (Lexile NC1190L)
 <a href="https://www.amazon.com/-/de/dp/0516220349/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1674926987&sr=8-1" rel="nofollow"> Buy on Amazon</a>  Only available used
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU1Njk0NjIsMTcyNjk4NTEzLDk0Mj
-Y0MTMxOCwxNDE0MjUxNTk1LC0yMTQ2MDE0Njk3LDcyMjQ2MjE3
-MywtMTI2Mzg2NTEyMiwtNzU1OTg3MzkwLC0xMjI3MTM1OTY0LC
-03OTQxNjA2LC0zMjI5NzQyNjEsLTEyNTc4MDA5NjMsLTU5MTk3
-MjU4NCwxMDQzNjY0MDk2XX0=
+eyJoaXN0b3J5IjpbMjA2ODUzNTA5NywxNzI2OTg1MTMsOTQyNj
+QxMzE4LDE0MTQyNTE1OTUsLTIxNDYwMTQ2OTcsNzIyNDYyMTcz
+LC0xMjYzODY1MTIyLC03NTU5ODczOTAsLTEyMjcxMzU5NjQsLT
+c5NDE2MDYsLTMyMjk3NDI2MSwtMTI1NzgwMDk2MywtNTkxOTcy
+NTg0LDEwNDM2NjQwOTZdfQ==
 -->
