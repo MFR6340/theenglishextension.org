@@ -36,7 +36,8 @@ Parents, if you don't have a reference book on your shelf about reading, this is
    Elevator, by Roald Dahl, Read by Eric Idle
 
 
-## Writing Skillsdespite being natives, many kids still often struggle with. Goes up to C1
+## Writing Skills
+Despite being natives, many kids still often struggle with. 
 
 ### Describing Emotions
 Sometimes it's a challenge to find the right word or emotion.  Often, there's a better or more precise way to say it.  This fabulous emotion wheel by Geoffrey Roberts is a great way to helps kids (and adults) express their feelings more clearly.  It obviously helps improves descriptive writing skills and character development  as well. 
@@ -86,9 +87,9 @@ TEEO provides extension booklets which can be used in primary school classrooms 
    Elevator, by Roald Dahl, Read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTI2NTg2MjksLTk0NTMzNjk2MCwxMD
-k4MTE3NjUsODI3MzM4Mzg5LDEwNzI1Njc2MTEsLTM3NzcwNDU2
-NCwtMTYwNjE5NTk4LC0xMTI3OTE4Nzk2LC0xNTg0ODk1MDQ1LC
-0xNDY2NjgzNTQ3LDE0MjcyNzA1MTgsLTEwNjIyMjQxMDEsLTIw
-MzUwNDY4OTAsMTQ1NzUxMjc2Ml19
+eyJoaXN0b3J5IjpbMTE0MjYxMTA0NSwtOTQ1MzM2OTYwLDEwOT
+gxMTc2NSw4MjczMzgzODksMTA3MjU2NzYxMSwtMzc3NzA0NTY0
+LC0xNjA2MTk1OTgsLTExMjc5MTg3OTYsLTE1ODQ4OTUwNDUsLT
+E0NjY2ODM1NDcsMTQyNzI3MDUxOCwtMTA2MjIyNDEwMSwtMjAz
+NTA0Njg5MCwxNDU3NTEyNzYyXX0=
 -->
