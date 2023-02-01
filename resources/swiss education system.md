@@ -33,24 +33,14 @@ Author Margaret Oertig interviewed more than 120 parents to gain insight into th
 ## Consulting
 If you are in central Switzerland and feel you need personalized help in finding the right school for your child, Stefanie Busse can help.  Consult her website at Swiss Education Consulting https://swisseducationconsulting.ch/ for more information about her services and fees. 
 
-## English Instruction
-There are a number of organizations which provide tutoring and supplemental English classes.
-
-To prepare for the Cambridge exams:
-	Sharon Glencross can be reached at (include email address here)
-
-To get a structured approach for learning English phonics:
-	One of our founders, Theresa Jäger, teaches children to read and write using a systematic phonetic approach.  It's important to learn, as the sound / symbol relationship in English is quite difficult and the local schools don't have time to teach this way.  
-	<a href="https://www.englishkidsclubs.ch/home" rel="nofollow"> English Kids' Clubs</a>  
-	
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyODA1Mzk1LDg4OTcxNzg4MywxODE3Mj
-IyODA0LDM5OTU4NDU5NSw2NTI3ODAzNjEsNTE1NzYyNDMsLTIw
-MDAxNzcyNzksMTc3OTUwMzY0OSwtMTA1NTEyNjA0LC0xOTA4Nz
-g5NjQ5LC0xMTgxMTA3MTUzLDEwMjUzNDU1NjQsMTQ1NTk5MjM3
-NCwtMTk1NjA4MjE5OF19
+eyJoaXN0b3J5IjpbLTQyNDIxODU3NywyOTI4MDUzOTUsODg5Nz
+E3ODgzLDE4MTcyMjI4MDQsMzk5NTg0NTk1LDY1Mjc4MDM2MSw1
+MTU3NjI0MywtMjAwMDE3NzI3OSwxNzc5NTAzNjQ5LC0xMDU1MT
+I2MDQsLTE5MDg3ODk2NDksLTExODExMDcxNTMsMTAyNTM0NTU2
+NCwxNDU1OTkyMzc0LC0xOTU2MDgyMTk4XX0=
 -->
