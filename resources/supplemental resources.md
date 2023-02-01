@@ -25,7 +25,7 @@ Parents, if you don't have a reference book on your shelf about reading, this is
 
 ### Listening for Fun: Audio Book recommendations
 
-  Audio books are a great way to pass the time on a long car ride.  The reader of the story makes all the difference.  Here's some suggestions. 
+  Audio books are a great way to pass the time on a long car ride.  The reader of the story makes all the difference.  Here are some suggestions. 
 
  - The Adventures of Huckleberry Finn, Mark Twain. Read by Patrick
    Fraley 
@@ -63,22 +63,9 @@ TEEO provides extension booklets which can be used in primary school classrooms 
 
 
 
-## Audio Book recommendations
-**Audio Books**
-
-  
-  Audio books are a great way to pass the time on a long car ride.  The reader of the story makes all the difference.  Here's some suggestions. 
-
- - The Adventures of Huckleberry Finn, Mark Twain. Read by Patrick
-   Fraley 
- - Winnie the Pooh, by A.A. Milne, Read by Peter Dennis The
-   Cricket in Times Square, by George Selden, Read by Tony Shalhoub 
- - The Phantom Tollbooth, by Norton Juster, Read by David Hyde Pierce 
- - Charlie and the Chocolate Factory/Charlie and the Great Glass
-   Elevator, by Roald Dahl, Read by Eric Idle
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk0MTgzNiwtOTQ1MzM2OTYwLDEwOT
+eyJoaXN0b3J5IjpbLTIyNTMzMTAwNywtOTQ1MzM2OTYwLDEwOT
 gxMTc2NSw4MjczMzgzODksMTA3MjU2NzYxMSwtMzc3NzA0NTY0
 LC0xNjA2MTk1OTgsLTExMjc5MTg3OTYsLTE1ODQ4OTUwNDUsLT
 E0NjY2ODM1NDcsMTQyNzI3MDUxOCwtMTA2MjIyNDEwMSwtMjAz
