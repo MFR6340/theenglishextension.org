@@ -1,6 +1,6 @@
 # Lexile Measures
 
-How do you determine if a book is the correct reading level for your child?
+How do you determine if a book is the correct **reading level** for your child?
 
 There are a variety of ways to categorize books for readers. Books can be classified by age level, grade level and/or reading level. Since two kids of the same age in the same class are not necessarily able to read books of the same level, using age and grade level recommendations is not ideal, therefore most educators prefer to use quantitative reading levels.  
   
@@ -50,7 +50,7 @@ Some lexile levels are also given an additional code:
 
 For more information, see: lexile.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTgyMzE3MSwtMTU3MjY5NDY2MCwtOD
-E1MDE4MTk5LDI1NTI5NzE5NSwxOTcxNTk1MjgyLC0xMjU1MDY4
-MTk3LC0xMzk5ODIxMjM1XX0=
+eyJoaXN0b3J5IjpbODcxNzMzMzE1LDEzMTE4MjMxNzEsLTE1Nz
+I2OTQ2NjAsLTgxNTAxODE5OSwyNTUyOTcxOTUsMTk3MTU5NTI4
+MiwtMTI1NTA2ODE5NywtMTM5OTgyMTIzNV19
 -->
