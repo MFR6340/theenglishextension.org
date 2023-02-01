@@ -12,11 +12,10 @@ On the following pages, you will find English literature related to the themes o
 
 The literature lists found here are dynamic.  Books will be regularly added or replaced.  We warmly welcome your suggestions.  
 
-Supplemental work booklets covering grammar and spelling are available for each unit by contacting TEEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTc5OTA1MCw3NTc5MDI3OSwtODA5Nz
-k5MDUwLC0xNzE0NTQ4MTc3LC0yNjQwNzE5MTYsLTEwNDkzNjYy
-NDcsMTc0MTYxMTY4MiwtMTg0ODk1NzI3Niw4MDgzMDMxODYsLT
-EwODQzODE0MjQsLTE4OTA1NDAxMzgsLTY5Mzc3MDI4NiwtNDgx
-ODcyOTEwXX0=
+eyJoaXN0b3J5IjpbLTIwNTQ1MTAwNjAsLTgwOTc5OTA1MCw3NT
+c5MDI3OSwtMTcxNDU0ODE3NywtMjY0MDcxOTE2LC0xMDQ5MzY2
+MjQ3LDE3NDE2MTE2ODIsLTE4NDg5NTcyNzYsODA4MzAzMTg2LC
+0xMDg0MzgxNDI0LC0xODkwNTQwMTM4LC02OTM3NzAyODYsLTQ4
+MTg3MjkxMF19
 -->
