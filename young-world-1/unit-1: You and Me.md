@@ -104,15 +104,15 @@ Designed to be used with this unit. Available on request.
 <img src="https://i.imgur.com/b5coB3O.png" width="25%" />
 
 ### Describing Emotions
-When we describe ourselves or other people, we usually start with how we look.  But a really good description tells how a person FEELS as well.   This fabulous emotion wheel by Geoffrey Roberts is a great way to find some precise words to use when telling or write about a person or a character in a book.  Print this chart and hang it on the door or the refrigerator or bathroom mirror for a week or two.
+When we describe ourselves or other people, we usually start with how we look.  But a really good description tells how a person FEELS as well.   This fabulous emotion wheel by Geoffrey Roberts is a great way to find some precise words to use when telling or writing about a person or a character in a book.  Print this chart and hang it on the door of the refrigerator or the bathroom mirror for a week or two.
 
 <img src="https://i.imgur.com/tCWChf6.jpeg" width="45%" />
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMTQ1ODYxNSwtMTI5MjE3NzA3MywxNT
-U3OTE2ODM3LC0zMTc3NTAwMzcsODg2NDM0MDM3LDY3NDY2ODYz
-NCwtNTM2MTAxNjY1LC0yMDM4MTczMDkxLDEwMjAxNzc3MzQsND
-I1MTk3MDc4LDU2MjUyMzYxMCwxODc2NzIzNDYsLTkwODYxNzAs
-LTU4MTQ3NzU5MF19
+eyJoaXN0b3J5IjpbLTEyOTk0MDExNTksLTEyOTIxNzcwNzMsMT
+U1NzkxNjgzNywtMzE3NzUwMDM3LDg4NjQzNDAzNyw2NzQ2Njg2
+MzQsLTUzNjEwMTY2NSwtMjAzODE3MzA5MSwxMDIwMTc3NzM0LD
+QyNTE5NzA3OCw1NjI1MjM2MTAsMTg3NjcyMzQ2LC05MDg2MTcw
+LC01ODE0Nzc1OTBdfQ==
 -->
