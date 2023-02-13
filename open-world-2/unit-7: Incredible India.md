@@ -71,18 +71,8 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
-
-
-### Title here, by author here
-
-<img src="imgurlinkhere.png" width="25%" />
-
-summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
-
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Bu
+<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTU2MTI4OSwtMTIxMDA0OTgyMSwxMD
+eyJoaXN0b3J5IjpbLTk4NDU1NzI5NCwtMTIxMDA0OTgyMSwxMD
 YyNjM1MjI5LC0xNzE3NzQ2NDg1XX0=
 -->
