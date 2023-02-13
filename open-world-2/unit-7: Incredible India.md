@@ -30,15 +30,13 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 
 
 ### The Diplomat’s Travel Guide to Festivals, Holidays, and Celebrations in India
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/oQHfsA7.png" width="25%" />
 
 summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Diplomats-Travel-Guide-Festivals-Holidays-Celebrations-India-Mohan-Pandey/9798615530456?ref=grid-view&qid=1676293679259&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-
-### Title here, by author here
+### Children of India, by Ruskin Bond
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -67,6 +65,6 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTk1OTQ5NzAsLTEyMTAwNDk4MjEsMT
+eyJoaXN0b3J5IjpbLTEzMTMwNDQ5NzEsLTEyMTAwNDk4MjEsMT
 A2MjYzNTIyOSwtMTcxNzc0NjQ4NV19
 -->
