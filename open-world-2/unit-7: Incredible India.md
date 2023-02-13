@@ -13,11 +13,11 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 
 ### In Times of Peril, by GA Henty
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/FzpE39q.png" width="25%" />
 
 summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Times-Peril-Dodo-Press-G-Henty/9781406562231?ref=grid-view&qid=1676293339691&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 ### Title here, by author here
 
@@ -68,6 +68,6 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjE4OTkxMSwtMTIxMDA0OTgyMSwxMD
+eyJoaXN0b3J5IjpbLTY5NTk2MTE0OCwtMTIxMDA0OTgyMSwxMD
 YyNjM1MjI5LC0xNzE3NzQ2NDg1XX0=
 -->
