@@ -63,9 +63,9 @@
 
 ### Photos Framed, by Ruth Thompson
 
-<img src="https://i.imgur.com/5VAMs9I.png" width="25%" />
+<img src="https://imgur.com/UORqWD1.png" width="25%" />
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Photos-Framed-Fresh-Look-at-the-Worlds-Most-Memorable-Photographs-Ruth-Thomson-Various/9780763671549" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1032835248" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### The Story of Inventions, by Anna Claybourne & Adam Larakum
@@ -75,7 +75,7 @@
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMjE4NjYzNSwxMDMzNjU5MDUsLTE4ND
+eyJoaXN0b3J5IjpbLTYwNDIxMzQ2NiwxMDMzNjU5MDUsLTE4ND
 Y1NzkyMzQsLTg3MjQxNjc4MiwtMTgwNjM3Njg3MSwxODcyMzg3
 MDc5LDUzNjY0NDM4MywxODE1NzUsLTgyMTcwNzMxM119
 -->
