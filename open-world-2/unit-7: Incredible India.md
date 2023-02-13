@@ -11,15 +11,13 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 
 <a href="https://www.bookdepository.com/Mystery-Ambush-India-Andy-Adams/9781532977329?ref=grid-view&qid=1676293232195&sr=1-3" rel="nofollow"> Buy on BookDepository</a>
 
-### Title here, by author here
+### In Times of Peril, by GA Henty
 
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
-
 
 ### Title here, by author here
 
@@ -70,6 +68,6 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTQ1NDMwMSwtMTIxMDA0OTgyMSwxMD
+eyJoaXN0b3J5IjpbLTYxMjE4OTkxMSwtMTIxMDA0OTgyMSwxMD
 YyNjM1MjI5LC0xNzE3NzQ2NDg1XX0=
 -->
