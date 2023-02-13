@@ -39,7 +39,6 @@
 
 (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
-
 <a href="https://www.bookdepository.com/Electric-War-Mike-Winchell/9781250120168?ref=grid-view&qid=1676292144349&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1047799085" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -78,7 +77,7 @@
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTk0OTAxNywxMDMzNjU5MDUsLTE4ND
-Y1NzkyMzQsLTg3MjQxNjc4MiwtMTgwNjM3Njg3MSwxODcyMzg3
-MDc5LDUzNjY0NDM4MywxODE1NzUsLTgyMTcwNzMxM119
+eyJoaXN0b3J5IjpbLTE4NDk2MDY2MzUsMTAzMzY1OTA1LC0xOD
+Q2NTc5MjM0LC04NzI0MTY3ODIsLTE4MDYzNzY4NzEsMTg3MjM4
+NzA3OSw1MzY2NDQzODMsMTgxNTc1LC04MjE3MDczMTNdfQ==
 -->
