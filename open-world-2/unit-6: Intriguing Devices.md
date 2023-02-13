@@ -10,8 +10,10 @@
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjQxNjc4MiwtMTgwNjM3Njg3MSwxOD
-cyMzg3MDc5LDUzNjY0NDM4MywxODE1NzUsLTgyMTcwNzMxM119
 
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwNDUzOTQ0MiwtODcyNDE2NzgyLC0xOD
+A2Mzc2ODcxLDE4NzIzODcwNzksNTM2NjQ0MzgzLDE4MTU3NSwt
+ODIxNzA3MzEzXX0=
 -->
