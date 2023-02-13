@@ -16,38 +16,38 @@ Strongly recommend the movie by the same name.
 
 
 
-### Weather, by John Farndon
+### DK Weather, by John Farndon
 
-<img src="https://i.imgur.com/VXPAjuO.png" width="25%" />
+<img src="https://i.imgur.com/VXPAjuOWYZeKh3.png" width="25%" />
 
-An incredibly comprehensive weather book which is fantastic both for older kids and even adults.  (Lexile IG1110L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+An incredibly comprehensive weather book which is fantastic both for older kids and even adults.  (Lexile IG1110L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>summary here.  (Lexile level )
 
-<a href="https://www.bookdepository.com/Weather-John-Farndon/9781338608946?ref=grid-view&qid=1675171661197&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-
+<a href="https://www.bookdepository link here.com/Weather-John-Farndon/9781338608946DK/9780241228265?ref=grid-view&qid=16751716611974914545643&sr=1-13" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1002540123" rel="nofollow">Bu eail here y oy on Orell Füssli</a>
 
 ### Chasing the Storm: Tornadoes, Meteorology and Weather Watching, by Ron Miller
 
 <img src="https://imgur.com/o5k2D8p.png" width="25%" />
 
-Most of us run inside when a storm is coming, but there are others who actually drive around following storms and try to get as close as possible.  Read about what they do and why they risk their lives.  (Lexile 1110L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+Most of us run inside when a storm is coming, but there are others who actually drive around following storms and try to get as close as possible.  Read about what they do and why they risk their lives.  (Lexile 1110L) <sup>[what is this?](/resources/Lexile%20measures)</sup>summary here.  (Lexile 1110L)
 
-<a href="https://www.bookdepository.com/Chasing-Storm-Ron-Miller/9781467712842?ref=grid-view&qid=1675172290039&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Chasing-the-Storm-Ron-Miller/9781467712842?ref=grid-view&qid=1675172290039&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  " rel="nofollow"> Buy on BookDepository</a>  
 
-
+<a href="orellfussli" rel="nofollow">Bu##  ai hy on Orell Füssli</a>
 
 ### It's Raining Fish and Spiders, by Bill Evans
 
 <img src="https://imgur.com/SedEZb6.png" width="25%" />
 
-Senior meteorologist Bill Evans wrote this book to inspire kids to become meteorologists themselves. It tells his personal experiences with extreme weather conditions and explains how the weather occurs.  
+Senior meteorologist Bill Evans wrote this book to inspire kids to become meteorologists themselves. It tells his personal experiences with extreme weather conditions and explains how the weather occurs.  summary here.  (lexile level       )
 
-<a href="https://www.bookdepository.com/Its-Raining-Fish-and-Spiders-Bill-Evans/9780765321329" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1011949467" rel="nofollow"> Buy on Orell Füssli </a>
+<a href="https://www.bookdepository link here.com/Its-Raining-Fish-and-Spiders-Bill-Evans/9780765321329" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orell fuessli link here.ch/shop/home/artikeldetails/A1011949467" rel="nofollow"> Buy on Orell Füssli </a>
 
 ### Horrible Geography: Stormy Weather, by Anita Ganeri
 <img src="https://imgur.com/YFYgjak.png" width="25%" />
 
-Written in the style of Terry Deary of Horrible Histories fame, this book explains different types of weather with humor and fun facts.
+Written in the style of Terry Deary of Horrible Histories fame, this book explains different types of weather with humor and fun facts.summary here.  (Lexile level       )
 
 <a href="https://www.bookdepository.com/Stormy-Weather-Anita-Ganeri/9781407196244?ref=grid-view&qid=1674915008947&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1036942730" rel="nofollow">Buy on Orell Füssli</a>
@@ -56,8 +56,9 @@ Written in the style of Terry Deary of Horrible Histories fame, this book explai
 Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit  [Technorama](https://www.technorama.ch/en/home), the science center in Wintertur, Zurich, and see how lightening is formed. Performances are at 11.30 and 14.30.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTAzNDk0MjMsLTExNDAzMTU1ODMsLT
-k2MTM3NDYwMSw5ODMzNDczMzEsNzYzMTA0NDM2LDEzMTc4OTk5
-NDksLTQ5NDM4NDY0NiwtNDUzMDE2NTg4LDExNzA1MjYxOTUsMT
-M0NTQzNDEyNCwtMTAwODAwMTI0MCwtNzQ0MjUyNTE2XX0=
+eyJoaXN0b3J5IjpbMTg4MzcxOTA1MSwtMTU1MDM0OTQyMywtMT
+E0MDMxNTU4MywtOTYxMzc0NjAxLDk4MzM0NzMzMSw3NjMxMDQ0
+MzYsMTMxNzg5OTk0OSwtNDk0Mzg0NjQ2LC00NTMwMTY1ODgsMT
+E3MDUyNjE5NSwxMzQ1NDM0MTI0LC0xMDA4MDAxMjQwLC03NDQy
+NTI1MTZdfQ==
 -->
