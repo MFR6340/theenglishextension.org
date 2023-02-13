@@ -115,11 +115,11 @@ By the author of the Horrible Histories series, this new series is a bit longer 
 <img src="https://imgur.com/e26BVLM.png" width="25%" />
 
 (No Lexile measure available )
-<a href="https://www.bookdepository.com/Queen-Victoria-Kate-Hubbard/9781904095828?ref=grid-view&qid=1675002186535&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Queen-Victoria-Kate-Hubbard/9781904095828?ref=grid-view&qid=1675002186535&sr=1-2" rel="nofollow"> Buy on BookDepository</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM4MjcyOCwtNzIyNTU3MDY5LDIxND
-M4MTcwNjgsMTQ4NjA1ODk0OSwtMTg5NTA5OTcyOCwxNDE3NjE0
-NjUyLC00NjQzNTcwMDAsLTIwMzA5MTYxOTIsMTM1MzYzODIxLC
-0xMzc5NjcyNzg5LDE5MjQ4MjcyNzQsLTg1NTkwNzIzLC0xMTY4
-NDA1NDI5XX0=
+eyJoaXN0b3J5IjpbLTEwMzc1MjI5NTIsLTIxMDM4MjcyOCwtNz
+IyNTU3MDY5LDIxNDM4MTcwNjgsMTQ4NjA1ODk0OSwtMTg5NTA5
+OTcyOCwxNDE3NjE0NjUyLC00NjQzNTcwMDAsLTIwMzA5MTYxOT
+IsMTM1MzYzODIxLC0xMzc5NjcyNzg5LDE5MjQ4MjcyNzQsLTg1
+NTkwNzIzLC0xMTY4NDA1NDI5XX0=
 -->
