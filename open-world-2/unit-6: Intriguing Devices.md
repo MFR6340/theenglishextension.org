@@ -35,19 +35,18 @@
 
 ### The Electric War, by Mike Winchell
 
-<img src="https://i.imgur.com/5VAMs9I.png" width="25%" />
+<img src="https://imgur.com/7mktG14.png" width="25%" />
 
 (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="https://www.bookdepository.com/Electric-War-Mike-Winchell/9781250120168?ref=grid-view&qid=1676292144349&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1047799085" rel="nofollow">Buy on Orell Füssli</a> 
 
-### The Story of Inventions, by Anna Claybourne & Adam Larakum
+### Always Inventing, by Tom Matthews
 
 <img src="https://i.imgur.com/5VAMs9I.png" width="25%" />
-
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034259395" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### The Story of Inventions, by Anna Claybourne & Adam Larakum
 
@@ -77,7 +76,7 @@
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk2MDY2MzUsMTAzMzY1OTA1LC0xOD
-Q2NTc5MjM0LC04NzI0MTY3ODIsLTE4MDYzNzY4NzEsMTg3MjM4
-NzA3OSw1MzY2NDQzODMsMTgxNTc1LC04MjE3MDczMTNdfQ==
+eyJoaXN0b3J5IjpbNDUyNDk2MjU4LDEwMzM2NTkwNSwtMTg0Nj
+U3OTIzNCwtODcyNDE2NzgyLC0xODA2Mzc2ODcxLDE4NzIzODcw
+NzksNTM2NjQ0MzgzLDE4MTU3NSwtODIxNzA3MzEzXX0=
 -->
