@@ -46,17 +46,23 @@
 
 <img src="https://imgur.com/hfYkPj5.png" width="25%" />
   
+(Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034259395" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### The Industrial Revolution, by Carla Mooney
 
 <img src="https://imgur.com/5nuDxRy.png" width="25%" />
 
+(Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+
 <a href="https://www.bookdepository.com/INDUSTRIAL-REVOLUTION-Carla-Mooney/9781936313808?ref=grid-view&qid=1676292507172&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1017695862" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### The Way Things Work Now, by David Macaulay
 <img src="https://imgur.com/sXTHCbH.png" width="25%" />
+
+(Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="https://www.bookdepository.com/Way-Things-Work-Now-David-Macaulay/9780241227930?ref=grid-view&qid=1676292599992&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038877052" rel="nofollow">Buy on Orell Füssli</a> 
@@ -65,6 +71,8 @@
 
 <img src="https://imgur.com/UORqWD1.png" width="25%" />
 
+(Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+
 <a href="https://www.bookdepository.com/Photos-Framed-Fresh-Look-at-the-Worlds-Most-Memorable-Photographs-Ruth-Thomson-Various/9780763671549" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1032835248" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -72,10 +80,12 @@
 
 <img src="https://imgur.com/ez6nFmM.png" width="25%" />
 
+(Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+
 <a href="https://www.bookdepository.com/DK-Eyewitness-Books-Invention-Lionel-Bender/9781465409010?ref=grid-view&qid=1676292907960&sr=1-31" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1027106757" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzY1NjYyNywxMDMzNjU5MDUsLTE4ND
-Y1NzkyMzQsLTg3MjQxNjc4MiwtMTgwNjM3Njg3MSwxODcyMzg3
-MDc5LDUzNjY0NDM4MywxODE1NzUsLTgyMTcwNzMxM119
+eyJoaXN0b3J5IjpbMjc2Nzc4ODA4LDEwMzM2NTkwNSwtMTg0Nj
+U3OTIzNCwtODcyNDE2NzgyLC0xODA2Mzc2ODcxLDE4NzIzODcw
+NzksNTM2NjQ0MzgzLDE4MTU3NSwtODIxNzA3MzEzXX0=
 -->
