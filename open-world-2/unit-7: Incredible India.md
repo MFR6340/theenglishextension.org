@@ -48,13 +48,11 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 
 ### Slumdog Millionaire, by Paul Shipton
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/KSjD5tJ.png" width="25%" />
 
 summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
-
+<a href="https://www.bookdepository.com/Slumdog-Millionaire-Paul-Shipton/9781905775903?ref=grid-view&qid=1676293950761&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
 
 ### Title here, by author here
 
@@ -65,6 +63,6 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzMzAyMDUyLC0xMjEwMDQ5ODIxLDEwNj
-I2MzUyMjksLTE3MTc3NDY0ODVdfQ==
+eyJoaXN0b3J5IjpbMTAxMTg1OTg1MywtMTIxMDA0OTgyMSwxMD
+YyNjM1MjI5LC0xNzE3NzQ2NDg1XX0=
 -->
