@@ -27,14 +27,13 @@
 
 ### Hacker, by Malorie Blackman
 
-<img src="https://i.imgur.com/5VAMs9I.png" width="25%" />
+<img src="https://imgur.com/YZZxZ9y.png" width="25%" />
 
 (Lexile 620L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Hacker-Malorie-Blackman/9780552551649?ref=grid-view&qid=1676292015043&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-### The Story of Inventions, by Anna Claybourne & Adam Larakum
+### The Electric War, by Mike Winchell
 
 <img src="https://i.imgur.com/5VAMs9I.png" width="25%" />
 
@@ -76,7 +75,7 @@
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxNzA4ODM5LDEwMzM2NTkwNSwtMTg0Nj
-U3OTIzNCwtODcyNDE2NzgyLC0xODA2Mzc2ODcxLDE4NzIzODcw
-NzksNTM2NjQ0MzgzLDE4MTU3NSwtODIxNzA3MzEzXX0=
+eyJoaXN0b3J5IjpbMjA1Mzg5MDk1NiwxMDMzNjU5MDUsLTE4ND
+Y1NzkyMzQsLTg3MjQxNjc4MiwtMTgwNjM3Njg3MSwxODcyMzg3
+MDc5LDUzNjY0NDM4MywxODE1NzUsLTgyMTcwNzMxM119
 -->
