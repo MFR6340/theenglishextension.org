@@ -17,17 +17,18 @@
 <a href="https://www.bookdepository.com/Invention-Hugo-Cabret-Brian-Selznick/9781407103488?ref=grid-view&qid=1676291578259&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021647391" rel="nofollow">Buy on Orell Füssli</a> 
 
-### The Story of Inventions, by Anna Claybourne & Adam Larakum
+### Cool Stuff and How it Works, Luke Collins
 
 <img src="https://i.imgur.com/5VAMs9I.png" width="25%" />
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
-### The Story of Inventions, by Anna Claybourne & Adam Larakum
+### Hacker, by Malorie Blackman
 
 <img src="https://i.imgur.com/5VAMs9I.png" width="25%" />
 
+(Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -73,7 +74,7 @@
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzY1OTA1LC0xODQ2NTc5MjM0LC04Nz
-I0MTY3ODIsLTE4MDYzNzY4NzEsMTg3MjM4NzA3OSw1MzY2NDQz
-ODMsMTgxNTc1LC04MjE3MDczMTNdfQ==
+eyJoaXN0b3J5IjpbLTcwNjQ3NzUwNywxMDMzNjU5MDUsLTE4ND
+Y1NzkyMzQsLTg3MjQxNjc4MiwtMTgwNjM3Njg3MSwxODcyMzg3
+MDc5LDUzNjY0NDM4MywxODE1NzUsLTgyMTcwNzMxM119
 -->
