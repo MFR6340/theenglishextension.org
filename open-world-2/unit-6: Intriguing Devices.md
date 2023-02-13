@@ -37,8 +37,11 @@
 
 <img src="https://i.imgur.com/5VAMs9I.png" width="25%" />
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+(Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+
+
+<a href="https://www.bookdepository.com/Electric-War-Mike-Winchell/9781250120168?ref=grid-view&qid=1676292144349&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1047799085" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### The Story of Inventions, by Anna Claybourne & Adam Larakum
 
@@ -75,7 +78,7 @@
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1Mzg5MDk1NiwxMDMzNjU5MDUsLTE4ND
+eyJoaXN0b3J5IjpbLTM4OTk0OTAxNywxMDMzNjU5MDUsLTE4ND
 Y1NzkyMzQsLTg3MjQxNjc4MiwtMTgwNjM3Njg3MSwxODcyMzg3
 MDc5LDUzNjY0NDM4MywxODE1NzUsLTgyMTcwNzMxM119
 -->
