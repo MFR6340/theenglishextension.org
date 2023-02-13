@@ -25,7 +25,7 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <img src="https://imgur.com/F5RchNv.png" width="25%" />
 
-(Lexile 1110L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+(Lexile 1110L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>)
 
 <a href="https://www.bookdepository.com/Chew-on-This-Dr-Charles-Wilson/9780618593941?ref=grid-view&qid=1674908155890&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002859046" rel="nofollow">Buy on Orell Füssli</a> 
@@ -34,20 +34,28 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <img src="https://imgur.com/JerfxFx.png" width="25%" />
 
-(No Lexile measure available)
+(No Lexile measure availablesummary here.  (Lexile Ll
 
 <a href="https://www.bookdepository.com/Eat-This-Andrea-Curtis-Peggy-Collins/9780889955325" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037393229" rel="nofollow">Buy on Orell Füssli</a> 
 
+### Your Food is Fooling You, by David A.Kessler
+
+<img src="https://imgur.com/RRXPgcs.png" width="25%" />
+
+ )
+
+<a href="https://www.bookdepository.com/Your-Food-Is-Fooling-You-David-Kessler/9781596438316?ref=grid-view&qid=1674908352756&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1023704754" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Trust the Grind, by Jeremy Bhandari
 <img src="https://imgur.com/TyTZs4o.png" width="25%" />
 
-(No Lexile measure available )
+(No Lexile measure availableevel       )
 
 <a href="https://www.bookdepository.com/Trust-the-Grind-Jeremy-Bhandari/9781642502442" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056274723" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTU4MTgxOTcsMTg3NDI0OTEzNSw1OD
-I0ODcyNzBdfQ==
+eyJoaXN0b3J5IjpbOTMxNTA5OTAyLC0xMDU1ODE4MTk3LDE4Nz
+QyNDkxMzUsNTgyNDg3MjcwXX0=
 -->
