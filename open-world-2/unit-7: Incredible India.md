@@ -8,11 +8,11 @@
 
 <img src="imgurlinkhere.png" width="25%" />
 
-summary here.  (Lexile measure     )
+summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTAwNDk4MjEsMTA2MjYzNTIyOSwtMT
-cxNzc0NjQ4NV19
+eyJoaXN0b3J5IjpbLTM1MDExNTQ4NiwtMTIxMDA0OTgyMSwxMD
+YyNjM1MjI5LC0xNzE3NzQ2NDg1XX0=
 -->
