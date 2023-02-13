@@ -19,14 +19,14 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 
 <a href="https://www.bookdepository.com/Times-Peril-Dodo-Press-G-Henty/9781406562231?ref=grid-view&qid=1676293339691&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
-### Title here, by author here
+### Owls in the Family, by Ruskin Bond
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/aN2yFRJ.png" width="25%" />
 
 summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/OWLS-FAMILY-Ruskin-Bond/9788129149893?ref=grid-view&qid=1676293519491&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051012655" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 ### Title here, by author here
@@ -68,6 +68,6 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTk2MTE0OCwtMTIxMDA0OTgyMSwxMD
+eyJoaXN0b3J5IjpbMTAzODQ2NTA1MCwtMTIxMDA0OTgyMSwxMD
 YyNjM1MjI5LC0xNzE3NzQ2NDg1XX0=
 -->
