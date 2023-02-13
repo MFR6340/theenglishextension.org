@@ -44,7 +44,7 @@
 
 ### Always Inventing, by Tom Matthews
 
-<img src="https://i.imgur.com/5VAMs9I.png" width="25%" />
+<img src="https://imgur.com/hfYkPj5.png" width="25%" />
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034259395" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -76,7 +76,7 @@
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyNDk2MjU4LDEwMzM2NTkwNSwtMTg0Nj
+eyJoaXN0b3J5IjpbNTMxMjMzMTE2LDEwMzM2NTkwNSwtMTg0Nj
 U3OTIzNCwtODcyNDE2NzgyLC0xODA2Mzc2ODcxLDE4NzIzODcw
 NzksNTM2NjQ0MzgzLDE4MTU3NSwtODIxNzA3MzEzXX0=
 -->
