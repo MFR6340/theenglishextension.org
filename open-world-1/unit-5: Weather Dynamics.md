@@ -18,7 +18,7 @@ Strongly recommend the movie by the same name.
 
 ### DK Weather, by John Farndon
 
-<img src="https://i.imgur.com/VXPAjuOWYZeKh3.png" width="25%" />
+<img src="https://imgur.com/nnm8S0R.png" width="25%" />
 
 An incredibly comprehensive weather book which is fantastic both for older kids and even adults.  (Lexile IG1110L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>summary here.  (Lexile level )
 
@@ -56,9 +56,9 @@ Written in the style of Terry Deary of Horrible Histories fame, this book explai
 Certainly one of the most exciting parts of a storm is watching lightening crack across the sky.  Visit  [Technorama](https://www.technorama.ch/en/home), the science center in Wintertur, Zurich, and see how lightening is formed. Performances are at 11.30 and 14.30.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzcxOTA1MSwtMTU1MDM0OTQyMywtMT
-E0MDMxNTU4MywtOTYxMzc0NjAxLDk4MzM0NzMzMSw3NjMxMDQ0
-MzYsMTMxNzg5OTk0OSwtNDk0Mzg0NjQ2LC00NTMwMTY1ODgsMT
-E3MDUyNjE5NSwxMzQ1NDM0MTI0LC0xMDA4MDAxMjQwLC03NDQy
-NTI1MTZdfQ==
+eyJoaXN0b3J5IjpbMjkwNTI4MzAwLC0xNTUwMzQ5NDIzLC0xMT
+QwMzE1NTgzLC05NjEzNzQ2MDEsOTgzMzQ3MzMxLDc2MzEwNDQz
+NiwxMzE3ODk5OTQ5LC00OTQzODQ2NDYsLTQ1MzAxNjU4OCwxMT
+cwNTI2MTk1LDEzNDU0MzQxMjQsLTEwMDgwMDEyNDAsLTc0NDI1
+MjUxNl19
 -->
