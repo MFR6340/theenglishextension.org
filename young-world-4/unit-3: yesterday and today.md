@@ -39,9 +39,9 @@ A story of the Canadian gold rush told by 13 year old Tim, who heads out with hi
 The chimney sweep is a job from times gone by.  For those who prefer fiction to non-fiction, this is a fun book to read and compare to the more familiar movie.  (Lexile 830L )  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 
-<a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
+<a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-" rel="nofollow"> Buy on BookDepository</a>
 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005058189" rel="nofollow">Buy on Orell Füssli</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
 
 
 
@@ -58,27 +58,43 @@ Newbery Award Winner, this story about a boy named Robin is set in the 14th Cent
 
 <img src="https://imgur.com/53YvdAS.png" width="25%" />
 
-It's one of the shortest books to win the Newbery Medal, so it won't take long to read this beautiful tale of family in rural America in the 1800s.  Written from the perspective of the boy, it describes what happens after his mother dies and his the father advertises for a mail order bride.  A wonderful story of starting a new life while still remembering the old one.   (Lexile 660L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+It's one of the shortest books to win the Newbery Medal, so it won't take long to read this beautiful tale of family in rural America in the 1800s.  Written from the perspective of the boy, it describes what happens after his mother dies and his the father advertises for a mail order bride.  A wonderful story of starting a new life while still remembering the old one.   (Lexile 660L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>.   eile 
 
 <a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=16744&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
 
-### Terrible Tudors, by Terry Deary
+### Terrible Tudors, by Ter
 
 <img src="https://i.imgur.com/JovaVRX.png" width="25%" />
 
 Honestly, any of the books in the Horrible Histories series serve as a funny and sometimes gory non-fiction introduction to an interesting period in history. If you like this one, get the whole series.  (840L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
+<a href="https://www.bookdepository.com/The-Telegram-Philippa-Werry/9780473462826" rel="nofollow"> Buy on BookDepository</a>
+ 
+### Dangerous Days in Elizabethan England, by Terry Deary
 
-<a href="https://www.bookdepository.com/Terrible-Tudors-Terry-Deary/9781407104898?ref=grid-view&qid=1675094181535&sr=1-4" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1007307425" rel="nofollow">Buy on  Orell Füssli</a>
+<img src="https://imgur.com/qcFwwBW.png" width="25%" />
+
+
+
+<a href="https://www.bookdepository.com/Terrible-Tudors-Terry-Deary/9781407104898?ref=grid-view&qid=1675094181535&sr=1-413" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A100730742536886384" rel="nofollow">Buy on  Orell Füssli</a>
+
+
+### Soup, by Robert Newton Peckry Deary
+
+<img src="https://imgur.com/eDd7MVX.png" width="25%" />
+
+First book in a hilarious series about the author's life growing up in the Vermont (USA) countryside in the 1920's with his friend, who was nicknamed Soup.  A story of friendship, crazy antics and times gone by.  (Lexile 740L)   <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+
+<a href="https://www.bookdepository.com/Dangerous-Days-on-Victorian-Railways-Terry-Deary/9781780226361?ref=grid-view&qid=1674491074938&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034790323" rel="nofollow">Buy on  Orell Füssli</a>
 
 
 ### Soup, by Robert Newton Peck
 
 <img src="https://imgur.com/eDd7MVX.png" width="25%" />
 
-First book in a hilarious series about the author's life growing up in the Vermont (USA) countryside in the 1920's with his friend, who was nicknamed Soup.  A story of friendship, crazy antics and times gone by.  (Lexile 740L)   <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
@@ -87,11 +103,11 @@ First book in a hilarious series about the author's life growing up in the Vermo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MTA3MDYwNiwtMTYxNzc3NDQxNCwtOD
-EyNTI4NjcwLDE5NDkyODEwMTAsLTIwOTExNTUzNzQsLTc1Mjg0
-NzA0OSwxNzUwNzE0NzYwLDkxODAxODc5NiwtMjA5MTMxMzczMC
-w1Mzc1MzkzMzEsMzc4OTM1OTMzLDIwMTcwNDg1NjcsMzA0Mjky
-MDQ1LDUwMTM4NjYxNywyNzgxMzEzODksLTg2MDUxODU2OCwxNT
-g2ODkyMzg1LC02MzIyMDA0NjgsMTEyMzgyNjc1OCwxMjczMTgy
-Nzc4XX0=
+eyJoaXN0b3J5IjpbMTQ0Mzg0MTMyNCwxNDgxMDcwNjA2LC0xNj
+E3Nzc0NDE0LC04MTI1Mjg2NzAsMTk0OTI4MTAxMCwtMjA5MTE1
+NTM3NCwtNzUyODQ3MDQ5LDE3NTA3MTQ3NjAsOTE4MDE4Nzk2LC
+0yMDkxMzEzNzMwLDUzNzUzOTMzMSwzNzg5MzU5MzMsMjAxNzA0
+ODU2NywzMDQyOTIwNDUsNTAxMzg2NjE3LDI3ODEzMTM4OSwtOD
+YwNTE4NTY4LDE1ODY4OTIzODUsLTYzMjIwMDQ2OCwxMTIzODI2
+NzU4XX0=
 -->
