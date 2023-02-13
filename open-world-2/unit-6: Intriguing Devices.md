@@ -19,16 +19,16 @@
 
 ### Cool Stuff and How it Works, Luke Collins
 
-<img src="https://i.imgur.com/5VAMs9I.png" width="25%" />
+<img src="https://imgur.com/wmXWqKx.png" width="25%" />
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+(Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1007747948" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### Hacker, by Malorie Blackman
 
 <img src="https://i.imgur.com/5VAMs9I.png" width="25%" />
 
-(Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+(Lexile 620L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -74,7 +74,7 @@
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjQ3NzUwNywxMDMzNjU5MDUsLTE4ND
+eyJoaXN0b3J5IjpbLTc4MDI2MzIyMSwxMDMzNjU5MDUsLTE4ND
 Y1NzkyMzQsLTg3MjQxNjc4MiwtMTgwNjM3Njg3MSwxODcyMzg3
 MDc5LDUzNjY0NDM4MywxODE1NzUsLTgyMTcwNzMxM119
 -->
