@@ -38,12 +38,12 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 
 ### Children of India, by Ruskin Bond
 
-<img src="imgurlinkhere.png" width="25%" />
+<img src="https://imgur.com/dWY8d2A.png" width="25%" />
 
 summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/CHILDREN-INDIA-Ruskin-Bond/9788129147967?ref=grid-view&qid=1676293808988&sr=1-10" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046785386" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 ### Title here, by author here
@@ -65,6 +65,6 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTMwNDQ5NzEsLTEyMTAwNDk4MjEsMT
-A2MjYzNTIyOSwtMTcxNzc0NjQ4NV19
+eyJoaXN0b3J5IjpbMTgzODczODY2NiwtMTIxMDA0OTgyMSwxMD
+YyNjM1MjI5LC0xNzE3NzQ2NDg1XX0=
 -->
