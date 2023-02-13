@@ -46,7 +46,7 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046785386" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-### Title here, by author here
+### Slumdog Millionaire, by Paul Shipton
 
 <img src="imgurlinkhere.png" width="25%" />
 
@@ -65,6 +65,6 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODczODY2NiwtMTIxMDA0OTgyMSwxMD
-YyNjM1MjI5LC0xNzE3NzQ2NDg1XX0=
+eyJoaXN0b3J5IjpbMjYzMzAyMDUyLC0xMjEwMDQ5ODIxLDEwNj
+I2MzUyMjksLTE3MTc3NDY0ODVdfQ==
 -->
