@@ -55,12 +55,11 @@
 <a href="https://www.bookdepository.com/INDUSTRIAL-REVOLUTION-Carla-Mooney/9781936313808?ref=grid-view&qid=1676292507172&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1017695862" rel="nofollow">Buy on Orell Füssli</a> 
 
-### The Story of Inventions, by Anna Claybourne & Adam Larakum
+### The Way Things Work Now, by David Macaulay
+<img src="https://imgur.com/sXTHCbH.png" width="25%" />
 
-<img src="https://i.imgur.com/5VAMs9I.png" width="25%" />
-
-<a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
-<a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.bookdepository.com/Way-Things-Work-Now-David-Macaulay/9780241227930?ref=grid-view&qid=1676292599992&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038877052" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### The Story of Inventions, by Anna Claybourne & Adam Larakum
 
@@ -76,7 +75,7 @@
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQzNDQ4MDYsMTAzMzY1OTA1LC0xOD
-Q2NTc5MjM0LC04NzI0MTY3ODIsLTE4MDYzNzY4NzEsMTg3MjM4
-NzA3OSw1MzY2NDQzODMsMTgxNTc1LC04MjE3MDczMTNdfQ==
+eyJoaXN0b3J5IjpbMTg0NjQwMzA3MiwxMDMzNjU5MDUsLTE4ND
+Y1NzkyMzQsLTg3MjQxNjc4MiwtMTgwNjM3Njg3MSwxODcyMzg3
+MDc5LDUzNjY0NDM4MywxODE1NzUsLTgyMTcwNzMxM119
 -->
