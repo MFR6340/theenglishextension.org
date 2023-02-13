@@ -29,8 +29,7 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051012655" rel="nofollow">Buy on Orell Füssli</a> 
 
 
-### Title here, by author here
-
+### The Diplomat’s Travel Guide to Festivals, Holidays, and Celebrations in India
 <img src="imgurlinkhere.png" width="25%" />
 
 summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
@@ -68,6 +67,6 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 <a href="bookdepository link here" rel="nofollow"> Buy on BookDepository</a>  
 <a href="orell fussli link here" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODQ2NTA1MCwtMTIxMDA0OTgyMSwxMD
-YyNjM1MjI5LC0xNzE3NzQ2NDg1XX0=
+eyJoaXN0b3J5IjpbLTEzMTk1OTQ5NzAsLTEyMTAwNDk4MjEsMT
+A2MjYzNTIyOSwtMTcxNzc0NjQ4NV19
 -->
