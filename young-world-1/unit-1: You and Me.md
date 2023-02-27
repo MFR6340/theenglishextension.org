@@ -50,7 +50,7 @@ It's great to learn a little bit about a lot of countries, but it is also import
 
 <img src="https://imgur.com/6zAmwpH.png" width="25%"/>
 
-A great introduction to Irish History written and illustrated for young readers. In just about 100 pages, readers are taken from the Prehistoric Time in Ireland through Modern Day. Easy to read and full of fun facts.
+A great introduction to Irish history written and illustrated for young readers. In just about 100 pages, readers are taken from the Prehistoric Time in Ireland through Modern Day. Easy to read and full of fun facts.
 
 <a href="https://www.bookdepository.com/Story-Ireland-Brendan-OBrien/9781847171849?ref=grid-view&qid=1665848988287&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1013487989" rel="nofollow">Buy on Orell Füssli</a>
@@ -61,7 +61,7 @@ A great introduction to Irish History written and illustrated for young readers.
 
 <img src="https://imgur.com/OUUlfCh.png" width="25%" />
 
-The story, written in the form of a poem, explores the homesick feelings of a young woman who has traveled extensively with her family in Australia with her family. Feelings of home sickness. A poem about Australia and about nature, the reader is challenged to think about their own home, wherever that may be, and how to appreciate all the little things that make it home. 
+The story, written in the form of a poem, explores the homesick feelings of a young woman who has traveled extensively with her family in Australia.  It shows how to appreciate all the little things that make a place home. 
 
 <a href="https://www.bookdepository.com/My-Country-Dorothea-MacKellar/9781743837702?ref=grid-view&qid=1665849509446&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 
@@ -100,9 +100,10 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDUzMTkyNiwtMjAzMjExMjc5MCwtMT
-I5OTQwMTE1OSwtMTI5MjE3NzA3MywxNTU3OTE2ODM3LC0zMTc3
-NTAwMzcsODg2NDM0MDM3LDY3NDY2ODYzNCwtNTM2MTAxNjY1LC
-0yMDM4MTczMDkxLDEwMjAxNzc3MzQsNDI1MTk3MDc4LDU2MjUy
-MzYxMCwxODc2NzIzNDYsLTkwODYxNzAsLTU4MTQ3NzU5MF19
+eyJoaXN0b3J5IjpbLTEyMDI5NjczMzksLTIwMzIxMTI3OTAsLT
+EyOTk0MDExNTksLTEyOTIxNzcwNzMsMTU1NzkxNjgzNywtMzE3
+NzUwMDM3LDg4NjQzNDAzNyw2NzQ2Njg2MzQsLTUzNjEwMTY2NS
+wtMjAzODE3MzA5MSwxMDIwMTc3NzM0LDQyNTE5NzA3OCw1NjI1
+MjM2MTAsMTg3NjcyMzQ2LC05MDg2MTcwLC01ODE0Nzc1OTBdfQ
+==
 -->
