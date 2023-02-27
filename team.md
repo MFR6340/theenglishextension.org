@@ -7,7 +7,6 @@ Megan has a M.Ed. Language and Literacy from Harvard, a M.Ed. in Elementary Educ
 Theresa lives in Rotkreuz  (ZG ) with her husband and two children. She holds a BEd, a diploma as a Primary Teacher from New Zealand, as well as CELTA Certification. She is a private English tutor and has taught all levels of primary school in New Zealand, the UK , & Switzerland.  
 
 
-
 **Sylvia Nadig**
 Sylvia has been the Head of the Department of Foreign Languages and a Lecturer for English Methodology at the Pädagogische Hochschule Zug since 2004. She has also years of experience as a teacher of English and French. Sylvia is focusing on the topic of supporting English-speaking students during their English lessons at the local primary schools and knows the coursebook Young World inside out. She has also had the opportunity to compare other education systems and has been a visiting scholar at the University of Pennsylvania in Philadelphia, USA, the University of Washington in Seattle, USA as well as at Deakin University in Melbourne, Australia. She lives with her family in Cham (ZG).
 
@@ -37,9 +36,10 @@ Stormy currently runs the English Mentoring Program for the primary schools of t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczOTIyODkyLC0xMjQwOTU1MzEyLDEwOD
-AwNTYwNDUsLTExNTU5NzcxOSw5NjI2NDU1MjAsLTEzNjU3NTA4
-MjIsLTE4MzEyOTQ4MTQsMjExNTMzMjM5NiwyMzE2NzQ0NjQsLT
-IwNTAxOTE4MDgsLTEwMjQyNjQ1MjIsLTEwNzQ3NDYyMTMsLTEw
-Mzc0MDM5NTQsMTM4NDM1NDA2NSwxMTMxNDg0MjgzXX0=
+eyJoaXN0b3J5IjpbLTU1MjM3NDQ5OCwzNzM5MjI4OTIsLTEyND
+A5NTUzMTIsMTA4MDA1NjA0NSwtMTE1NTk3NzE5LDk2MjY0NTUy
+MCwtMTM2NTc1MDgyMiwtMTgzMTI5NDgxNCwyMTE1MzMyMzk2LD
+IzMTY3NDQ2NCwtMjA1MDE5MTgwOCwtMTAyNDI2NDUyMiwtMTA3
+NDc0NjIxMywtMTAzNzQwMzk1NCwxMzg0MzU0MDY1LDExMzE0OD
+QyODNdfQ==
 -->
