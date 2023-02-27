@@ -61,7 +61,7 @@ A great introduction to Irish History written and illustrated for young readers.
 
 <img src="https://imgur.com/OUUlfCh.png" width="25%" />
 
-The story, written in the form of a poem, explores the homesick feelings of a young woman who has travelled extensively with her family in Australia withand her family. Teelings of home sickness. A poem about Australia and about nature, the reader is challenged to think about their own home, wherever that may be, and how to appreciate all the little things that make it home. 
+The story, written in the form of a poem, explores the homesick feelings of a young woman who has traveled extensively with her family in Australia with her family. Feelings of home sickness. A poem about Australia and about nature, the reader is challenged to think about their own home, wherever that may be, and how to appreciate all the little things that make it home. 
 
 <a href="https://www.bookdepository.com/My-Country-Dorothea-MacKellar/9781743837702?ref=grid-view&qid=1665849509446&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 
@@ -100,9 +100,9 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI0NzY4MjQ5LC0yMDMyMTEyNzkwLC0xMj
-k5NDAxMTU5LC0xMjkyMTc3MDczLDE1NTc5MTY4MzcsLTMxNzc1
-MDAzNyw4ODY0MzQwMzcsNjc0NjY4NjM0LC01MzYxMDE2NjUsLT
-IwMzgxNzMwOTEsMTAyMDE3NzczNCw0MjUxOTcwNzgsNTYyNTIz
-NjEwLDE4NzY3MjM0NiwtOTA4NjE3MCwtNTgxNDc3NTkwXX0=
+eyJoaXN0b3J5IjpbLTkzNDUzMTkyNiwtMjAzMjExMjc5MCwtMT
+I5OTQwMTE1OSwtMTI5MjE3NzA3MywxNTU3OTE2ODM3LC0zMTc3
+NTAwMzcsODg2NDM0MDM3LDY3NDY2ODYzNCwtNTM2MTAxNjY1LC
+0yMDM4MTczMDkxLDEwMjAxNzc3MzQsNDI1MTk3MDc4LDU2MjUy
+MzYxMCwxODc2NzIzNDYsLTkwODYxNzAsLTU4MTQ3NzU5MF19
 -->
