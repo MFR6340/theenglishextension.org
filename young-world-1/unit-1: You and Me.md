@@ -18,7 +18,7 @@ Provides information on the colors, designs and shapes of the flags of the world
 
 <img src="https://imgur.com/9gwygEh.png" width="25%" />
 
-Meet kids from 84 countries around the world from Australia to Zambezi.  See where they live and what they do.  
+Meet kids from 84 countries around the world from Australia to Africa.  See where they live and what they do.  
 
 <a href="https://www.bookdepository.com/Lonely-Planet-Kids-This-Is-My-World-Lonely-Planet-Kids/9781787012943?ref=grid-view&qid=1664279444882&sr=1-7" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1047548315" rel="nofollow">Buy on Orell Füssli</a>
@@ -94,10 +94,10 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjU4NDg4NjcsLTIwMzIxMTI3OTAsLT
-EyOTk0MDExNTksLTEyOTIxNzcwNzMsMTU1NzkxNjgzNywtMzE3
-NzUwMDM3LDg4NjQzNDAzNyw2NzQ2Njg2MzQsLTUzNjEwMTY2NS
-wtMjAzODE3MzA5MSwxMDIwMTc3NzM0LDQyNTE5NzA3OCw1NjI1
-MjM2MTAsMTg3NjcyMzQ2LC05MDg2MTcwLC01ODE0Nzc1OTBdfQ
-==
+eyJoaXN0b3J5IjpbNzE5NDg1ODM1LC0xNDI1ODQ4ODY3LC0yMD
+MyMTEyNzkwLC0xMjk5NDAxMTU5LC0xMjkyMTc3MDczLDE1NTc5
+MTY4MzcsLTMxNzc1MDAzNyw4ODY0MzQwMzcsNjc0NjY4NjM0LC
+01MzYxMDE2NjUsLTIwMzgxNzMwOTEsMTAyMDE3NzczNCw0MjUx
+OTcwNzgsNTYyNTIzNjEwLDE4NzY3MjM0NiwtOTA4NjE3MCwtNT
+gxNDc3NTkwXX0=
 -->
