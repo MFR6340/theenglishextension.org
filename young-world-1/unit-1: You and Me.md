@@ -66,16 +66,6 @@ The story, written in the form of a poem, explores the homesick feelings of a yo
 <a href="https://www.bookdepository.com/My-Country-Dorothea-MacKellar/9781743837702?ref=grid-view&qid=1665849509446&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
 
 
-
-### A Long Walk to Water, by Linda Sue Park
-
-<img src="https://imgur.com/XP316AM.png" width="25%" />
-
-A short novel based partially on the true story of Salva Dut, who founded the organization Water for South Sudan.   Written from the perspective of two children, the story explores the difficulties of growing up in a modern world where basic human needs like running water are still not available.  ( Lexile 720L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
-
-<a href="https://www.bookdepository.com/Long-Walk-Water-Linda-Sue-Park/9781786074621?ref=grid-view&qid=1673791097815&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1016690177" rel="nofollow"> Buy on Orell Füssli</a> 
-
 ### All About the Philippines: Stories, Songs, Crafts and Games for Kids, by Gidget Roceles Jimenez
 
 <img src="https://imgur.com/vBGZM2T.png" width="25%" />
@@ -110,9 +100,9 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIxMTI3OTAsLTEyOTk0MDExNTksLT
-EyOTIxNzcwNzMsMTU1NzkxNjgzNywtMzE3NzUwMDM3LDg4NjQz
-NDAzNyw2NzQ2Njg2MzQsLTUzNjEwMTY2NSwtMjAzODE3MzA5MS
-wxMDIwMTc3NzM0LDQyNTE5NzA3OCw1NjI1MjM2MTAsMTg3Njcy
-MzQ2LC05MDg2MTcwLC01ODE0Nzc1OTBdfQ==
+eyJoaXN0b3J5IjpbNDI0NzY4MjQ5LC0yMDMyMTEyNzkwLC0xMj
+k5NDAxMTU5LC0xMjkyMTc3MDczLDE1NTc5MTY4MzcsLTMxNzc1
+MDAzNyw4ODY0MzQwMzcsNjc0NjY4NjM0LC01MzYxMDE2NjUsLT
+IwMzgxNzMwOTEsMTAyMDE3NzczNCw0MjUxOTcwNzgsNTYyNTIz
+NjEwLDE4NzY3MjM0NiwtOTA4NjE3MCwtNTgxNDc3NTkwXX0=
 -->
