@@ -10,9 +10,8 @@ On the following pages, you will find English literature which is related to the
 
 The literature lists found here are dynamic. Books will be regularly added or replaced. We welcome your suggestions.
 
-Supplemental booklets covering grammar and spelling are available for each unit by contacting TEEO.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTExNDY2MDAsODAzNDc4MjIyLC0xMz
+eyJoaXN0b3J5IjpbLTIwNjY0NDQ0MjMsODAzNDc4MjIyLC0xMz
 I4MDU0MjY0LC0zMzMyOTY1NzIsLTM2OTk3NjkyOSwtNTMxNDc0
 ODY3LDMzMDY3OTMzM119
 -->
