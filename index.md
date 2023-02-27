@@ -8,6 +8,7 @@ exclude_from_sidebar: true
 The English Extension Organization (TEEO) is a collaboration of experienced teachers from various English-speaking countries who all have children in Swiss state schools. The group is producing materials to provide language development support for English-speaking students which can be used both at school and at home.  
 
 <img src="https://i.imgur.com/msRysTK.png" width="75%" style="display:block;margin-left:auto;margin-right:auto;"/>
+
 In Switzerland, English instruction is a mandatory part of the curriculum.  The grade level at which instruction begins varies from canton to canton, but all students are expected to start learning English at some point during their primary school years.   
 
 We know that it is difficult for teachers to provide special instruction and materials to native English speakers while simultaneously teaching the regular curriculum to the non-native English students.  We aim to support  teachers so that you don't have to scramble around trying to find ideas and reinvent the wheel.  
@@ -21,11 +22,11 @@ We understand that as parents want to make sure that their  children have access
 We believe that literacy is essential and that every child can become a better reader.  We hope this website provides useful information, book lists and resources to provide support for native English learners in the local Swiss schools.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzMzk2MjQ2LDEwNjQ0MjE1NDcsLTIxNj
-g1NDA0NiwxMzU5NjQ3ODgxLC0xMTkxMDk3MDAwLC0xMDgzMzgz
-MTQ0LC04MDAxMzg1NjksMTM0MTY1MjE0NiwtNDI3MzI0MzU1LC
-05NjM1NTQ0NTUsMjA3NjMyMDI2OCwtNDkwNTgwMzc5LC04MTQ3
-MTQ3NTgsLTIwMzQzMDE1NjksLTEwODUwNjM2OTgsLTE2MjQ3ND
-YyNzAsLTEwNTMzOTc0MDEsLTE2MjQ3NDYyNzAsNzMwNTI4ODI4
-LC05NTM4NTQyNzVdfQ==
+eyJoaXN0b3J5IjpbODc3MDI1NDEyLDgyMzM5NjI0NiwxMDY0ND
+IxNTQ3LC0yMTY4NTQwNDYsMTM1OTY0Nzg4MSwtMTE5MTA5NzAw
+MCwtMTA4MzM4MzE0NCwtODAwMTM4NTY5LDEzNDE2NTIxNDYsLT
+QyNzMyNDM1NSwtOTYzNTU0NDU1LDIwNzYzMjAyNjgsLTQ5MDU4
+MDM3OSwtODE0NzE0NzU4LC0yMDM0MzAxNTY5LC0xMDg1MDYzNj
+k4LC0xNjI0NzQ2MjcwLC0xMDUzMzk3NDAxLC0xNjI0NzQ2Mjcw
+LDczMDUyODgyOF19
 -->
