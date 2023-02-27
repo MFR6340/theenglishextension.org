@@ -14,16 +14,16 @@ We know that it is difficult for teachers to provide special instruction and mat
 
 We have developed supplemental booklets which native speakers can use independently in the primary classroom.  We have been compiling a collection of interesting and inspirational books so that teachers can provide supplemental literature for students to read.  Currently, this book list is aligned with the themes  for all of the Young World (Primarschule) and Open World (Sekundarschule) books published by Klett and used in 12 of the German-speaking cantons. We are in the process of developing a similar list for the New World program, also published by Klett, and used in schools in six Swiss cantons.  Those in the French speaking cantons and in Ticino, don't worry, we haven't forgotten you!  We have plans to make literature lists which align to your textbooks, too.  Lesson plans have been developed or are being developed for specific books. 
 
-We understand that as parents want to make sure that their children have access to good, quality literature.  Reading improves vocabulary development, writing skills, analytical abilities, and so much more.  We have spent countless hours identifying quality books that align with the curriculum so that you don't have to.  Currently, the book list contains **over 250 books**, with more being added every day.
+We understand that as parents want to make sure that their  children have access to good, quality literature.  Reading improves vocabulary development, writing skills, analytical abilities, and so much more.  We have spent countless hours identifying quality books that align with the curriculum so that you don't have to.  Currently, the book list contains **over 250 books**, with more being added every day.
 
 We believe that literacy is essential and that every child can become a better reader.  We hope this website provides useful information, book lists and resources to provide support for native English learners in the local Swiss schools.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDQyMTU0NywtMjE2ODU0MDQ2LDEzNT
-k2NDc4ODEsLTExOTEwOTcwMDAsLTEwODMzODMxNDQsLTgwMDEz
-ODU2OSwxMzQxNjUyMTQ2LC00MjczMjQzNTUsLTk2MzU1NDQ1NS
-wyMDc2MzIwMjY4LC00OTA1ODAzNzksLTgxNDcxNDc1OCwtMjAz
-NDMwMTU2OSwtMTA4NTA2MzY5OCwtMTYyNDc0NjI3MCwtMTA1Mz
-M5NzQwMSwtMTYyNDc0NjI3MCw3MzA1Mjg4MjgsLTk1Mzg1NDI3
-NSwtOTUzODU0Mjc1XX0=
+eyJoaXN0b3J5IjpbMTE4MzUwNDAzOSwxMDY0NDIxNTQ3LC0yMT
+Y4NTQwNDYsMTM1OTY0Nzg4MSwtMTE5MTA5NzAwMCwtMTA4MzM4
+MzE0NCwtODAwMTM4NTY5LDEzNDE2NTIxNDYsLTQyNzMyNDM1NS
+wtOTYzNTU0NDU1LDIwNzYzMjAyNjgsLTQ5MDU4MDM3OSwtODE0
+NzE0NzU4LC0yMDM0MzAxNTY5LC0xMDg1MDYzNjk4LC0xNjI0Nz
+Q2MjcwLC0xMDUzMzk3NDAxLC0xNjI0NzQ2MjcwLDczMDUyODgy
+OCwtOTUzODU0Mjc1XX0=
 -->
