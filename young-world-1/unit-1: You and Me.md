@@ -73,6 +73,7 @@ The story, written in the form of a poem, explores the homesick feelings of a yo
 This children’s book includes the history, culture and daily life of families living in the Philippines today. (Lexile 1050L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/All-About-Philippines-Gidget-Roceles-Jimenez/9780804848480?ref=grid-view&qid=1673791475669&sr=1-1" rel="nofollow"> Buy on BookDepository</a> 
+
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1040951756" rel="nofollow"> Buy on Orell Füssli</a>
 
 
@@ -94,10 +95,10 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzNjk3MDA4LDcxOTQ4NTgzNSwtMTQyNT
-g0ODg2NywtMjAzMjExMjc5MCwtMTI5OTQwMTE1OSwtMTI5MjE3
-NzA3MywxNTU3OTE2ODM3LC0zMTc3NTAwMzcsODg2NDM0MDM3LD
-Y3NDY2ODYzNCwtNTM2MTAxNjY1LC0yMDM4MTczMDkxLDEwMjAx
-Nzc3MzQsNDI1MTk3MDc4LDU2MjUyMzYxMCwxODc2NzIzNDYsLT
-kwODYxNzAsLTU4MTQ3NzU5MF19
+eyJoaXN0b3J5IjpbLTE1MTc2MDE4OTAsNDAzNjk3MDA4LDcxOT
+Q4NTgzNSwtMTQyNTg0ODg2NywtMjAzMjExMjc5MCwtMTI5OTQw
+MTE1OSwtMTI5MjE3NzA3MywxNTU3OTE2ODM3LC0zMTc3NTAwMz
+csODg2NDM0MDM3LDY3NDY2ODYzNCwtNTM2MTAxNjY1LC0yMDM4
+MTczMDkxLDEwMjAxNzc3MzQsNDI1MTk3MDc4LDU2MjUyMzYxMC
+wxODc2NzIzNDYsLTkwODYxNzAsLTU4MTQ3NzU5MF19
 -->
