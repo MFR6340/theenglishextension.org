@@ -9,7 +9,7 @@
 
 <img src="https://imgur.com/7nRyPSf.png" width="25%" />
 
-Provides information on the colors, designs and shapes of the flags of the world.
+Provides information on the colors, designs and images of the flags of all the countries of the world.
 
 <a href="https://www.bookdepository.com/Flag-Book-Lonely-Planet-Kids/9781788683098?ref=grid-view&qid=1656069226646&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1054007305" rel="nofollow">Buy on Orell Füssli</a>
@@ -94,10 +94,10 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5NDg1ODM1LC0xNDI1ODQ4ODY3LC0yMD
-MyMTEyNzkwLC0xMjk5NDAxMTU5LC0xMjkyMTc3MDczLDE1NTc5
-MTY4MzcsLTMxNzc1MDAzNyw4ODY0MzQwMzcsNjc0NjY4NjM0LC
-01MzYxMDE2NjUsLTIwMzgxNzMwOTEsMTAyMDE3NzczNCw0MjUx
-OTcwNzgsNTYyNTIzNjEwLDE4NzY3MjM0NiwtOTA4NjE3MCwtNT
-gxNDc3NTkwXX0=
+eyJoaXN0b3J5IjpbNDAzNjk3MDA4LDcxOTQ4NTgzNSwtMTQyNT
+g0ODg2NywtMjAzMjExMjc5MCwtMTI5OTQwMTE1OSwtMTI5MjE3
+NzA3MywxNTU3OTE2ODM3LC0zMTc3NTAwMzcsODg2NDM0MDM3LD
+Y3NDY2ODYzNCwtNTM2MTAxNjY1LC0yMDM4MTczMDkxLDEwMjAx
+Nzc3MzQsNDI1MTk3MDc4LDU2MjUyMzYxMCwxODc2NzIzNDYsLT
+kwODYxNzAsLTU4MTQ3NzU5MF19
 -->
