@@ -28,7 +28,7 @@ Historical fiction - During the winter of 1880-81, the town of DeSmet in the Dak
 
 <img src="https://imgur.com/G7PcSRf.png" width="25%" />
 
-Weather on the same day in 17 different places from the Poles to the equator.   A great way to discuss how both latitut(Lexile AD810L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+Weather on the same day in 17 different places from the Poles to the equator.   A great way to discuss how both latitude and geography affect the weather. (Lexile AD810L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/On-Same-Day-March-Marilyn-Singer/9780064435284?ref=grid-view&qid=1656001703242&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006302447" rel="nofollow">Buy on Orell Füssli</a>
@@ -91,11 +91,11 @@ A useful introduction to all things weather-related with fantastic photographs.
 An extension booklet covering common and proper nouns, conjunctions, homophones, and other grammar and spelling topics has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
 <img src="https://i.imgur.com/e9jsiaz.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwOTg0NzI3LC0xMTkzODc0NjAyLDcwNj
-g5Nzc3NSwxNDA5Nzg5NjI2LDUzMjIwOTIzMCw5ODAzOTQwNzUs
-OTIyNTY0MTQxLDEzMzgyNDY5NzgsMTMwNDQwNTczNiwzNTAxNj
-A3OTQsLTMyNjEzMDc0NywtMzA4Mzg5ODI5LDEyNjczOTQxMTMs
-MzQ2Mzk4NDkxLC0yMTkyODMzMTQsLTg3MTgxMzcwMywxODkwNT
-UxMDE4LDE3ODQwNzM4ODUsODk5MzU3Nzc5LC03NzIzMjQ0MDVd
-fQ==
+eyJoaXN0b3J5IjpbMjQ0ODc1NzEsLTExOTM4NzQ2MDIsNzA2OD
+k3Nzc1LDE0MDk3ODk2MjYsNTMyMjA5MjMwLDk4MDM5NDA3NSw5
+MjI1NjQxNDEsMTMzODI0Njk3OCwxMzA0NDA1NzM2LDM1MDE2MD
+c5NCwtMzI2MTMwNzQ3LC0zMDgzODk4MjksMTI2NzM5NDExMywz
+NDYzOTg0OTEsLTIxOTI4MzMxNCwtODcxODEzNzAzLDE4OTA1NT
+EwMTgsMTc4NDA3Mzg4NSw4OTkzNTc3NzksLTc3MjMyNDQwNV19
+
 -->
