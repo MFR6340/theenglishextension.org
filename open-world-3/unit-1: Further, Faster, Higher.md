@@ -40,7 +40,7 @@
 
 <img src="https://i.imgur.com/xpmy1nB.png" width="25%" />
 
-This book may be off-putting because of its strange title, but it really is a worthwhile r(Lexile 1180L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+This book may be off-putting because of its strange title, but it really is a worthwhile read.  Written by Gary Paulsen, famous for "The Hatchet", this collection of short stories tells of some extreme adventure's from Paulsen's childhood.  (Lexile 1180L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 <a href="https://www.bookdepository.com/How-Angel-Peterson-Got-His-Name-Gary-Paulsen/9780440229353?ref=grid-view&qid=1675183832231&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005962607" rel="nofollow">Buy on Orell Füssli</a> 
 
@@ -79,9 +79,9 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzM2OTk4NDIsLTI5MDg3MTgwMiwxNT
-AyNDA1MzYsMzQ3NjYyNjI4LC0yNzc5MzQ2OTQsODA4MjM0MjM3
-LDE4MDY3ODg1MjksMTgwNjc4ODUyOSwtOTkxMTg5OTAxLC0yNz
-c1ODI3OTksLTkzNTgxNjYxMSwxMTYxOTUxNzAsMTAwMTQzNjg1
-M119
+eyJoaXN0b3J5IjpbOTk2Nzc2ODg4LC0yOTA4NzE4MDIsMTUwMj
+QwNTM2LDM0NzY2MjYyOCwtMjc3OTM0Njk0LDgwODIzNDIzNywx
+ODA2Nzg4NTI5LDE4MDY3ODg1MjksLTk5MTE4OTkwMSwtMjc3NT
+gyNzk5LC05MzU4MTY2MTEsMTE2MTk1MTcwLDEwMDE0MzY4NTNd
+fQ==
 -->
