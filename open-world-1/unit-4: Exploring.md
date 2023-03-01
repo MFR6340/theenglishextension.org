@@ -15,7 +15,7 @@
 
 <img src="https://i.imgur.com/zgYTDtx.png" width="25%" />
 
- (Lexile 800L)   <sup>[what is this?](/resources/Lexile%20measures)</sup>
+First in a series of charming fictional adventures of the Walker family and their friends the Blacketts.  This one takes place over their summer vacation in the Lake District in England a (Lexile 800L)   <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Swallows-Amazons-Arthur-Ransome/9780099503910?ref=grid-view&qid=1675161160944&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003305451" rel="nofollow">Buy on Orell Füssli</a> 
@@ -88,11 +88,11 @@ A big coffee-table book that's nice to dip in and out of.  It's full of fascinat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDIzNTMxLDE1NzA2NTM1NDYsMTI5NT
-k2MzAwMSw2MzIxMjc5MDQsNjAyNDY2MTU2LC01NTQ1OTU5MDcs
-NDg4NjczMjY0LDIyNTY0MTUxOCwtMTU2ODU0OTM1OSw1MTI3Nj
-Q3Miw1ODM2Nzk1NzMsLTE4NDc5MjY1MTQsMTc5OTg1MzYyOSwx
-MDc2NTI4Mzk2LC0xODczMTk2NjgwLDM3MjU4ODQ3LDE5MDg4Nj
-Y4NTMsMTIwMDE4MDE1Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjFd
-fQ==
+eyJoaXN0b3J5IjpbLTE0NjQ0MDU0OTEsMTU3MDY1MzU0NiwxMj
+k1OTYzMDAxLDYzMjEyNzkwNCw2MDI0NjYxNTYsLTU1NDU5NTkw
+Nyw0ODg2NzMyNjQsMjI1NjQxNTE4LC0xNTY4NTQ5MzU5LDUxMj
+c2NDcyLDU4MzY3OTU3MywtMTg0NzkyNjUxNCwxNzk5ODUzNjI5
+LDEwNzY1MjgzOTYsLTE4NzMxOTY2ODAsMzcyNTg4NDcsMTkwOD
+g2Njg1MywxMjAwMTgwMTUzLDQzOTY1MTI5OSwtMTcxMzkzODc2
+MV19
 -->
