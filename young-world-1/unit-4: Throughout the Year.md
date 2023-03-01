@@ -45,7 +45,7 @@ Lots of amazing National Geographic photos of fascinating weather.  (Lexile 950L
 ### Hurricane & Tornado, DK Eyewitness
 <img src="https://imgur.com/8wWCR3V.png" width="25%" />
 
-summary here.  (Lexile 1090L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+The DK Eyewitness books contain lots of facts and amazing photos.  Great for kids at any age-level and for adults, too.  (Lexile 1090L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/DK-Eyewitness-Books-Hurricane-Tornado-Jack-Challoner/9781465420534?ref=grid-view&qid=1656442853663&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1032481893" rel="nofollow">Buy on Orell Füssli</a>
@@ -54,7 +54,7 @@ summary here.  (Lexile 1090L)  <sup>[what is this?](/resources/Lexile%20measures
 
 <img src="https://imgur.com/7xyuvRS.png" width="25%" />
 
-The Magic School Bus books provide a fictional storyline about Ms Frizzle, an eccentric teacher who takes her class on a transforming school bus.   In this book, the class heads . (Lexile 600L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+The Magic School Bus books provide a fictional storyline about Ms Frizzle, an eccentric teacher who takes her class on a transforming school bus.   In this book, the class takes a ride on the bus and experiences a hurricane firsthand. (Lexile 600L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Magic-School-Bus-inside-Hurricane-Joanna-Cole/9780590446877?ref=grid-view&qid=1665847708965&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003335907" rel="nofollow">Buy on Orell Füssli</a>
@@ -91,11 +91,11 @@ A useful introduction to all things weather-related with fantastic photographs.
 An extension booklet covering common and proper nouns, conjunctions, homophones, and other grammar and spelling topics has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
 <img src="https://i.imgur.com/e9jsiaz.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDE0MDI3LC0xMTkzODc0NjAyLDcwNj
-g5Nzc3NSwxNDA5Nzg5NjI2LDUzMjIwOTIzMCw5ODAzOTQwNzUs
-OTIyNTY0MTQxLDEzMzgyNDY5NzgsMTMwNDQwNTczNiwzNTAxNj
-A3OTQsLTMyNjEzMDc0NywtMzA4Mzg5ODI5LDEyNjczOTQxMTMs
-MzQ2Mzk4NDkxLC0yMTkyODMzMTQsLTg3MTgxMzcwMywxODkwNT
-UxMDE4LDE3ODQwNzM4ODUsODk5MzU3Nzc5LC03NzIzMjQ0MDVd
-fQ==
+eyJoaXN0b3J5IjpbLTcxNDQ4OTM2MiwtMTE5Mzg3NDYwMiw3MD
+Y4OTc3NzUsMTQwOTc4OTYyNiw1MzIyMDkyMzAsOTgwMzk0MDc1
+LDkyMjU2NDE0MSwxMzM4MjQ2OTc4LDEzMDQ0MDU3MzYsMzUwMT
+YwNzk0LC0zMjYxMzA3NDcsLTMwODM4OTgyOSwxMjY3Mzk0MTEz
+LDM0NjM5ODQ5MSwtMjE5MjgzMzE0LC04NzE4MTM3MDMsMTg5MD
+U1MTAxOCwxNzg0MDczODg1LDg5OTM1Nzc3OSwtNzcyMzI0NDA1
+XX0=
 -->
