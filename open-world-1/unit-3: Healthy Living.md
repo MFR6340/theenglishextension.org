@@ -25,7 +25,7 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <img src="https://imgur.com/F5RchNv.png" width="25%" />
 
-At 300 pages, this book gives an in depth look at the fast food industry from its founding, to how the food is processed and marketed.  Focused on the United States, but still contains information that is helpful in where we decide to eat our next meal.  The last chapter includes discussion questions and action steps. (Lexile 1110L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+At 300 pages, this book is gives an incredibly in-depth look at the fast food industry from its founding, to how the food is currently processed and marketed.  Focused on the United States, but still contains lots of information that is helpful in deciding where and what we should eat for our next meal on the r.  The last chapter includes discussion questions and action steps. (Lexile 1110L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Chew-on-This-Dr-Charles-Wilson/9780618593941?ref=grid-view&qid=1674908155890&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002859046" rel="nofollow">Buy on Orell Füssli</a> 
@@ -59,7 +59,7 @@ Wander through Migros or Coop grocery store and find a prepackaged food item, be
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NjgxMzIzOSwtMTU4MTU2NjY0LDkzMT
-UwOTkwMiwtMTA1NTgxODE5NywxODc0MjQ5MTM1LDU4MjQ4NzI3
-MF19
+eyJoaXN0b3J5IjpbMTQ3ODkzMDk5MywxNTc2ODEzMjM5LC0xNT
+gxNTY2NjQsOTMxNTA5OTAyLC0xMDU1ODE4MTk3LDE4NzQyNDkx
+MzUsNTgyNDg3MjcwXX0=
 -->
