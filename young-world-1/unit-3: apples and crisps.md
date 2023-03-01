@@ -47,7 +47,7 @@ Considered a classic of children's literature.  In the town of Chewandswallow, t
 
 <img src="https://imgur.com/coj2LrO.png" width="25%" />
 
-A very easy read about three hungry soldiers who convince an unwilling town to make them soup. Based on a European folktale.  (Lexile 550L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+A great lesson on the importance of sharing and cooperation, this easy read about three hungry soldiers who convince an unwilling town to make them soup. Based on a European folktale.  (Lexile 550L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Stone-Soup-Marcia-Brown/9780689711039?ref=grid-view&qid=1654272719571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1028650164" rel="nofollow">Buy on Orell Füssli</a>
@@ -100,7 +100,7 @@ Designed to be used with this unit. Available on request.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjMxNjU1MiwxNzg2MjE5Mjc3LDI1Mj
+eyJoaXN0b3J5IjpbLTYxMDUyMDQ4NiwxNzg2MjE5Mjc3LDI1Mj
 k5NjU1NCwtMTY1OTkyNzgyNSwxODI3NzM2MDQ5LDQwMDMxNjIz
 NSwtODM0NzcwNDk5XX0=
 -->
