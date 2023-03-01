@@ -34,22 +34,16 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <img src="https://imgur.com/JerfxFx.png" width="25%" />
 
-(No Lexile measure availablesummary here.  (Lexile Ll
+(No Lexile measure available) 
 
 <a href="https://www.bookdepository.com/Eat-This-Andrea-Curtis-Peggy-Collins/9780889955325" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037393229" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 
-### Trust the Grind, by Jeremy Bhandari
-<img src="https://imgur.com/TyTZs4o.png" width="25%" />
 
-(No Lexile measure available )
-
-<a href="https://www.bookdepository.com/Trust-the-Grind-Jeremy-Bhandari/9781642502442" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056274723" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTc5MTE5MSwtMTU4MTU2NjY0LDkzMT
+eyJoaXN0b3J5IjpbLTkwMzkwOTk4MSwtMTU4MTU2NjY0LDkzMT
 UwOTkwMiwtMTA1NTgxODE5NywxODc0MjQ5MTM1LDU4MjQ4NzI3
 MF19
 -->
