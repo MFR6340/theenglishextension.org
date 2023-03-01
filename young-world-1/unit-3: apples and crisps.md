@@ -38,7 +38,7 @@ A little girl goes to the store to buy the things she needs to make an apple pie
 
 <img src="https://imgur.com/fQL4dqI.png" width="25%" />
 
-In the town of Chewandswallow, the inhabitants don’t grow food, they get their food three times a day from the sky. Eventually, the weather takes a turn for the worse when the portions get too large and start to destroy the town.  (Lexile AD730L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+Considered a classic of children's literature.  In the town of Chewandswallow, the inhabitants don’t grow food, they get their food three times a day from the sky. Eventually, the weather takes a turn for the worse when the portions get too large and start to destroy the town.  (Lexile AD730L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Cloudy-with-Chance-of-Meatballs-Judith-Barrett/9780590303842" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003420295" rel="nofollow">Buy on Orell Füssli</a>
@@ -100,7 +100,7 @@ Designed to be used with this unit. Available on request.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTk1Mjc3ODksMTc4NjIxOTI3NywyNT
-I5OTY1NTQsLTE2NTk5Mjc4MjUsMTgyNzczNjA0OSw0MDAzMTYy
-MzUsLTgzNDc3MDQ5OV19
+eyJoaXN0b3J5IjpbMTc4MzQ3NjE3NSwxNzg2MjE5Mjc3LDI1Mj
+k5NjU1NCwtMTY1OTkyNzgyNSwxODI3NzM2MDQ5LDQwMDMxNjIz
+NSwtODM0NzcwNDk5XX0=
 -->
