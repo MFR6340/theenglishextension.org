@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/RRXPgcs.png" width="25%" />
 
-This is the teen edition adapted from the adult version Adapted from the adult trade bestseller The End of Overeating, (Lexile 830L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+This is the teen edition adapted from the adult bestseller "The End of Overeating".  It focuses on (Lexile 830L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Your-Food-Is-Fooling-You-David-Kessler/9781596438316?ref=grid-view&qid=1674908352756&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1023704754" rel="nofollow">Buy on Orell Füssli</a> 
@@ -43,7 +43,7 @@ At only 36 pages, this book gives a quick overview into food marketing, advertis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNTc4NTQzNCwtMTU4MTU2NjY0LDkzMT
+eyJoaXN0b3J5IjpbMTU0MDQ2MTg5NCwtMTU4MTU2NjY0LDkzMT
 UwOTkwMiwtMTA1NTgxODE5NywxODc0MjQ5MTM1LDU4MjQ4NzI3
 MF19
 -->
