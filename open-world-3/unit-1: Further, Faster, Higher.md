@@ -49,7 +49,7 @@ This book may be off-putting because of its strange title, but it really is a wo
 ### No Barriers,(YA edition) by Erik Weihenmayer 
 <img src="https://i.imgur.com/O95O5Dk.png" width="25%" />
 
-A blind man kayaks the Grand Canyon (Lexile 1010L)
+Kayaking down the Grand Canyon is quite an adventure with rough currents and large bouldersCan you imagine not being able to see?  A blind man kayaks the Grand Canyon (Lexile 1010L)
 
 <a href="https://www.bookdepository.com/No-Barriers-Young-Adult-Adaptation-Erik-Weihenmayer/9781250206770?ref=grid-view&qid=1674579740096&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1051880195re" rel="nofollow">Buy on Orell Füssli</a> 
@@ -79,9 +79,9 @@ https://alpstein-crossing.ch/en/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2Nzc2ODg4LC0yOTA4NzE4MDIsMTUwMj
-QwNTM2LDM0NzY2MjYyOCwtMjc3OTM0Njk0LDgwODIzNDIzNywx
-ODA2Nzg4NTI5LDE4MDY3ODg1MjksLTk5MTE4OTkwMSwtMjc3NT
-gyNzk5LC05MzU4MTY2MTEsMTE2MTk1MTcwLDEwMDE0MzY4NTNd
-fQ==
+eyJoaXN0b3J5IjpbLTE1Njg4MzkyNDgsLTI5MDg3MTgwMiwxNT
+AyNDA1MzYsMzQ3NjYyNjI4LC0yNzc5MzQ2OTQsODA4MjM0MjM3
+LDE4MDY3ODg1MjksMTgwNjc4ODUyOSwtOTkxMTg5OTAxLC0yNz
+c1ODI3OTksLTkzNTgxNjYxMSwxMTYxOTUxNzAsMTAwMTQzNjg1
+M119
 -->
