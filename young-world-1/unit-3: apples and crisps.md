@@ -93,7 +93,7 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 ## Extension Booklet
 A booklet covering short vowels, plurals anod other grammar and spelling topics has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
 
-<img src="https://i.imgur.com/jvptxBS.png" width="85%" />
+<img src="https://i.imgur.com/jvptxBS.png" width="25%" />
 
 
 
@@ -101,7 +101,7 @@ A booklet covering short vowels, plurals anod other grammar and spelling topics 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTk0NDIwNCwyMDkxMjAyMjMxLDE3OD
+eyJoaXN0b3J5IjpbLTE1NDk5NTk2MiwyMDkxMjAyMjMxLDE3OD
 YyMTkyNzcsMjUyOTk2NTU0LC0xNjU5OTI3ODI1LDE4Mjc3MzYw
 NDksNDAwMzE2MjM1LC04MzQ3NzA0OTldfQ==
 -->
