@@ -50,11 +50,11 @@ summary here.  (Lexile 1090L)  <sup>[what is this?](/resources/Lexile%20measures
 <a href="https://www.bookdepository.com/DK-Eyewitness-Books-Hurricane-Tornado-Jack-Challoner/9781465420534?ref=grid-view&qid=1656442853663&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1032481893" rel="nofollow">Buy on Orell Füssli</a>
 
-### The Magic School Bus, Inside a Hurricane, by Joanna Cole.
+### The Magic School Bus, Inside a Hurricane, by Joanna Cole
 
 <img src="https://imgur.com/7xyuvRS.png" width="25%" />
 
-summary here. (exile 600)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+The Magic School Bus books provide a fictional story about aMs Frizzle, an eccentric teacher and her class, while discussioning summary here. (exile 600)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Magic-School-Bus-inside-Hurricane-Joanna-Cole/9780590446877?ref=grid-view&qid=1665847708965&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003335907" rel="nofollow">Buy on Orell Füssli</a>
@@ -91,11 +91,11 @@ A useful introduction to all things weather-related with fantastic photographs.
 An extension booklet covering common and proper nouns, conjunctions, homophones, and other grammar and spelling topics has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
 <img src="https://i.imgur.com/e9jsiaz.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTQ5OTMzNCwtMTE5Mzg3NDYwMiw3MD
-Y4OTc3NzUsMTQwOTc4OTYyNiw1MzIyMDkyMzAsOTgwMzk0MDc1
-LDkyMjU2NDE0MSwxMzM4MjQ2OTc4LDEzMDQ0MDU3MzYsMzUwMT
-YwNzk0LC0zMjYxMzA3NDcsLTMwODM4OTgyOSwxMjY3Mzk0MTEz
-LDM0NjM5ODQ5MSwtMjE5MjgzMzE0LC04NzE4MTM3MDMsMTg5MD
-U1MTAxOCwxNzg0MDczODg1LDg5OTM1Nzc3OSwtNzcyMzI0NDA1
-XX0=
+eyJoaXN0b3J5IjpbLTIwNjcyMzY0NTgsLTExOTM4NzQ2MDIsNz
+A2ODk3Nzc1LDE0MDk3ODk2MjYsNTMyMjA5MjMwLDk4MDM5NDA3
+NSw5MjI1NjQxNDEsMTMzODI0Njk3OCwxMzA0NDA1NzM2LDM1MD
+E2MDc5NCwtMzI2MTMwNzQ3LC0zMDgzODk4MjksMTI2NzM5NDEx
+MywzNDYzOTg0OTEsLTIxOTI4MzMxNCwtODcxODEzNzAzLDE4OT
+A1NTEwMTgsMTc4NDA3Mzg4NSw4OTkzNTc3NzksLTc3MjMyNDQw
+NV19
 -->
