@@ -94,7 +94,7 @@ Switzerland, world-famous for its clocks and watches, has 7 public museums focus
 [Clock Museums in Switzerland](https://lenews.ch/2020/06/16/explore-the-rich-history-of-swiss-watch-making-in-the-vallee-de-joux/)
 
 ## Extension Booklet
-A booklet covering grammar and spelling has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
+A booklet covering verb tenses, prepositions and other grammar and spelling has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
 <img src="https://i.imgur.com/gFJu87j.png" width="85%" />
 
 
@@ -102,7 +102,7 @@ A booklet covering grammar and spelling has been designed to be used with this u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzkyMjk2Miw4Mjg2MDEyNDEsLTEwMT
+eyJoaXN0b3J5IjpbMTQwMTk2MTQ4Myw4Mjg2MDEyNDEsLTEwMT
 k3Njk4MSwtMTU3NzA3ODQ0MSwxMTIwODM1NjI1LDEwMTYwMzgy
 MTAsLTEyODg4Mzk1OTEsLTIyMTMwMzY4MywxOTg5NjgzMDI2LD
 IwNDUyMDEzNiwxOTcyOTc4MjIzXX0=
