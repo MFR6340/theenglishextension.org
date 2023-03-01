@@ -45,12 +45,12 @@ At only 36 pages, this book gives a quick overview into food marketing, advertis
 
 This book provides the history of hamburgers and other favorite foods including pizza, french fries, ice cream and peanut butter.  Illustrations are fun mid-century drawings that add whimsy to the text.  Read one chapter or read it all.   (No lexile measure available  ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
-<a href="https://www.bookdepository.com/Chew-on-This-Dr-Charles-Wilson/9780618593941?ref=grid-view&qid=1674908155890&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.bookdepository.com/Theres-No-Ham-Hamburgers-Kim-Zachman/9780762498079?ref=grid-view&qid=1677690226805&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002859046" rel="nofollow">Buy on Orell Füssli</a> 
 
 
 ## Supplemental Activity
-Wander through Migros or Coop grocery store and find a pre-packaged food item, be it a ready-made sandwich or soup, or a frozen pizza, or even sushi.  Find a recipe and see if you can make 
+Wander through Migros or Coop grocery store and find a pre-packaged food item, be it a ready-made sandwich or soup, a frozen pizza, or even sushi.  Find a recipe, buy the ingredients, and see if you can make it yourself. Was it cheaper?  Was it better?  
 
 
 
@@ -59,7 +59,7 @@ Wander through Migros or Coop grocery store and find a pre-packaged food item, b
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODY5MjI0NjgsLTIwODI4NjkyMDgsMT
-U3NjgxMzIzOSwtMTU4MTU2NjY0LDkzMTUwOTkwMiwtMTA1NTgx
-ODE5NywxODc0MjQ5MTM1LDU4MjQ4NzI3MF19
+eyJoaXN0b3J5IjpbMTQyMzk3MjgwNiwtMjA4Mjg2OTIwOCwxNT
+c2ODEzMjM5LC0xNTgxNTY2NjQsOTMxNTA5OTAyLC0xMDU1ODE4
+MTk3LDE4NzQyNDkxMzUsNTgyNDg3MjcwXX0=
 -->
