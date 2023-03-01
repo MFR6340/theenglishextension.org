@@ -95,15 +95,15 @@ Switzerland, world-famous for its clocks and watches, has 7 public museums focus
 
 ## Extension Booklet
 A booklet covering grammar and spelling has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
-<img src="https://i.imgur.com/gFJu87j.png" width="25%" />
+<img src="https://i.imgur.com/gFJu87j.png" width="85%" />
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDU5MTAxMzIsODI4NjAxMjQxLC0xMD
-E5NzY5ODEsLTE1NzcwNzg0NDEsMTEyMDgzNTYyNSwxMDE2MDM4
-MjEwLC0xMjg4ODM5NTkxLC0yMjEzMDM2ODMsMTk4OTY4MzAyNi
-wyMDQ1MjAxMzYsMTk3Mjk3ODIyM119
+eyJoaXN0b3J5IjpbMTM0NzkyMjk2Miw4Mjg2MDEyNDEsLTEwMT
+k3Njk4MSwtMTU3NzA3ODQ0MSwxMTIwODM1NjI1LDEwMTYwMzgy
+MTAsLTEyODg4Mzk1OTEsLTIyMTMwMzY4MywxOTg5NjgzMDI2LD
+IwNDUyMDEzNiwxOTcyOTc4MjIzXX0=
 -->
