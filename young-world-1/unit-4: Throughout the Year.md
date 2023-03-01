@@ -54,7 +54,7 @@ summary here.  (Lexile 1090L)  <sup>[what is this?](/resources/Lexile%20measures
 
 <img src="https://imgur.com/7xyuvRS.png" width="25%" />
 
-The Magic School Bus books provide a fictional story about aMs Frizzle, an eccentric teacher and her class, while discussioning summary here. (exile 600)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+The Magic School Bus books provide a fictional storyline about Ms Frizzle, an eccentric teacher who takes her class on a transforming school bus.   In this book, the class heads . (Lexile 600L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Magic-School-Bus-inside-Hurricane-Joanna-Cole/9780590446877?ref=grid-view&qid=1665847708965&sr=1-3" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003335907" rel="nofollow">Buy on Orell Füssli</a>
@@ -91,11 +91,11 @@ A useful introduction to all things weather-related with fantastic photographs.
 An extension booklet covering common and proper nouns, conjunctions, homophones, and other grammar and spelling topics has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
 <img src="https://i.imgur.com/e9jsiaz.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjcyMzY0NTgsLTExOTM4NzQ2MDIsNz
-A2ODk3Nzc1LDE0MDk3ODk2MjYsNTMyMjA5MjMwLDk4MDM5NDA3
-NSw5MjI1NjQxNDEsMTMzODI0Njk3OCwxMzA0NDA1NzM2LDM1MD
-E2MDc5NCwtMzI2MTMwNzQ3LC0zMDgzODk4MjksMTI2NzM5NDEx
-MywzNDYzOTg0OTEsLTIxOTI4MzMxNCwtODcxODEzNzAzLDE4OT
-A1NTEwMTgsMTc4NDA3Mzg4NSw4OTkzNTc3NzksLTc3MjMyNDQw
-NV19
+eyJoaXN0b3J5IjpbLTc5MDE0MDI3LC0xMTkzODc0NjAyLDcwNj
+g5Nzc3NSwxNDA5Nzg5NjI2LDUzMjIwOTIzMCw5ODAzOTQwNzUs
+OTIyNTY0MTQxLDEzMzgyNDY5NzgsMTMwNDQwNTczNiwzNTAxNj
+A3OTQsLTMyNjEzMDc0NywtMzA4Mzg5ODI5LDEyNjczOTQxMTMs
+MzQ2Mzk4NDkxLC0yMTkyODMzMTQsLTg3MTgxMzcwMywxODkwNT
+UxMDE4LDE3ODQwNzM4ODUsODk5MzU3Nzc5LC03NzIzMjQ0MDVd
+fQ==
 -->
