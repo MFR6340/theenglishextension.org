@@ -84,7 +84,7 @@ This children’s book includes the history, culture and daily life of families 
 ## Supplemental Materials
 
 ### Extension Booklet
-A booklet covering grammar and spelling has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
+An extension booklet covering grammar and spelling has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
 
 <img src="https://i.imgur.com/b5coB3O.png" width="25%" />
 
@@ -95,10 +95,11 @@ When we describe ourselves or other people, we usually start with how we look.  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc2MDE4OTAsNDAzNjk3MDA4LDcxOT
-Q4NTgzNSwtMTQyNTg0ODg2NywtMjAzMjExMjc5MCwtMTI5OTQw
-MTE1OSwtMTI5MjE3NzA3MywxNTU3OTE2ODM3LC0zMTc3NTAwMz
-csODg2NDM0MDM3LDY3NDY2ODYzNCwtNTM2MTAxNjY1LC0yMDM4
-MTczMDkxLDEwMjAxNzc3MzQsNDI1MTk3MDc4LDU2MjUyMzYxMC
-wxODc2NzIzNDYsLTkwODYxNzAsLTU4MTQ3NzU5MF19
+eyJoaXN0b3J5IjpbLTI2Njc0ODQ5LC0xNTE3NjAxODkwLDQwMz
+Y5NzAwOCw3MTk0ODU4MzUsLTE0MjU4NDg4NjcsLTIwMzIxMTI3
+OTAsLTEyOTk0MDExNTksLTEyOTIxNzcwNzMsMTU1NzkxNjgzNy
+wtMzE3NzUwMDM3LDg4NjQzNDAzNyw2NzQ2Njg2MzQsLTUzNjEw
+MTY2NSwtMjAzODE3MzA5MSwxMDIwMTc3NzM0LDQyNTE5NzA3OC
+w1NjI1MjM2MTAsMTg3NjcyMzQ2LC05MDg2MTcwLC01ODE0Nzc1
+OTBdfQ==
 -->
