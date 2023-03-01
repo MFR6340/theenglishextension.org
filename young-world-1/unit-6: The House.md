@@ -49,11 +49,10 @@ Explore the structures on many acres of the Ballenberg Open-Air Museum.  It has 
 https://www.ballenberg.ch/en/
 
 ## Extension Booklet
-Designed to be used with this unit. Available on request.
-
+A booklet covering grammar and spelling has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
 <img src="https://i.imgur.com/syadHg4.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjAzOTc3NDAsLTE5MTA2NzM0NCwzNj
+eyJoaXN0b3J5IjpbLTEyOTgyMjQyMzEsLTE5MTA2NzM0NCwzNj
 E3ODI1MiwtMTI5MTMxNTgwMCwyMDk0ODQxMzY4LC0xNDg0NDY5
 MTg4LDIwNDc4NzMwMTUsOTk1MjA2NzA0LDExOTUyNjI3NiwtMT
 E0NDI4Njk4MSwtMTIwMTcxNjA5LDEyMzY2Mzk0NCwtMTY0NjE0
