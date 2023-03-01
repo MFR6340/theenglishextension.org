@@ -41,7 +41,7 @@ At only 36 pages, this book gives a quick overview into food marketing, advertis
 
 ### There's no Ham in Hamburgers: Facts and Folklore About our Favorite Foods, by Kim Zachman 
 
-<img src="https://imgur.com/PhvvKnf.png" width="25%" />
+<img src="https://imgur.com/PhvvKnf.png" width="30%" />
 
 This book provides the history of hamburgers and other favorite foods including pizza, french fries, ice cream and peanut butter.  Illustrations are fun mid-century drawings that add whimsy to the text.  Read one chapter or read it all.   (No lexile measure available  ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
@@ -50,7 +50,7 @@ This book provides the history of hamburgers and other favorite foods including 
 
 
 ## Supplemental Activity
-Wander through Migros or Coop grocery store and find a prepackaged food item, be it a warm soup, a ready-made sandwich, or a frozen pizza.  
+Wander through Migros or Coop grocery store and find a pre-packaged food item, be it a ready-made sandwich or soup, or a frozen pizza, or even sushi.  Find a recipe and see if you can make 
 
 
 
@@ -59,7 +59,7 @@ Wander through Migros or Coop grocery store and find a prepackaged food item, be
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDQ3NzkyMjEsLTIwODI4NjkyMDgsMT
+eyJoaXN0b3J5IjpbLTE4ODY5MjI0NjgsLTIwODI4NjkyMDgsMT
 U3NjgxMzIzOSwtMTU4MTU2NjY0LDkzMTUwOTkwMiwtMTA1NTgx
 ODE5NywxODc0MjQ5MTM1LDU4MjQ4NzI3MF19
 -->
