@@ -42,7 +42,7 @@
 ### The 21 Balloons, by William Pène du Bois
 <img src="https://i.imgur.com/5210C7C.png" width="25%" />
 
-On School Library Journal's list of the Top 100 Children's Novels 
+Winner of the Newbery Medal and on the School Library Journal's list of the Top 100 Children's Novels this is the marvelous fantasy story of 
 
 <a href="https://www.bookdepository.com/Twenty-One-Balloons-William-Pene-du-Bois/9780140320978?ref=grid-view&qid=1675162115237&sr=1-1" rel="nofollow"> Buy on BookDepository </a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1003331053?sq=The%20Twenty-One%20Balloons&stype=productName" rel="nofollow">Buy on Orell Füssli</a> 
@@ -88,11 +88,11 @@ A big coffee-table book that's nice to dip in and out of.  It's full of fascinat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjMxNzQwLDEyOTU5NjMwMDEsNjMyMT
-I3OTA0LDYwMjQ2NjE1NiwtNTU0NTk1OTA3LDQ4ODY3MzI2NCwy
-MjU2NDE1MTgsLTE1Njg1NDkzNTksNTEyNzY0NzIsNTgzNjc5NT
-czLC0xODQ3OTI2NTE0LDE3OTk4NTM2MjksMTA3NjUyODM5Niwt
-MTg3MzE5NjY4MCwzNzI1ODg0NywxOTA4ODY2ODUzLDEyMDAxOD
-AxNTMsNDM5NjUxMjk5LC0xNzEzOTM4NzYxLDQ0OTIxMTU4MV19
-
+eyJoaXN0b3J5IjpbLTE1MTk5MDA4NDksMTI5NTk2MzAwMSw2Mz
+IxMjc5MDQsNjAyNDY2MTU2LC01NTQ1OTU5MDcsNDg4NjczMjY0
+LDIyNTY0MTUxOCwtMTU2ODU0OTM1OSw1MTI3NjQ3Miw1ODM2Nz
+k1NzMsLTE4NDc5MjY1MTQsMTc5OTg1MzYyOSwxMDc2NTI4Mzk2
+LC0xODczMTk2NjgwLDM3MjU4ODQ3LDE5MDg4NjY4NTMsMTIwMD
+E4MDE1Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgx
+XX0=
 -->
