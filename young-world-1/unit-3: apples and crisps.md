@@ -48,7 +48,7 @@ Considered a classic of children's literature.  In the town of Chewandswallow, t
 <img src="https://imgur.com/coj2LrO.png" width="25%" />
 
 A great lesson on the importance of sharing and cooperation, this easy read tells about three hungry soldiers who convince an unwilling town to make them soup. Based on a European folktale.  (Lexile 550L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
-Writing prompts are available as an extension to this book.
+This is a great book to introduce folktales, discuss sharing, and make soup. Writing prompts are available as an extension to this book.
 
 <a href="https://www.bookdepository.com/Stone-Soup-Marcia-Brown/9780689711039?ref=grid-view&qid=1654272719571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1028650164" rel="nofollow">Buy on Orell Füssli</a>
@@ -101,7 +101,7 @@ A booklet covering short vowels, plurals anod other grammar and spelling topics 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk5NTk2MiwyMDkxMjAyMjMxLDE3OD
-YyMTkyNzcsMjUyOTk2NTU0LC0xNjU5OTI3ODI1LDE4Mjc3MzYw
-NDksNDAwMzE2MjM1LC04MzQ3NzA0OTldfQ==
+eyJoaXN0b3J5IjpbMTA2MjMwMDc0LDIwOTEyMDIyMzEsMTc4Nj
+IxOTI3NywyNTI5OTY1NTQsLTE2NTk5Mjc4MjUsMTgyNzczNjA0
+OSw0MDAzMTYyMzUsLTgzNDc3MDQ5OV19
 -->
