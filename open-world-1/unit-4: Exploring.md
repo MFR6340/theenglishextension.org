@@ -51,7 +51,7 @@ On School Library Journal's list of the Top 100 Children's Novels
 
 <img src="https://imgur.com/Ex7dpP0.png" width="25%" />
 
-The true story of a  16 year old boy who sails around the world and returns home five years later.  (Lexile 1020L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+The biography of Robin Lee Graham, a 16 year old boy who sailed around the world and returned home five years later.  (Lexile 1020L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/search?searchTerm=+Dove%2C+by+Robin+Lee+Graham&search=Find+book" rel="nofollow"> Buy on BookDepository </a>  
 
@@ -59,7 +59,7 @@ The true story of a  16 year old boy who sails around the world and returns home
 
 <img src="https://imgur.com/z1r8C0N.png" width="25%" />
 
-It's hard to top the amazing story of Robin Lee Graham about, but Jessica Watson did it.  At 16, she took off by herself  and sailed all the way around the world in 210 days.  An amazing autobiography.
+It's hard to top the amazing story of Robin Lee Graham, but Jessica Watson did it.  At 16, she took off by herself  and sailed all the way around the world in 210 days.  An amazing autobiography.
 (No lexile measure available)
 
 <a href="https://www.bookdepository.com/True-Spirit-Jessica-Watson/9781451616316" rel="nofollow"> Buy on BookDepository</a>  
@@ -88,11 +88,11 @@ A big coffee-table book that's nice to dip in and out of.  It's full of fascinat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQ5NDUyMTMsMTI5NTk2MzAwMSw2Mz
-IxMjc5MDQsNjAyNDY2MTU2LC01NTQ1OTU5MDcsNDg4NjczMjY0
-LDIyNTY0MTUxOCwtMTU2ODU0OTM1OSw1MTI3NjQ3Miw1ODM2Nz
-k1NzMsLTE4NDc5MjY1MTQsMTc5OTg1MzYyOSwxMDc2NTI4Mzk2
-LC0xODczMTk2NjgwLDM3MjU4ODQ3LDE5MDg4NjY4NTMsMTIwMD
-E4MDE1Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgx
-XX0=
+eyJoaXN0b3J5IjpbLTQ2NjMxNzQwLDEyOTU5NjMwMDEsNjMyMT
+I3OTA0LDYwMjQ2NjE1NiwtNTU0NTk1OTA3LDQ4ODY3MzI2NCwy
+MjU2NDE1MTgsLTE1Njg1NDkzNTksNTEyNzY0NzIsNTgzNjc5NT
+czLC0xODQ3OTI2NTE0LDE3OTk4NTM2MjksMTA3NjUyODM5Niwt
+MTg3MzE5NjY4MCwzNzI1ODg0NywxOTA4ODY2ODUzLDEyMDAxOD
+AxNTMsNDM5NjUxMjk5LC0xNzEzOTM4NzYxLDQ0OTIxMTU4MV19
+
 -->
