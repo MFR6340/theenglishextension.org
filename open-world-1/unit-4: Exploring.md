@@ -42,7 +42,7 @@
 ### The 21 Balloons, by William Pène du Bois
 <img src="https://i.imgur.com/5210C7C.png" width="25%" />
 
-Winner of the Newbery Medal and on the School Library Journal's list of the Top 100 Children's Novels this is the marvelous fantasy story of 
+Winner of the Newbery Medal and on the School Library Journal's list of the Top 100 Children's Novels this is the marvelous fantasy story of Professor William Waterman Sherman.  
 
 <a href="https://www.bookdepository.com/Twenty-One-Balloons-William-Pene-du-Bois/9780140320978?ref=grid-view&qid=1675162115237&sr=1-1" rel="nofollow"> Buy on BookDepository </a>  
 <a href="https://www.orellfuessli.ch/shop/home/suggestartikel/A1003331053?sq=The%20Twenty-One%20Balloons&stype=productName" rel="nofollow">Buy on Orell Füssli</a> 
@@ -88,11 +88,11 @@ A big coffee-table book that's nice to dip in and out of.  It's full of fascinat
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTk5MDA4NDksMTI5NTk2MzAwMSw2Mz
-IxMjc5MDQsNjAyNDY2MTU2LC01NTQ1OTU5MDcsNDg4NjczMjY0
-LDIyNTY0MTUxOCwtMTU2ODU0OTM1OSw1MTI3NjQ3Miw1ODM2Nz
-k1NzMsLTE4NDc5MjY1MTQsMTc5OTg1MzYyOSwxMDc2NTI4Mzk2
-LC0xODczMTk2NjgwLDM3MjU4ODQ3LDE5MDg4NjY4NTMsMTIwMD
-E4MDE1Myw0Mzk2NTEyOTksLTE3MTM5Mzg3NjEsNDQ5MjExNTgx
-XX0=
+eyJoaXN0b3J5IjpbMTU3MDY1MzU0NiwxMjk1OTYzMDAxLDYzMj
+EyNzkwNCw2MDI0NjYxNTYsLTU1NDU5NTkwNyw0ODg2NzMyNjQs
+MjI1NjQxNTE4LC0xNTY4NTQ5MzU5LDUxMjc2NDcyLDU4MzY3OT
+U3MywtMTg0NzkyNjUxNCwxNzk5ODUzNjI5LDEwNzY1MjgzOTYs
+LTE4NzMxOTY2ODAsMzcyNTg4NDcsMTkwODg2Njg1MywxMjAwMT
+gwMTUzLDQzOTY1MTI5OSwtMTcxMzkzODc2MSw0NDkyMTE1ODFd
+fQ==
 -->
