@@ -34,7 +34,7 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <img src="https://imgur.com/JerfxFx.png" width="25%" />
 
-(No Lexile measure available) 
+At only 36 pages, this book gives a quick overview into (No Lexile measure available) 
 
 <a href="https://www.bookdepository.com/Eat-This-Andrea-Curtis-Peggy-Collins/9780889955325" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037393229" rel="nofollow">Buy on Orell Füssli</a> 
@@ -43,7 +43,7 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzkwOTk4MSwtMTU4MTU2NjY0LDkzMT
-UwOTkwMiwtMTA1NTgxODE5NywxODc0MjQ5MTM1LDU4MjQ4NzI3
-MF19
+eyJoaXN0b3J5IjpbLTE3MDczMTMzNDEsLTE1ODE1NjY2NCw5Mz
+E1MDk5MDIsLTEwNTU4MTgxOTcsMTg3NDI0OTEzNSw1ODI0ODcy
+NzBdfQ==
 -->
