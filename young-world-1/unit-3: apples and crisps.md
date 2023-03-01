@@ -93,7 +93,7 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 ## Extension Booklet
 A booklet covering grammar and spelling has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
 
-<img src="https://i.imgur.com/jvptxBS.png" width="25%" />
+<img src="https://i.imgur.com/jvptxBS.png" width="85%" />
 
 
 
@@ -101,7 +101,7 @@ A booklet covering grammar and spelling has been designed to be used with this u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMjYyMDY1LDE3ODYyMTkyNzcsMjUyOT
-k2NTU0LC0xNjU5OTI3ODI1LDE4Mjc3MzYwNDksNDAwMzE2MjM1
-LC04MzQ3NzA0OTldfQ==
+eyJoaXN0b3J5IjpbMjA5MTIwMjIzMSwxNzg2MjE5Mjc3LDI1Mj
+k5NjU1NCwtMTY1OTkyNzgyNSwxODI3NzM2MDQ5LDQwMDMxNjIz
+NSwtODM0NzcwNDk5XX0=
 -->
