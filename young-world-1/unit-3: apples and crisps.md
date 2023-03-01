@@ -1,7 +1,7 @@
 # Young World 1, Unit 3: Apples and Crisps
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at not additional cost to you, which will be used to purchase books for classrooms.*
 
-**This Klett unit covers food, shopping and writing a list.  Here are some suggestions for native English speakers to read more about this theme:**
+**This Klett unit covers food, shopping and writing a list.  Here are some suggestions for native English speakers to extend this theme:**
 
 ###  What's on Your Plate: Exploring the World of Food, by Whitney Stewart
 
@@ -100,7 +100,7 @@ Designed to be used with this unit. Available on request.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjIxOTI3NywyNTI5OTY1NTQsLTE2NT
-k5Mjc4MjUsMTgyNzczNjA0OSw0MDAzMTYyMzUsLTgzNDc3MDQ5
-OV19
+eyJoaXN0b3J5IjpbLTE2NTk1Mjc3ODksMTc4NjIxOTI3NywyNT
+I5OTY1NTQsLTE2NTk5Mjc4MjUsMTgyNzczNjA0OSw0MDAzMTYy
+MzUsLTgzNDc3MDQ5OV19
 -->
