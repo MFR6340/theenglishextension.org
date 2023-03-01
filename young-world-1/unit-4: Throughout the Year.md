@@ -88,15 +88,14 @@ A useful introduction to all things weather-related with fantastic photographs.
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037970652" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Extension Booklet
-Designed to be used with this unit. Available on request.
-
+A booklet covering grammar and spelling has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
 <img src="https://i.imgur.com/e9jsiaz.png" width="25%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDA3OTk4MDMsLTExOTM4NzQ2MDIsNz
-A2ODk3Nzc1LDE0MDk3ODk2MjYsNTMyMjA5MjMwLDk4MDM5NDA3
-NSw5MjI1NjQxNDEsMTMzODI0Njk3OCwxMzA0NDA1NzM2LDM1MD
-E2MDc5NCwtMzI2MTMwNzQ3LC0zMDgzODk4MjksMTI2NzM5NDEx
-MywzNDYzOTg0OTEsLTIxOTI4MzMxNCwtODcxODEzNzAzLDE4OT
-A1NTEwMTgsMTc4NDA3Mzg4NSw4OTkzNTc3NzksLTc3MjMyNDQw
-NV19
+eyJoaXN0b3J5IjpbOTUyNjc4NDEwLC0xMTkzODc0NjAyLDcwNj
+g5Nzc3NSwxNDA5Nzg5NjI2LDUzMjIwOTIzMCw5ODAzOTQwNzUs
+OTIyNTY0MTQxLDEzMzgyNDY5NzgsMTMwNDQwNTczNiwzNTAxNj
+A3OTQsLTMyNjEzMDc0NywtMzA4Mzg5ODI5LDEyNjczOTQxMTMs
+MzQ2Mzk4NDkxLC0yMTkyODMzMTQsLTg3MTgxMzcwMywxODkwNT
+UxMDE4LDE3ODQwNzM4ODUsODk5MzU3Nzc5LC03NzIzMjQ0MDVd
+fQ==
 -->
