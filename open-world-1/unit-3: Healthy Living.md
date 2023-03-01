@@ -39,11 +39,26 @@ At only 36 pages, this book gives a quick overview into food marketing, advertis
 <a href="https://www.bookdepository.com/Eat-This-Andrea-Curtis-Peggy-Collins/9780889955325" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037393229" rel="nofollow">Buy on Orell Füssli</a> 
 
+### Chew on This, by Charles Wilson
+
+<img src="https://imgur.com/F5RchNv.png" width="25%" />
+
+At 300 pages, this book gives an in depth look at the fast food industry from its founding, to how the food is processed and marketed.  Focused on the United States, but still contains information that is helpful in where we decide to eat our next meal.  The last chapter includes discussion questions and action steps. (Lexile 1110L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+
+<a href="https://www.bookdepository.com/Chew-on-This-Dr-Charles-Wilson/9780618593941?ref=grid-view&qid=1674908155890&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002859046" rel="nofollow">Buy on Orell Füssli</a> 
+
+
+## Supplemental Activity
+
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDQ1ODA4LC0xNTgxNTY2NjQsOTMxNT
-A5OTAyLC0xMDU1ODE4MTk3LDE4NzQyNDkxMzUsNTgyNDg3Mjcw
-XX0=
+eyJoaXN0b3J5IjpbLTE4OTI2MDQ5NDMsLTE1ODE1NjY2NCw5Mz
+E1MDk5MDIsLTEwNTU4MTgxOTcsMTg3NDI0OTEzNSw1ODI0ODcy
+NzBdfQ==
 -->
