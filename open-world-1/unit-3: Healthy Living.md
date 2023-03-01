@@ -25,7 +25,7 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <img src="https://imgur.com/F5RchNv.png" width="25%" />
 
-(Lexile 1110L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+At 300 pages, this book gives an in depth look at the fast food industry from (Lexile 1110L ) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Chew-on-This-Dr-Charles-Wilson/9780618593941?ref=grid-view&qid=1674908155890&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002859046" rel="nofollow">Buy on Orell Füssli</a> 
@@ -43,7 +43,7 @@ At only 36 pages, this book gives a quick overview into food marketing, advertis
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQ5MjgzMzAsLTE1ODE1NjY2NCw5Mz
-E1MDk5MDIsLTEwNTU4MTgxOTcsMTg3NDI0OTEzNSw1ODI0ODcy
-NzBdfQ==
+eyJoaXN0b3J5IjpbMTg4OTExNDI5MSwtMTU4MTU2NjY0LDkzMT
+UwOTkwMiwtMTA1NTgxODE5NywxODc0MjQ5MTM1LDU4MjQ4NzI3
+MF19
 -->
