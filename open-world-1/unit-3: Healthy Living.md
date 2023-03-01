@@ -50,6 +50,7 @@ At 300 pages, this book gives an in depth look at the fast food industry from it
 
 
 ## Supplemental Activity
+Wander through Migros or Coop grocery store and find a prepackaged food item, be it a warm soup, a rsandwich, or pizza.  
 
 
 
@@ -58,7 +59,7 @@ At 300 pages, this book gives an in depth look at the fast food industry from it
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTI2MDQ5NDMsLTE1ODE1NjY2NCw5Mz
+eyJoaXN0b3J5IjpbLTExOTMwOTQ2MTksLTE1ODE1NjY2NCw5Mz
 E1MDk5MDIsLTEwNTU4MTgxOTcsMTg3NDI0OTEzNSw1ODI0ODcy
 NzBdfQ==
 -->
