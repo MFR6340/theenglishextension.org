@@ -49,12 +49,12 @@ Explore the structures on many acres of the Ballenberg Open-Air Museum.  It has 
 https://www.ballenberg.ch/en/
 
 ## Extension Booklet
-A booklet covering grammar and spelling has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
-<img src="https://i.imgur.com/syadHg4.png" width="25%" />
+A booklet covering adjectives, silent letters, and other grammar and spelling has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
+<img src="https://i.imgur.com/syadHg4.png" width="85%" />
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTgyMjQyMzEsLTE5MTA2NzM0NCwzNj
-E3ODI1MiwtMTI5MTMxNTgwMCwyMDk0ODQxMzY4LC0xNDg0NDY5
-MTg4LDIwNDc4NzMwMTUsOTk1MjA2NzA0LDExOTUyNjI3NiwtMT
-E0NDI4Njk4MSwtMTIwMTcxNjA5LDEyMzY2Mzk0NCwtMTY0NjE0
-MzM3MCwyMTE2NTk1MjE5LC04OTE4ODQ4OTNdfQ==
+eyJoaXN0b3J5IjpbNjg0NTI1MzU2LC0xOTEwNjczNDQsMzYxNz
+gyNTIsLTEyOTEzMTU4MDAsMjA5NDg0MTM2OCwtMTQ4NDQ2OTE4
+OCwyMDQ3ODczMDE1LDk5NTIwNjcwNCwxMTk1MjYyNzYsLTExND
+QyODY5ODEsLTEyMDE3MTYwOSwxMjM2NjM5NDQsLTE2NDYxNDMz
+NzAsMjExNjU5NTIxOSwtODkxODg0ODkzXX0=
 -->
