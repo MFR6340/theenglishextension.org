@@ -47,7 +47,7 @@ Considered a classic of children's literature.  In the town of Chewandswallow, t
 
 <img src="https://imgur.com/coj2LrO.png" width="25%" />
 
-A great lesson on the importance of sharing and cooperation, this easy read about three hungry soldiers who convince an unwilling town to make them soup. Based on a European folktale.  (Lexile 550L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+A great lesson on the importance of sharing and cooperation, this easy read tells about three hungry soldiers who convince an unwilling town to make them soup. Based on a European folktale.  (Lexile 550L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 Writing prompts are available as an extension to this book.
 
 <a href="https://www.bookdepository.com/Stone-Soup-Marcia-Brown/9780689711039?ref=grid-view&qid=1654272719571&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -91,7 +91,7 @@ The true story of chef Ignacio (Nacho) Anaya and how his quick invention led to 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1057057543" rel="nofollow"> Buy on Orell Füssli</a>
 
 ## Extension Booklet
-Designed to be used with this unit. Available on request.
+A booklet covering grammar and spelling has been designed to be used with this unit.  Available by contacting Theresa Jäger at [tjaeger09@gmail.com](mailto:tjaeger09@gmail.com).
 
 <img src="https://i.imgur.com/jvptxBS.png" width="25%" />
 
@@ -101,7 +101,7 @@ Designed to be used with this unit. Available on request.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjgzNTE0NjQsMTc4NjIxOTI3NywyNT
-I5OTY1NTQsLTE2NTk5Mjc4MjUsMTgyNzczNjA0OSw0MDAzMTYy
-MzUsLTgzNDc3MDQ5OV19
+eyJoaXN0b3J5IjpbODIwMjYyMDY1LDE3ODYyMTkyNzcsMjUyOT
+k2NTU0LC0xNjU5OTI3ODI1LDE4Mjc3MzYwNDksNDAwMzE2MjM1
+LC04MzQ3NzA0OTldfQ==
 -->
