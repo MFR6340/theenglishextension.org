@@ -62,12 +62,13 @@ Switzerland has over 1,100 museums, making it one of countries with the highest 
  
  - Rosegarten Collection
 This museum in Lucern has works by Swiss artist Paul Klee, as well as other Classic Modernist and Impressionist artists including Pablo Picasso, and Renoir and Cézanne. https://www.rosengart.ch/en/welcome
+
  - Claire Ochsner Museum and Sculpture Garden
 On page 27, is a sculpture by Swiss artist Claire Ochsner which can be seen in person in Zug near Metalli and the train station.  She has many more sculptures all over Switzerland.  She also has a sculpture garden in Frenkendorf, ten minutes from Basel, which is open from 16.00-18.00 every Friday.  http://www.claire-ochsner.ch/skulpturgarten/
 
 ### Visit a Church
 
-In the 1970s, Artist Marc Chagall created a five-part stained-glass window series and a rosette for the <a href="https://www.fraumuenster.ch/4.php?read_category=2770" rel="nofollow">Fraumünster Church</a>  in Zurich.  These colorful windows are visitors from all over the world.  
+In the 1970s, Artist Marc Chagall created a five-part stained-glass window series and a rosette for the <a href="https://www.fraumuenster.ch/4.php?read_category=2770" rel="nofollow">Fraumünster Church</a>  in Zurich.  Next time you are nearby, stop in and see these famous colorful windows, which are visited by tourists from all over the world. 
 	
 
 
@@ -80,6 +81,7 @@ In the 1970s, Artist Marc Chagall created a five-part stained-glass window serie
 ### Do a Puzzle
 You can still get some culture and have fun while remaining in your living room.  There's really no better way to become familiar with the minute details of a work of fine art than by doing a puzzle.  
 <img src="https://i.imgur.com/8bQLA0S.png" width="55%" />
+
 Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many other famous artists.  They also have special pieces, in interesting shapes like paint brushes and boats that match the theme.  Beware, if you do get one, don't begin with one with more than 250 pieces, as they can be challenging.  A straight piece does not necessarily mean it's an edge.  Good fun on cold day.  https://www.wentworthpuzzles.com/us/fine-art-jigsaw-puzzles-2/all-fine-art-puzzles  Also available on Amazon, John Lewis, and other stores.
 
 
@@ -89,6 +91,6 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjA3OTA1Myw0NzQzNzc4NzQsLTE1MT
-I1MDUwMSwyMDIxOTE1NjcsLTQ3OTg5NzQ0XX0=
+eyJoaXN0b3J5IjpbLTEwNDM4NTQ4MTEsNDc0Mzc3ODc0LC0xNT
+EyNTA1MDEsMjAyMTkxNTY3LC00Nzk4OTc0NF19
 -->
