@@ -26,7 +26,7 @@ An historical fiction account of a girl in Medieval Paris who helps her father c
 
 <img src="https://imgur.com/DpHYsvF.png" width="25%" />
 
-In a fit of emotion, Arthur throws a brick at "Junk Man", Mr. Hampton, which could have killed him.  He's assigned 120 hours of community service, which turns out to be collecting seven junk items for Mr. Hampton, including cardboard and light bulbs, without initially knowing their intended purpose. Through each item on the list, Arthur begins to grow and gets closer to redemption. Loosely based on a true story of an artist named James Hampton who made a masterpiece out of junk. (Lexile 760L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+In a fit of emotion, Arthur throws a brick at "Junk Man", Mr. Hampton, which could have killed him.  He's assigned 120 hours of community service, which turns out to be collecting seven junk items for Mr. Hampton, including cardboard and light bulbs, without initially knowing their intended purpose. Through each item on the list, Arthur begins to grow and gets closer to redemption. Loosely based on a true story of an artist named James Hampton who made a masterpiece out of junk which is on display at the Smithsonian Museum. (Lexile 760L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Seventh-Most-Important-Thing-Shelley-Pearsall/9780553497311?ref=grid-view&qid=1665842641892&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039319893" rel="nofollow">Buy on Orell Füssli</a>
@@ -35,7 +35,7 @@ In a fit of emotion, Arthur throws a brick at "Junk Man", Mr. Hampton, which cou
 
 <img src="https://imgur.com/3ZvEIv5.png" width="25%" />
 
-  Another great book about creativity by Pete Reynolds. We all need to follow our own path to creativity – just make a mark and seeing where it takes you. (AD 500L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+ This is annother great book about creativity by Pete Reynolds. We all need to follow our own path to creativity – just make a mark and seeing where it takes you. (AD 500L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Dot-Peter-H-Reynolds/9781844281695?ref=grid-view&qid=1665842808024&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002588073" rel="nofollow">Buy on Orell Füssli</a>
@@ -67,7 +67,7 @@ On page 27, is a sculpture by Swiss artist Claire Ochsner which can be seen in p
 
 ### Visit a Church
 
-In the 1970s, Artist Marc Chagall created a five-part stained-glass window series and a rosette for the <a href="https://www.fraumuenster.ch/4.php?read_category=2770" rel="nofollow">Fraumünster Church</a>  in Zurich.  These colorful windows are by visitors from all over the world.  
+In the 1970s, Artist Marc Chagall created a five-part stained-glass window series and a rosette for the <a href="https://www.fraumuenster.ch/4.php?read_category=2770" rel="nofollow">Fraumünster Church</a>  in Zurich.  These colorful windows are visitors from all over the world.  
 	
 
 
@@ -89,6 +89,6 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI4OTc2OTEsNDc0Mzc3ODc0LC0xNT
-EyNTA1MDEsMjAyMTkxNTY3LC00Nzk4OTc0NF19
+eyJoaXN0b3J5IjpbMTg3MjA3OTA1Myw0NzQzNzc4NzQsLTE1MT
+I1MDUwMSwyMDIxOTE1NjcsLTQ3OTg5NzQ0XX0=
 -->
