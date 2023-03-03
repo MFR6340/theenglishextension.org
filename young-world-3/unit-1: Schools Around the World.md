@@ -59,14 +59,13 @@ Young Harry Potter goes to Hogwarts, the most amazing and fascinating boarding s
 ( Lexile 750L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Linked-Gordon-Korman/9781338629132?ref=grid-view&qid=1674046322823&sr=1-2" rel="nofollow"> Buy on BookDepository</a>
-  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1065204796
+  <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1065204796
 " rel="nofollow">Buy on Orell Füssli</a>
 
 ### If I Built a School, by Chris Van Dusen
 <img src="https://i.imgur.com/3sflT5L.png" width="25%" />
 
-Surely, you've dreamed about what a perfect school would have?  The boy in this book definitely has and it results in some amazing and fun ideas.  What would your school have?
+Surely, you've dreamed about what a perfect school would have?  The boy in this book definitely has and it results in some amazing and fun ideas.  How would you design your school?
 (Lexile AD610L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/If-I-Built-School-Chris-Van-Dusen/9780525552918?ref=grid-view&qid=1674046624972&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -90,9 +89,9 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTA1OTc4MiwtMTYxMzg2MzM5MSwtOT
-g2MDg3NTI1LC05NDczODEyOTUsOTAzMjIzMjY4LDI4MzE3ODU5
-OSw3MDg1MjU1ODcsMTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MT
-cwNTc2MDgsMTE4NTYyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkw
-NzgsMTU3MzAyNjIyNV19
+eyJoaXN0b3J5IjpbLTE5NzA3ODc4MDksLTE2MTM4NjMzOTEsLT
+k4NjA4NzUyNSwtOTQ3MzgxMjk1LDkwMzIyMzI2OCwyODMxNzg1
+OTksNzA4NTI1NTg3LDE2MzM1MTMyOTEsLTE2MTY0NjM1ODAsNT
+E3MDU3NjA4LDExODU2MjU3MjgsLTE0MjU2NjgwMzIsMTEzNDE5
+MDc4LDE1NzMwMjYyMjVdfQ==
 -->
