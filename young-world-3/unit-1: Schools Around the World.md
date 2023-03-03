@@ -66,7 +66,7 @@ Young Harry Potter goes to Hogwarts, the most amazing and fascinating boarding s
 ### If I Built a School, by Chris Van Dusen
 <img src="https://i.imgur.com/3sflT5L.png" width="25%" />
 
-Surely, you've dreamed about what a perfect school would have?  The boy in this book definitely has and it results in some amazing ideas.  A great inspiration for kids to come up with their own ideas
+Surely, you've dreamed about what a perfect school would have?  The boy in this book definitely has and it results in some amazing and fun ideas.  What would your school have?
 (Lexile AD610L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/If-I-Built-School-Chris-Van-Dusen/9780525552918?ref=grid-view&qid=1674046624972&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -90,7 +90,7 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTk2Mjg3MywtMTYxMzg2MzM5MSwtOT
+eyJoaXN0b3J5IjpbMTc1OTA1OTc4MiwtMTYxMzg2MzM5MSwtOT
 g2MDg3NTI1LC05NDczODEyOTUsOTAzMjIzMjY4LDI4MzE3ODU5
 OSw3MDg1MjU1ODcsMTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MT
 cwNTc2MDgsMTE4NTYyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkw
