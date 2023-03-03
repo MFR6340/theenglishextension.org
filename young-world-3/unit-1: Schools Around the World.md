@@ -33,11 +33,11 @@ This inspirational true story is about a boy from Africa who uses items around h
 <a href="https://www.bookdepository.com/Boy-Who-Harnessed-Wind-William-Kamkwamba/9780147510426?ref=grid-view&qid=1665854100400&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
 
-### Harry Potter and the Philosopher's Stone, by J. K. Rowling  *Sold under the title *Harry Potter and the Sorcerer's Stone* in the US
+### Harry Potter and the Philosopher's Stone, by J. K. Rowling 
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
-Young Harry Potter goes to Hogwarts, the most amazing and fascinating boarding school full of ghosts and talking paintings.  (Lexile 880L)   <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
+Young Harry Potter goes to Hogwarts, the most amazing and fascinating boarding school full of ghosts and talking paintings.  (Sold under the title *Harry Potter and the Sorcerer's Stone* in the US (Lexile 880L)   <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
@@ -66,7 +66,7 @@ Young Harry Potter goes to Hogwarts, the most amazing and fascinating boarding s
 ### If I Built a School, by Chris Van Dusen
 <img src="https://i.imgur.com/3sflT5L.png" width="25%" />
 
-
+Surely, you've dreamed about what a perfect school would be?
 (Lexile AD610L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/If-I-Built-School-Chris-Van-Dusen/9780525552918?ref=grid-view&qid=1674046624972&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -90,9 +90,9 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDY1MDE3MywtMTYxMzg2MzM5MSwtOT
-g2MDg3NTI1LC05NDczODEyOTUsOTAzMjIzMjY4LDI4MzE3ODU5
-OSw3MDg1MjU1ODcsMTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MT
-cwNTc2MDgsMTE4NTYyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkw
-NzgsMTU3MzAyNjIyNV19
+eyJoaXN0b3J5IjpbLTE5OTA3NDY4ODgsLTE2MTM4NjMzOTEsLT
+k4NjA4NzUyNSwtOTQ3MzgxMjk1LDkwMzIyMzI2OCwyODMxNzg1
+OTksNzA4NTI1NTg3LDE2MzM1MTMyOTEsLTE2MTY0NjM1ODAsNT
+E3MDU3NjA4LDExODU2MjU3MjgsLTE0MjU2NjgwMzIsMTEzNDE5
+MDc4LDE1NzMwMjYyMjVdfQ==
 -->
