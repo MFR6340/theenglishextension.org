@@ -46,7 +46,7 @@ Young Harry Potter goes to Hogwarts, the most amazing and fascinating boarding s
 <img src="https://i.imgur.com/OZjUkIb.png" width="25%" />
 
 
-(no Lexile measure available)
+Ruskin Bond is one of the most (no Lexile measure available)
 
 <a href="https://www.bookdepository.com/Whistling-Schoolboy-Other-Stories-School-Life-Ruskin-Bond/9788129135797?ref=grid-view&qid=1674045705891&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052836436
@@ -81,9 +81,9 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzEzNjg4NzEsLTE2MTM4NjMzOTEsLT
-k4NjA4NzUyNSwtOTQ3MzgxMjk1LDkwMzIyMzI2OCwyODMxNzg1
-OTksNzA4NTI1NTg3LDE2MzM1MTMyOTEsLTE2MTY0NjM1ODAsNT
-E3MDU3NjA4LDExODU2MjU3MjgsLTE0MjU2NjgwMzIsMTEzNDE5
-MDc4LDE1NzMwMjYyMjVdfQ==
+eyJoaXN0b3J5IjpbMTUzNTg5NTc2NSwtMTYxMzg2MzM5MSwtOT
+g2MDg3NTI1LC05NDczODEyOTUsOTAzMjIzMjY4LDI4MzE3ODU5
+OSw3MDg1MjU1ODcsMTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MT
+cwNTc2MDgsMTE4NTYyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkw
+NzgsMTU3MzAyNjIyNV19
 -->
