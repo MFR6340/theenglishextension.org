@@ -53,7 +53,7 @@ Who could ever imagine that a spider and a pig could hit it off?  But Charlotte'
 
 <img src="https://imgur.com/FKsGdaK.png" width="25%" />
 
-The tale of a kind giant and a little girl.  (Lexile 720L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
+The story of a kind giant and a little girl as they work together.  (Lexile 720L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/BFG-Roald-Dahl/9780141365428?ref=grid-view&qid=1665855539620&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801519" rel="nofollow">Buy on Orell Füssli</a>
@@ -145,7 +145,7 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzY1NzU2OSwtMTA2MTI1NDg4OSwtMT
+eyJoaXN0b3J5IjpbLTgyNDg1MDMzNSwtMTA2MTI1NDg4OSwtMT
 A5OTA0NTAwMywxNjAzMzc4MDI0LDEyMDg2Njc5MTksLTc1ODI2
 MjkwNiwtMjAwMjkwMTA0NiwtMTY1Mzk3MTU3OCw4MDU1Njk3Mj
 MsMjEzMTA5NjM1NywtMTY1MTAxNzI1MCwxNDk1NzUwNjA1LDY2
