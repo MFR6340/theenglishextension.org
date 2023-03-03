@@ -125,7 +125,7 @@ Yes, yes this book was in the previous "School" Unit as well.  But it's really a
 ### Tale of Despereaux, by Kate DiCamillo
 <img src="https://imgur.com/kjho9rF.png" width="25%" />
 
-Newbery Award winner.  A book about an unlikely friendship between a mouse and a princess.  Told in four parts, each from the persepective of a different character.  (Lexile 670L) <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
+Newbery Award winner.  A book about an unlikely friendship between a mouse and a princess.  Told in four parts, each from the perspective of a different character.  (Lexile 670L) <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Tale-Despereaux-Kate-DiCamillo/9780763680893?ref=grid-view&qid=1674317662193&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1001321590" rel="nofollow">Buy on Orell Füssli</a>
@@ -152,11 +152,11 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjgxNzc5MiwxNjAzMzc4MDI0LDEyMD
-g2Njc5MTksLTc1ODI2MjkwNiwtMjAwMjkwMTA0NiwtMTY1Mzk3
-MTU3OCw4MDU1Njk3MjMsMjEzMTA5NjM1NywtMTY1MTAxNzI1MC
-wxNDk1NzUwNjA1LDY2NTEyNTEyMSwxODI5MTc5MTUxLDE5MDk1
-NDUwMjgsLTQ0OTgxNjg0NSwtMTU3NDgzNDYyNCwtMTMwMDM3MT
-I0NCwtMTI0NjIxMzg3MywxMDgyNTI1ODk1LC0xMjc0OTkwNjYy
-LC0xNzg4NjQ3MDQ5XX0=
+eyJoaXN0b3J5IjpbLTEwOTkwNDUwMDMsMTYwMzM3ODAyNCwxMj
+A4NjY3OTE5LC03NTgyNjI5MDYsLTIwMDI5MDEwNDYsLTE2NTM5
+NzE1NzgsODA1NTY5NzIzLDIxMzEwOTYzNTcsLTE2NTEwMTcyNT
+AsMTQ5NTc1MDYwNSw2NjUxMjUxMjEsMTgyOTE3OTE1MSwxOTA5
+NTQ1MDI4LC00NDk4MTY4NDUsLTE1NzQ4MzQ2MjQsLTEzMDAzNz
+EyNDQsLTEyNDYyMTM4NzMsMTA4MjUyNTg5NSwtMTI3NDk5MDY2
+MiwtMTc4ODY0NzA0OV19
 -->
