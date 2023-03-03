@@ -17,7 +17,7 @@ A boy named Ramon loves to draw until an unkind remark by his older brother caus
 
 <img src="https://imgur.com/Obtul5O.png" width="25%" />
 
-An historical fiction account of a girl in Medieval Paris helps her father complete an illuminated tome for a wealthy patron. Although parts of it are not fully historically accurate (clothing, female independence, etc.)  it is still very much a worthwhile book to get a better understanding of how the vellum and paints for manuscripts were made. (Lexile 570L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
+An historical fiction account of a girl in Medieval Paris who helps her father complete an illuminated tome for a wealthy patron. Although parts of it are not fully historically accurate (clothing, female independence, etc.)  it is still very much a worthwhile book to get a better understanding of how the vellum and paints for manuscripts were made. (Lexile 570L) <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Marguerite-Makes-Book--Robertson/9780892363728" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005363893" rel="nofollow">Buy on Orell Füssli</a>
@@ -89,6 +89,6 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI1MDUwMSwyMDIxOTE1NjcsLTQ3OT
-g5NzQ0XX0=
+eyJoaXN0b3J5IjpbLTE3ODQ5NjgyMzEsLTE1MTI1MDUwMSwyMD
+IxOTE1NjcsLTQ3OTg5NzQ0XX0=
 -->
