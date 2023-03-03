@@ -73,11 +73,11 @@ An essential classic.  Set in central India, this famous story tells the tale of
 Go on a trek in a Rain Forest!  
 Even here in Switzerland, you have the chance to head into a Rain Forest and see what it's like.  Take a trip to  [Papiliorama](https://www.papiliorama.ch/en/our-live-exhibits/) , see the animals, and get a view from the tops of the trees.   Just remember, it's humid there! 
 
-The Swiss Museum of Transport also has an IMAX Theatre.  Currently they are showing a marvelous film called[Great Bear Rainforest](https://www.verkehrshaus.ch/en/visit/filmtheatre/filme/dokumentationen/detail/shows/show/great-bear-rainforest-canadas-rainforest-3d.html).  Nice for a rainy day.
+The Swiss Museum of Transport also has an IMAX Theatre.  Currently they are showing a marvelous film called [Great Bear Rainforest](https://www.verkehrshaus.ch/en/visit/filmtheatre/filme/dokumentationen/detail/shows/show/great-bear-rainforest-canadas-rainforest-3d.html).  Nice for a rainy day.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMTg1ODE4LC0xMDYwOTgzOTU2LC02Nj
-UyNTQ5NTQsLTc1OTg1NTM3NSwxMTUyNjQzNjkyLDE4MTAxMDk3
-NSwyMDY1Mjg4NjI5XX0=
+eyJoaXN0b3J5IjpbLTE0OTAyMjE3ODYsNTMyMTg1ODE4LC0xMD
+YwOTgzOTU2LC02NjUyNTQ5NTQsLTc1OTg1NTM3NSwxMTUyNjQz
+NjkyLDE4MTAxMDk3NSwyMDY1Mjg4NjI5XX0=
 -->
