@@ -46,7 +46,7 @@ Young Harry Potter goes to Hogwarts, the most amazing and fascinating boarding s
 <img src="https://i.imgur.com/OZjUkIb.png" width="25%" />
 
 
-A collection of stories of the school life of the author, Ruskin Bond, who an Indian of British descent and is considered to be one of India's most admired authors. (no Lexile measure available)
+A collection of stories of the childhood of the author, Ruskin Bond, an Indian of British descent, who is considered to be one of India's most admired authors.  Includes tales of his life in boarding school in (no Lexile measure available)
 
 <a href="https://www.bookdepository.com/Whistling-Schoolboy-Other-Stories-School-Life-Ruskin-Bond/9788129135797?ref=grid-view&qid=1674045705891&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052836436
@@ -81,7 +81,7 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MjM1NTM2NCwtMTYxMzg2MzM5MSwtOT
+eyJoaXN0b3J5IjpbLTI4MjQ0Mjc0NCwtMTYxMzg2MzM5MSwtOT
 g2MDg3NTI1LC05NDczODEyOTUsOTAzMjIzMjY4LDI4MzE3ODU5
 OSw3MDg1MjU1ODcsMTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MT
 cwNTc2MDgsMTE4NTYyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkw
