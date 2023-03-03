@@ -26,7 +26,7 @@ An historical fiction account of a girl in Medieval Paris who helps her father c
 
 <img src="https://imgur.com/DpHYsvF.png" width="25%" />
 
-In a fit of emotion, Arthur throws a brick at "Junk Man", Mr. Hampton, which could have killed him.  He's  and without is assigned 120 hours of community service to help a “Junk Man,” Mr. Hampton, after he throws a brick at him. His job is to collect seven junk items from Mr. Hampton's list, including cardboard and light bulbs, without knowing their intended purpose. Through each item on the list, Arthur begins to grow and gets closer to redemption. Loosely based on a true story of an artist named Hampton who made a masterpiece out of junk. (Lexile 760L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+In a fit of emotion, Arthur throws a brick at "Junk Man", Mr. Hampton, which could have killed him.  He's assigned 120 hours of community service, which turns out to be collecting seven junk items for Mr. Hampton, including cardboard and light bulbs, without initially knowing their intended purpose. Through each item on the list, Arthur begins to grow and gets closer to redemption. Loosely based on a true story of an artist named James Hampton who made a masterpiece out of junk. (Lexile 760L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Seventh-Most-Important-Thing-Shelley-Pearsall/9780553497311?ref=grid-view&qid=1665842641892&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039319893" rel="nofollow">Buy on Orell Füssli</a>
@@ -89,6 +89,6 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NDcxMzQyOCw0NzQzNzc4NzQsLTE1MT
-I1MDUwMSwyMDIxOTE1NjcsLTQ3OTg5NzQ0XX0=
+eyJoaXN0b3J5IjpbLTExODI4OTc2OTEsNDc0Mzc3ODc0LC0xNT
+EyNTA1MDEsMjAyMTkxNTY3LC00Nzk4OTc0NF19
 -->
