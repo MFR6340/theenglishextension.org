@@ -60,12 +60,12 @@ Like, Carrie's War, children in World War II are forced to leave the city of Lon
 Take a tour !
 Sometimes we learn more about other cities when we are traveling than the ones that are right at our doorstep.  It doesn't have to be so! Learn more about the cities that are nearby and learn the stories behind the buildings you walk past every day.  Free Walk offers free tours in 13 cities in Switzerland.  If you like what you learned, give your tour guide a nice tip at the end.  https://www.freewalk.ch/swiss/#cities
 
-Learn more about Zug.  Tr [Guided Tour of Zug ](https://tportal.tomas.travel/zug/experience/detail/TDS00020013608867229?lang=en) in English.  Available every Saturday from the end of April to the end of October or by contacting the Zug Tourism center. 
+Learn more about Zug.  Join a [Guided Tour of Zug ](https://tportal.tomas.travel/zug/experience/detail/TDS00020013608867229?lang=en) in English.  Available every Saturday from the end of April to the end of October or by contacting the Zug Tourism center. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjA0NzEwNjksMTE5MDk4NzcyMywtMz
-UzMzEwNzM5LDEwMzUxOTk4NSw5MTA5MDQzNTAsLTM1OTg2ODMw
-NF19
+eyJoaXN0b3J5IjpbLTg0MDIzNjUyOCwxMTkwOTg3NzIzLC0zNT
+MzMTA3MzksMTAzNTE5OTg1LDkxMDkwNDM1MCwtMzU5ODY4MzA0
+XX0=
 -->
