@@ -113,14 +113,7 @@ Yes, yes this book was in the previous "School" Unit as well.  But it's really a
 <a href="https://www.bookdepository.com/Song-from-Somewhere-Else-F-Harrold/9781408884751?ref=grid-view&qid=1674049448289&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1045131642" rel="nofollow">Buy on Orell Füssli</a>
 
-### The Beatryce Prophecy, Kate DiCamillo
-<img src="https://imgur.com/QijlQfu.png" width="25%" />
 
-(no Lexile measure available)
-
-
-<a href="https://www.bookdepository.com/Beatryce-Prophecy-Kate-DiCamillo/9781529503623?ref=grid-view&qid=1674317393158&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1064479198" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Tale of Despereaux, by Kate DiCamillo
 <img src="https://imgur.com/kjho9rF.png" width="25%" />
@@ -152,11 +145,11 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTkwNDUwMDMsMTYwMzM3ODAyNCwxMj
-A4NjY3OTE5LC03NTgyNjI5MDYsLTIwMDI5MDEwNDYsLTE2NTM5
-NzE1NzgsODA1NTY5NzIzLDIxMzEwOTYzNTcsLTE2NTEwMTcyNT
-AsMTQ5NTc1MDYwNSw2NjUxMjUxMjEsMTgyOTE3OTE1MSwxOTA5
-NTQ1MDI4LC00NDk4MTY4NDUsLTE1NzQ4MzQ2MjQsLTEzMDAzNz
-EyNDQsLTEyNDYyMTM4NzMsMTA4MjUyNTg5NSwtMTI3NDk5MDY2
-MiwtMTc4ODY0NzA0OV19
+eyJoaXN0b3J5IjpbLTEwNjEyNTQ4ODksLTEwOTkwNDUwMDMsMT
+YwMzM3ODAyNCwxMjA4NjY3OTE5LC03NTgyNjI5MDYsLTIwMDI5
+MDEwNDYsLTE2NTM5NzE1NzgsODA1NTY5NzIzLDIxMzEwOTYzNT
+csLTE2NTEwMTcyNTAsMTQ5NTc1MDYwNSw2NjUxMjUxMjEsMTgy
+OTE3OTE1MSwxOTA5NTQ1MDI4LC00NDk4MTY4NDUsLTE1NzQ4Mz
+Q2MjQsLTEzMDAzNzEyNDQsLTEyNDYyMTM4NzMsMTA4MjUyNTg5
+NSwtMTI3NDk5MDY2Ml19
 -->
