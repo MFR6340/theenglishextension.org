@@ -52,15 +52,7 @@ Young Harry Potter goes to Hogwarts, the most amazing and fascinating boarding s
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1052836436
 " rel="nofollow">Buy on Orell Füssli</a>
 
-### Linked, by Gordon Korman
-<img src="https://i.imgur.com/U0OkMM1.png" width="25%" />
 
-
-( Lexile 750L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
-
-<a href="https://www.bookdepository.com/Linked-Gordon-Korman/9781338629132?ref=grid-view&qid=1674046322823&sr=1-2" rel="nofollow"> Buy on BookDepository</a>
-  <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1065204796
-" rel="nofollow">Buy on Orell Füssli</a>
 
 ### If I Built a School, by Chris Van Dusen
 <img src="https://i.imgur.com/3sflT5L.png" width="25%" />
@@ -89,7 +81,7 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzA3ODc4MDksLTE2MTM4NjMzOTEsLT
+eyJoaXN0b3J5IjpbLTEwMzEzNjg4NzEsLTE2MTM4NjMzOTEsLT
 k4NjA4NzUyNSwtOTQ3MzgxMjk1LDkwMzIyMzI2OCwyODMxNzg1
 OTksNzA4NTI1NTg3LDE2MzM1MTMyOTEsLTE2MTY0NjM1ODAsNT
 E3MDU3NjA4LDExODU2MjU3MjgsLTE0MjU2NjgwMzIsMTEzNDE5
