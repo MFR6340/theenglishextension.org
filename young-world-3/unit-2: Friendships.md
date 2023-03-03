@@ -53,7 +53,7 @@ Who could ever imagine that a spider and a pig could hit it off?  But Charlotte'
 
 <img src="https://imgur.com/FKsGdaK.png" width="25%" />
 
-(Lexile 720L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
+The tale of a kind giant and a little girl.  (Lexile 720L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/BFG-Roald-Dahl/9780141365428?ref=grid-view&qid=1665855539620&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801519" rel="nofollow">Buy on Orell Füssli</a>
@@ -145,11 +145,11 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjEyNTQ4ODksLTEwOTkwNDUwMDMsMT
-YwMzM3ODAyNCwxMjA4NjY3OTE5LC03NTgyNjI5MDYsLTIwMDI5
-MDEwNDYsLTE2NTM5NzE1NzgsODA1NTY5NzIzLDIxMzEwOTYzNT
-csLTE2NTEwMTcyNTAsMTQ5NTc1MDYwNSw2NjUxMjUxMjEsMTgy
-OTE3OTE1MSwxOTA5NTQ1MDI4LC00NDk4MTY4NDUsLTE1NzQ4Mz
-Q2MjQsLTEzMDAzNzEyNDQsLTEyNDYyMTM4NzMsMTA4MjUyNTg5
-NSwtMTI3NDk5MDY2Ml19
+eyJoaXN0b3J5IjpbMjEyNzY1NzU2OSwtMTA2MTI1NDg4OSwtMT
+A5OTA0NTAwMywxNjAzMzc4MDI0LDEyMDg2Njc5MTksLTc1ODI2
+MjkwNiwtMjAwMjkwMTA0NiwtMTY1Mzk3MTU3OCw4MDU1Njk3Mj
+MsMjEzMTA5NjM1NywtMTY1MTAxNzI1MCwxNDk1NzUwNjA1LDY2
+NTEyNTEyMSwxODI5MTc5MTUxLDE5MDk1NDUwMjgsLTQ0OTgxNj
+g0NSwtMTU3NDgzNDYyNCwtMTMwMDM3MTI0NCwtMTI0NjIxMzg3
+MywxMDgyNTI1ODk1XX0=
 -->
