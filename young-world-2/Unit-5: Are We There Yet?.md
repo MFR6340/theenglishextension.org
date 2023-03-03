@@ -38,7 +38,7 @@ From the development of the steam engine, to the building of steamships, to desi
 
 <img src="https://i.imgur.com/61EpL2l.png" width="25%" />
 
-In this book, which is actually six volumes combined into one, beloved author Enid Blyton takes Mike, Belinda and Ann with their parents and Granny on a series of summer adventures in a caravan, a houseboat and an ocean liner. (Lexile 70L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+In this book, which is actually six volumes combined into one, beloved author Enid Blyton takes Mike, Belinda and Ann with their parents and Granny on a series of fun and outlandish summer adventures in a caravan, a houseboat and an ocean liner.  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Family-Stories-Series-Are-We-There-Yet-Enid-Blyton/9781444959529#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058727152" rel="nofollow">Buy on Orell Füssli</a>
@@ -47,7 +47,7 @@ In this book, which is actually six volumes combined into one, beloved author En
 
 <img src="https://i.imgur.com/Cgf8KU8.png" width="25%" />
 
-There seem to be thousands of books written about the Titantic. It’s such an appealing story that continues to the imagination of so many. This book by Scholastic is only one of the many that we can recommend. The story describes the fictional characters of Jimmy, a twelve year old from Ireland and Omar a boy from Lebanon, and describes their adventures around ship with a gripping account of the event. 
+There seem to be thousands of books written about the Titanic. It’s such an appealing story that continues to spark the imagination of so many. This book by Scholastic is only one of the many that we can recommend. The story describes the fictional characters of Jimmy, a twelve year old from Ireland and Omar a boy from Lebanon, and describes their adventures around ship with a gripping account of the event. 
 
 <a href="https://www.bookdepository.com/Titanic-Stephen-Davies/9781407178752?ref=grid-view&qid=1673883552652&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1041054587" rel="nofollow">Buy on Orell Füssli</a>
@@ -58,9 +58,9 @@ The [Swiss Museum of Transport ](https://www.verkehrshaus.ch/en/home.html) in Lu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTYyMTUwMiwtMTYzNzY1Mjg3NCw4Nj
-kzNzY5NzQsLTEyNzA1MjE4MjksMTM2NDQwNDY5NywxMTgxMTU0
-MzU0LC0yMDA3MTUxNDE0LC0xOTYwNjEwNDg1LC0xMTgxOTczOT
-UzLC0xMjg3MDEyNTk5LC01MjExNzA1ODcsMTYxNjA3MjAzNywt
-NTIxMTcwNTg3XX0=
+eyJoaXN0b3J5IjpbLTExOTQyMjk3ODMsLTgzMTYyMTUwMiwtMT
+YzNzY1Mjg3NCw4NjkzNzY5NzQsLTEyNzA1MjE4MjksMTM2NDQw
+NDY5NywxMTgxMTU0MzU0LC0yMDA3MTUxNDE0LC0xOTYwNjEwND
+g1LC0xMTgxOTczOTUzLC0xMjg3MDEyNTk5LC01MjExNzA1ODcs
+MTYxNjA3MjAzNywtNTIxMTcwNTg3XX0=
 -->
