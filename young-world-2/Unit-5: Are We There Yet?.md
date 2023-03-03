@@ -38,7 +38,7 @@ From the development of the steam engine, to the building of steamships, to desi
 
 <img src="https://i.imgur.com/61EpL2l.png" width="25%" />
 
-In this book, which is actually six volumes combined into one, beloved author Enid Blyton takes Mike, Belinda and Ann with their parents and Granny on a series of summer adventures in a caravan, a houseboat and an ocean liner. Leie 70L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
+In this book, which is actually six volumes combined into one, beloved author Enid Blyton takes Mike, Belinda and Ann with their parents and Granny on a series of summer adventures in a caravan, a houseboat and an ocean liner. (Lexile 70L)  <sup>[what is this?](/resources/Lexile%20measures)</sup>
 
 <a href="https://www.bookdepository.com/Family-Stories-Series-Are-We-There-Yet-Enid-Blyton/9781444959529#" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058727152" rel="nofollow">Buy on Orell Füssli</a>
@@ -58,9 +58,9 @@ The [Swiss Museum of Transport ](https://www.verkehrshaus.ch/en/home.html) in Lu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzc2NTI4NzQsODY5Mzc2OTc0LC0xMj
-cwNTIxODI5LDEzNjQ0MDQ2OTcsMTE4MTE1NDM1NCwtMjAwNzE1
-MTQxNCwtMTk2MDYxMDQ4NSwtMTE4MTk3Mzk1MywtMTI4NzAxMj
-U5OSwtNTIxMTcwNTg3LDE2MTYwNzIwMzcsLTUyMTE3MDU4N119
-
+eyJoaXN0b3J5IjpbLTgzMTYyMTUwMiwtMTYzNzY1Mjg3NCw4Nj
+kzNzY5NzQsLTEyNzA1MjE4MjksMTM2NDQwNDY5NywxMTgxMTU0
+MzU0LC0yMDA3MTUxNDE0LC0xOTYwNjEwNDg1LC0xMTgxOTczOT
+UzLC0xMjg3MDEyNTk5LC01MjExNzA1ODcsMTYxNjA3MjAzNywt
+NTIxMTcwNTg3XX0=
 -->
