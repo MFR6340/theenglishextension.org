@@ -8,6 +8,8 @@
 
 <img src="https://imgur.com/JerfxFx.png" width="25%" />
 
+This book examines fast food marketing and tries to explain to the young consumer the different  ways marketers use to get them to eat fast food, which can negatively affect their health. The author  discusses what advertising is, the concept of product placing and various other marketing tools used  to sell these products. The book provides some insights into the fast food industry and how a young  
+consumer can make better decisions with regards to fast food consumerism.
 (No Lexile measure available)
 
 <a href="https://www.bookdepository.com/Eat-This-Andrea-Curtis-Peggy-Collins/9780889955325" rel="nofollow"> Buy on BookDepository</a>  
@@ -22,6 +24,6 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034596066" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODYwNjA1NSwtMTQ4MzY3OTEyMywtMT
-Y0OTg1NzQ3OV19
+eyJoaXN0b3J5IjpbLTIwNTQxOTg2MTEsLTE0ODM2NzkxMjMsLT
+E2NDk4NTc0NzldfQ==
 -->
