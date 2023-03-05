@@ -18,7 +18,7 @@ A lovely book that explains festivals and gatherings that take place throughout 
 
 <img src="https://imgur.com/DsPI10e.png" width="25%" />
 
-Newberry Honor Book.  The story of William Tell, who shot an apple of the head of his son in 1291.  Written from the viewpoint of his son Walter.  (Lexile 750L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+Newberry Honor Book.  The legend of William Tell, who shot an apple of the top head of his son in 1291.  Written from the viewpoint of his son Walter.  (Lexile 750L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Apple-Arrow-Buff-M/9780618128099?ref=grid-view&qid=1665931458861&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002594722" rel="nofollow">Buy on Orell Füssli</a>
@@ -68,8 +68,8 @@ Attend a traditional Schwingfest.  Schwingen is only for the biggest and toughes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzMjIwODA4LDE4OTEzNjM5NTksLTE4MD
-M3NjgzNiwtMTE2MDQ1OTAyMCwyNDIyMjg4ODgsMTA4NDA5MzM0
-OSwxMzYzNjYxNTkxLC02MDQ3NDc3NjIsNDMyMDYyMTc2LC0xOD
-k0NjAwODUzLDE4NDg4NTQxMjIsNDU5MTgzMDU1XX0=
+eyJoaXN0b3J5IjpbLTU5ODM4NjI3OSwxODkxMzYzOTU5LC0xOD
+AzNzY4MzYsLTExNjA0NTkwMjAsMjQyMjI4ODg4LDEwODQwOTMz
+NDksMTM2MzY2MTU5MSwtNjA0NzQ3NzYyLDQzMjA2MjE3NiwtMT
+g5NDYwMDg1MywxODQ4ODU0MTIyLDQ1OTE4MzA1NV19
 -->
