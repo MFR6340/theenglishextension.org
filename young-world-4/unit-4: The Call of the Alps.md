@@ -66,11 +66,9 @@ The majestic Alps have always encouraged it’s people to both work, and play, o
 Attend a traditional Schwingfest. Schwingen is only for the biggest and toughest. Pairs compete in wrestling to see which lands in the sawdust first. The Unspunnen-Schwinget takes place only every six years and will be happening on 27. August 2023.   
 <a href="https://unspunnen-schwinget.ch/" rel="nofollow">Unspunnen-Schwingfest</a>
 
-
-
-
+[Visit Ballenberg](https://www.ballenberg.ch/en/) - Ballenberg is an open-air living museum dedicated to traditional Swiss rural life. Old buildings from all over Switzerland have been transported and rebuilt at Ballenberg, open to explore with traditional artefacts setting the scene. They also have some trade on display.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMDIyNTg2OCwxODkxMzYzOTU5LC0xOD
+eyJoaXN0b3J5IjpbMjA5MTAyMTkyMCwxODkxMzYzOTU5LC0xOD
 AzNzY4MzYsLTExNjA0NTkwMjAsMjQyMjI4ODg4LDEwODQwOTMz
 NDksMTM2MzY2MTU5MSwtNjA0NzQ3NzYyLDQzMjA2MjE3NiwtMT
 g5NDYwMDg1MywxODQ4ODU0MTIyLDQ1OTE4MzA1NV19
