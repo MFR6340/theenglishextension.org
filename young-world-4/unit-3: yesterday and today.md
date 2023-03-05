@@ -2,13 +2,13 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
-**This unit discusses the differences in life between long ago and today, including job differences, changes in communication and the invention of railway.  There is brief information on important events including the Great Fire of London, the discovery of New Zealand, the sinking of Titanic, and the landing on the Moon.  This theme has limitless suggestions for supplemental reading.  Here is just the tip of the iceberg...**
+**This unit discusses the differences in life between long ago and today, including job differences, changes in means communication and transportation.  There is brief information on important events including the Great Fire of London, the discovery of New Zealand, the sinking of Titanic, and the landing on the Moon.  This theme has limitless suggestions for supplemental reading.  Here is just the tip of the iceberg...**
 
 ### The Great Brain, by John D. Fitzgerald
 
 <img src="https://imgur.com/njY8PTT.png" width="25%" />
 
-The author chronicles his life in Utah (USA) in 1896 as the younger brother of ten year old Tom Fitzgerald, the Great Brain. Each chapters tells a story of how Tom manages to swindle someone in the town and get a little richer.  These stories are great fun and reminiscent of Tom Sawyer.  (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+The author chronicles his life in Utah (USA) in 1896 as the younger brother of ten year old Tom Fitzgerald, the Great Brain. Each chapter tells a story of how Tom manages to swindle someone in the town and get a little richer.  These stories are great fun and reminiscent of Tom Sawyer.  (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Great-Brain-John-D-Fitzgerald/9780142400586?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003007318" rel="nofollow">Buy on Orell Füssli</a>
@@ -17,7 +17,7 @@ The author chronicles his life in Utah (USA) in 1896 as the younger brother of t
 
 <img src="https://imgur.com/0Yih5hU.png" width="25%" />
 
-Winner of the Newbery Medal.  Adam is the son of a minstrel in 13th century England who goes on a journey to find his father which is filled with robbers, narrow escapes, and daring deeds.  A wonderful story of a resilient and brave boy during  Medieval times.  (Lexile 1030L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+Winner of the Newbery Medal.  Adam is the son of a minstrel in 13th century England who goes on a journey to find his father, which is filled with robbers, narrow escapes, and daring deeds.  A wonderful story of a resilient and brave boy during  Mediaeval times. (Lexile 1030L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Adam-Road-Elizabeth-Janet-Gray/9780140324648?ref=grid-view&qid=1665930041706&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354191" rel="nofollow">Buy on Orell Füssli</a>
@@ -103,11 +103,11 @@ First book in a hilarious series about the author's life growing up in the Vermo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MTAwODY3MiwxNDQzODQxMzI0LDE0OD
-EwNzA2MDYsLTE2MTc3NzQ0MTQsLTgxMjUyODY3MCwxOTQ5Mjgx
-MDEwLC0yMDkxMTU1Mzc0LC03NTI4NDcwNDksMTc1MDcxNDc2MC
-w5MTgwMTg3OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMxLDM3ODkz
-NTkzMywyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2MTcsMj
-c4MTMxMzg5LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwtNjMyMjAw
-NDY4XX0=
+eyJoaXN0b3J5IjpbLTEyNDI4MTY4MDcsMTQ0Mzg0MTMyNCwxND
+gxMDcwNjA2LC0xNjE3Nzc0NDE0LC04MTI1Mjg2NzAsMTk0OTI4
+MTAxMCwtMjA5MTE1NTM3NCwtNzUyODQ3MDQ5LDE3NTA3MTQ3Nj
+AsOTE4MDE4Nzk2LC0yMDkxMzEzNzMwLDUzNzUzOTMzMSwzNzg5
+MzU5MzMsMjAxNzA0ODU2NywzMDQyOTIwNDUsNTAxMzg2NjE3LD
+I3ODEzMTM4OSwtODYwNTE4NTY4LDE1ODY4OTIzODUsLTYzMjIw
+MDQ2OF19
 -->
