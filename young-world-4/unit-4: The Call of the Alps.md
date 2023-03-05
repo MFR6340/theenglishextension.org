@@ -9,7 +9,7 @@
 
 <img src="https://imgur.com/yF8ZSP4.png" width="25%" />
 
-A lovely book that explains festivals and gatherings that take place throughout Switzerland from Basel to Jura including the well-known Fasnacht (Carnival) festivites to the Bullmarket in Zug.  
+A lovely book that explains festivals and gatherings that take place throughout Switzerland from Basel to Jura including the well-known Fasnacht (Carnival) festivities to the Bullmarket in Zug.  
 
 <a href="https://www.bookdepository.com/Festivals-and-Traditions-in-Switzerland-Barbara-Piatti-Yvonne-Rogenmoser/9780735844162" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056567331" rel="nofollow">Buy on Orell Füssli</a>
@@ -68,8 +68,8 @@ Attend a traditional Schwingfest.  Schwingen is only for the biggest and toughes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTM2Mzk1OSwtMTgwMzc2ODM2LC0xMT
-YwNDU5MDIwLDI0MjIyODg4OCwxMDg0MDkzMzQ5LDEzNjM2NjE1
-OTEsLTYwNDc0Nzc2Miw0MzIwNjIxNzYsLTE4OTQ2MDA4NTMsMT
-g0ODg1NDEyMiw0NTkxODMwNTVdfQ==
+eyJoaXN0b3J5IjpbNTQzMjIwODA4LDE4OTEzNjM5NTksLTE4MD
+M3NjgzNiwtMTE2MDQ1OTAyMCwyNDIyMjg4ODgsMTA4NDA5MzM0
+OSwxMzYzNjYxNTkxLC02MDQ3NDc3NjIsNDMyMDYyMTc2LC0xOD
+k0NjAwODUzLDE4NDg4NTQxMjIsNDU5MTgzMDU1XX0=
 -->
