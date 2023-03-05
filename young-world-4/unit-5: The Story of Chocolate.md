@@ -36,18 +36,10 @@ Jelly and her family live in Chompton-on-de-Lyte, where everyone loves a Chocabl
 <a href="https://www.bookdepository.com/Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=1674493914769&sr=1-1"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038196486" rel="nofollow">Buy on Orell Füssli</a>
 
-### This Book is Not Good For You, by Pseudonymous Bosch
-<img src="https://imgur.com/USP4SsA.png" width="25%" />
-
-(Lexile 690L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
-
-<a href="https://www.bookdepository.com/This-Book-Is-Not-Good-For-You-Pseudonymous-Bosch/9780316040853?ref=grid-view&qid=1674494&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1010873165" rel="nofollow">Buy on Orell Füssli</a>
-
 ## Supplemental Activities
 While at the Swiss Museum of Transport in Luzern, visit the [Swiss Chocolate Adventure](https://www.verkehrshaus.ch/en/visit/swiss-chocolate-adventure.html) you can learn more about chocolate production and taste creations made by Lindt chocolatiers. 
 
-If you need even more Lindt, definitely go to the [Lindt Home of Chocolate ](https://www.lindt-home-of-chocolate.com/en/) in Zurich.  Check out the 9meter tall fountain, which cycles 1,500kg of chocolate.  You can also enroll in a variety of chocolate classes.
+If you need even more Lindt, definitely go to the [Lindt Home of Chocolate ](https://www.lindt-home-of-chocolate.com/en/) in Zurich.  Check out the 9 metre tall fountain, which cycles 1,500kg of chocolate.  You can also enroll in a variety of chocolate classes.
 
 This fantastic article gives suggestions for even more [Chocolate factories and tours](https://swissfamilyfun.com/switzerland-chocolate-factories/).  
 
@@ -55,11 +47,11 @@ This fantastic article gives suggestions for even more [Chocolate factories and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1MTM3MjY3LDY3MDc3OTkyLC0xNDQ5OT
-Y0MjI4LDM4MjE3NzU0MSwtMTE5MTIwMjY1NSwtMTIwMDQxMjY5
-LDcxMTc0NTM2NiwxMTcwMTM4MzA1LC04NjE0NDYxLC01NTcyNj
-QzODMsLTE5NDQ2NTgwNDcsNjc3NzM3NjA4LDY2ODYwOTQ3NSwx
-MTk1OTg2MjksLTE0NzE0MzAwMSwtMzc2OTgxODMxLC0xNTQ0NT
-Q3MTA3LC0xNTc0NTk5MTEyLC01OTI2Njk0NTYsODkxNzgxMzMw
-XX0=
+eyJoaXN0b3J5IjpbLTE0MDQ3NjI2OTksNjcwNzc5OTIsLTE0ND
+k5NjQyMjgsMzgyMTc3NTQxLC0xMTkxMjAyNjU1LC0xMjAwNDEy
+NjksNzExNzQ1MzY2LDExNzAxMzgzMDUsLTg2MTQ0NjEsLTU1Nz
+I2NDM4MywtMTk0NDY1ODA0Nyw2Nzc3Mzc2MDgsNjY4NjA5NDc1
+LDExOTU5ODYyOSwtMTQ3MTQzMDAxLC0zNzY5ODE4MzEsLTE1ND
+Q1NDcxMDcsLTE1NzQ1OTkxMTIsLTU5MjY2OTQ1Niw4OTE3ODEz
+MzBdfQ==
 -->
