@@ -20,10 +20,10 @@ consumer can make better decisions with regards to fast food consumerism.
 
 <img src="https://i.imgur.com/g0kZ505.png" width="25%" />
 
-This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who was trained in some of the finest kitchens in Europe.  As a child in Ethiopia, his mother died and he was adopted by a loving family in Sweden who gave him a love for cooking.  He wanted to become a soccer player but instead has become one of the "great chefs of the world".  (1080L)
+This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who was trained in some of the finest kitchens in Europe.  As a child in Ethiopia, his mother died and he was adopted by a loving family in Sweden who gave him a love for cooking.  He wanted to become a soccer player but instead has become one of the "great chefs of the world".  (Lexile 1150L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034596066" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQxOTg2MTEsLTE0ODM2NzkxMjMsLT
-E2NDk4NTc0NzldfQ==
+eyJoaXN0b3J5IjpbMjIxNzY2NTUxLC0xNDgzNjc5MTIzLC0xNj
+Q5ODU3NDc5XX0=
 -->
