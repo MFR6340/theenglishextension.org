@@ -47,7 +47,10 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 Summary here.  (Lexile 680L ) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
-
+Josef Matt, the only man to ever try to conquer this last summit of the Alps, met his end in the pursuit.  
+Set in 1865...his son, Rudi, now dares to complete the same task in memory of his father. Setting off with  
+his father's red shirt, Rudi must courageously pass through the same chasm that took his father's life and  
+finish the challenging climb in order to plant the shirt at the peak.
 
 <a href="https://www.bookdepository.com/Banner-Sky-Ramsey-Ullman/9780064470483?ref=grid-view&qid=1674491497317&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003099423" rel="nofollow"></a>
@@ -56,7 +59,7 @@ Summary here.  (Lexile 680L ) <sup>[what is this?](/resources/Lexile%20Levels)</
 
 # Supplemental Activities
 
-Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri grew up.  Come visit and learn all about the author who wrote the world-famous book, Heidi. 
+Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri, the author of Heidi, grew up. Come visit and learn all about the author who wrote the world-famous book, Heidi. In keeping with the Heidi theme, visit a replica of the Dorf where Heidi lived.
 
 Keeping along the Heidi theme, visit which is designed to look a replica of the Dorf where Heidi lived. <a href="https://www.ourswissexperience.com/en/2021/09/23/heididorf-heidis-village-maienfeld-visiting-the-worlds-most-famous-swiss-girl/ " rel="nofollow">Visiting Heidi's village</a>
 
@@ -69,7 +72,7 @@ Attend a traditional Schwingfest.  Schwingen is only for the biggest and toughes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNjA5MjkxMCwxODkxMzYzOTU5LC0xOD
+eyJoaXN0b3J5IjpbLTQ0NTUyNjE4MiwxODkxMzYzOTU5LC0xOD
 AzNzY4MzYsLTExNjA0NTkwMjAsMjQyMjI4ODg4LDEwODQwOTMz
 NDksMTM2MzY2MTU5MSwtNjA0NzQ3NzYyLDQzMjA2MjE3NiwtMT
 g5NDYwMDg1MywxODQ4ODU0MTIyLDQ1OTE4MzA1NV19
