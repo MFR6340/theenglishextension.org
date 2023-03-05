@@ -60,9 +60,8 @@ In this anthology, stunning animal photos by National Geographic photographers a
 
 The IMAX Theatre at the Swiss Museum of Transport regularly has interesting films about animals.  Currently they are showing a film called [Turtle Journey ](https://www.verkehrshaus.ch/en/visit/filmtheatre/filme/dokumentationen/detail/shows/show/turtle-journey-3d.html).  Shown in 3D. Nice for a rainy day.
 
-Discover around 100 native and European wild animal species here is Goldau Switzerland! Get to know all  
-about the animals at the Goldau Animal Park - learn more about them online or visit the park.  
-https://www.tierpark.ch/tier-arten-naturschutz/unsere-tiere/
+Discover around 100 native and European wild animal species here is Goldau Switzerland! Get to know all about the animals at the [Goldau Animal Park](https://www.tierpark.ch/tier-arten-naturschutz/unsere-tiere/) - learn more about them online or visit the park.
+
 
 
 
@@ -79,8 +78,8 @@ https://www.tierpark.ch/tier-arten-naturschutz/unsere-tiere/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ3ODE1MDgsLTE4OTIyNjE3MTQsLT
-EzOTgzMDM5NTUsLTEwMjcyMDYyNzksLTE4Nzg5NjE5ODUsODU4
-MDUwNjc5LC0zMTI2NDk3MjMsMTk5OTk4NzIzMiwxODA2OTA5MD
-A2XX0=
+eyJoaXN0b3J5IjpbMTEwMzUxMTkxOSwtMTg5MjI2MTcxNCwtMT
+M5ODMwMzk1NSwtMTAyNzIwNjI3OSwtMTg3ODk2MTk4NSw4NTgw
+NTA2NzksLTMxMjY0OTcyMywxOTk5OTg3MjMyLDE4MDY5MDkwMD
+ZdfQ==
 -->
