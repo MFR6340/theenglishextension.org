@@ -50,7 +50,7 @@ Feathers, fins, fur, feet—the animal kingdom is made up of nearly 9 million kn
 ### Book of Animal Poetry, by J. Lewis
 <img src="https://i.imgur.com/t5qgfVv.png  " width="25%" />
 
-In this anthology, stunning animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors.  192 pages.   (No lexile measure)
+In this anthology, stunning animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors. 192 pages. (No Lexile measure)
 
 <a href="https://www.bookdepository.com/National-Geographic-Kids-Book-Animal-Poetry-J-Patrick-Lewis/9781426310096?ref=grid-view&qid=1674&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061635944" rel="nofollow">Buy on Orell Füssli</a>
@@ -77,8 +77,8 @@ At Technorama in Winterthur, attend the Public Workshop in Biology [on Woodlice 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0NzY3OTY5LC0xODkyMjYxNzE0LC0xMz
-k4MzAzOTU1LC0xMDI3MjA2Mjc5LC0xODc4OTYxOTg1LDg1ODA1
-MDY3OSwtMzEyNjQ5NzIzLDE5OTk5ODcyMzIsMTgwNjkwOTAwNl
-19
+eyJoaXN0b3J5IjpbMjA4NTE1Mjg0OSwtMTg5MjI2MTcxNCwtMT
+M5ODMwMzk1NSwtMTAyNzIwNjI3OSwtMTg3ODk2MTk4NSw4NTgw
+NTA2NzksLTMxMjY0OTcyMywxOTk5OTg3MjMyLDE4MDY5MDkwMD
+ZdfQ==
 -->
