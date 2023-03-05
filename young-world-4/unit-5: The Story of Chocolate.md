@@ -19,6 +19,9 @@ Also try the Audio book version read by Eric Idle
 
 <img src="https://imgur.com/oMtnFMg.png" width="25%" />
 
+The Candy Bomber, by Michael O. Tunnell  
+One WWII pilot’s mission to lift the spirits of children living in war-torn Berlin in 1945 comes to life in this moving middle-grade historical account.What began as a one-time gesture of compassion turned into an official U.S. Air Force operation. This inspiring story of one man’s  
+contribution to the rebuilding of a country after war is a unique look at history.
  (Lexile 1130L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Candy-Bomber-Michael-O-Tunnell/9781580893374?ref=grid-view&qid=1674493085238&sr=1-12&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -27,6 +30,7 @@ Also try the Audio book version read by Eric Idle
 ### The Great Chocoplot, by Chris Callaghan
 <img src="https://imgur.com/PvuDfbY.png" width="25%" />
 
+Jelly and her family live in Chompton-on-de-Lyte, where everyone loves a Chocablocka bar or two - so when the end of chocolate is announced, she can't believe it. Determined to investigate, Jelly and her gran follow a trail of clues to a posh chocolate shop and its owner, the pompous Garibaldi Chocolati.
 (Lexile 790L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=1674493914769&sr=1-1"> Buy on BookDepository</a>  
@@ -60,11 +64,11 @@ This fantastic article gives suggestions for even more [Chocolate factories and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwNzc5OTIsLTE0NDk5NjQyMjgsMzgyMT
-c3NTQxLC0xMTkxMjAyNjU1LC0xMjAwNDEyNjksNzExNzQ1MzY2
-LDExNzAxMzgzMDUsLTg2MTQ0NjEsLTU1NzI2NDM4MywtMTk0ND
-Y1ODA0Nyw2Nzc3Mzc2MDgsNjY4NjA5NDc1LDExOTU5ODYyOSwt
-MTQ3MTQzMDAxLC0zNzY5ODE4MzEsLTE1NDQ1NDcxMDcsLTE1Nz
-Q1OTkxMTIsLTU5MjY2OTQ1Niw4OTE3ODEzMzAsODczNTE2MjY0
-XX0=
+eyJoaXN0b3J5IjpbLTg3NTkwMjk0NCw2NzA3Nzk5MiwtMTQ0OT
+k2NDIyOCwzODIxNzc1NDEsLTExOTEyMDI2NTUsLTEyMDA0MTI2
+OSw3MTE3NDUzNjYsMTE3MDEzODMwNSwtODYxNDQ2MSwtNTU3Mj
+Y0MzgzLC0xOTQ0NjU4MDQ3LDY3NzczNzYwOCw2Njg2MDk0NzUs
+MTE5NTk4NjI5LC0xNDcxNDMwMDEsLTM3Njk4MTgzMSwtMTU0ND
+U0NzEwNywtMTU3NDU5OTExMiwtNTkyNjY5NDU2LDg5MTc4MTMz
+MF19
 -->
