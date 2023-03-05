@@ -5,7 +5,7 @@
 **This unit discusses interesting animal behavior of animals like the Dung Beetle and the Flying Squirrel. It also covers animal migration, especially of the Green Turtle, the Arctic Turn and Gray Whales. Some animal limericks are included as well.   Here are some suggestions for native English speakers to read more about animals.** 
 
 
-### Moonbird, a Year on the Wind, By Philip Hoose
+### Moonbird, a Year on the Wind, by Philip Hoose
 
 <img src="https://imgur.com/0oemAkn.png" width="25%" />
 
@@ -76,7 +76,7 @@ At Technorama in Winterthur, attend the Public Workshop in Biology [on Woodlice 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjAwNzUwMywtMTg5MjI2MTcxNCwtMT
+eyJoaXN0b3J5IjpbLTg5NzYzODA5NywtMTg5MjI2MTcxNCwtMT
 M5ODMwMzk1NSwtMTAyNzIwNjI3OSwtMTg3ODk2MTk4NSw4NTgw
 NTA2NzksLTMxMjY0OTcyMywxOTk5OTg3MjMyLDE4MDY5MDkwMD
 ZdfQ==
