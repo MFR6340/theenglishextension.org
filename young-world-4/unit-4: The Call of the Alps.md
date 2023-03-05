@@ -26,7 +26,8 @@ Newberry Honor Book.  The legend of William Tell, who shot an apple of the top h
 ### Heidi, by Johanna Spyri
 <img src="https://imgur.com/XPkX05Y.png" width="25%" />
 
-The classic children's novel, originally published in German, is about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  You can’t be a child in Switzerland and not read this classic. It’s an excellent way to learn about descriptive settings and to learn about using landscapes to create atmospheric writing.Originally published in 1880-81 in two parts. Because it is now out of copyright there are quite a few English translations available including ones for free on<a href="http://www.gutenberg.org/ebooks/1448" rel="nofollow">  Gutenberg.  Lexile measure varies based on translation. 
+The classic children's novel, originally published in German, is about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  You can’t be a child in Switzerland and not read this classic. It’s an excellent way to learn about descriptive settings and to learn about using landscapes to create atmospheric writing.Originally published in 1880-81 in two parts. Because it is now out of copyright there are quite a few English translations available including ones for free on [Gutenberg](href="http://www.gutenberg.org/ebooks/1448").
+Lexile measure varies based on translation. 
 
 <a href="https://www.bookdepository.com/Heidi-Johanna-Spyri/9780141322568?ref=grid-view&qid=1665931270781&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005226950" rel="nofollow">Buy on Orell Füssli</a>
@@ -35,7 +36,7 @@ The classic children's novel, originally published in German, is about an charmi
 
 <img src="https://imgur.com/dtqp6SI.png" width="25%" />
 
-A mystery adventure of the Hollister family while visiting Switzerland.  The five children track down the leads to finding missing Mr. Meyer and a diamond and learn about Swiss life and customs.  This book is #25 in a series, but none of the books need to be read in any order.  (Lexile 730L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+A mystery adventure of the Hollister family while visiting Switzerland.  The five children track down the leads to finding missing Mr. Meyer and a diamond, and learn about Swiss life and customs.  This book is #25 in a series, but none of the books need to be read in any order.  (Lexile 730L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Happy-Hollisters-Swiss-Echo-Mystery-Jerry-West/9781949436587?ref=grid-view&qid=1665931110999&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053696383" rel="nofollow">Buy on Orell Füssli</a>
@@ -68,7 +69,7 @@ Attend a traditional Schwingfest.  Schwingen is only for the biggest and toughes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDU5Njc5MCwxODkxMzYzOTU5LC0xOD
+eyJoaXN0b3J5IjpbMTAyNjA5MjkxMCwxODkxMzYzOTU5LC0xOD
 AzNzY4MzYsLTExNjA0NTkwMjAsMjQyMjI4ODg4LDEwODQwOTMz
 NDksMTM2MzY2MTU5MSwtNjA0NzQ3NzYyLDQzMjA2MjE3NiwtMT
 g5NDYwMDg1MywxODQ4ODU0MTIyLDQ1OTE4MzA1NV19
