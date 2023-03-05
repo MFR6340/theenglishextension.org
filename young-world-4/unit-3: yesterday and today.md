@@ -75,13 +75,10 @@ Honestly, any of the books in the Horrible Histories series serve as a funny and
 
 <img src="https://imgur.com/qcFwwBW.png" width="25%" />
 
-
+Elizabethans did all they could to survive in an age of sin and beheadings, galleons and guns. Explorers set sail for new worlds, risking everything to bring back slaves, gold and the priceless potato. Elizabeth lined her coffers while her subjects lived in squalor with hunger, violence and misery as bedfellows. Shakespeare shone and yet the beggars, doxies and thieves scraped and cheated to survive in the shadows. These were dangerous days. If you survived the villains, and the diseases didn’t get you, then the lawmen might. The toothless, red-wigged queen sparkled in her jewelled dresses, but the Golden Age was only the surface of the coin.
 
 <a href="https://www.bookdepository.com/Terrible-Tudors-Terry-Deary/9781407104898?ref=grid-view&qid=1675094181535&sr=1-413" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A100730742536886384" rel="nofollow">Buy on  Orell Füssli</a>
-
-
-
 
 ### Soup, by Robert Newton Peck
 
@@ -95,11 +92,11 @@ Honestly, any of the books in the Horrible Histories series serve as a funny and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTk1MDI0LDE0NDM4NDEzMjQsMTQ4MT
-A3MDYwNiwtMTYxNzc3NDQxNCwtODEyNTI4NjcwLDE5NDkyODEw
-MTAsLTIwOTExNTUzNzQsLTc1Mjg0NzA0OSwxNzUwNzE0NzYwLD
-kxODAxODc5NiwtMjA5MTMxMzczMCw1Mzc1MzkzMzEsMzc4OTM1
-OTMzLDIwMTcwNDg1NjcsMzA0MjkyMDQ1LDUwMTM4NjYxNywyNz
-gxMzEzODksLTg2MDUxODU2OCwxNTg2ODkyMzg1LC02MzIyMDA0
-NjhdfQ==
+eyJoaXN0b3J5IjpbMTE0NTA0MTE4MCwxNDQzODQxMzI0LDE0OD
+EwNzA2MDYsLTE2MTc3NzQ0MTQsLTgxMjUyODY3MCwxOTQ5Mjgx
+MDEwLC0yMDkxMTU1Mzc0LC03NTI4NDcwNDksMTc1MDcxNDc2MC
+w5MTgwMTg3OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMxLDM3ODkz
+NTkzMywyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2MTcsMj
+c4MTMxMzg5LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwtNjMyMjAw
+NDY4XX0=
 -->
