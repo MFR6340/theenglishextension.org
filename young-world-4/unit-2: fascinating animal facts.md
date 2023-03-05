@@ -19,17 +19,17 @@ This amazing bird flew 144,840km in his migration from Tierra del Fuego to the C
 
 <img src="https://imgur.com/bncKSt9.png" width="25%" />
 
+Every year in Namibia, about two thousand zebras suddenly disappear from their grazing area along the Chobe River. Months later, the herd returns. Where do they go? And why? Thanks to satellite-tracking collars, scientists were able to solve the mystery, but several questions remain. Award-winning science author Sandra Markle reveals the process scientists used to study the zebras, and she also delves into the science of migration, exploring how animals know where to go, how to get there, and when to leave.
  (Lexile 1050L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Follow-Those-Zebras-Sandra-Markle/9781541538375" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1055579035" rel="nofollow">Buy on Orell Füssli</a>
 
-### Belle’s Journey, an Osprey Takes Flight. by Rob Bierregaard
+### Belle’s Journey, an Osprey Takes Flight, by Rob Bierregaard
 
 <img src="https://imgur.com/ikhqKuw.png" width="25%" />
 
-summary here.
-  
+This book follows the story of Dr Bierregaard and ‘his’ Osprey’s. We learn about Belle, an Osprey, and her fledgelings as they learn to fly and migrate for the first time from Brazil and back. This book is about two scientists who observe Osprey’s. Based on research collected for over twenty years, Belle and her offspring, along with the Dr’s observations, will teach the young reader a lot about who she is and her travels.  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046449432" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Wow in the Wild, Amazing World of Animals
@@ -76,7 +76,7 @@ At Technorama in Winterthur, attend the Public Workshop in Biology [on Woodlice 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzYzODA5NywtMTg5MjI2MTcxNCwtMT
+eyJoaXN0b3J5IjpbMTI3MzAzNjM2MywtMTg5MjI2MTcxNCwtMT
 M5ODMwMzk1NSwtMTAyNzIwNjI3OSwtMTg3ODk2MTk4NSw4NTgw
 NTA2NzksLTMxMjY0OTcyMywxOTk5OTg3MjMyLDE4MDY5MDkwMD
 ZdfQ==
