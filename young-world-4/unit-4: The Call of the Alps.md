@@ -59,11 +59,9 @@ finish the challenging climb in order to plant the shirt at the peak.
 
 # Supplemental Activities
 
-Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri, the author of Heidi, grew up. Come visit and learn all about the author who wrote the world-famous book, Heidi. In keeping with the Heidi theme, visit a replica of the Dorf where Heidi lived.
+Not far from Zurich and Zug is the little village of Hirzel where Johanna Spyri, the author of Heidi, grew up. Come visit and learn all about the author who wrote the world-famous book, Heidi. In keeping with the Heidi theme, visit a replica of the [where Heidi lived](href="https://www.ourswissexperience.com/en/2021/09/23/heididorf-heidis-village-maienfeld-visiting-the-worlds-most-famous-swiss-girl/).
 
-Keeping along the Heidi theme, visit which is designed to look a replica of the Dorf where Heidi lived. <a href="https://www.ourswissexperience.com/en/2021/09/23/heididorf-heidis-village-maienfeld-visiting-the-worlds-most-famous-swiss-girl/ " rel="nofollow">Visiting Heidi's village</a>
-
-The majestic Alps have always called people to both work play on their slopes.   There are plenty of ways of playing, from skiing, to sledding, to bobsledding.  The Ski Museum in Davos has a lovely collection of  Alpine sports artifacts which will definitely to react with "Wow, they really used THAT?"  https://www.wintersportmuseum.ch
+The majestic Alps have always encouraged it’s people to both work, and play, on their slopes. There are plenty of ways to enjoy the Swiss mountains...from skiing, to sledding, to bobsledding. The Ski Museum in Davos has an interesting collection of Alpine sport artefacts, which will definitely elicit a reaction of: “Wow, they really used THAT?"  [https://www.wintersportmuseum.ch
 
 Attend a traditional Schwingfest.  Schwingen is only for the biggest and toughest. Pairs compete to see which lands on the sawdust first.  The Unspunnen-Schwinget takes place only every six years and will be happening on 27. August 2023.   
 <a href="https://unspunnen-schwinget.ch/" rel="nofollow">Unspunnen Schwingfest</a>
@@ -72,7 +70,7 @@ Attend a traditional Schwingfest.  Schwingen is only for the biggest and toughes
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTUyNjE4MiwxODkxMzYzOTU5LC0xOD
+eyJoaXN0b3J5IjpbMTk4MzUxNTA0OCwxODkxMzYzOTU5LC0xOD
 AzNzY4MzYsLTExNjA0NTkwMjAsMjQyMjI4ODg4LDEwODQwOTMz
 NDksMTM2MzY2MTU5MSwtNjA0NzQ3NzYyLDQzMjA2MjE3NiwtMT
 g5NDYwMDg1MywxODQ4ODU0MTIyLDQ1OTE4MzA1NV19
