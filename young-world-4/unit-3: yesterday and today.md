@@ -58,12 +58,12 @@ Newbery Award Winner, this story about a boy named Robin is set in the 14th Cent
 
 <img src="https://imgur.com/53YvdAS.png" width="25%" />
 
-It's one of the shortest books to win the Newbery Medal, so it won't take long to read this beautiful tale of a family in rural America in the 1800s.  Written from the perspective of the boy, it describes what happens after his mother dies and his father advertises for a mail order bride.  A wonderful story of starting a new life while still remembering the old one.   (Lexile 660L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>.   eile 
+It's one of the shortest books to win the Newbery Medal, so it won't take long to read this beautiful tale of a family in rural America in the 1800s.  Written from the perspective of the boy, it describes what happens after his mother dies and his father advertises for a mail order bride.  A wonderful story of starting a new life while still remembering the old one.   (Lexile 660L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>. 
 
 <a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=16744&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
 
-### Terrible Tudors, by Ter
+### Terrible Tudors, by Terry Deary and Neil Tonge
 
 <img src="https://i.imgur.com/JovaVRX.png" width="25%" />
 
@@ -81,14 +81,6 @@ Honestly, any of the books in the Horrible Histories series serve as a funny and
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A100730742536886384" rel="nofollow">Buy on  Orell Füssli</a>
 
 
-### Soup, by Robert Newton Peckry Deary
-
-<img src="https://imgur.com/eDd7MVX.png" width="25%" />
-
-First book in a hilarious series about the author's life growing up in the Vermont (USA) countryside in the 1920's with his friend, who was nicknamed Soup.  A story of friendship, crazy antics and times gone by.  (Lexile 740L)   <sup>[what is this?](/resources/Lexile%20Levels)</sup>
-
-<a href="https://www.bookdepository.com/Dangerous-Days-on-Victorian-Railways-Terry-Deary/9781780226361?ref=grid-view&qid=1674491074938&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034790323" rel="nofollow">Buy on  Orell Füssli</a>
 
 
 ### Soup, by Robert Newton Peck
@@ -103,11 +95,11 @@ First book in a hilarious series about the author's life growing up in the Vermo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODgwMjA1ODMsMTQ0Mzg0MTMyNCwxND
-gxMDcwNjA2LC0xNjE3Nzc0NDE0LC04MTI1Mjg2NzAsMTk0OTI4
-MTAxMCwtMjA5MTE1NTM3NCwtNzUyODQ3MDQ5LDE3NTA3MTQ3Nj
-AsOTE4MDE4Nzk2LC0yMDkxMzEzNzMwLDUzNzUzOTMzMSwzNzg5
-MzU5MzMsMjAxNzA0ODU2NywzMDQyOTIwNDUsNTAxMzg2NjE3LD
-I3ODEzMTM4OSwtODYwNTE4NTY4LDE1ODY4OTIzODUsLTYzMjIw
-MDQ2OF19
+eyJoaXN0b3J5IjpbMTE1NTk1MDI0LDE0NDM4NDEzMjQsMTQ4MT
+A3MDYwNiwtMTYxNzc3NDQxNCwtODEyNTI4NjcwLDE5NDkyODEw
+MTAsLTIwOTExNTUzNzQsLTc1Mjg0NzA0OSwxNzUwNzE0NzYwLD
+kxODAxODc5NiwtMjA5MTMxMzczMCw1Mzc1MzkzMzEsMzc4OTM1
+OTMzLDIwMTcwNDg1NjcsMzA0MjkyMDQ1LDUwMTM4NjYxNywyNz
+gxMzEzODksLTg2MDUxODU2OCwxNTg2ODkyMzg1LC02MzIyMDA0
+NjhdfQ==
 -->
