@@ -36,14 +36,6 @@ Jelly and her family live in Chompton-on-de-Lyte, where everyone loves a Chocabl
 <a href="https://www.bookdepository.com/Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=1674493914769&sr=1-1"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038196486" rel="nofollow">Buy on Orell Füssli</a>
 
-### The Whizz Pop Chocolate Shop, by Kate Saunders
-<img src="https://imgur.com/O9Uy0I3.png" width="25%" />
-
-(Lexile 700L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
-
-
-<a href="https://www.bookdepository.com/Whizz-Pop-Chocolate-Shop-Kate-Saunders/9780385743020?ref=grid-view&qid=1674494&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1033680556" rel="nofollow">Buy on Orell Füssli</a>
 
 ### This Book is Not Good For You, by Pseudonymous Bosch
 <img src="https://imgur.com/USP4SsA.png" width="25%" />
@@ -64,7 +56,7 @@ This fantastic article gives suggestions for even more [Chocolate factories and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTkwMjk0NCw2NzA3Nzk5MiwtMTQ0OT
+eyJoaXN0b3J5IjpbMTE0Mzc3NjM4OSw2NzA3Nzk5MiwtMTQ0OT
 k2NDIyOCwzODIxNzc1NDEsLTExOTEyMDI2NTUsLTEyMDA0MTI2
 OSw3MTE3NDUzNjYsMTE3MDEzODMwNSwtODYxNDQ2MSwtNTU3Mj
 Y0MzgzLC0xOTQ0NjU4MDQ3LDY3NzczNzYwOCw2Njg2MDk0NzUs
