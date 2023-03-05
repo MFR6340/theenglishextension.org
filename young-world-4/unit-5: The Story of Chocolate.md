@@ -36,7 +36,6 @@ Jelly and her family live in Chompton-on-de-Lyte, where everyone loves a Chocabl
 <a href="https://www.bookdepository.com/Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=1674493914769&sr=1-1"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038196486" rel="nofollow">Buy on Orell Füssli</a>
 
-
 ### This Book is Not Good For You, by Pseudonymous Bosch
 <img src="https://imgur.com/USP4SsA.png" width="25%" />
 
@@ -56,11 +55,11 @@ This fantastic article gives suggestions for even more [Chocolate factories and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0Mzc3NjM4OSw2NzA3Nzk5MiwtMTQ0OT
-k2NDIyOCwzODIxNzc1NDEsLTExOTEyMDI2NTUsLTEyMDA0MTI2
-OSw3MTE3NDUzNjYsMTE3MDEzODMwNSwtODYxNDQ2MSwtNTU3Mj
-Y0MzgzLC0xOTQ0NjU4MDQ3LDY3NzczNzYwOCw2Njg2MDk0NzUs
-MTE5NTk4NjI5LC0xNDcxNDMwMDEsLTM3Njk4MTgzMSwtMTU0ND
-U0NzEwNywtMTU3NDU5OTExMiwtNTkyNjY5NDU2LDg5MTc4MTMz
-MF19
+eyJoaXN0b3J5IjpbNTM1MTM3MjY3LDY3MDc3OTkyLC0xNDQ5OT
+Y0MjI4LDM4MjE3NzU0MSwtMTE5MTIwMjY1NSwtMTIwMDQxMjY5
+LDcxMTc0NTM2NiwxMTcwMTM4MzA1LC04NjE0NDYxLC01NTcyNj
+QzODMsLTE5NDQ2NTgwNDcsNjc3NzM3NjA4LDY2ODYwOTQ3NSwx
+MTk1OTg2MjksLTE0NzE0MzAwMSwtMzc2OTgxODMxLC0xNTQ0NT
+Q3MTA3LC0xNTc0NTk5MTEyLC01OTI2Njk0NTYsODkxNzgxMzMw
+XX0=
 -->
