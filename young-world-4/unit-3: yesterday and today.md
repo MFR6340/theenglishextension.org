@@ -26,7 +26,7 @@ Winner of the Newbery Medal.  Adam is the son of a minstrel in 13th century Engl
 
 <img src="https://imgur.com/guWmras.png" width="25%" />
 
-A story of the Canadian gold rush told by 13 year old Tim, who heads out with his older brother to try to make their fortune. He tells of the difficulty of Chilkoot Pass, the lawlessness on the way, and the backbreaking work once they arrived.  Historical fiction account with some black and white photos included.  (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+A story of the Canadian gold rush told by 13 year old Tim, who heads out with his older brother to try to make their fortune. He tells of the difficulty of Chilkoot Pass, the lawlessness along the way, and the backbreaking work once they arrived.  Historical fiction account with some black and white photos included.  (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
   
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005058189" rel="nofollow">Buy on Orell Füssli</a>
 
@@ -36,7 +36,7 @@ A story of the Canadian gold rush told by 13 year old Tim, who heads out with hi
 
 <img src="https://imgur.com/Nak0fBU.png" width="25%" />
 
-The chimney sweep is a job from times gone by.  For those who prefer fiction to non-fiction, this is a fun book to read and compare to the more familiar movie.  (Lexile 830L )  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+The chimney sweep is a job from times gone by.  For those who prefer fiction to non-fiction, this is a fun book to read and compare to the more well known movie.  (Lexile 830L )  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 
 <a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-" rel="nofollow"> Buy on BookDepository</a>
@@ -58,7 +58,7 @@ Newbery Award Winner, this story about a boy named Robin is set in the 14th Cent
 
 <img src="https://imgur.com/53YvdAS.png" width="25%" />
 
-It's one of the shortest books to win the Newbery Medal, so it won't take long to read this beautiful tale of family in rural America in the 1800s.  Written from the perspective of the boy, it describes what happens after his mother dies and his the father advertises for a mail order bride.  A wonderful story of starting a new life while still remembering the old one.   (Lexile 660L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>.   eile 
+It's one of the shortest books to win the Newbery Medal, so it won't take long to read this beautiful tale of a family in rural America in the 1800s.  Written from the perspective of the boy, it describes what happens after his mother dies and his father advertises for a mail order bride.  A wonderful story of starting a new life while still remembering the old one.   (Lexile 660L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>.   eile 
 
 <a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=16744&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
@@ -103,7 +103,7 @@ First book in a hilarious series about the author's life growing up in the Vermo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI4MTY4MDcsMTQ0Mzg0MTMyNCwxND
+eyJoaXN0b3J5IjpbLTE1ODgwMjA1ODMsMTQ0Mzg0MTMyNCwxND
 gxMDcwNjA2LC0xNjE3Nzc0NDE0LC04MTI1Mjg2NzAsMTk0OTI4
 MTAxMCwtMjA5MTE1NTM3NCwtNzUyODQ3MDQ5LDE3NTA3MTQ3Nj
 AsOTE4MDE4Nzk2LC0yMDkxMzEzNzMwLDUzNzUzOTMzMSwzNzg5
