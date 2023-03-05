@@ -2,7 +2,7 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
-**This unit discusses the differences in life between long ago and today, including job differences, changes in communication and the invention of railway.  There is brief information on important events including the Great Fire of London, the discovery of New Zealand, the sinking of Titanic, and the landing on the Moon.  This theme has limitless suggestions for supplemental reading.  Here is just the tip of the iceberg:**
+**This unit discusses the differences in life between long ago and today, including job differences, changes in communication and the invention of railway.  There is brief information on important events including the Great Fire of London, the discovery of New Zealand, the sinking of Titanic, and the landing on the Moon.  This theme has limitless suggestions for supplemental reading.  Here is just the tip of the iceberg...**
 
 ### The Great Brain, by John D. Fitzgerald
 
@@ -103,11 +103,11 @@ First book in a hilarious series about the author's life growing up in the Vermo
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Mzg0MTMyNCwxNDgxMDcwNjA2LC0xNj
-E3Nzc0NDE0LC04MTI1Mjg2NzAsMTk0OTI4MTAxMCwtMjA5MTE1
-NTM3NCwtNzUyODQ3MDQ5LDE3NTA3MTQ3NjAsOTE4MDE4Nzk2LC
-0yMDkxMzEzNzMwLDUzNzUzOTMzMSwzNzg5MzU5MzMsMjAxNzA0
-ODU2NywzMDQyOTIwNDUsNTAxMzg2NjE3LDI3ODEzMTM4OSwtOD
-YwNTE4NTY4LDE1ODY4OTIzODUsLTYzMjIwMDQ2OCwxMTIzODI2
-NzU4XX0=
+eyJoaXN0b3J5IjpbMTc5MTAwODY3MiwxNDQzODQxMzI0LDE0OD
+EwNzA2MDYsLTE2MTc3NzQ0MTQsLTgxMjUyODY3MCwxOTQ5Mjgx
+MDEwLC0yMDkxMTU1Mzc0LC03NTI4NDcwNDksMTc1MDcxNDc2MC
+w5MTgwMTg3OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMxLDM3ODkz
+NTkzMywyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2MTcsMj
+c4MTMxMzg5LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwtNjMyMjAw
+NDY4XX0=
 -->
