@@ -60,7 +60,9 @@ In this anthology, stunning animal photos by National Geographic photographers a
 
 The IMAX Theatre at the Swiss Museum of Transport regularly has interesting films about animals.  Currently they are showing a film called [Turtle Journey ](https://www.verkehrshaus.ch/en/visit/filmtheatre/filme/dokumentationen/detail/shows/show/turtle-journey-3d.html).  Shown in 3D. Nice for a rainy day.
 
-At Technorama in Winterthur, attend the Public Workshop in Biology [on Woodlice under the microscope](https://www.technorama.ch/en/scout/workshops-and-openlabs)   Learn more about these amazing animals, which are the only crustacean that live on land, but breathe through gills.  Tickets are 7CHF plus regular admission price and must be purchased at the Information Desk.  Workshops begin at 13.00 daily.  (For February 2023)
+Discover around 100 native and European wild animal species here is Goldau Switzerland! Get to know all  
+about the animals at the Goldau Animal Park - learn more about them online or visit the park.  
+https://www.tierpark.ch/tier-arten-naturschutz/unsere-tiere/
 
 
 
@@ -77,8 +79,8 @@ At Technorama in Winterthur, attend the Public Workshop in Biology [on Woodlice 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTE1Mjg0OSwtMTg5MjI2MTcxNCwtMT
-M5ODMwMzk1NSwtMTAyNzIwNjI3OSwtMTg3ODk2MTk4NSw4NTgw
-NTA2NzksLTMxMjY0OTcyMywxOTk5OTg3MjMyLDE4MDY5MDkwMD
-ZdfQ==
+eyJoaXN0b3J5IjpbLTIwNTQ3ODE1MDgsLTE4OTIyNjE3MTQsLT
+EzOTgzMDM5NTUsLTEwMjcyMDYyNzksLTE4Nzg5NjE5ODUsODU4
+MDUwNjc5LC0zMTI2NDk3MjMsMTk5OTk4NzIzMiwxODA2OTA5MD
+A2XX0=
 -->
