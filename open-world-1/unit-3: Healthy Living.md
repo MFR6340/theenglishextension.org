@@ -52,8 +52,8 @@ This book provides the history of hamburgers and other favorite foods including 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058953127" rel="nofollow">Buy on Orell Füssli</a> 
 
 ## Eating Well and Staying Healthy: Swiss Nutrition Policy 2017-2024
-Details on Switzerland
-[Here is a 14 page summary of the Nutrition Policy written for Switzerland  ](https://www.blv.admin.ch/dam/blv/en/dokumente/lebensmittel-und-ernaehrung/ernaehrung/schweizer-ernaehrungsstrategie-2017-2024.PDF.download.PDF/Ernaehrungsstrategie_Brosch_EN.PDF)
+
+Here is a 14 page, easy-to-read summary of the [Swiss Nutrition Policy ](https://www.blv.admin.ch/dam/blv/en/dokumente/lebensmittel-und-ernaehrung/ernaehrung/schweizer-ernaehrungsstrategie-2017-2024.PDF.download.PDF/Ernaehrungsstrategie_Brosch_EN.PDF)
 
 
 ## Supplemental Activity
@@ -66,7 +66,7 @@ Wander through Migros or Coop grocery store and find a pre-packaged food item, b
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDM1NDU1MSwzNDIzNzk1ODgsLTIwOD
-I4NjkyMDgsMTU3NjgxMzIzOSwtMTU4MTU2NjY0LDkzMTUwOTkw
-MiwtMTA1NTgxODE5NywxODc0MjQ5MTM1LDU4MjQ4NzI3MF19
+eyJoaXN0b3J5IjpbOTAyMDkzOTgsMzQyMzc5NTg4LC0yMDgyOD
+Y5MjA4LDE1NzY4MTMyMzksLTE1ODE1NjY2NCw5MzE1MDk5MDIs
+LTEwNTU4MTgxOTcsMTg3NDI0OTEzNSw1ODI0ODcyNzBdfQ==
 -->
