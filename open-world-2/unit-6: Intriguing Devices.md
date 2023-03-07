@@ -86,15 +86,15 @@
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1027106757" rel="nofollow">Buy on Orell Füssli</a> 
 
 ### The Invention of Hugo Cabret, by Brian Selznick
-<img src="https://imgur.com/ez6nFmM.png" width="25%" />
+<img src="https://imgur.com/OwQEWX4.png" width="25%" />
 
 (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="https://www.bookdepository.com/DK-Eyewitness-Books-Invention-Lionel-Bender/9781465409010?ref=grid-view&qid=1676292907960&sr=1-31" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1027106757" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM3MjA3OTAsMjc2Nzc4ODA4LDEwMz
-M2NTkwNSwtMTg0NjU3OTIzNCwtODcyNDE2NzgyLC0xODA2Mzc2
-ODcxLDE4NzIzODcwNzksNTM2NjQ0MzgzLDE4MTU3NSwtODIxNz
-A3MzEzXX0=
+eyJoaXN0b3J5IjpbLTE0NzE4MDE1MjQsLTExNzM3MjA3OTAsMj
+c2Nzc4ODA4LDEwMzM2NTkwNSwtMTg0NjU3OTIzNCwtODcyNDE2
+NzgyLC0xODA2Mzc2ODcxLDE4NzIzODcwNzksNTM2NjQ0MzgzLD
+E4MTU3NSwtODIxNzA3MzEzXX0=
 -->
