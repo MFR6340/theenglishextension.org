@@ -67,11 +67,11 @@
 <a href="https://www.bookdepository.com/Way-Things-Work-Now-David-Macaulay/9780241227930?ref=grid-view&qid=1676292599992&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038877052" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Photos Framed, by Ruth Thompson
+### Photos Framed: # A Fresh Look at the World's Most Memorable Photographs, by Ruth Thompson
 
 <img src="https://imgur.com/UORqWD1.png" width="25%" />
 
-(Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+(Lexile 1090L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="https://www.bookdepository.com/Photos-Framed-Fresh-Look-at-the-Worlds-Most-Memorable-Photographs-Ruth-Thomson-Various/9780763671549" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1032835248" rel="nofollow">Buy on Orell Füssli</a> 
@@ -94,9 +94,9 @@ The story of an orphaned boy named Hugo, who secretly lives in the walls of a Pa
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002585969" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYwNzkyNDM5LC0xODU0NzEyMzIzLDEwMT
-U0MTM0ODQsLTExMTQwNjYyOTksLTExNzM3MjA3OTAsMjc2Nzc4
-ODA4LDEwMzM2NTkwNSwtMTg0NjU3OTIzNCwtODcyNDE2NzgyLC
-0xODA2Mzc2ODcxLDE4NzIzODcwNzksNTM2NjQ0MzgzLDE4MTU3
-NSwtODIxNzA3MzEzXX0=
+eyJoaXN0b3J5IjpbNTIwODgwOTQsLTE4NTQ3MTIzMjMsMTAxNT
+QxMzQ4NCwtMTExNDA2NjI5OSwtMTE3MzcyMDc5MCwyNzY3Nzg4
+MDgsMTAzMzY1OTA1LC0xODQ2NTc5MjM0LC04NzI0MTY3ODIsLT
+E4MDYzNzY4NzEsMTg3MjM4NzA3OSw1MzY2NDQzODMsMTgxNTc1
+LC04MjE3MDczMTNdfQ==
 -->
