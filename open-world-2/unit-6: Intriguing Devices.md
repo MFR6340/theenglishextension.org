@@ -88,13 +88,13 @@
 ### The Invention of Hugo Cabret, by Brian Selznick
 <img src="https://imgur.com/OwQEWX4.png" width="25%" />
 
-Caldecott Medal Winner.  The thickness of this book may make it appear intimidating to man(Lexile 820L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+Caldecott Medal Winner.  The thickness of this book may make it appear intimidating to some readers, but once opened, it becomesthat half the pages are wonderful illustrations. (Lexile 820L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="https://www.bookdepository.com/DK-Eyewitness-Books-Invention-Lionel-Bender/9781465409010?ref=grid-view&qid=1676292907960&sr=1-31" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1027106757" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTMzMDc2MywtMTE3MzcyMDc5MCwyNz
-Y3Nzg4MDgsMTAzMzY1OTA1LC0xODQ2NTc5MjM0LC04NzI0MTY3
-ODIsLTE4MDYzNzY4NzEsMTg3MjM4NzA3OSw1MzY2NDQzODMsMT
-gxNTc1LC04MjE3MDczMTNdfQ==
+eyJoaXN0b3J5IjpbNDczNDYyMTM1LC0xMTczNzIwNzkwLDI3Nj
+c3ODgwOCwxMDMzNjU5MDUsLTE4NDY1NzkyMzQsLTg3MjQxNjc4
+MiwtMTgwNjM3Njg3MSwxODcyMzg3MDc5LDUzNjY0NDM4MywxOD
+E1NzUsLTgyMTcwNzMxM119
 -->
