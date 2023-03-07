@@ -53,7 +53,7 @@ This book provides the history of hamburgers and other favorite foods including 
 
 ## Eating Well and Staying Healthy: Swiss Nutrition Policy 2017-2024
 
-Here is a 14 page, easy-to-read summary of the [Swiss Nutrition Policy ](https://www.blv.admin.ch/dam/blv/en/dokumente/lebensmittel-und-ernaehrung/ernaehrung/schweizer-ernaehrungsstrategie-2017-2024.PDF.download.PDF/Ernaehrungsstrategie_Brosch_EN.PDF) Includes the current nutritional information, challenges, and areas for action.  It's 
+Here is a 14 page, easy-to-read summary of the [Swiss Nutrition Policy ](https://www.blv.admin.ch/dam/blv/en/dokumente/lebensmittel-und-ernaehrung/ernaehrung/schweizer-ernaehrungsstrategie-2017-2024.PDF.download.PDF/Ernaehrungsstrategie_Brosch_EN.PDF) It includes the current nutritional information, challenges, and areas for action. 
 
 
 ## Supplemental Activity
@@ -66,8 +66,7 @@ Wander through Migros or Coop grocery store and find a pre-packaged food item, b
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM3MTQ3MDUsMzQyMzc5NTg4LC0yMD
-gyODY5MjA4LDE1NzY4MTMyMzksLTE1ODE1NjY2NCw5MzE1MDk5
-MDIsLTEwNTU4MTgxOTcsMTg3NDI0OTEzNSw1ODI0ODcyNzBdfQ
-==
+eyJoaXN0b3J5IjpbLTg0MTY0MDQxMywzNDIzNzk1ODgsLTIwOD
+I4NjkyMDgsMTU3NjgxMzIzOSwtMTU4MTU2NjY0LDkzMTUwOTkw
+MiwtMTA1NTgxODE5NywxODc0MjQ5MTM1LDU4MjQ4NzI3MF19
 -->
