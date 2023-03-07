@@ -62,16 +62,16 @@
 ### The Way Things Work Now, by David Macaulay
 <img src="https://imgur.com/sXTHCbH.png" width="25%" />
 
-(Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+(Lexile 1130L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="https://www.bookdepository.com/Way-Things-Work-Now-David-Macaulay/9780241227930?ref=grid-view&qid=1676292599992&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038877052" rel="nofollow">Buy on Orell Füssli</a> 
 
-### Photos Framed: # A Fresh Look at the World's Most Memorable Photographs, by Ruth Thompson
+### Photos Framed: A Fresh Look at the World's Most Memorable Photographs, by Ruth Thompson
 
 <img src="https://imgur.com/UORqWD1.png" width="25%" />
 
-This book presents 27 noteworthy photos from the early days of photography to the present. , categorized into portrait, nature, photography and documentary.  Opposite each photograph is an explanation as well as topics of discussion and questions to consider. (Lexile 1090L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+This engaging book presents 27 noteworthy photos from the early days of photography to the present.  Each is categorized into portrait, nature, photography and documentary.  Opposite each photograph is an explanation as well as topics of discussion and questions to consider. (Lexile 1090L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="https://www.bookdepository.com/Photos-Framed-Fresh-Look-at-the-Worlds-Most-Memorable-Photographs-Ruth-Thomson-Various/9780763671549" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1032835248" rel="nofollow">Buy on Orell Füssli</a> 
@@ -94,9 +94,9 @@ The story of an orphaned boy named Hugo, who secretly lives in the walls of a Pa
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002585969" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMjA3NzYzOSwtMTg1NDcxMjMyMywxMD
-E1NDEzNDg0LC0xMTE0MDY2Mjk5LC0xMTczNzIwNzkwLDI3Njc3
-ODgwOCwxMDMzNjU5MDUsLTE4NDY1NzkyMzQsLTg3MjQxNjc4Mi
-wtMTgwNjM3Njg3MSwxODcyMzg3MDc5LDUzNjY0NDM4MywxODE1
-NzUsLTgyMTcwNzMxM119
+eyJoaXN0b3J5IjpbLTE3MzgxMzE4MzAsLTE4NTQ3MTIzMjMsMT
+AxNTQxMzQ4NCwtMTExNDA2NjI5OSwtMTE3MzcyMDc5MCwyNzY3
+Nzg4MDgsMTAzMzY1OTA1LC0xODQ2NTc5MjM0LC04NzI0MTY3OD
+IsLTE4MDYzNzY4NzEsMTg3MjM4NzA3OSw1MzY2NDQzODMsMTgx
+NTc1LC04MjE3MDczMTNdfQ==
 -->
