@@ -88,14 +88,14 @@
 ### The Invention of Hugo Cabret, by Brian Selznick
 <img src="https://imgur.com/OwQEWX4.png" width="25%" />
 
-An orphaned boy named Hugo, who secretly lives in the walls of a Paris train station, finds out the mysteries contained in his most prized possession, a mechanical man from his dead father.  Winner of the Caldecott Medal, the first novel to ever win this awa Winner.  The thickness of this book may make it appear intimidating to some readers, but once opened, it quickly obvious that it won't really take that long to read as many of the pages are filled with wonderful pencil illustrations. (Lexile 820L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+A historical fiction story of an orphaned boy named Hugo, who secretly lives in the walls of a Paris train station and finds out the mysteries contained in his most prized possession, a mechanical man from his dead father. The thickness of this book may make it appear intimidating to some readers, but once opened, it quickly obvious that it isn't a long or difficult read, as half of the pages are filled with wonderful pencil illustrations.  Winner of the Caldecott Medal, the first novel to ever win this award. (Lexile 820L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="https://www.bookdepository.com/Invention-Hugo-Cabret-Brian-Selznick/9781407103488" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002585969" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTI1Njk0MiwxMDE1NDEzNDg0LC0xMT
-E0MDY2Mjk5LC0xMTczNzIwNzkwLDI3Njc3ODgwOCwxMDMzNjU5
-MDUsLTE4NDY1NzkyMzQsLTg3MjQxNjc4MiwtMTgwNjM3Njg3MS
-wxODcyMzg3MDc5LDUzNjY0NDM4MywxODE1NzUsLTgyMTcwNzMx
-M119
+eyJoaXN0b3J5IjpbLTIwMTk2NTk1MzEsMTAxNTQxMzQ4NCwtMT
+ExNDA2NjI5OSwtMTE3MzcyMDc5MCwyNzY3Nzg4MDgsMTAzMzY1
+OTA1LC0xODQ2NTc5MjM0LC04NzI0MTY3ODIsLTE4MDYzNzY4Nz
+EsMTg3MjM4NzA3OSw1MzY2NDQzODMsMTgxNTc1LC04MjE3MDcz
+MTNdfQ==
 -->
