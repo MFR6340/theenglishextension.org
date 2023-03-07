@@ -71,7 +71,7 @@
 
 <img src="https://imgur.com/UORqWD1.png" width="25%" />
 
-This book presents 27 photos, categorized into portrait, nature, photography and documentary.  Opposite each photograph is an explanation as well as questions to consider (Lexile 1090L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+This book presents 27 noteworthy photos from the early days of photography to the present. , categorized into portrait, nature, photography and documentary.  Opposite each photograph is an explanation as well as topics of discussion and questions to consider. (Lexile 1090L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="https://www.bookdepository.com/Photos-Framed-Fresh-Look-at-the-Worlds-Most-Memorable-Photographs-Ruth-Thomson-Various/9780763671549" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1032835248" rel="nofollow">Buy on Orell Füssli</a> 
@@ -94,9 +94,9 @@ The story of an orphaned boy named Hugo, who secretly lives in the walls of a Pa
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002585969" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU4ODkwOTEyLC0xODU0NzEyMzIzLDEwMT
-U0MTM0ODQsLTExMTQwNjYyOTksLTExNzM3MjA3OTAsMjc2Nzc4
-ODA4LDEwMzM2NTkwNSwtMTg0NjU3OTIzNCwtODcyNDE2NzgyLC
-0xODA2Mzc2ODcxLDE4NzIzODcwNzksNTM2NjQ0MzgzLDE4MTU3
-NSwtODIxNzA3MzEzXX0=
+eyJoaXN0b3J5IjpbLTMwMjA3NzYzOSwtMTg1NDcxMjMyMywxMD
+E1NDEzNDg0LC0xMTE0MDY2Mjk5LC0xMTczNzIwNzkwLDI3Njc3
+ODgwOCwxMDMzNjU5MDUsLTE4NDY1NzkyMzQsLTg3MjQxNjc4Mi
+wtMTgwNjM3Njg3MSwxODcyMzg3MDc5LDUzNjY0NDM4MywxODE1
+NzUsLTgyMTcwNzMxM119
 -->
