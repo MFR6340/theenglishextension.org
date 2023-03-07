@@ -51,6 +51,9 @@ This book provides the history of hamburgers and other favorite foods including 
 <a href="https://www.bookdepository.com/Theres-No-Ham-Hamburgers-Kim-Zachman/9780762498079?ref=grid-view&qid=1677690226805&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1058953127" rel="nofollow">Buy on Orell Füssli</a> 
 
+## EatiDetails on Switzerland
+[Here is the ](https://www.blv.admin.ch/dam/blv/en/dokumente/lebensmittel-und-ernaehrung/ernaehrung/schweizer-ernaehrungsstrategie-2017-2024.PDF.download.PDF/Ernaehrungsstrategie_Brosch_EN.PDF)
+
 
 ## Supplemental Activity
 Wander through Migros or Coop grocery store and find a pre-packaged food item, be it a ready-made sandwich or soup, a frozen pizza, or even sushi.  Find a recipe, buy the ingredients, and see if you can make it yourself. Was it cheaper?  Was it better?  
@@ -62,7 +65,7 @@ Wander through Migros or Coop grocery store and find a pre-packaged food item, b
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyMzc5NTg4LC0yMDgyODY5MjA4LDE1Nz
-Y4MTMyMzksLTE1ODE1NjY2NCw5MzE1MDk5MDIsLTEwNTU4MTgx
-OTcsMTg3NDI0OTEzNSw1ODI0ODcyNzBdfQ==
+eyJoaXN0b3J5IjpbMTEyOTk3ODA3NCwzNDIzNzk1ODgsLTIwOD
+I4NjkyMDgsMTU3NjgxMzIzOSwtMTU4MTU2NjY0LDkzMTUwOTkw
+MiwtMTA1NTgxODE5NywxODc0MjQ5MTM1LDU4MjQ4NzI3MF19
 -->
