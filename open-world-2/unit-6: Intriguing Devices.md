@@ -88,13 +88,13 @@
 ### The Invention of Hugo Cabret, by Brian Selznick
 <img src="https://imgur.com/OwQEWX4.png" width="25%" />
 
-Caldecott Medal Winner.  The thickness of this book may make it appear intimidating to some readers, but once opened, it quickly obvious that it won't really take that long to read as many of the pages are filled with wonderful illustrations. (Lexile 820L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+Caldecott Medal Winner.  The thickness of this book may make it appear intimidating to some readers, but once opened, it quickly obvious that it won't really take that long to read as many of the pages are filled with wonderful pencil illustrations. (Lexile 820L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="https://www.bookdepository.com/Invention-Hugo-Cabret-Brian-Selznick/9781407103488" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1027106757" rel="nofollow">Buy on Orell Füssli</a> 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002585969" rel="nofollow">Buy on Orell Füssli</a> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU4NTc0OTgxLC0xMTczNzIwNzkwLDI3Nj
-c3ODgwOCwxMDMzNjU5MDUsLTE4NDY1NzkyMzQsLTg3MjQxNjc4
-MiwtMTgwNjM3Njg3MSwxODcyMzg3MDc5LDUzNjY0NDM4MywxOD
-E1NzUsLTgyMTcwNzMxM119
+eyJoaXN0b3J5IjpbLTExMTQwNjYyOTksLTExNzM3MjA3OTAsMj
+c2Nzc4ODA4LDEwMzM2NTkwNSwtMTg0NjU3OTIzNCwtODcyNDE2
+NzgyLC0xODA2Mzc2ODcxLDE4NzIzODcwNzksNTM2NjQ0MzgzLD
+E4MTU3NSwtODIxNzA3MzEzXX0=
 -->
