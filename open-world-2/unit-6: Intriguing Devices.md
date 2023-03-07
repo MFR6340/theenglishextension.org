@@ -88,15 +88,15 @@
 ### The Invention of Hugo Cabret, by Brian Selznick
 <img src="https://imgur.com/OwQEWX4.png" width="25%" />
 
-The story of an orphaned boy named Hugo, who secretly lives in the walls of a Paris train station.  He finds out the mysteries contained in his most prized possession, a mechanical man from his dead father.  Inspired by French pioneer filmmaker Georges and his collection of wind-up mechanical figures called automata.  automata collection of mechanical, wind-up figures .The thickness of this book may make it appear intimidating to some readers, but once opened, it quickly obvious that it isn't a long or difficult read, as half of the pages are filled with wonderful pencil illustrations.  Winner of the Caldecott Medal, the first novel to ever win this award. (Lexile 820L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+The story of an orphaned boy named Hugo, who secretly lives in the walls of a Paris train station.  He finds out the mysteries contained in his most prized possession, a mechanical man from his dead father.  Inspired by French pioneer filmmaker Georges and his collection of wind-up mechanical figures called automata. The thickness of this book may initially make it intimidating to some readers, but once opened, it is quickly obvious that it isn't a long or difficult read, as half of the pages are filled with wonderful pencil illustrations.  Winner of the Caldecott Medal, the first novel to ever win this award. (Lexile 820L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="https://www.bookdepository.com/Invention-Hugo-Cabret-Brian-Selznick/9781407103488" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002585969" rel="nofollow">Buy on Orell Füssli</a> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDUzODA3OCwtMTg1NDcxMjMyMywxMD
-E1NDEzNDg0LC0xMTE0MDY2Mjk5LC0xMTczNzIwNzkwLDI3Njc3
-ODgwOCwxMDMzNjU5MDUsLTE4NDY1NzkyMzQsLTg3MjQxNjc4Mi
-wtMTgwNjM3Njg3MSwxODcyMzg3MDc5LDUzNjY0NDM4MywxODE1
-NzUsLTgyMTcwNzMxM119
+eyJoaXN0b3J5IjpbNTYwNzkyNDM5LC0xODU0NzEyMzIzLDEwMT
+U0MTM0ODQsLTExMTQwNjYyOTksLTExNzM3MjA3OTAsMjc2Nzc4
+ODA4LDEwMzM2NTkwNSwtMTg0NjU3OTIzNCwtODcyNDE2NzgyLC
+0xODA2Mzc2ODcxLDE4NzIzODcwNzksNTM2NjQ0MzgzLDE4MTU3
+NSwtODIxNzA3MzEzXX0=
 -->
