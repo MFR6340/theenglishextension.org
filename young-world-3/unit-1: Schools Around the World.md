@@ -2,10 +2,17 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO)will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.* 
 
-**This unit discusses school buildings, classrooms, school timetable, uniforms.  Here are some suggestions for native English speakers to find out more aboutther and what happens there:**
+**This unit discusses school buildings, classrooms, school timetable, uniforms.  Here are some school-related suggestions for native English speakers:**
 
 
 ## Books
+###  A School Like Mine: A Celebration of Schools Around the World, by DK
+
+<img src="https://imgur.com/CsOfxN8.png" width="25%" />
+
+This 2016 updated version of a DK classic shows children from Botswana to Turkey and from Australia to East Timor showing the subjects taught and the daily schedule of the children who go to school there. (Lexile IG920L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+
+
 ### Off to Class: Incredible and Unusual Schools Around the World, by Susan Hughes
 
 <img src="https://imgur.com/3sxCIqX.png" width="25%" />
@@ -16,11 +23,8 @@ Children across the globe go to school, but they don't all look the same.  See s
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1063548862
 " rel="nofollow">Buy on Orell Füssli</a>
 
-###  A School Like Mine: A Celebration of Schools Around the World, by DK
 
-<img src="https://imgur.com/CsOfxN8.png" width="25%" />
 
-This 2016 updated version of a DK classic shows children from Botswana to Turkey and from Australia to East Timor showing the subjects taught and the daily schedule of the children who go to school there. (Lexile IG920L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Children-Just-Like-Me-School-Like-Mine-Dk/9781465451002?ref=grid-view&qid=1664202276483&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038917790" rel="nofollow">Buy on Orell Füssli</a>
@@ -81,7 +85,7 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTI3MjkyNiwtMTYxMzg2MzM5MSwtOT
+eyJoaXN0b3J5IjpbLTc5OTYzNjA3MSwtMTYxMzg2MzM5MSwtOT
 g2MDg3NTI1LC05NDczODEyOTUsOTAzMjIzMjY4LDI4MzE3ODU5
 OSw3MDg1MjU1ODcsMTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MT
 cwNTc2MDgsMTE4NTYyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkw
