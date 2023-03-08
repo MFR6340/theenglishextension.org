@@ -2,8 +2,9 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
-**This unit covers the attributes of a good friend.  It also discusses emotions and feelings.  Here are some suggestions for native English speakers for literature that is related to this theme:**
+**This unit covers the attributes of a good friend.  It also discusses emotions and feelings.  Here are some literature suggestions for native English speakers related to this theme:**
 
+## Books
 ### Cricket in Times Square, by George Selden
 
 <img src="https://i.imgur.com/VmP0bSZ.png" width="25%" />
@@ -137,7 +138,7 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzcyMzkxMSwzMTQ2NzMwNywtMTA2MT
+eyJoaXN0b3J5IjpbLTcyMDU5NjU2MywzMTQ2NzMwNywtMTA2MT
 I1NDg4OSwtMTA5OTA0NTAwMywxNjAzMzc4MDI0LDEyMDg2Njc5
 MTksLTc1ODI2MjkwNiwtMjAwMjkwMTA0NiwtMTY1Mzk3MTU3OC
 w4MDU1Njk3MjMsMjEzMTA5NjM1NywtMTY1MTAxNzI1MCwxNDk1
