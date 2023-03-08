@@ -2,7 +2,7 @@
 
 *This post contains links. If you make a purchase through these links The English Extension Organization (TEEO) will earn a small commission, at no additional cost to you, which will be used to purchase books for classrooms.*
 
-**This unit covers Sports Day (also called Field Day), a popular tradition in schools to celebrate the end of the year.  The day usually consists in a variety of outdoor games focusing often on running and  relay races as well as  other activities.   This is not an easy topic on which to find supplemental literature.  The books below have therefore expanded on the Field Day theme to include information on famous runners and sports in general.** 
+**This unit covers Sports Day (also called Field Day), a popular tradition in schools to celebrate the end of the year.  The day usually consists in a variety of outdoor games focusing often on running and  relay races as well as  other activities.   This is not an easy topic to find supplemental literature.  The books below have therefore expanded on the Field Day theme to include information on famous runners and sports in general.** 
 
 ## Sports Day
 ### Daisy and the Trouble with Sports Day, by Kes Gray
@@ -17,7 +17,7 @@ This is a very funny, quick and easy read. It's about Daisy who has a habit of g
 ### Sports Day: Sam Kerr: Kicking Goals by Sam Kerr
 <img src="https://i.imgur.com/AAXVe1F.png" width="25%" />
 
-Sam Kerr is brilliant at playing soccer. Her school sports day is coming up but there aren't any soccer events on the schedule. Sam endeavours to get soccer included on sports day and forms a soccer team within her class. Events at home mean that Sam is crazy busy and trouble erupts as other at school try to cause trouble. A fun read written by Sam Kerr, a professional Australian soccer player and  (No Lexile Level available)
+Sam Kerr is brilliant at playing soccer. Her school sports day is coming up but there aren't any soccer events on the schedule. Sam endeavours to get soccer included on sports day and forms a soccer team within her class. Events at home mean that Sam is crazy busy and trouble erupts as other at school try to cause trouble. A fun read written by Sam Kerr, a professional Australian soccer player  (No Lexile Level available)
  
 <a href="https://www.bookdepository.com/Sports-Day-Sam-Kerr-Kicking-Goals-3-Sam-Kerr/9781761100918?ref=grid-view&qid=1674389793792&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 
@@ -128,7 +128,7 @@ It's not just skiing that takes place in the Alps of Switzerland.  Bobsledding h
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTQ0MTM1Myw5MjMxODkwMzUsLTUxOT
+eyJoaXN0b3J5IjpbLTgxNjA0MDU1Miw5MjMxODkwMzUsLTUxOT
 g4ODk3LC01MDg3NzM1NDIsOTYyNzYzOTAzLC0yOTU1NjI4MDMs
 NTkxOTE1MjcsLTEwMDY1NDI5NDUsNDU4MDUxNjgwLC0xNzUwOT
 c0MTQyLDE3NDcxNzExNTEsMjA5MjA3MDYxMywtODI2MjY5ODc1
