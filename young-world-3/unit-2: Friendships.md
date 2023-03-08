@@ -83,7 +83,7 @@ Published under the title *Harry Potter and the Sorcerer's Stone* in the US
 
 <img src="https://imgur.com/naCrhxz.png" width="25%" />
 
-Yes, yes this book was in the previous "School" Unit as well.  But it's really a great book for this unit, too.  The friendship between Harry, Ron and Hermione is so well portrayed.  (Lexile 880L )   <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
+Yes, yes this book was in the previous "School" Unit as well.  But it's really a great book for this unit, too.  The friendship between Harry, Ron and Hermione is well portrayed through both ups and downs.  (Lexile 880L )   <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Harry-Potter-Philosophers-Stone-J-K-Rowling/9781408855652?ref=grid-view&qid=1665854798278&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046129216" rel="nofollow">Buy on Orell Füssli</a>
@@ -96,7 +96,7 @@ Yes, yes this book was in the previous "School" Unit as well.  But it's really a
 <a href="https://www.bookdepository.com/Liar-Spy-Rebecca-Stead/9780375850875?ref=grid-view&qid=1674048861048&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1030255728" rel="nofollow">Buy on Orell Füssli</a>
 
-### The Song from Somewhere Else, by AF Harrold
+### The Song from Somewhere Else, by A.F. Harrold
 
 <img src="https://i.imgur.com/JH1m5Xw.png" width="25%" />
 
@@ -137,11 +137,11 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ1Mzc3NjMsMzE0NjczMDcsLTEwNj
-EyNTQ4ODksLTEwOTkwNDUwMDMsMTYwMzM3ODAyNCwxMjA4NjY3
-OTE5LC03NTgyNjI5MDYsLTIwMDI5MDEwNDYsLTE2NTM5NzE1Nz
-gsODA1NTY5NzIzLDIxMzEwOTYzNTcsLTE2NTEwMTcyNTAsMTQ5
-NTc1MDYwNSw2NjUxMjUxMjEsMTgyOTE3OTE1MSwxOTA5NTQ1MD
-I4LC00NDk4MTY4NDUsLTE1NzQ4MzQ2MjQsLTEzMDAzNzEyNDQs
-LTEyNDYyMTM4NzNdfQ==
+eyJoaXN0b3J5IjpbLTY2MzcyMzkxMSwzMTQ2NzMwNywtMTA2MT
+I1NDg4OSwtMTA5OTA0NTAwMywxNjAzMzc4MDI0LDEyMDg2Njc5
+MTksLTc1ODI2MjkwNiwtMjAwMjkwMTA0NiwtMTY1Mzk3MTU3OC
+w4MDU1Njk3MjMsMjEzMTA5NjM1NywtMTY1MTAxNzI1MCwxNDk1
+NzUwNjA1LDY2NTEyNTEyMSwxODI5MTc5MTUxLDE5MDk1NDUwMj
+gsLTQ0OTgxNjg0NSwtMTU3NDgzNDYyNCwtMTMwMDM3MTI0NCwt
+MTI0NjIxMzg3M119
 -->
