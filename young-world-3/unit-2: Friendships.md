@@ -8,7 +8,7 @@
 
 <img src="https://i.imgur.com/VmP0bSZ.png" width="25%" />
 
-A beautiful friendship between a New York City mouse, a cricket who accidentally arrived from a field in Connecticut, and a boy named Milo whose parents owned the news stand in the Subway station.
+A beautiful friendship between a New York City mouse, a cricket who accidentally arrived from a field in Connecticut, and a boy named Milo whose parents owned the news stand in the subway station.
 (Lexile 780L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Cricket-Times-Square-George-Selden/9780374390402?ref=grid-view&qid=1674047470378&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
@@ -49,14 +49,6 @@ Who could ever imagine that a spider and a pig could hit it off?  But Charlotte'
 
 <a href="https://www.bookdepository.com/Charlottes-Web-E-B-White/9780141354828?ref=grid-view&qid=1665855328386&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 
-### The BFG, by Roald Dahl
-
-<img src="https://imgur.com/FKsGdaK.png" width="25%" />
-
-The story of a kind giant and a little girl as they devise a plan and work together to stop the cruel and hungry giants.  (Lexile 720L)  <sup>[what is a lexile level?](/resources/Lexile%20Levels)</sup>
-
-<a href="https://www.bookdepository.com/BFG-Roald-Dahl/9780141365428?ref=grid-view&qid=1665855539620&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
-<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801519" rel="nofollow">Buy on Orell Füssli</a>
 
 ### One Hundred Dresses, by Eleanor Estes
 
@@ -145,11 +137,11 @@ International Friendship Day is the first Sunday of August. In 2023 it's August 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0NjczMDcsLTEwNjEyNTQ4ODksLTEwOT
-kwNDUwMDMsMTYwMzM3ODAyNCwxMjA4NjY3OTE5LC03NTgyNjI5
-MDYsLTIwMDI5MDEwNDYsLTE2NTM5NzE1NzgsODA1NTY5NzIzLD
-IxMzEwOTYzNTcsLTE2NTEwMTcyNTAsMTQ5NTc1MDYwNSw2NjUx
-MjUxMjEsMTgyOTE3OTE1MSwxOTA5NTQ1MDI4LC00NDk4MTY4ND
-UsLTE1NzQ4MzQ2MjQsLTEzMDAzNzEyNDQsLTEyNDYyMTM4NzMs
-MTA4MjUyNTg5NV19
+eyJoaXN0b3J5IjpbLTE4NTQ1Mzc3NjMsMzE0NjczMDcsLTEwNj
+EyNTQ4ODksLTEwOTkwNDUwMDMsMTYwMzM3ODAyNCwxMjA4NjY3
+OTE5LC03NTgyNjI5MDYsLTIwMDI5MDEwNDYsLTE2NTM5NzE1Nz
+gsODA1NTY5NzIzLDIxMzEwOTYzNTcsLTE2NTEwMTcyNTAsMTQ5
+NTc1MDYwNSw2NjUxMjUxMjEsMTgyOTE3OTE1MSwxOTA5NTQ1MD
+I4LC00NDk4MTY4NDUsLTE1NzQ4MzQ2MjQsLTEzMDAzNzEyNDQs
+LTEyNDYyMTM4NzNdfQ==
 -->
