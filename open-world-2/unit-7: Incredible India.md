@@ -58,11 +58,11 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 
 <img src="https://imgur.com/dCqrDqx.png" width="25%" />
 
-The Young Adult edition of a true story about a Indian boy who got lost on a train and couldn't find his family.  After weeks on the streets, he eventsummary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+The Young Adult edition of a true story about a Indian boy who got lost on a train and couldn't find his family.  After weeks on the streets, he eventually was adopted by an Australian family.  As a teen, he used Google Earth to locate and identify his former hometown in India.   <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="https://www.bookdepository.com/Lion-Saroo-Brierley/9780425291764?ref=grid-view&qid=1676294118907&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1043954848" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTU4OTcyNjQsLTkwOTU1ODg5MywtMT
-IxMDA0OTgyMSwxMDYyNjM1MjI5LC0xNzE3NzQ2NDg1XX0=
+eyJoaXN0b3J5IjpbLTQ0MDMyMDU5NywtOTA5NTU4ODkzLC0xMj
+EwMDQ5ODIxLDEwNjI2MzUyMjksLTE3MTc3NDY0ODVdfQ==
 -->
