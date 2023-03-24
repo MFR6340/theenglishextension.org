@@ -54,15 +54,15 @@ summary here.  (Lexile L ) <sup>[what is this?](/resources/Lexile%20measures)</s
 
 <a href="https://www.bookdepository.com/Slumdog-Millionaire-Paul-Shipton/9781905775903?ref=grid-view&qid=1676293950761&sr=1-1" rel="nofollow"> Buy on BookDepository</a>
 
-### Lion, by Saroo Brierly
+### Lion: A Long Way Home, by Saroo Brierley
 
 <img src="https://imgur.com/dCqrDqx.png" width="25%" />
 
-The Young Adult edition of a true story about a Indian boy who got lost on a train and couldn't find his family.  After weeks on the streets, he eventually was adopted by an Australian family.  As a teen, he used Google Earth to locate and identify his former hometown in India.  (Lexile 1040L) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
+The Young Readers edition of a true story about a Indian boy who got lost on a train and couldn't find his family.  After weeks on the streets, he eventually was adopted by an Australian family.  As a young adult, he used Google Earth to locate and identify his former hometown in India.  (Lexile 1040L) <sup>[what is this?](/resources/Lexile%20measures)</sup> 
 
 <a href="https://www.bookdepository.com/Lion-Saroo-Brierley/9780425291764?ref=grid-view&qid=1676294118907&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1043954848" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTA5OTc3OCwtOTA5NTU4ODkzLC0xMj
+eyJoaXN0b3J5IjpbMTA5ODk3MjcyMiwtOTA5NTU4ODkzLC0xMj
 EwMDQ5ODIxLDEwNjI2MzUyMjksLTE3MTc3NDY0ODVdfQ==
 -->
