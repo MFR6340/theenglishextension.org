@@ -3,6 +3,9 @@
 
 **This unit covers artists, famous paintings, working with colour, museums, optical illusions, and mentions a few Swiss artists.  Here are some suggestions for native English speakers to delve deeper into the themes of colour and art:**
 
+**"Color is a power which directly influences the soul." 
+      Wassily Kandinsky**
+
 
 ## Ish, by Peter H. Reynolds
 
@@ -91,6 +94,7 @@ Wentworth makes puzzles from paintings by Van Gogh, Renoir, Seurat, and many oth
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM4NTQ4MTEsNDc0Mzc3ODc0LC0xNT
-EyNTA1MDEsMjAyMTkxNTY3LC00Nzk4OTc0NF19
+eyJoaXN0b3J5IjpbLTE0ODc2MDIzODcsLTEwNDM4NTQ4MTEsND
+c0Mzc3ODc0LC0xNTEyNTA1MDEsMjAyMTkxNTY3LC00Nzk4OTc0
+NF19
 -->
