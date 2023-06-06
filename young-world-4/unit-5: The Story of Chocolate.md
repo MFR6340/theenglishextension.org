@@ -8,7 +8,7 @@
 
 <img src="https://imgur.com/2EH1s9G.png" width="25%" />
 
-It's impossible to include a list of chocolate-themed books without including this classic tale of a poor boy who wins a golden ticket to enter Willy Wonka's Chocolate Factory.  Many kids have seen the movieveryone should read the book.  (Lexile 810) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+It's impossible to include a list of chocolate-themed books without including this classic tale of a poor boy who wins a golden ticket to enter Willy Wonka's Chocolate Factory.  Many kids have seen the movie; everyone should read the book.  (Lexile 810) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1039801520" rel="nofollow">Buy on Orell Füssli</a>
@@ -24,7 +24,6 @@ One WWII pilot’s mission to lift the spirits of children living in war-torn Be
 contribution to the rebuilding of a country after war is a unique look at history.
  (Lexile 1130L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
-<a href="https://www.bookdepository.com/Candy-Bomber-Michael-O-Tunnell/9781580893374?ref=grid-view&qid=1674493085238&sr=1-12&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1009294094" rel="nofollow">Buy on Orell Füssli</a>
 
 ### The Great Chocoplot, by Chris Callaghan
@@ -47,7 +46,7 @@ This fantastic article gives suggestions for even more [Chocolate factories and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NDA0MDk5OCwtMTQwNDc2MjY5OSw2Nz
+eyJoaXN0b3J5IjpbMTQzOTYwMzkxNywtMTQwNDc2MjY5OSw2Nz
 A3Nzk5MiwtMTQ0OTk2NDIyOCwzODIxNzc1NDEsLTExOTEyMDI2
 NTUsLTEyMDA0MTI2OSw3MTE3NDUzNjYsMTE3MDEzODMwNSwtOD
 YxNDQ2MSwtNTU3MjY0MzgzLC0xOTQ0NjU4MDQ3LDY3NzczNzYw
