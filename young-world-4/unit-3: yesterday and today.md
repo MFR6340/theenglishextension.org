@@ -77,7 +77,6 @@ Honestly, any of the books in the Horrible Histories series serve as a funny and
 
 Elizabethans did all they could to survive in an age of sin and beheadings, galleons and guns. Explorers set sail for new worlds, risking everything to bring back slaves, gold and the priceless potato. Elizabeth lined her coffers while her subjects lived in squalor with hunger, violence and misery as bedfellows. Shakespeare shone and yet the beggars, doxies and thieves scraped and cheated to survive in the shadows. These were dangerous days. If you survived the villains, and the diseases didn’t get you, then the lawmen might. The toothless, red-wigged queen sparkled in her jewelled dresses, but the Golden Age was only the surface of the coin.
 
-<a href="https://www.bookdepository.com/Terrible-Tudors-Terry-Deary/9781407104898?ref=grid-view&qid=1675094181535&sr=1-413" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A100730742536886384" rel="nofollow">Buy on  Orell Füssli</a>
 
 ### Soup, by Robert Newton Peck
@@ -86,17 +85,16 @@ Elizabethans did all they could to survive in an age of sin and beheadings, gall
 
 This book is the stories of a couple of mischievous boys in Vermont who somehow find themselves in all kinds of hilarious trouble. (Lexile 740L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
-<a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006201678" rel="nofollow">Buy on  Orell Füssli</a>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODA5MDc0NSwxMTQ1MDQxMTgwLDE0ND
-M4NDEzMjQsMTQ4MTA3MDYwNiwtMTYxNzc3NDQxNCwtODEyNTI4
-NjcwLDE5NDkyODEwMTAsLTIwOTExNTUzNzQsLTc1Mjg0NzA0OS
-wxNzUwNzE0NzYwLDkxODAxODc5NiwtMjA5MTMxMzczMCw1Mzc1
-MzkzMzEsMzc4OTM1OTMzLDIwMTcwNDg1NjcsMzA0MjkyMDQ1LD
-UwMTM4NjYxNywyNzgxMzEzODksLTg2MDUxODU2OCwxNTg2ODky
-Mzg1XX0=
+eyJoaXN0b3J5IjpbLTE4NDM4MzQ5OTEsLTU4ODA5MDc0NSwxMT
+Q1MDQxMTgwLDE0NDM4NDEzMjQsMTQ4MTA3MDYwNiwtMTYxNzc3
+NDQxNCwtODEyNTI4NjcwLDE5NDkyODEwMTAsLTIwOTExNTUzNz
+QsLTc1Mjg0NzA0OSwxNzUwNzE0NzYwLDkxODAxODc5NiwtMjA5
+MTMxMzczMCw1Mzc1MzkzMzEsMzc4OTM1OTMzLDIwMTcwNDg1Nj
+csMzA0MjkyMDQ1LDUwMTM4NjYxNywyNzgxMzEzODksLTg2MDUx
+ODU2OF19
 -->
