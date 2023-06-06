@@ -34,7 +34,7 @@ This book follows the story of Dr Bierregaard and the Ospreys he observed.  The 
 ### Wow in the Wild, Amazing World of Animals
 <img src="https://imgur.com/FRZofnU.png" width="25%" />
 
-Based on a #1 kids podcast, Wow in the World, hosts Mindy Thomas and Guy Raz take readers on a hilarious, fact-filled, and highly illustrated journey through the animal kingdom.  
+Mindy Thomas and Guy Raz, hosts of the podcast "Wow in the World",  take readers on a hilarious, fact-filled, and highly illustrated journey through the animal kingdom.  
 Feathers, fins, fur, feet—the animal kingdom is made up of nearly 9 million known species! From flying fish to flightless birds, each living creature has a unique role to play in the life of planet Earth. In this book the authors will take you on a fact-filled adventure to explore the funniest and most fascinating animals known to humankind.
 
 <a href="https://www.bookdepository.com/Wow-World-Wow-Wild-Mindy-Thomas/9780358306894?ref=grid-view&qid=1674322543937&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -77,7 +77,7 @@ Discover around 100 native and European wild animal species here is Goldau Switz
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg2MTk2Nzk3LC0xMTQwMTA3NDk4LC0xMD
+eyJoaXN0b3J5IjpbMjIyNzMwMjY3LC0xMTQwMTA3NDk4LC0xMD
 AyMDg3NDUsMTEwMzUxMTkxOSwtMTg5MjI2MTcxNCwtMTM5ODMw
 Mzk1NSwtMTAyNzIwNjI3OSwtMTg3ODk2MTk4NSw4NTgwNTA2Nz
 ksLTMxMjY0OTcyMywxOTk5OTg3MjMyLDE4MDY5MDkwMDZdfQ==
