@@ -45,9 +45,7 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 <img src="https://imgur.com/biY69Qr.png" width="25%" />
 
-(Lexile 680L ) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
-
-This adventure story, set in 1865, describes the challenges of Rudi Matt, who attempts to climb the same summit of the Alps that his father died trying to conquer. He sets off with his father's red shirt, Rudi in the hopes of planting the shirt at the peak.  An excellent story full of shThe movie, "Third Man on the Mountain," is a wonderful adaptation of the book.
+A Newbery Honor Book.  This adventure story, set in 1865, describes the challenges of Rudi Matt, who attempts to climb the same summit of the Alps that his father died trying to conquer. He sets off with his father's red shirt, Rudi in the hopes of planting the shirt at the peak.  An excellent story full of sheer will and determination.  The movie, "Third Man on the Mountain," is a wonderful adaptation of the book.  (Lexile 680L ) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://blackwells.co.uk/bookshop/product/Banner-in-the-Sky-by-James-Ramsey-Ullman/9780064470483" rel="nofollow"> Buy on Blackwell's</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003099423" rel="nofollow">Buy on Orell Füssli</a>
@@ -65,7 +63,7 @@ Attend a traditional Schwingfest. Schwingen is only for the biggest and toughest
 
 [Visit Ballenberg](https://www.ballenberg.ch/en/) - Ballenberg is an open-air living museum dedicated to traditional Swiss rural life. Old buildings from all over Switzerland have been transported and rebuilt at Ballenberg, open to explore with traditional artefacts setting the scene. They also have some trade on display.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODEzNDMwNjYsLTEzMjczMTkwMjUsMT
+eyJoaXN0b3J5IjpbLTEzODk5Mzg1NDAsLTEzMjczMTkwMjUsMT
 I0MDIzNTYyMCwyMDkxMDIxOTIwLDE4OTEzNjM5NTksLTE4MDM3
 NjgzNiwtMTE2MDQ1OTAyMCwyNDIyMjg4ODgsMTA4NDA5MzM0OS
 wxMzYzNjYxNTkxLC02MDQ3NDc3NjIsNDMyMDYyMTc2LC0xODk0
