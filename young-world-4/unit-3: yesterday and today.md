@@ -39,8 +39,6 @@ A story of the Canadian gold rush told by 13 year old Tim, who heads out with hi
 The chimney sweep is a job from times gone by.  For those who prefer fiction to non-fiction, this is a fun book to read and compare to the more well known movie.  (Lexile 830L )  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 
-<a href="https://www.bookdepository.com/Mari--e/97800028?ref=grid-view&qid=16&sr=1-" rel="nofollow"> Buy on BookDepository</a>
-
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A10" rel="nofollow">Buy on Orell Füssli</a>
 
 
@@ -90,11 +88,11 @@ This book is the stories of a couple of mischievous boys in Vermont who somehow 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQyNzM5NzgsLTE4NDM4MzQ5OTEsLT
-U4ODA5MDc0NSwxMTQ1MDQxMTgwLDE0NDM4NDEzMjQsMTQ4MTA3
-MDYwNiwtMTYxNzc3NDQxNCwtODEyNTI4NjcwLDE5NDkyODEwMT
-AsLTIwOTExNTUzNzQsLTc1Mjg0NzA0OSwxNzUwNzE0NzYwLDkx
-ODAxODc5NiwtMjA5MTMxMzczMCw1Mzc1MzkzMzEsMzc4OTM1OT
-MzLDIwMTcwNDg1NjcsMzA0MjkyMDQ1LDUwMTM4NjYxNywyNzgx
-MzEzODldfQ==
+eyJoaXN0b3J5IjpbMTY2OTYyNjE4NCwtMTg0MzgzNDk5MSwtNT
+g4MDkwNzQ1LDExNDUwNDExODAsMTQ0Mzg0MTMyNCwxNDgxMDcw
+NjA2LC0xNjE3Nzc0NDE0LC04MTI1Mjg2NzAsMTk0OTI4MTAxMC
+wtMjA5MTE1NTM3NCwtNzUyODQ3MDQ5LDE3NTA3MTQ3NjAsOTE4
+MDE4Nzk2LC0yMDkxMzEzNzMwLDUzNzUzOTMzMSwzNzg5MzU5Mz
+MsMjAxNzA0ODU2NywzMDQyOTIwNDUsNTAxMzg2NjE3LDI3ODEz
+MTM4OV19
 -->
