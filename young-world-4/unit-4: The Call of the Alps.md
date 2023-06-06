@@ -45,12 +45,10 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 <img src="https://imgur.com/biY69Qr.png" width="25%" />
 
-Summary here.  (Lexile 680L ) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+(Lexile 680L ) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
-Josef Matt, the only man to ever try to conquer this last summit of the Alps, met his end in the pursuit.  
-Set in 1865...his son, Rudi, now dares to complete the same task in memory of his father. Setting off with  
-his father's red shirt, Rudi must courageously pass through the same chasm that took his father's life and  
-finish the challenging climb in order to plant the shirt at the peak.
+Josef Matt, the only man to ever try to conquer this last summit of the Alps, met his end in the pursuit.  Set in 1865...his son, Rudi, now dares to complete the same task in memory of his father. Setting off with  
+his father's red shirt, Rudi must courageously pass through the same chasm that took his father's life and  finish the challenging climb in order to plant the shirt at the peak.
 
 <a href="https://www.bookdepository.com/Banner-Sky-Ramsey-Ullman/9780064470483?ref=grid-view&qid=1674491497317&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003099423" rel="nofollow"></a>
@@ -68,8 +66,9 @@ Attend a traditional Schwingfest. Schwingen is only for the biggest and toughest
 
 [Visit Ballenberg](https://www.ballenberg.ch/en/) - Ballenberg is an open-air living museum dedicated to traditional Swiss rural life. Old buildings from all over Switzerland have been transported and rebuilt at Ballenberg, open to explore with traditional artefacts setting the scene. They also have some trade on display.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTAyMTkyMCwxODkxMzYzOTU5LC0xOD
-AzNzY4MzYsLTExNjA0NTkwMjAsMjQyMjI4ODg4LDEwODQwOTMz
-NDksMTM2MzY2MTU5MSwtNjA0NzQ3NzYyLDQzMjA2MjE3NiwtMT
-g5NDYwMDg1MywxODQ4ODU0MTIyLDQ1OTE4MzA1NV19
+eyJoaXN0b3J5IjpbMTI0MDIzNTYyMCwyMDkxMDIxOTIwLDE4OT
+EzNjM5NTksLTE4MDM3NjgzNiwtMTE2MDQ1OTAyMCwyNDIyMjg4
+ODgsMTA4NDA5MzM0OSwxMzYzNjYxNTkxLC02MDQ3NDc3NjIsND
+MyMDYyMTc2LC0xODk0NjAwODUzLDE4NDg4NTQxMjIsNDU5MTgz
+MDU1XX0=
 -->
