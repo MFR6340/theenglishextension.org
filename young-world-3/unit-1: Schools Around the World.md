@@ -12,6 +12,9 @@
 
 This 2016 updated version of a DK classic shows children from Botswana to Turkey and from Australia to East Timor showing the subjects taught and the daily schedule of the children who go to school there. (Lexile IG920L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038917790" rel="nofollow">Buy on Orell Füssli</a>
+
+
 
 ### Off to Class: Incredible and Unusual Schools Around the World, by Susan Hughes
 
@@ -24,9 +27,6 @@ Children across the globe go to school, but they don't all look the same.  See s
 " rel="nofollow">Buy on Orell Füssli</a>
 
 
-
-
-<a href="https://www.bookdepository.com/Children-Just-Like-Me-School-Like-Mine-Dk/9781465451002?ref=grid-view&qid=1664202276483&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038917790" rel="nofollow">Buy on Orell Füssli</a>
 
 ### The Boy Who Harnessed the Wind, by William Kampwamba
@@ -85,9 +85,9 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTYzNjA3MSwtMTYxMzg2MzM5MSwtOT
-g2MDg3NTI1LC05NDczODEyOTUsOTAzMjIzMjY4LDI4MzE3ODU5
-OSw3MDg1MjU1ODcsMTYzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MT
-cwNTc2MDgsMTE4NTYyNTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkw
-NzgsMTU3MzAyNjIyNV19
+eyJoaXN0b3J5IjpbLTE3MzEzODU5MDUsLTc5OTYzNjA3MSwtMT
+YxMzg2MzM5MSwtOTg2MDg3NTI1LC05NDczODEyOTUsOTAzMjIz
+MjY4LDI4MzE3ODU5OSw3MDg1MjU1ODcsMTYzMzUxMzI5MSwtMT
+YxNjQ2MzU4MCw1MTcwNTc2MDgsMTE4NTYyNTcyOCwtMTQyNTY2
+ODAzMiwxMTM0MTkwNzgsMTU3MzAyNjIyNV19
 -->
