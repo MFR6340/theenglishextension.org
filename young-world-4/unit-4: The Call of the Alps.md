@@ -49,7 +49,7 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 This adventure story, set in 1865, describes the challenges of Rudi Matt, who attempts to climb the same summit of the Alps that his father died trying to conquer. He sets off with his father's red shirt, Rudi in the hopes of planting the shirt at the peak.  The movie, "Third Man on the Mountain," is a wonderful adaptation of the book.
 
-<a href="https://www.bookdepository.com/Banner-Sky-Ramsey-Ullman/9780064470483?ref=grid-view&qid=1674491497317&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://blackwells.co.uk/bookshop/product/Banner-in-the-Sky-by-James-Ramsey-Ullman/9780064470483" rel="nofollow"> Buy on Blackwell's</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003099423" rel="nofollow">Buy on Orell Füssli</a>
 
 
@@ -65,9 +65,9 @@ Attend a traditional Schwingfest. Schwingen is only for the biggest and toughest
 
 [Visit Ballenberg](https://www.ballenberg.ch/en/) - Ballenberg is an open-air living museum dedicated to traditional Swiss rural life. Old buildings from all over Switzerland have been transported and rebuilt at Ballenberg, open to explore with traditional artefacts setting the scene. They also have some trade on display.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjczMTkwMjUsMTI0MDIzNTYyMCwyMD
-kxMDIxOTIwLDE4OTEzNjM5NTksLTE4MDM3NjgzNiwtMTE2MDQ1
-OTAyMCwyNDIyMjg4ODgsMTA4NDA5MzM0OSwxMzYzNjYxNTkxLC
-02MDQ3NDc3NjIsNDMyMDYyMTc2LC0xODk0NjAwODUzLDE4NDg4
-NTQxMjIsNDU5MTgzMDU1XX0=
+eyJoaXN0b3J5IjpbLTc2ODYzOTM1NywtMTMyNzMxOTAyNSwxMj
+QwMjM1NjIwLDIwOTEwMjE5MjAsMTg5MTM2Mzk1OSwtMTgwMzc2
+ODM2LC0xMTYwNDU5MDIwLDI0MjIyODg4OCwxMDg0MDkzMzQ5LD
+EzNjM2NjE1OTEsLTYwNDc0Nzc2Miw0MzIwNjIxNzYsLTE4OTQ2
+MDA4NTMsMTg0ODg1NDEyMiw0NTkxODMwNTVdfQ==
 -->
