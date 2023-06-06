@@ -79,18 +79,18 @@ Elizabethans did all they could to survive in an age of sin and beheadings, gall
 
 <img src="https://imgur.com/eDd7MVX.png" width="25%" />
 
-Hysterical stories oThis book is the stories of a couple of mischievous boys in Vermont who somehow find themselves in all kinds of hilarious trouble. (Lexile 740L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+Hilarious stories of a couple of mischievous boys in 1920s Vermont who somehow find themselves in all kinds of trouble. (Lexile 740L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006201678" rel="nofollow">Buy on  Orell Füssli</a>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjgxNzUzNDksLTE4NDM4MzQ5OTEsLT
-U4ODA5MDc0NSwxMTQ1MDQxMTgwLDE0NDM4NDEzMjQsMTQ4MTA3
-MDYwNiwtMTYxNzc3NDQxNCwtODEyNTI4NjcwLDE5NDkyODEwMT
-AsLTIwOTExNTUzNzQsLTc1Mjg0NzA0OSwxNzUwNzE0NzYwLDkx
-ODAxODc5NiwtMjA5MTMxMzczMCw1Mzc1MzkzMzEsMzc4OTM1OT
-MzLDIwMTcwNDg1NjcsMzA0MjkyMDQ1LDUwMTM4NjYxNywyNzgx
-MzEzODldfQ==
+eyJoaXN0b3J5IjpbNzIwMjYzNjM2LC0xODQzODM0OTkxLC01OD
+gwOTA3NDUsMTE0NTA0MTE4MCwxNDQzODQxMzI0LDE0ODEwNzA2
+MDYsLTE2MTc3NzQ0MTQsLTgxMjUyODY3MCwxOTQ5MjgxMDEwLC
+0yMDkxMTU1Mzc0LC03NTI4NDcwNDksMTc1MDcxNDc2MCw5MTgw
+MTg3OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMxLDM3ODkzNTkzMy
+wyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2MTcsMjc4MTMx
+Mzg5XX0=
 -->
