@@ -47,7 +47,7 @@ A mystery adventure of the Hollister family while visiting Switzerland.  The fiv
 
 (Lexile 680L ) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
-Josef Matt, the only man to ever try to conquer this last summit of the Alps, met his end in the pursuit.  Set in 1865...his son, Rudi, now dares to complete the same task in memory of his father. Setting off with  
+Josef Matt, the only man to ever try to conquer this last summit of the Alps, met his end in the pursuit.  This adventure story, set in 1865, describes the challenges of Rudi Matt, who attempts to conquer the summit of the Alps, the same one his father died trying to conqu.  , now dares to complete the same task in memory of his father. Setting off with  
 his father's red shirt, Rudi must courageously pass through the same chasm that took his father's life and  finish the challenging climb in order to plant the shirt at the peak.  The movie, "Third Man on the Mountain," is a wonderful adaptation of the book.
 
 <a href="https://www.bookdepository.com/Banner-Sky-Ramsey-Ullman/9780064470483?ref=grid-view&qid=1674491497317&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
@@ -66,7 +66,7 @@ Attend a traditional Schwingfest. Schwingen is only for the biggest and toughest
 
 [Visit Ballenberg](https://www.ballenberg.ch/en/) - Ballenberg is an open-air living museum dedicated to traditional Swiss rural life. Old buildings from all over Switzerland have been transported and rebuilt at Ballenberg, open to explore with traditional artefacts setting the scene. They also have some trade on display.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1NjI0MzAwLDEyNDAyMzU2MjAsMjA5MT
+eyJoaXN0b3J5IjpbNDIzNjEwNzM4LDEyNDAyMzU2MjAsMjA5MT
 AyMTkyMCwxODkxMzYzOTU5LC0xODAzNzY4MzYsLTExNjA0NTkw
 MjAsMjQyMjI4ODg4LDEwODQwOTMzNDksMTM2MzY2MTU5MSwtNj
 A0NzQ3NzYyLDQzMjA2MjE3NiwtMTg5NDYwMDg1MywxODQ4ODU0
