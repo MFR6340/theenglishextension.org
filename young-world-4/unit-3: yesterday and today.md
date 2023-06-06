@@ -67,7 +67,7 @@ It's one of the shortest books to win the Newbery Medal, so it won't take long t
 
 <img src="https://i.imgur.com/JovaVRX.png" width="25%" />
 
-Honestly, any of the books in the Horrible Histories series serve as a funny and sometimes gory non-fiction introduction to an interesting period in history. If you like this one, get the whole series.  (840L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+Honestly, any of the books in the Horrible Histories series serve as a funny and sometimes gory non-fiction introduction to an interesting period in history. If you like this one, get the whole series.  ( Lexile 840L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/The-Telegram-Philippa-Werry/9780473462826" rel="nofollow"> Buy on BookDepository</a>
  
@@ -84,7 +84,7 @@ Elizabethans did all they could to survive in an age of sin and beheadings, gall
 
 <img src="https://imgur.com/eDd7MVX.png" width="25%" />
 
-
+This is the first in a series.  The books include stories of a couple of mischievous boys who somehow find themselves in all kinds of hilarious trouble. (Lexile 740L) 
 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006201678" rel="nofollow">Buy on  Orell Füssli</a>
@@ -92,11 +92,11 @@ Elizabethans did all they could to survive in an age of sin and beheadings, gall
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTA0MTE4MCwxNDQzODQxMzI0LDE0OD
-EwNzA2MDYsLTE2MTc3NzQ0MTQsLTgxMjUyODY3MCwxOTQ5Mjgx
-MDEwLC0yMDkxMTU1Mzc0LC03NTI4NDcwNDksMTc1MDcxNDc2MC
-w5MTgwMTg3OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMxLDM3ODkz
-NTkzMywyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2MTcsMj
-c4MTMxMzg5LC04NjA1MTg1NjgsMTU4Njg5MjM4NSwtNjMyMjAw
-NDY4XX0=
+eyJoaXN0b3J5IjpbLTEyNTcwMjQ5MTMsMTE0NTA0MTE4MCwxND
+QzODQxMzI0LDE0ODEwNzA2MDYsLTE2MTc3NzQ0MTQsLTgxMjUy
+ODY3MCwxOTQ5MjgxMDEwLC0yMDkxMTU1Mzc0LC03NTI4NDcwND
+ksMTc1MDcxNDc2MCw5MTgwMTg3OTYsLTIwOTEzMTM3MzAsNTM3
+NTM5MzMxLDM3ODkzNTkzMywyMDE3MDQ4NTY3LDMwNDI5MjA0NS
+w1MDEzODY2MTcsMjc4MTMxMzg5LC04NjA1MTg1NjgsMTU4Njg5
+MjM4NV19
 -->
