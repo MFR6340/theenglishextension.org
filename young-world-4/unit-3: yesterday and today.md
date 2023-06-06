@@ -84,7 +84,7 @@ Elizabethans did all they could to survive in an age of sin and beheadings, gall
 
 <img src="https://imgur.com/eDd7MVX.png" width="25%" />
 
-include stories of a couple of mischievous boys who somehow find themselves in all kinds of hilarious trouble. (Lexile 740L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+This book is the stories of a couple of mischievous boys in Vermont who somehow find themselves in all kinds of hilarious trouble. (Lexile 740L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.bookdepository.com/Soup-Robert-Newton-Peck/9780679892618?ref=grid-view&qid=1674491205071&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006201678" rel="nofollow">Buy on  Orell Füssli</a>
@@ -92,7 +92,7 @@ include stories of a couple of mischievous boys who somehow find themselves in a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODQ3NTI3MSwxMTQ1MDQxMTgwLDE0ND
+eyJoaXN0b3J5IjpbLTU4ODA5MDc0NSwxMTQ1MDQxMTgwLDE0ND
 M4NDEzMjQsMTQ4MTA3MDYwNiwtMTYxNzc3NDQxNCwtODEyNTI4
 NjcwLDE5NDkyODEwMTAsLTIwOTExNTUzNzQsLTc1Mjg0NzA0OS
 wxNzUwNzE0NzYwLDkxODAxODc5NiwtMjA5MTMxMzczMCw1Mzc1
