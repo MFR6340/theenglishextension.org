@@ -12,7 +12,6 @@ This book examines fast food marketing and tries to explain to the young consume
 consumer can make better decisions with regards to fast food consumerism.
 (No Lexile measure available)
 
-<a href="https://www.bookdepository.com/Eat-This-Andrea-Curtis-Peggy-Collins/9780889955325" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1037393229" rel="nofollow">Buy on Orell Füssli</a> 
 
 
@@ -24,6 +23,6 @@ This is the Young Adult (YA) autobiography by famous chef Marcus Samuelsson who 
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034596066" rel="nofollow">Buy on Orell Füssli</a>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNzY2NTUxLC0xNDgzNjc5MTIzLC0xNj
-Q5ODU3NDc5XX0=
+eyJoaXN0b3J5IjpbLTQzNzk5OTMwMiwyMjE3NjY1NTEsLTE0OD
+M2NzkxMjMsLTE2NDk4NTc0NzldfQ==
 -->
