@@ -32,7 +32,7 @@ contribution to the rebuilding of a country after war is a unique look at histor
 Jelly and her family live in Chompton-on-de-Lyte, where everyone loves a Chocablocka bar or two - so when the end of chocolate is announced, she can't believe it. Determined to investigate, Jelly and her gran follow a trail of clues to a posh chocolate shop and its owner, the pompous Garibaldi Chocolati.
 (Lexile 790L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
-<a href="https://www.bookdepository.com/Great-Chocoplot-Chris-Callaghan/9781910002513?ref=grid-view&qid=1674493914769&sr=1-1"> Buy on BookDepository</a>  
+
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1038196486" rel="nofollow">Buy on Orell Füssli</a>
 
 ## Supplemental Activities
@@ -46,11 +46,11 @@ This fantastic article gives suggestions for even more [Chocolate factories and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTYwMzkxNywtMTQwNDc2MjY5OSw2Nz
-A3Nzk5MiwtMTQ0OTk2NDIyOCwzODIxNzc1NDEsLTExOTEyMDI2
-NTUsLTEyMDA0MTI2OSw3MTE3NDUzNjYsMTE3MDEzODMwNSwtOD
-YxNDQ2MSwtNTU3MjY0MzgzLC0xOTQ0NjU4MDQ3LDY3NzczNzYw
-OCw2Njg2MDk0NzUsMTE5NTk4NjI5LC0xNDcxNDMwMDEsLTM3Nj
-k4MTgzMSwtMTU0NDU0NzEwNywtMTU3NDU5OTExMiwtNTkyNjY5
-NDU2XX0=
+eyJoaXN0b3J5IjpbMzM0Nzg1MTg0LDE0Mzk2MDM5MTcsLTE0MD
+Q3NjI2OTksNjcwNzc5OTIsLTE0NDk5NjQyMjgsMzgyMTc3NTQx
+LC0xMTkxMjAyNjU1LC0xMjAwNDEyNjksNzExNzQ1MzY2LDExNz
+AxMzgzMDUsLTg2MTQ0NjEsLTU1NzI2NDM4MywtMTk0NDY1ODA0
+Nyw2Nzc3Mzc2MDgsNjY4NjA5NDc1LDExOTU5ODYyOSwtMTQ3MT
+QzMDAxLC0zNzY5ODE4MzEsLTE1NDQ1NDcxMDcsLTE1NzQ1OTkx
+MTJdfQ==
 -->
