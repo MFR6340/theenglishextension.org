@@ -48,8 +48,7 @@ Mindy Thomas and Guy Raz, hosts of the podcast "Wow in the World",  take readers
 <img src="https://i.imgur.com/t5qgfVv.png  " width="25%" />
 
 In this anthology, stunning animal photos by National Geographic photographers are paired with classic and contemporary poems by a variety of authors. 192 pages. (No Lexile measure)
-
-<a href="https://www.bookdepository.com/National-Geographic-Kids-Book-Animal-Poetry-J-Patrick-Lewis/9781426310096?ref=grid-view&qid=1674&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
+ 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1061635944" rel="nofollow">Buy on Orell Füssli</a>
 
 
@@ -75,9 +74,9 @@ Discover around 100 native and European wild animal species here is Goldau Switz
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Mzk4NjMxNiwtMTE0MDEwNzQ5OCwtMT
-AwMjA4NzQ1LDExMDM1MTE5MTksLTE4OTIyNjE3MTQsLTEzOTgz
-MDM5NTUsLTEwMjcyMDYyNzksLTE4Nzg5NjE5ODUsODU4MDUwNj
-c5LC0zMTI2NDk3MjMsMTk5OTk4NzIzMiwxODA2OTA5MDA2XX0=
+eyJoaXN0b3J5IjpbLTQzODkwNDExLC0xMTQwMTA3NDk4LC0xMD
+AyMDg3NDUsMTEwMzUxMTkxOSwtMTg5MjI2MTcxNCwtMTM5ODMw
+Mzk1NSwtMTAyNzIwNjI3OSwtMTg3ODk2MTk4NSw4NTgwNTA2Nz
+ksLTMxMjY0OTcyMywxOTk5OTg3MjMyLDE4MDY5MDkwMDZdfQ==
 
 -->
