@@ -20,7 +20,6 @@ A lovely book that explains festivals and gatherings that take place throughout 
 
 Newberry Honor Book.  The legend of William Tell, who shot an apple of the top head of his son in 1291.  Written from the viewpoint of his son Walter.  (Lexile 750L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
-<a href="https://www.bookdepository.com/Apple-Arrow-Buff-M/9780618128099?ref=grid-view&qid=1665931458861&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1002594722" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Heidi, by Johanna Spyri
@@ -29,7 +28,6 @@ Newberry Honor Book.  The legend of William Tell, who shot an apple of the top h
 The classic children's novel, originally published in German, is about an charming orphan girl who is sent to live with her grandfather high in the Swiss Alps. She befriends Peter, the goatherd, and is adored by all.  You can’t be a child in Switzerland and not read this classic. It’s an excellent way to learn about descriptive settings and to learn about using landscapes to create atmospheric writing.Originally published in 1880-81 in two parts. Because it is now out of copyright there are quite a few English translations available including ones for free on [Gutenberg](href="http://www.gutenberg.org/ebooks/1448").
 Lexile measure varies based on translation. 
 
-<a href="https://www.bookdepository.com/Heidi-Johanna-Spyri/9780141322568?ref=grid-view&qid=1665931270781&sr=1-2" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1005226950" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Happy Hollisters and the Swiss Echo Mystery, by Jerry West
@@ -38,7 +36,6 @@ Lexile measure varies based on translation.
 
 A mystery adventure of the Hollister family while visiting Switzerland.  The five children track down the leads to finding missing Mr. Meyer and a diamond, and learn about Swiss life and customs.  This book is #25 in a series, but none of the books need to be read in any order.  (Lexile 730L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
-<a href="https://www.bookdepository.com/Happy-Hollisters-Swiss-Echo-Mystery-Jerry-West/9781949436587?ref=grid-view&qid=1665931110999&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1053696383" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Banner in the Sky, by James Ramsey Ullman
@@ -63,9 +60,10 @@ Attend a traditional Schwingfest. Schwingen is only for the biggest and toughest
 
 [Visit Ballenberg](https://www.ballenberg.ch/en/) - Ballenberg is an open-air living museum dedicated to traditional Swiss rural life. Old buildings from all over Switzerland have been transported and rebuilt at Ballenberg, open to explore with traditional artefacts setting the scene. They also have some trade on display.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk5Mzg1NDAsLTEzMjczMTkwMjUsMT
-I0MDIzNTYyMCwyMDkxMDIxOTIwLDE4OTEzNjM5NTksLTE4MDM3
-NjgzNiwtMTE2MDQ1OTAyMCwyNDIyMjg4ODgsMTA4NDA5MzM0OS
-wxMzYzNjYxNTkxLC02MDQ3NDc3NjIsNDMyMDYyMTc2LC0xODk0
-NjAwODUzLDE4NDg4NTQxMjIsNDU5MTgzMDU1XX0=
+eyJoaXN0b3J5IjpbNTUyMTA4MDUyLC0xMzg5OTM4NTQwLC0xMz
+I3MzE5MDI1LDEyNDAyMzU2MjAsMjA5MTAyMTkyMCwxODkxMzYz
+OTU5LC0xODAzNzY4MzYsLTExNjA0NTkwMjAsMjQyMjI4ODg4LD
+EwODQwOTMzNDksMTM2MzY2MTU5MSwtNjA0NzQ3NzYyLDQzMjA2
+MjE3NiwtMTg5NDYwMDg1MywxODQ4ODU0MTIyLDQ1OTE4MzA1NV
+19
 -->
