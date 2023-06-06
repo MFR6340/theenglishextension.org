@@ -34,7 +34,9 @@ Children across the globe go to school, but they don't all look the same.  See s
 
 This inspirational true story about a boy from Africa who uses items around him to build a pump to get water to grow crops is retold here in this edition for a younger audience.  The story has also been made into a film which can be seen on Netflix. ( Lexile 860L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
-<a href="https://www.bookdepository.com/Boy-Who-Harnessed-Wind-William-Kamkwamba/9780147510426?ref=grid-view&qid=1665854100400&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+
+
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1034451232" rel="nofollow">Buy on Orell Füssli</a>
 
 
 ### Harry Potter and the Philosopher's Stone, by J. K. Rowling 
@@ -85,9 +87,10 @@ Visit the   <a href="https://www.schulmuseumbern.ch/angebote" rel="nofollow"> Sc
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzEzODU5MDUsLTc5OTYzNjA3MSwtMT
-YxMzg2MzM5MSwtOTg2MDg3NTI1LC05NDczODEyOTUsOTAzMjIz
-MjY4LDI4MzE3ODU5OSw3MDg1MjU1ODcsMTYzMzUxMzI5MSwtMT
-YxNjQ2MzU4MCw1MTcwNTc2MDgsMTE4NTYyNTcyOCwtMTQyNTY2
-ODAzMiwxMTM0MTkwNzgsMTU3MzAyNjIyNV19
+eyJoaXN0b3J5IjpbLTE2MTgzMTQ5OTgsLTE3MzEzODU5MDUsLT
+c5OTYzNjA3MSwtMTYxMzg2MzM5MSwtOTg2MDg3NTI1LC05NDcz
+ODEyOTUsOTAzMjIzMjY4LDI4MzE3ODU5OSw3MDg1MjU1ODcsMT
+YzMzUxMzI5MSwtMTYxNjQ2MzU4MCw1MTcwNTc2MDgsMTE4NTYy
+NTcyOCwtMTQyNTY2ODAzMiwxMTM0MTkwNzgsMTU3MzAyNjIyNV
+19
 -->
