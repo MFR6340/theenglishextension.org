@@ -60,7 +60,7 @@ Newbery Award Winner, this story about a boy named Robin is set in the 14th Cent
 
 It's one of the shortest books to win the Newbery Medal, so it won't take long to read this beautiful tale of a family in rural America in the 1800s.  Written from the perspective of the boy, it describes what happens after his mother dies and his father advertises for a mail order bride.  A wonderful story of starting a new life while still remembering the old one.   (Lexile 660L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>. 
 
-<a href="https://www.bookdepository.com/Sarah-Plain-Tall-Patricia-MacLachlan/9780062399526?ref=grid-view&qid=16744&sr=1-" rel="nofollow"> Buy on BookDepository</a>  
+<a href="https://blackwells.co.uk/bookshop/product/Sarah-Plain-and-Tall-by-Patricia-MacLachlan/9780062399526" rel="nofollow"> Buy on Blackwell's</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1029807823" rel="nofollow">Buy on  Orell Füssli</a>
 
 ### Terrible Tudors, by Terry Deary and Neil Tonge
@@ -69,7 +69,7 @@ It's one of the shortest books to win the Newbery Medal, so it won't take long t
 
 Honestly, any of the books in the Horrible Histories series serve as a funny and sometimes gory non-fiction introduction to an interesting period in history. If you like this one, get the whole series.  ( Lexile 840L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
-<a href="https://www.bookdepository.com/The-Telegram-Philippa-Werry/9780473462826" rel="nofollow"> Buy on BookDepository</a>
+<a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1066922058" rel="nofollow"> Buy on Orell Füssli</a>
  
 ### Dangerous Days in Elizabethan England, by Terry Deary
 
@@ -90,11 +90,11 @@ This book is the stories of a couple of mischievous boys in Vermont who somehow 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM4MzQ5OTEsLTU4ODA5MDc0NSwxMT
-Q1MDQxMTgwLDE0NDM4NDEzMjQsMTQ4MTA3MDYwNiwtMTYxNzc3
-NDQxNCwtODEyNTI4NjcwLDE5NDkyODEwMTAsLTIwOTExNTUzNz
-QsLTc1Mjg0NzA0OSwxNzUwNzE0NzYwLDkxODAxODc5NiwtMjA5
-MTMxMzczMCw1Mzc1MzkzMzEsMzc4OTM1OTMzLDIwMTcwNDg1Nj
-csMzA0MjkyMDQ1LDUwMTM4NjYxNywyNzgxMzEzODksLTg2MDUx
-ODU2OF19
+eyJoaXN0b3J5IjpbLTE1OTQyNzM5NzgsLTE4NDM4MzQ5OTEsLT
+U4ODA5MDc0NSwxMTQ1MDQxMTgwLDE0NDM4NDEzMjQsMTQ4MTA3
+MDYwNiwtMTYxNzc3NDQxNCwtODEyNTI4NjcwLDE5NDkyODEwMT
+AsLTIwOTExNTUzNzQsLTc1Mjg0NzA0OSwxNzUwNzE0NzYwLDkx
+ODAxODc5NiwtMjA5MTMxMzczMCw1Mzc1MzkzMzEsMzc4OTM1OT
+MzLDIwMTcwNDg1NjcsMzA0MjkyMDQ1LDUwMTM4NjYxNywyNzgx
+MzEzODldfQ==
 -->
