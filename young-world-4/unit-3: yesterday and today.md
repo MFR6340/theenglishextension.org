@@ -10,7 +10,6 @@
 
 The author chronicles his life in Utah (USA) in 1896 as the younger brother of ten year old Tom Fitzgerald, the Great Brain. Each chapter tells a story of how Tom manages to swindle someone in the town and get a little richer.  These stories are great fun and reminiscent of Tom Sawyer.  (Lexile 840L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
-<a href="https://www.bookdepository.com/Great-Brain-John-D-Fitzgerald/9780142400586?ref=grid-view&qid=16&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1003007318" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Adam of the Road, by Elizabeth Janet Gray
@@ -18,8 +17,7 @@ The author chronicles his life in Utah (USA) in 1896 as the younger brother of t
 <img src="https://imgur.com/0Yih5hU.png" width="25%" />
 
 Winner of the Newbery Medal.  Adam is the son of a minstrel in 13th century England who goes on a journey to find his father, which is filled with robbers, narrow escapes, and daring deeds.  A wonderful story of a resilient and brave boy during  Mediaeval times. (Lexile 1030L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
-
-<a href="https://www.bookdepository.com/Adam-Road-Elizabeth-Janet-Gray/9780140324648?ref=grid-view&qid=1665930041706&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
+ 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1021354191" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Gold Rush Fever, a Story of the Klondike, by Barbara Greenwood
@@ -81,18 +79,18 @@ Elizabethans did all they could to survive in an age of sin and beheadings, gall
 
 <img src="https://imgur.com/eDd7MVX.png" width="25%" />
 
-This book is the stories of a couple of mischievous boys in Vermont who somehow find themselves in all kinds of hilarious trouble. (Lexile 740L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
+Hysterical stories oThis book is the stories of a couple of mischievous boys in Vermont who somehow find themselves in all kinds of hilarious trouble. (Lexile 740L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006201678" rel="nofollow">Buy on  Orell Füssli</a>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTYyNjE4NCwtMTg0MzgzNDk5MSwtNT
-g4MDkwNzQ1LDExNDUwNDExODAsMTQ0Mzg0MTMyNCwxNDgxMDcw
-NjA2LC0xNjE3Nzc0NDE0LC04MTI1Mjg2NzAsMTk0OTI4MTAxMC
-wtMjA5MTE1NTM3NCwtNzUyODQ3MDQ5LDE3NTA3MTQ3NjAsOTE4
-MDE4Nzk2LC0yMDkxMzEzNzMwLDUzNzUzOTMzMSwzNzg5MzU5Mz
-MsMjAxNzA0ODU2NywzMDQyOTIwNDUsNTAxMzg2NjE3LDI3ODEz
-MTM4OV19
+eyJoaXN0b3J5IjpbLTE2MjgxNzUzNDksLTE4NDM4MzQ5OTEsLT
+U4ODA5MDc0NSwxMTQ1MDQxMTgwLDE0NDM4NDEzMjQsMTQ4MTA3
+MDYwNiwtMTYxNzc3NDQxNCwtODEyNTI4NjcwLDE5NDkyODEwMT
+AsLTIwOTExNTUzNzQsLTc1Mjg0NzA0OSwxNzUwNzE0NzYwLDkx
+ODAxODc5NiwtMjA5MTMxMzczMCw1Mzc1MzkzMzEsMzc4OTM1OT
+MzLDIwMTcwNDg1NjcsMzA0MjkyMDQ1LDUwMTM4NjYxNywyNzgx
+MzEzODldfQ==
 -->
