@@ -21,7 +21,7 @@ This amazing bird flew 144,840km in his migration from Tierra del Fuego to the C
 Every year in Namibia, about two thousand zebras suddenly disappear from their grazing area along the Chobe River. Months later, the herd returns. Where do they go? And why? Thanks to satellite-tracking collars, scientists were able to solve the mystery, but several questions remain. Award-winning science author Sandra Markle reveals the process scientists used to study the zebras, and she also delves into the science of migration, exploring how animals know where to go, how to get there, and when to leave.
  (Lexile 1050L)  <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
-<a href="https://www.bookdepository.com/Follow-Those-Zebras-Sandra-Markle/9781541538375" rel="nofollow"> Buy on BookDepository</a>  
+
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1055579035" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Belle’s Journey, an Osprey Takes Flight, by Rob Bierregaard
@@ -77,8 +77,8 @@ Discover around 100 native and European wild animal species here is Goldau Switz
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDIwODc0NSwxMTAzNTExOTE5LC0xOD
-kyMjYxNzE0LC0xMzk4MzAzOTU1LC0xMDI3MjA2Mjc5LC0xODc4
-OTYxOTg1LDg1ODA1MDY3OSwtMzEyNjQ5NzIzLDE5OTk5ODcyMz
-IsMTgwNjkwOTAwNl19
+eyJoaXN0b3J5IjpbLTExNDAxMDc0OTgsLTEwMDIwODc0NSwxMT
+AzNTExOTE5LC0xODkyMjYxNzE0LC0xMzk4MzAzOTU1LC0xMDI3
+MjA2Mjc5LC0xODc4OTYxOTg1LDg1ODA1MDY3OSwtMzEyNjQ5Nz
+IzLDE5OTk5ODcyMzIsMTgwNjkwOTAwNl19
 -->
