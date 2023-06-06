@@ -28,7 +28,7 @@ Every year in Namibia, about two thousand zebras suddenly disappear from their g
 
 <img src="https://imgur.com/ikhqKuw.png" width="25%" />
 
-This book follows the story of Dr Bierregaard and the Ospreys he observed.  Based on research collected for over twenty years, Belle and her offspring, along with the Dr’s observations, will teach the young reader a lot about who she is and her travels.  
+This book follows the story of Dr Bierregaard and the Ospreys he observed.  The fledglings learn to fly and migrate for the first time from Brazil and back.  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1046449432" rel="nofollow">Buy on Orell Füssli</a>
 
 ### Wow in the Wild, Amazing World of Animals
@@ -77,9 +77,9 @@ Discover around 100 native and European wild animal species here is Goldau Switz
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjk0MzYzOCwtMTE0MDEwNzQ5OCwtMT
-AwMjA4NzQ1LDExMDM1MTE5MTksLTE4OTIyNjE3MTQsLTEzOTgz
-MDM5NTUsLTEwMjcyMDYyNzksLTE4Nzg5NjE5ODUsODU4MDUwNj
-c5LC0zMTI2NDk3MjMsMTk5OTk4NzIzMiwxODA2OTA5MDA2XX0=
+eyJoaXN0b3J5IjpbODg2MTk2Nzk3LC0xMTQwMTA3NDk4LC0xMD
+AyMDg3NDUsMTEwMzUxMTkxOSwtMTg5MjI2MTcxNCwtMTM5ODMw
+Mzk1NSwtMTAyNzIwNjI3OSwtMTg3ODk2MTk4NSw4NTgwNTA2Nz
+ksLTMxMjY0OTcyMywxOTk5OTg3MjMyLDE4MDY5MDkwMDZdfQ==
 
 -->
