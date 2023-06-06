@@ -11,7 +11,6 @@
 
 A lovely book that explains festivals and gatherings that take place throughout Switzerland from Basel to Jura including the well-known Fasnacht (Carnival) festivities to the Bullmarket in Zug.  
 
-<a href="https://www.bookdepository.com/Festivals-and-Traditions-in-Switzerland-Barbara-Piatti-Yvonne-Rogenmoser/9780735844162" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1056567331" rel="nofollow">Buy on Orell Füssli</a>
 
 ### The Apple and the Arrow, by Mary Buff
@@ -60,10 +59,10 @@ Attend a traditional Schwingfest. Schwingen is only for the biggest and toughest
 
 [Visit Ballenberg](https://www.ballenberg.ch/en/) - Ballenberg is an open-air living museum dedicated to traditional Swiss rural life. Old buildings from all over Switzerland have been transported and rebuilt at Ballenberg, open to explore with traditional artefacts setting the scene. They also have some trade on display.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyMTA4MDUyLC0xMzg5OTM4NTQwLC0xMz
-I3MzE5MDI1LDEyNDAyMzU2MjAsMjA5MTAyMTkyMCwxODkxMzYz
-OTU5LC0xODAzNzY4MzYsLTExNjA0NTkwMjAsMjQyMjI4ODg4LD
-EwODQwOTMzNDksMTM2MzY2MTU5MSwtNjA0NzQ3NzYyLDQzMjA2
-MjE3NiwtMTg5NDYwMDg1MywxODQ4ODU0MTIyLDQ1OTE4MzA1NV
-19
+eyJoaXN0b3J5IjpbMTM0MDM4MTQzNCwtMTM4OTkzODU0MCwtMT
+MyNzMxOTAyNSwxMjQwMjM1NjIwLDIwOTEwMjE5MjAsMTg5MTM2
+Mzk1OSwtMTgwMzc2ODM2LC0xMTYwNDU5MDIwLDI0MjIyODg4OC
+wxMDg0MDkzMzQ5LDEzNjM2NjE1OTEsLTYwNDc0Nzc2Miw0MzIw
+NjIxNzYsLTE4OTQ2MDA4NTMsMTg0ODg1NDEyMiw0NTkxODMwNT
+VdfQ==
 -->
