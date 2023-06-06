@@ -47,7 +47,6 @@ The chimney sweep is a job from times gone by.  For those who prefer fiction to 
 
 Newbery Award Winner, this story about a boy named Robin is set in the 14th Century.  Due to plague and warfare, he is separated from his parents and then develops an illness where he loses the use of his legs.  A kind monk teaches him determination and compassion.  (Lexile 920L) <sup>[what is this?](/resources/Lexile%20Levels)</sup>
 
-<a href="https://www.bookdepository.com/Door-Wall-Marguerite-de-Angeli/9780440402831?ref=grid-view&qid=166593094936774489174439&sr=1-1" rel="nofollow"> Buy on BookDepository</a>  
 <a href="https://www.orellfuessli.ch/shop/home/artikeldetails/A1006455515" rel="nofollow">Buy on  Orell Füssli</a>
 
 ### Sarah Plain and Tall, by Patricia MacLachlan
@@ -86,11 +85,11 @@ Hilarious stories of a couple of mischievous boys in 1920s Vermont who somehow f
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwMjYzNjM2LC0xODQzODM0OTkxLC01OD
-gwOTA3NDUsMTE0NTA0MTE4MCwxNDQzODQxMzI0LDE0ODEwNzA2
-MDYsLTE2MTc3NzQ0MTQsLTgxMjUyODY3MCwxOTQ5MjgxMDEwLC
-0yMDkxMTU1Mzc0LC03NTI4NDcwNDksMTc1MDcxNDc2MCw5MTgw
-MTg3OTYsLTIwOTEzMTM3MzAsNTM3NTM5MzMxLDM3ODkzNTkzMy
-wyMDE3MDQ4NTY3LDMwNDI5MjA0NSw1MDEzODY2MTcsMjc4MTMx
-Mzg5XX0=
+eyJoaXN0b3J5IjpbMTQxNTIyNjEyMiw3MjAyNjM2MzYsLTE4ND
+M4MzQ5OTEsLTU4ODA5MDc0NSwxMTQ1MDQxMTgwLDE0NDM4NDEz
+MjQsMTQ4MTA3MDYwNiwtMTYxNzc3NDQxNCwtODEyNTI4NjcwLD
+E5NDkyODEwMTAsLTIwOTExNTUzNzQsLTc1Mjg0NzA0OSwxNzUw
+NzE0NzYwLDkxODAxODc5NiwtMjA5MTMxMzczMCw1Mzc1MzkzMz
+EsMzc4OTM1OTMzLDIwMTcwNDg1NjcsMzA0MjkyMDQ1LDUwMTM4
+NjYxN119
 -->
